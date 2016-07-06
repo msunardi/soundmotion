@@ -1,0 +1,15 @@
+<part>
+  <name></name>
+  <poslen tick="0" len="8463" />
+  <selected>0</selected>
+  <color>0</color>
+  <event tick="0" type="1" a="262145" b="16776960" />
+  <event tick="208" len="194" a="67" b="104" />
+  <event tick="420" len="172" a="67" b="104" />
+  <event tick="612" len="172" a="67" b="104" />
+  <event tick="803" len="3045" a="63" b="104" />
+  <event tick="4039" len="193" a="65" b="104" />
+  <event tick="4249" len="172" a="65" b="104" />
+  <event tick="4440" len="174" a="65" b="104" />
+  <event tick="4632" len="3831" a="62" b="104" />
+  </part>

@@ -1,0 +1,1626 @@
+<?xml version="1.0"?>
+<muse version="2.0">
+  <configuration>
+    <midiInputDevice>0</midiInputDevice>
+    <midiInputChannel>0</midiInputChannel>
+    <midiRecordType>0</midiRecordType>
+    <midiThruType>0</midiThruType>
+    <midiFilterCtrl1>0</midiFilterCtrl1>
+    <midiFilterCtrl2>0</midiFilterCtrl2>
+    <midiFilterCtrl3>0</midiFilterCtrl3>
+    <midiFilterCtrl4>0</midiFilterCtrl4>
+    <txDeviceId>127</txDeviceId>
+    <rxDeviceId>127</rxDeviceId>
+    <txSyncPort>1</txSyncPort>
+    <rxSyncPort>-1</rxSyncPort>
+    <mtctype>1</mtctype>
+    <mtcoffset>00:00:00:00:00</mtcoffset>
+    <extSync>0</extSync>
+    <genMTCSync>0</genMTCSync>
+    <genMCSync>0</genMCSync>
+    <genMMC>0</genMMC>
+    <acceptMTC>0</acceptMTC>
+    <acceptMMC>1</acceptMMC>
+    <acceptMC>1</acceptMC>
+    <bigtimeVisible>0</bigtimeVisible>
+    <transportVisible>0</transportVisible>
+    <markerVisible>0</markerVisible>
+    <mixerVisible>0</mixerVisible>
+    <geometryMain x="1" y="48" w="600" h="300"></geometryMain>
+    <geometryTransport x="0" y="0" w="672" h="320"></geometryTransport>
+    <arranger>
+      <info>1</info>
+      <split>440 154 </split>
+      <list>
+        <header> 7 6 5 4 3 2 1 0 </header>
+        </list>
+      <xpos>0</xpos>
+      <xmag>266</xmag>
+      <ypos>1</ypos>
+      </arranger>
+    <sequencer>
+      <metronom>
+        <premeasures>2</premeasures>
+        <measurepitch>63</measurepitch>
+        <measurevelo>127</measurevelo>
+        <beatpitch>63</beatpitch>
+        <beatvelo>70</beatvelo>
+        <channel>9</channel>
+        <port>0</port>
+        <precountEnable>0</precountEnable>
+        <fromMastertrack>0</fromMastertrack>
+        <signatureZ>4</signatureZ>
+        <signatureN>4</signatureN>
+        <prerecord>0</prerecord>
+        <preroll>0</preroll>
+        <midiClickEnable>1</midiClickEnable>
+        <audioClickEnable>0</audioClickEnable>
+        </metronom>
+      <rcEnable>0</rcEnable>
+      <rcStop>28</rcStop>
+      <rcRecord>31</rcRecord>
+      <rcGotoLeft>33</rcGotoLeft>
+      <rcPlay>29</rcPlay>
+      <midiport idx="0">
+        <instrument>generic midi</instrument>
+        <channel idx="0">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="1">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="2">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="3">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="4">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="5">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="6">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="7">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="8">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="9">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="10">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="11">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="12">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="13">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="14">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="15">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        </midiport>
+      </sequencer>
+    <drumedit>
+      <quant>96</quant>
+      <raster>96</raster>
+      <width>600</width>
+      <height>400</height>
+      <dlistwidth>50</dlistwidth>
+      <dcanvaswidth>300</dcanvaswidth>
+      <to>0</to>
+      </drumedit>
+    <pianoroll>
+      <quant>96</quant>
+      <raster>96</raster>
+      <quantStrength>80</quantStrength>
+      <quantLimit>50</quantLimit>
+      <quantLen>0</quantLen>
+      <to>0</to>
+      <width>600</width>
+      <height>400</height>
+      <colormode>0</colormode>
+      </pianoroll>
+    <masteredit>
+      <raster>0</raster>
+      </masteredit>
+    <waveedit>
+      <bgcolor r="200" g="200" b="200"></bgcolor>
+      <width>600</width>
+      <height>400</height>
+      </waveedit>
+    </configuration>
+  <song>
+    <automation>1</automation>
+    <cpos>0</cpos>
+    <rpos>0</rpos>
+    <lpos>0</lpos>
+    <master>1</master>
+    <loop>0</loop>
+    <punchin>0</punchin>
+    <punchout>0</punchout>
+    <record>0</record>
+    <solo>0</solo>
+    <type>0</type>
+    <recmode>0</recmode>
+    <cycle>0</cycle>
+    <click>0</click>
+    <quantize>0</quantize>
+    <len>216576</len>
+    <follow>1</follow>
+    <AudioOutput>
+      <name>Out 1</name>
+      <record>0</record>
+      <mute>0</mute>
+      <solo>0</solo>
+      <off>0</off>
+      <channels>2</channels>
+      <height>20</height>
+      <locked>0</locked>
+      <prefader>0</prefader>
+      <automation>1</automation>
+      <controller id="0" cur="1.02164">
+        </controller>
+      <controller id="1" cur="0">
+        </controller>
+      </AudioOutput>
+    <drumtrack>
+      <name>Track 1</name>
+      <record>0</record>
+      <mute>0</mute>
+      <solo>0</solo>
+      <off>0</off>
+      <channels>0</channels>
+      <height>20</height>
+      <locked>0</locked>
+      <selected>1</selected>
+      <device>0</device>
+      <channel>9</channel>
+      <inportMap>65535</inportMap>
+      <inchannelMap>65535</inchannelMap>
+      <locked>0</locked>
+      <transposition>0</transposition>
+      <velocity>0</velocity>
+      <delay>0</delay>
+      <len>100</len>
+      <compression>100</compression>
+      <automation>1</automation>
+      <part>
+        <name></name>
+        <poslen tick="0" len="216576" />
+        <selected>1</selected>
+        <color>0</color>
+        <event tick="1152" type="1" a="262145" b="40" />
+        <event tick="1152" type="1" a="7" b="100" />
+        <event tick="1152" type="1" a="10" b="64" />
+        <event tick="1156" type="1" a="11" b="117" />
+        <event tick="1156" type="1" a="91" b="100" />
+        <event tick="1156" type="1" a="93" />
+        <event tick="1516" len="56" a="24" b="119" c="64" />
+        <event tick="1892" len="80" a="3" b="93" c="64" />
+        <event tick="1896" len="80" a="9" b="98" c="64" />
+        <event tick="1900" len="60" a="24" b="110" c="64" />
+        <event tick="2180" len="40" a="24" b="98" c="64" />
+        <event tick="2272" len="56" a="24" b="98" c="64" />
+        <event tick="2656" len="68" a="3" b="93" c="64" />
+        <event tick="2668" len="60" a="24" b="110" c="64" />
+        <event tick="2672" len="72" a="9" b="98" c="64" />
+        <event tick="2956" len="36" a="24" b="103" c="64" />
+        <event tick="3048" len="56" a="24" b="98" c="64" />
+        <event tick="3440" len="64" a="3" b="89" c="64" />
+        <event tick="3456" len="80" a="9" b="98" c="64" />
+        <event tick="3456" len="52" a="24" b="110" c="64" />
+        <event tick="3724" len="32" a="24" b="98" c="64" />
+        <event tick="3824" len="56" a="24" b="98" c="64" />
+        <event tick="4212" len="76" a="9" b="93" c="64" />
+        <event tick="4212" len="56" a="24" b="119" c="64" />
+        <event tick="4216" len="60" a="3" b="93" c="64" />
+        <event tick="4496" len="44" a="24" b="93" c="64" />
+        <event tick="4604" len="48" a="24" b="103" c="64" />
+        <event tick="4976" len="76" a="9" b="98" c="64" />
+        <event tick="4980" len="60" a="24" b="110" c="64" />
+        <event tick="4984" len="64" a="3" b="93" c="64" />
+        <event tick="5264" len="44" a="24" b="98" c="64" />
+        <event tick="5376" len="44" a="24" b="98" c="64" />
+        <event tick="5740" len="60" a="3" b="93" c="64" />
+        <event tick="5752" len="60" a="24" b="119" c="64" />
+        <event tick="5752" len="72" a="9" b="98" c="64" />
+        <event tick="6020" len="40" a="24" b="98" c="64" />
+        <event tick="6132" len="44" a="24" b="103" c="64" />
+        <event tick="6512" len="60" a="3" b="93" c="64" />
+        <event tick="6520" len="44" a="24" b="110" c="64" />
+        <event tick="6524" len="64" a="9" b="98" c="64" />
+        <event tick="6812" len="40" a="24" b="98" c="64" />
+        <event tick="6912" len="44" a="24" b="93" c="64" />
+        <event tick="7284" len="56" a="3" b="89" c="64" />
+        <event tick="7292" len="44" a="24" b="110" c="64" />
+        <event tick="7296" len="68" a="9" b="98" c="64" />
+        <event tick="7568" len="40" a="24" b="89" c="64" />
+        <event tick="7668" len="52" a="24" b="98" c="64" />
+        <event tick="8040" len="48" a="24" b="103" c="64" />
+        <event tick="8044" len="68" a="9" b="89" c="64" />
+        <event tick="8044" len="64" a="3" b="93" c="64" />
+        <event tick="8320" len="36" a="24" b="98" c="64" />
+        <event tick="8436" len="52" a="24" b="89" c="64" />
+        <event tick="8808" len="56" a="3" b="93" c="64" />
+        <event tick="8824" len="68" a="9" b="93" c="64" />
+        <event tick="8828" len="52" a="24" b="110" c="64" />
+        <event tick="9104" len="40" a="24" b="98" c="64" />
+        <event tick="9204" len="40" a="24" b="93" c="64" />
+        <event tick="9576" len="60" a="3" b="93" c="64" />
+        <event tick="9584" len="72" a="9" b="93" c="64" />
+        <event tick="9584" len="48" a="24" b="110" c="64" />
+        <event tick="9868" len="40" a="24" b="98" c="64" />
+        <event tick="9972" len="48" a="24" b="98" c="64" />
+        <event tick="10340" len="64" a="3" b="93" c="64" />
+        <event tick="10344" len="48" a="24" b="110" c="64" />
+        <event tick="10348" len="64" a="9" b="93" c="64" />
+        <event tick="10624" len="36" a="24" b="93" c="64" />
+        <event tick="10736" len="44" a="24" b="93" c="64" />
+        <event tick="11112" len="64" a="9" b="93" c="64" />
+        <event tick="11112" len="56" a="24" b="110" c="64" />
+        <event tick="11112" len="60" a="3" b="93" c="64" />
+        <event tick="11380" len="44" a="24" b="93" c="64" />
+        <event tick="11496" len="52" a="24" b="93" c="64" />
+        <event tick="11864" len="64" a="9" b="93" c="64" />
+        <event tick="11868" len="52" a="24" b="110" c="64" />
+        <event tick="11880" len="40" a="3" b="89" c="64" />
+        <event tick="12152" len="36" a="24" b="93" c="64" />
+        <event tick="12264" len="52" a="24" b="103" c="64" />
+        <event tick="12640" len="64" a="9" b="98" c="64" />
+        <event tick="12644" len="52" a="24" b="110" c="64" />
+        <event tick="12656" len="72" a="3" b="89" c="64" />
+        <event tick="12912" len="40" a="24" b="98" c="64" />
+        <event tick="13036" len="56" a="24" b="103" c="64" />
+        <event tick="13184" len="60" a="4" b="70" c="64" />
+        <event tick="13304" len="64" a="3" b="82" c="64" />
+        <event tick="13412" len="64" a="4" b="85" c="64" />
+        <event tick="13532" len="72" a="4" b="98" c="64" />
+        <event tick="13652" len="52" a="3" b="119" c="64" />
+        <event tick="13800" len="376" a="11" b="93" c="64" />
+        <event tick="14204" len="60" a="7" b="85" c="64" />
+        <event tick="14212" len="100" a="2" b="82" c="64" />
+        <event tick="14472" len="60" a="7" b="85" c="64" />
+        <event tick="14572" len="388" a="11" b="89" c="64" />
+        <event tick="14968" len="60" a="7" b="89" c="64" />
+        <event tick="14976" len="84" a="2" b="82" c="64" />
+        <event tick="15240" len="56" a="7" b="89" c="64" />
+        <event tick="15344" len="400" a="11" b="89" c="64" />
+        <event tick="15740" len="88" a="2" b="82" c="64" />
+        <event tick="15748" len="52" a="7" b="82" c="64" />
+        <event tick="16016" len="48" a="7" b="82" c="64" />
+        <event tick="16112" len="396" a="11" b="89" c="64" />
+        <event tick="16528" len="84" a="2" b="82" c="64" />
+        <event tick="16528" len="52" a="7" b="79" c="64" />
+        <event tick="16784" len="52" a="7" b="79" c="64" />
+        <event tick="16884" len="368" a="11" b="89" c="64" />
+        <event tick="17280" len="84" a="2" b="82" c="64" />
+        <event tick="17284" len="44" a="7" b="79" c="64" />
+        <event tick="17540" len="52" a="7" b="82" c="64" />
+        <event tick="17640" len="384" a="11" b="85" c="64" />
+        <event tick="18040" len="56" a="7" b="82" c="64" />
+        <event tick="18048" len="92" a="2" b="85" c="64" />
+        <event tick="18300" len="60" a="7" b="85" c="64" />
+        <event tick="18412" len="380" a="11" b="89" c="64" />
+        <event tick="18808" len="60" a="7" b="82" c="64" />
+        <event tick="18808" len="88" a="2" b="85" c="64" />
+        <event tick="19080" len="60" a="7" b="85" c="64" />
+        <event tick="19188" len="364" a="11" b="89" c="64" />
+        <event tick="19576" len="60" a="7" b="82" c="64" />
+        <event tick="19576" len="88" a="2" b="82" c="64" />
+        <event tick="19852" len="56" a="7" b="85" c="64" />
+        <event tick="19948" len="388" a="11" b="85" c="64" />
+        <event tick="20360" len="56" a="7" b="85" c="64" />
+        <event tick="20364" len="84" a="2" b="82" c="64" />
+        <event tick="20620" len="56" a="7" b="82" c="64" />
+        <event tick="20732" len="368" a="11" b="85" c="64" />
+        <event tick="21116" len="52" a="7" b="79" c="64" />
+        <event tick="21128" len="84" a="2" b="82" c="64" />
+        <event tick="21392" len="56" a="7" b="85" c="64" />
+        <event tick="21500" len="364" a="11" b="85" c="64" />
+        <event tick="21880" len="80" a="2" b="85" c="64" />
+        <event tick="21884" len="56" a="7" b="82" c="64" />
+        <event tick="22152" len="56" a="7" b="82" c="64" />
+        <event tick="22248" len="360" a="11" b="85" c="64" />
+        <event tick="22652" len="88" a="2" b="85" c="64" />
+        <event tick="22660" len="56" a="7" b="79" c="64" />
+        <event tick="22916" len="60" a="7" b="85" c="64" />
+        <event tick="23032" len="372" a="11" b="85" c="64" />
+        <event tick="23404" len="88" a="2" b="85" c="64" />
+        <event tick="23420" len="60" a="7" b="85" c="64" />
+        <event tick="23680" len="56" a="7" b="82" c="64" />
+        <event tick="23788" len="364" a="11" b="85" c="64" />
+        <event tick="24176" len="64" a="7" b="85" c="64" />
+        <event tick="24176" len="88" a="2" b="85" c="64" />
+        <event tick="24428" len="60" a="7" b="85" c="64" />
+        <event tick="24560" len="376" a="11" b="85" c="64" />
+        <event tick="24948" len="88" a="2" b="85" c="64" />
+        <event tick="24952" len="60" a="7" b="85" c="64" />
+        <event tick="25196" len="56" a="7" b="82" c="64" />
+        <event tick="25320" len="392" a="11" b="89" c="64" />
+        <event tick="25712" len="84" a="2" b="85" c="64" />
+        <event tick="25732" len="60" a="7" b="89" c="64" />
+        <event tick="25984" len="60" a="7" b="85" c="64" />
+        <event tick="26084" len="392" a="11" b="85" c="64" />
+        <event tick="26480" len="60" a="7" b="85" c="64" />
+        <event tick="26484" len="84" a="2" b="82" c="64" />
+        <event tick="26740" len="56" a="7" b="85" c="64" />
+        <event tick="26860" len="400" a="11" b="82" c="64" />
+        <event tick="27256" len="60" a="7" b="85" c="64" />
+        <event tick="27260" len="80" a="2" b="82" c="64" />
+        <event tick="27528" len="56" a="7" b="85" c="64" />
+        <event tick="27632" len="376" a="11" b="85" c="64" />
+        <event tick="28024" len="60" a="7" b="82" c="64" />
+        <event tick="28028" len="84" a="2" b="82" c="64" />
+        <event tick="28280" len="60" a="7" b="85" c="64" />
+        <event tick="28400" len="380" a="11" b="82" c="64" />
+        <event tick="28796" len="60" a="7" b="85" c="64" />
+        <event tick="28800" len="80" a="2" b="82" c="64" />
+        <event tick="29080" len="60" a="7" b="85" c="64" />
+        <event tick="29188" len="368" a="11" b="85" c="64" />
+        <event tick="29560" len="88" a="2" b="85" c="64" />
+        <event tick="29560" len="60" a="7" b="82" c="64" />
+        <event tick="29828" len="56" a="7" b="85" c="64" />
+        <event tick="29944" len="380" a="11" b="89" c="64" />
+        <event tick="30328" len="80" a="2" b="82" c="64" />
+        <event tick="30336" len="60" a="7" b="85" c="64" />
+        <event tick="30604" len="60" a="7" b="85" c="64" />
+        <event tick="30712" len="360" a="11" b="85" c="64" />
+        <event tick="31100" len="56" a="7" b="85" c="64" />
+        <event tick="31108" len="80" a="2" b="85" c="64" />
+        <event tick="31368" len="60" a="7" b="89" c="64" />
+        <event tick="31468" len="364" a="11" b="85" c="64" />
+        <event tick="31860" len="60" a="7" b="89" c="64" />
+        <event tick="31864" len="92" a="2" b="82" c="64" />
+        <event tick="32128" len="60" a="7" b="89" c="64" />
+        <event tick="32232" len="388" a="11" b="85" c="64" />
+        <event tick="32624" len="52" a="7" b="82" c="64" />
+        <event tick="32648" len="84" a="2" b="82" c="64" />
+        <event tick="32912" len="60" a="7" b="85" c="64" />
+        <event tick="33032" len="360" a="11" b="89" c="64" />
+        <event tick="33404" len="76" a="2" b="82" c="64" />
+        <event tick="33412" len="60" a="7" b="85" c="64" />
+        <event tick="33684" len="56" a="7" b="85" c="64" />
+        <event tick="33780" len="352" a="11" b="85" c="64" />
+        <event tick="34176" len="60" a="7" b="89" c="64" />
+        <event tick="34180" len="84" a="2" b="85" c="64" />
+        <event tick="34448" len="52" a="7" b="82" c="64" />
+        <event tick="34544" len="356" a="11" b="85" c="64" />
+        <event tick="34940" len="52" a="7" b="85" c="64" />
+        <event tick="34944" len="80" a="2" b="85" c="64" />
+        <event tick="35208" len="52" a="7" b="85" c="64" />
+        <event tick="35308" len="372" a="11" b="89" c="64" />
+        <event tick="35700" len="76" a="2" b="85" c="64" />
+        <event tick="35716" len="56" a="7" b="85" c="64" />
+        <event tick="35972" len="60" a="7" b="85" c="64" />
+        <event tick="36084" len="348" a="11" b="82" c="64" />
+        <event tick="36460" len="60" a="7" b="82" c="64" />
+        <event tick="36472" len="76" a="2" b="89" c="64" />
+        <event tick="36728" len="52" a="7" b="85" c="64" />
+        <event tick="36844" len="368" a="11" b="89" c="64" />
+        <event tick="37228" len="84" a="2" b="85" c="64" />
+        <event tick="37232" len="56" a="7" b="82" c="64" />
+        <event tick="37500" len="60" a="7" b="85" c="64" />
+        <event tick="37596" len="380" a="11" b="85" c="64" />
+        <event tick="37736" len="64" a="6" b="103" c="64" />
+        <event tick="38004" len="116" a="10" b="103" c="64" />
+        <event tick="38116" len="104" a="8" b="93" c="64" />
+        <event tick="38240" len="88" a="6" b="85" c="64" />
+        <event tick="38352" len="108" a="20" b="110" c="64" />
+        <event tick="38356" len="108" b="103" c="64" />
+        <event tick="38772" len="112" a="18" b="70" c="64" />
+        <event tick="38772" len="88" a="24" b="103" c="64" />
+        <event tick="38776" len="124" a="9" b="93" c="64" />
+        <event tick="39048" len="40" a="24" b="103" c="64" />
+        <event tick="39156" len="56" a="24" b="110" c="64" />
+        <event tick="39540" len="100" a="18" b="70" c="64" />
+        <event tick="39544" len="88" a="9" b="98" c="64" />
+        <event tick="39544" len="72" a="24" b="103" c="64" />
+        <event tick="39832" len="40" a="24" b="98" c="64" />
+        <event tick="39924" len="60" a="24" b="110" c="64" />
+        <event tick="40316" len="96" a="18" b="70" c="64" />
+        <event tick="40320" len="88" a="9" b="93" c="64" />
+        <event tick="40328" len="60" a="24" b="103" c="64" />
+        <event tick="40604" len="40" a="24" b="98" c="64" />
+        <event tick="40704" len="52" a="24" b="98" c="64" />
+        <event tick="41080" len="96" a="18" b="70" c="64" />
+        <event tick="41080" len="96" a="9" b="89" c="64" />
+        <event tick="41092" len="72" a="24" b="103" c="64" />
+        <event tick="41360" len="40" a="24" b="98" c="64" />
+        <event tick="41460" len="56" a="24" b="98" c="64" />
+        <event tick="41860" len="100" a="9" b="98" c="64" />
+        <event tick="41864" len="92" a="18" b="70" c="64" />
+        <event tick="41868" len="64" a="24" b="110" c="64" />
+        <event tick="42124" len="36" a="24" b="93" c="64" />
+        <event tick="42224" len="60" a="24" b="98" c="64" />
+        <event tick="42620" len="96" a="9" b="103" c="64" />
+        <event tick="42620" len="68" a="24" b="110" c="64" />
+        <event tick="42632" len="80" a="18" b="70" c="64" />
+        <event tick="42900" len="40" a="24" b="98" c="64" />
+        <event tick="43000" len="56" a="24" b="98" c="64" />
+        <event tick="43376" len="76" a="18" b="70" c="64" />
+        <event tick="43380" len="88" a="9" b="98" c="64" />
+        <event tick="43380" len="64" a="24" b="110" c="64" />
+        <event tick="43656" len="40" a="24" b="93" c="64" />
+        <event tick="43760" len="56" a="24" b="98" c="64" />
+        <event tick="44128" len="92" a="18" b="70" c="64" />
+        <event tick="44132" len="96" a="9" b="98" c="64" />
+        <event tick="44136" len="64" a="24" b="110" c="64" />
+        <event tick="44420" len="40" a="24" b="98" c="64" />
+        <event tick="44524" len="52" a="24" b="103" c="64" />
+        <event tick="44904" len="76" a="9" b="98" c="64" />
+        <event tick="44904" len="60" a="24" b="119" c="64" />
+        <event tick="44916" len="80" a="18" b="70" c="64" />
+        <event tick="45188" len="36" a="24" b="103" c="64" />
+        <event tick="45276" len="56" a="24" b="103" c="64" />
+        <event tick="45676" len="80" a="9" b="93" c="64" />
+        <event tick="45680" len="64" a="24" b="110" c="64" />
+        <event tick="45688" len="92" a="18" b="70" c="64" />
+        <event tick="45960" len="36" a="24" b="98" c="64" />
+        <event tick="46064" len="52" a="24" b="103" c="64" />
+        <event tick="46436" len="76" a="9" b="93" c="64" />
+        <event tick="46440" len="68" a="24" b="110" c="64" />
+        <event tick="46452" len="84" a="18" b="70" c="64" />
+        <event tick="46732" len="40" a="24" b="98" c="64" />
+        <event tick="46828" len="52" a="24" b="98" c="64" />
+        <event tick="47212" len="64" a="24" b="110" c="64" />
+        <event tick="47216" len="72" a="9" b="98" c="64" />
+        <event tick="47224" len="80" a="18" b="70" c="64" />
+        <event tick="47512" len="40" a="24" b="98" c="64" />
+        <event tick="47612" len="56" a="24" b="98" c="64" />
+        <event tick="47984" len="76" a="9" b="93" c="64" />
+        <event tick="47988" len="60" a="24" b="110" c="64" />
+        <event tick="47992" len="76" a="18" b="70" c="64" />
+        <event tick="48276" len="44" a="24" b="98" c="64" />
+        <event tick="48380" len="52" a="24" b="103" c="64" />
+        <event tick="48748" len="72" a="9" b="98" c="64" />
+        <event tick="48752" len="72" a="18" b="70" c="64" />
+        <event tick="48752" len="64" a="24" b="119" c="64" />
+        <event tick="49020" len="40" a="24" b="103" c="64" />
+        <event tick="49132" len="48" a="24" b="103" c="64" />
+        <event tick="49512" len="72" a="18" b="70" c="64" />
+        <event tick="49512" len="80" a="9" b="98" c="64" />
+        <event tick="49516" len="60" a="24" b="110" c="64" />
+        <event tick="49796" len="36" a="24" b="98" c="64" />
+        <event tick="49896" len="48" a="24" b="103" c="64" />
+        <event tick="50284" len="76" a="6" b="98" c="64" />
+        <event tick="50676" len="364" a="11" b="93" c="64" />
+        <event tick="51076" len="56" a="7" b="82" c="64" />
+        <event tick="51076" len="144" a="2" b="93" c="64" />
+        <event tick="51336" len="60" a="7" b="85" c="64" />
+        <event tick="51436" len="408" a="11" b="89" c="64" />
+        <event tick="51820" len="104" a="2" b="89" c="64" />
+        <event tick="51824" len="64" a="7" b="85" c="64" />
+        <event tick="52096" len="64" a="7" b="85" c="64" />
+        <event tick="52208" len="384" a="11" b="85" c="64" />
+        <event tick="52596" len="64" a="7" b="85" c="64" />
+        <event tick="52600" len="96" a="2" b="89" c="64" />
+        <event tick="52872" len="60" a="7" b="85" c="64" />
+        <event tick="52984" len="396" a="11" b="89" c="64" />
+        <event tick="53356" len="64" a="7" b="82" c="64" />
+        <event tick="53368" len="92" a="2" b="89" c="64" />
+        <event tick="53632" len="60" a="7" b="85" c="64" />
+        <event tick="53740" len="388" a="11" b="89" c="64" />
+        <event tick="54136" len="56" a="7" b="82" c="64" />
+        <event tick="54140" len="96" a="2" b="89" c="64" />
+        <event tick="54404" len="56" a="7" b="89" c="64" />
+        <event tick="54504" len="408" a="11" b="85" c="64" />
+        <event tick="54896" len="64" a="7" b="85" c="64" />
+        <event tick="54908" len="92" a="2" b="93" c="64" />
+        <event tick="55164" len="64" a="7" b="85" c="64" />
+        <event tick="55272" len="388" a="11" b="93" c="64" />
+        <event tick="55656" len="60" a="7" b="85" c="64" />
+        <event tick="55668" len="88" a="2" b="93" c="64" />
+        <event tick="55940" len="60" a="7" b="89" c="64" />
+        <event tick="56052" len="376" a="11" b="89" c="64" />
+        <event tick="56432" len="60" a="7" b="89" c="64" />
+        <event tick="56436" len="96" a="2" b="93" c="64" />
+        <event tick="56712" len="60" a="7" b="89" c="64" />
+        <event tick="56812" len="388" a="11" b="93" c="64" />
+        <event tick="57196" len="60" a="7" b="85" c="64" />
+        <event tick="57216" len="96" a="2" b="93" c="64" />
+        <event tick="57472" len="56" a="7" b="85" c="64" />
+        <event tick="57576" len="380" a="11" b="89" c="64" />
+        <event tick="57972" len="56" a="7" b="85" c="64" />
+        <event tick="57984" len="96" a="2" b="89" c="64" />
+        <event tick="58260" len="56" a="7" b="89" c="64" />
+        <event tick="58360" len="364" a="11" b="89" c="64" />
+        <event tick="58740" len="60" a="7" b="89" c="64" />
+        <event tick="58748" len="96" a="2" b="89" c="64" />
+        <event tick="59008" len="56" a="7" b="85" c="64" />
+        <event tick="59112" len="380" a="11" b="89" c="64" />
+        <event tick="59516" len="60" a="7" b="89" c="64" />
+        <event tick="59516" len="96" a="2" b="89" c="64" />
+        <event tick="59796" len="56" a="7" b="89" c="64" />
+        <event tick="59892" len="380" a="11" b="89" c="64" />
+        <event tick="60280" len="104" a="2" b="89" c="64" />
+        <event tick="60288" len="64" a="7" b="85" c="64" />
+        <event tick="60564" len="56" a="7" b="89" c="64" />
+        <event tick="60660" len="384" a="11" b="89" c="64" />
+        <event tick="61048" len="60" a="7" b="85" c="64" />
+        <event tick="61060" len="96" a="2" b="89" c="64" />
+        <event tick="61336" len="56" a="7" b="89" c="64" />
+        <event tick="61444" len="376" a="11" b="89" c="64" />
+        <event tick="61488" len="40" a="8" b="29" c="64" />
+        <event tick="61564" len="36" a="8" b="40" c="64" />
+        <event tick="61644" len="40" a="8" b="51" c="64" />
+        <event tick="61716" len="32" a="8" b="62" c="64" />
+        <event tick="61780" len="36" a="8" b="71" c="64" />
+        <event tick="61856" len="36" a="8" b="82" c="64" />
+        <event tick="61924" len="32" a="8" b="90" c="64" />
+        <event tick="61992" len="52" a="8" b="82" c="64" />
+        <event tick="62068" len="48" a="8" b="66" c="64" />
+        <event tick="62140" len="48" a="8" b="50" c="64" />
+        <event tick="62200" len="44" a="6" b="44" c="64" />
+        <event tick="62272" len="48" a="6" b="45" c="64" />
+        <event tick="62336" len="40" a="6" b="67" c="64" />
+        <event tick="62408" len="44" a="6" b="86" c="64" />
+        <event tick="62468" len="40" a="6" b="96" c="64" />
+        <event tick="62532" len="36" a="6" b="98" c="64" />
+        <event tick="62588" len="36" a="6" b="90" c="64" />
+        <event tick="62648" len="44" a="6" b="86" c="64" />
+        <event tick="62720" len="40" a="6" b="70" c="64" />
+        <event tick="62792" len="40" a="6" b="56" c="64" />
+        <event tick="62852" len="40" a="6" b="44" c="64" />
+        <event tick="62968" len="72" b="119" c="64" />
+        <event tick="62972" len="64" a="14" b="119" c="64" />
+        <event tick="63348" len="96" a="9" b="93" c="64" />
+        <event tick="63348" len="76" a="24" b="103" c="64" />
+        <event tick="63356" len="168" a="2" b="103" c="64" />
+        <event tick="63628" len="44" a="24" b="98" c="64" />
+        <event tick="63724" len="56" a="24" b="98" c="64" />
+        <event tick="64096" len="68" a="24" b="110" c="64" />
+        <event tick="64100" len="92" a="9" b="93" c="64" />
+        <event tick="64120" len="104" a="2" b="98" c="64" />
+        <event tick="64380" len="36" a="24" b="98" c="64" />
+        <event tick="64472" len="60" a="24" b="98" c="64" />
+        <event tick="64872" len="104" a="9" b="93" c="64" />
+        <event tick="64876" len="100" a="2" b="98" c="64" />
+        <event tick="64880" len="64" a="24" b="103" c="64" />
+        <event tick="65152" len="40" a="24" b="98" c="64" />
+        <event tick="65260" len="60" a="24" b="93" c="64" />
+        <event tick="65628" len="92" a="9" b="98" c="64" />
+        <event tick="65636" len="60" a="24" b="103" c="64" />
+        <event tick="65648" len="92" a="2" b="98" c="64" />
+        <event tick="65916" len="40" a="24" b="98" c="64" />
+        <event tick="66028" len="56" a="24" b="93" c="64" />
+        <event tick="66396" len="92" a="9" b="98" c="64" />
+        <event tick="66408" len="60" a="24" b="110" c="64" />
+        <event tick="66412" len="76" a="2" b="98" c="64" />
+        <event tick="66700" len="36" a="24" b="98" c="64" />
+        <event tick="66804" len="52" a="24" b="93" c="64" />
+        <event tick="67172" len="96" a="9" b="98" c="64" />
+        <event tick="67176" len="60" a="24" b="110" c="64" />
+        <event tick="67188" len="84" a="2" b="89" c="64" />
+        <event tick="67456" len="36" a="24" b="103" c="64" />
+        <event tick="67560" len="60" a="24" b="98" c="64" />
+        <event tick="67928" len="100" a="9" b="98" c="64" />
+        <event tick="67936" len="68" a="24" b="110" c="64" />
+        <event tick="67956" len="80" a="2" b="89" c="64" />
+        <event tick="68228" len="40" a="24" b="103" c="64" />
+        <event tick="68336" len="60" a="24" b="93" c="64" />
+        <event tick="68720" len="92" a="9" b="98" c="64" />
+        <event tick="68724" len="64" a="24" b="110" c="64" />
+        <event tick="68728" len="92" a="2" b="93" c="64" />
+        <event tick="69012" len="32" a="24" b="103" c="64" />
+        <event tick="69116" len="60" a="24" b="93" c="64" />
+        <event tick="69492" len="92" a="9" b="98" c="64" />
+        <event tick="69500" len="64" a="24" b="110" c="64" />
+        <event tick="69508" len="88" a="2" b="93" c="64" />
+        <event tick="69796" len="36" a="24" b="103" c="64" />
+        <event tick="69888" len="64" a="24" b="93" c="64" />
+        <event tick="70276" len="88" a="2" b="89" c="64" />
+        <event tick="70292" len="92" a="9" b="93" c="64" />
+        <event tick="70292" len="68" a="24" b="110" c="64" />
+        <event tick="70552" len="32" a="24" b="93" c="64" />
+        <event tick="70648" len="60" a="24" b="89" c="64" />
+        <event tick="71040" len="60" a="24" b="110" c="64" />
+        <event tick="71040" len="84" a="2" b="98" c="64" />
+        <event tick="71044" len="84" a="9" b="89" c="64" />
+        <event tick="71316" len="40" a="24" b="98" c="64" />
+        <event tick="71416" len="52" a="24" b="93" c="64" />
+        <event tick="71816" len="64" a="24" b="103" c="64" />
+        <event tick="71820" len="84" a="9" b="98" c="64" />
+        <event tick="71820" len="80" a="2" b="93" c="64" />
+        <event tick="72088" len="40" a="24" b="93" c="64" />
+        <event tick="72180" len="56" a="24" b="93" c="64" />
+        <event tick="72568" len="84" a="2" b="89" c="64" />
+        <event tick="72572" len="88" a="9" b="93" c="64" />
+        <event tick="72572" len="60" a="24" b="110" c="64" />
+        <event tick="72844" len="36" a="24" b="93" c="64" />
+        <event tick="72944" len="64" a="24" b="89" c="64" />
+        <event tick="73324" len="84" a="9" b="93" c="64" />
+        <event tick="73324" len="68" a="24" b="103" c="64" />
+        <event tick="73328" len="84" a="2" b="93" c="64" />
+        <event tick="73596" len="40" a="24" b="93" c="64" />
+        <event tick="73692" len="56" a="24" b="93" c="64" />
+        <event tick="74080" len="88" a="9" b="93" c="64" />
+        <event tick="74084" len="92" a="2" b="89" c="64" />
+        <event tick="74084" len="68" a="24" b="103" c="64" />
+        <event tick="74372" len="40" a="24" b="93" c="64" />
+        <event tick="74468" len="60" a="24" b="93" c="64" />
+        <event tick="74860" len="80" a="9" b="93" c="64" />
+        <event tick="74860" len="92" a="2" b="93" c="64" />
+        <event tick="74860" len="68" a="24" b="110" c="64" />
+        <event tick="75144" len="40" a="24" b="98" c="64" />
+        <event tick="75244" len="64" a="24" b="89" c="64" />
+        <event tick="75616" len="92" a="9" b="98" c="64" />
+        <event tick="75620" len="64" a="24" b="103" c="64" />
+        <event tick="75632" len="84" a="2" b="93" c="64" />
+        <event tick="75900" len="40" a="24" b="98" c="64" />
+        <event tick="76016" len="60" a="24" b="89" c="64" />
+        <event tick="76392" len="96" a="9" b="93" c="64" />
+        <event tick="76400" len="64" a="24" b="98" c="64" />
+        <event tick="76404" len="92" a="2" b="93" c="64" />
+        <event tick="76692" len="36" a="24" b="93" c="64" />
+        <event tick="76784" len="60" a="24" b="93" c="64" />
+        <event tick="77168" len="68" a="24" b="103" c="64" />
+        <event tick="77172" len="100" a="9" b="98" c="64" />
+        <event tick="77172" len="84" a="2" b="98" c="64" />
+        <event tick="77456" len="40" a="24" b="98" c="64" />
+        <event tick="77560" len="60" a="24" b="93" c="64" />
+        <event tick="77944" len="60" a="24" b="103" c="64" />
+        <event tick="77948" len="88" a="9" b="98" c="64" />
+        <event tick="77956" len="92" a="2" b="98" c="64" />
+        <event tick="78232" len="36" a="24" b="103" c="64" />
+        <event tick="78328" len="60" a="24" b="93" c="64" />
+        <event tick="78712" len="88" a="9" b="98" c="64" />
+        <event tick="78716" len="68" a="24" b="110" c="64" />
+        <event tick="78724" len="88" a="2" b="98" c="64" />
+        <event tick="78984" len="36" a="24" b="98" c="64" />
+        <event tick="79104" len="56" a="24" b="93" c="64" />
+        <event tick="79480" len="60" a="24" b="103" c="64" />
+        <event tick="79488" len="92" a="9" b="89" c="64" />
+        <event tick="79496" len="88" a="2" b="93" c="64" />
+        <event tick="79772" len="44" a="24" b="98" c="64" />
+        <event tick="79868" len="60" a="24" b="85" c="64" />
+        <event tick="80252" len="96" a="2" b="93" c="64" />
+        <event tick="80252" len="64" a="24" b="110" c="64" />
+        <event tick="80256" len="80" a="9" b="98" c="64" />
+        <event tick="80540" len="32" a="24" b="98" c="64" />
+        <event tick="80632" len="64" a="24" b="98" c="64" />
+        <event tick="81028" len="92" a="2" b="93" c="64" />
+        <event tick="81032" len="88" a="9" b="93" c="64" />
+        <event tick="81036" len="64" a="24" b="110" c="64" />
+        <event tick="81300" len="36" a="24" b="93" c="64" />
+        <event tick="81400" len="60" a="24" b="89" c="64" />
+        <event tick="81796" len="92" a="2" b="93" c="64" />
+        <event tick="81800" len="64" a="24" b="110" c="64" />
+        <event tick="81800" len="84" a="9" b="98" c="64" />
+        <event tick="82060" len="36" a="24" b="93" c="64" />
+        <event tick="82172" len="48" a="24" b="85" c="64" />
+        <event tick="82568" len="64" a="24" b="110" c="64" />
+        <event tick="82572" len="100" a="2" b="93" c="64" />
+        <event tick="82576" len="80" a="9" b="93" c="64" />
+        <event tick="82844" len="32" a="24" b="93" c="64" />
+        <event tick="82932" len="64" a="24" b="85" c="64" />
+        <event tick="83324" len="96" a="2" b="93" c="64" />
+        <event tick="83332" len="68" a="24" b="110" c="64" />
+        <event tick="83336" len="80" a="9" b="98" c="64" />
+        <event tick="83620" len="36" a="24" b="93" c="64" />
+        <event tick="83712" len="64" a="24" b="89" c="64" />
+        <event tick="84076" len="80" a="9" b="98" c="64" />
+        <event tick="84080" len="68" a="24" b="110" c="64" />
+        <event tick="84084" len="96" a="2" b="93" c="64" />
+        <event tick="84352" len="44" a="24" b="98" c="64" />
+        <event tick="84452" len="60" a="24" b="93" c="64" />
+        <event tick="84836" len="80" a="9" b="98" c="64" />
+        <event tick="84840" len="68" a="24" b="110" c="64" />
+        <event tick="84848" len="104" a="2" b="93" c="64" />
+        <event tick="85112" len="40" a="24" b="93" c="64" />
+        <event tick="85220" len="64" a="24" b="89" c="64" />
+        <event tick="85596" len="76" a="9" b="98" c="64" />
+        <event tick="85596" len="64" a="24" b="110" c="64" />
+        <event tick="85600" len="100" a="2" b="98" c="64" />
+        <event tick="85900" len="40" a="24" b="98" c="64" />
+        <event tick="85996" len="84" a="14" b="103" c="64" />
+        <event tick="86000" len="72" b="110" c="64" />
+        <event tick="86364" len="88" a="9" b="98" c="64" />
+        <event tick="86620" len="56" a="10" b="91" c="64" />
+        <event tick="86676" len="56" a="8" b="89" c="64" />
+        <event tick="86724" len="60" a="6" b="103" c="64" />
+        <event tick="86780" len="252" b="103" c="64" />
+        <event tick="87128" len="80" a="11" b="98" c="64" />
+        <event tick="87408" len="64" a="22" b="119" c="64" />
+        <event tick="87412" len="64" b="119" c="64" />
+        <event tick="87904" len="60" a="24" b="110" c="64" />
+        <event tick="87908" len="76" a="9" b="93" c="64" />
+        <event tick="87928" len="60" a="18" b="70" c="64" />
+        <event tick="88204" len="40" a="24" b="98" c="64" />
+        <event tick="88304" len="60" a="24" b="93" c="64" />
+        <event tick="88684" len="76" a="9" b="93" c="64" />
+        <event tick="88692" len="68" a="24" b="103" c="64" />
+        <event tick="88704" len="72" a="18" b="70" c="64" />
+        <event tick="89004" len="36" a="24" b="98" c="64" />
+        <event tick="89092" len="56" a="24" b="89" c="64" />
+        <event tick="89444" len="80" a="9" b="98" c="64" />
+        <event tick="89456" len="68" a="24" b="110" c="64" />
+        <event tick="89476" len="76" a="18" b="70" c="64" />
+        <event tick="89744" len="40" a="24" b="93" c="64" />
+        <event tick="89844" len="56" a="24" b="89" c="64" />
+        <event tick="90220" len="72" a="9" b="98" c="64" />
+        <event tick="90220" len="68" a="24" b="119" c="64" />
+        <event tick="90236" len="92" a="18" b="70" c="64" />
+        <event tick="90516" len="40" a="24" b="98" c="64" />
+        <event tick="90624" len="56" a="24" b="93" c="64" />
+        <event tick="90996" len="68" a="24" b="110" c="64" />
+        <event tick="91000" len="72" a="9" b="98" c="64" />
+        <event tick="91004" len="84" a="18" b="70" c="64" />
+        <event tick="91292" len="36" a="24" b="98" c="64" />
+        <event tick="91392" len="52" a="24" b="93" c="64" />
+        <event tick="91764" len="92" a="18" b="70" c="64" />
+        <event tick="91776" len="68" a="24" b="110" c="64" />
+        <event tick="91776" len="72" a="9" b="98" c="64" />
+        <event tick="92060" len="36" a="24" b="98" c="64" />
+        <event tick="92160" len="60" a="24" b="93" c="64" />
+        <event tick="92540" len="68" a="24" b="110" c="64" />
+        <event tick="92548" len="72" a="9" b="98" c="64" />
+        <event tick="92556" len="84" a="18" b="70" c="64" />
+        <event tick="92824" len="36" a="24" b="98" c="64" />
+        <event tick="92920" len="68" a="24" b="98" c="64" />
+        <event tick="93312" len="72" a="24" b="119" c="64" />
+        <event tick="93320" len="76" a="9" b="98" c="64" />
+        <event tick="93328" len="76" a="18" b="70" c="64" />
+        <event tick="93596" len="36" a="24" b="103" c="64" />
+        <event tick="93688" len="64" a="24" b="98" c="64" />
+        <event tick="94064" len="64" a="24" b="110" c="64" />
+        <event tick="94064" len="72" a="9" b="98" c="64" />
+        <event tick="94080" len="76" a="18" b="70" c="64" />
+        <event tick="94348" len="40" a="24" b="98" c="64" />
+        <event tick="94456" len="60" a="24" b="98" c="64" />
+        <event tick="94828" len="80" a="9" b="93" c="64" />
+        <event tick="94832" len="68" a="24" b="110" c="64" />
+        <event tick="94832" len="72" a="18" b="70" c="64" />
+        <event tick="95096" len="40" a="24" b="98" c="64" />
+        <event tick="95208" len="64" a="24" b="98" c="64" />
+        <event tick="95592" len="68" a="24" b="110" c="64" />
+        <event tick="95596" len="72" a="9" b="93" c="64" />
+        <event tick="95604" len="72" a="18" b="70" c="64" />
+        <event tick="95864" len="36" a="24" b="103" c="64" />
+        <event tick="95972" len="56" a="24" b="98" c="64" />
+        <event tick="96364" len="68" a="24" b="110" c="64" />
+        <event tick="96368" len="76" a="9" b="98" c="64" />
+        <event tick="96368" len="84" a="18" b="70" c="64" />
+        <event tick="96636" len="36" a="24" b="103" c="64" />
+        <event tick="96736" len="60" a="24" b="93" c="64" />
+        <event tick="97104" len="68" a="24" b="119" c="64" />
+        <event tick="97112" len="76" a="18" b="70" c="64" />
+        <event tick="97120" len="80" a="9" b="93" c="64" />
+        <event tick="97420" len="36" a="24" b="103" c="64" />
+        <event tick="97524" len="60" a="24" b="98" c="64" />
+        <event tick="97916" len="84" a="9" b="93" c="64" />
+        <event tick="97920" len="68" a="24" b="110" c="64" />
+        <event tick="97928" len="96" a="18" b="70" c="64" />
+        <event tick="98196" len="40" a="24" b="93" c="64" />
+        <event tick="98288" len="60" a="24" b="93" c="64" />
+        <event tick="98688" len="80" a="24" b="103" c="64" />
+        <event tick="98692" len="92" a="9" b="98" c="64" />
+        <event tick="98692" len="80" a="18" b="70" c="64" />
+        <event tick="98968" len="40" a="24" b="93" c="64" />
+        <event tick="99068" len="56" a="24" b="93" c="64" />
+        <event tick="99456" len="72" a="24" b="110" c="64" />
+        <event tick="99460" len="92" a="9" b="98" c="64" />
+        <event tick="99464" len="84" a="6" b="110" c="64" />
+        <event tick="99736" len="32" a="24" b="103" c="64" />
+        <event tick="99840" len="64" a="24" b="98" c="64" />
+        <event tick="100240" len="72" a="24" b="110" c="64" />
+        <event tick="100244" len="120" a="2" b="103" c="64" />
+        <event tick="100248" len="84" a="9" b="98" c="64" />
+        <event tick="100508" len="36" a="24" b="93" c="64" />
+        <event tick="100600" len="60" a="24" b="98" c="64" />
+        <event tick="100984" len="108" a="2" b="98" c="64" />
+        <event tick="100996" len="64" a="24" b="110" c="64" />
+        <event tick="100996" len="84" a="9" b="93" c="64" />
+        <event tick="101272" len="40" a="24" b="103" c="64" />
+        <event tick="101364" len="64" a="24" b="98" c="64" />
+        <event tick="101748" len="72" a="9" b="93" c="64" />
+        <event tick="101748" len="96" a="2" b="103" c="64" />
+        <event tick="101748" len="64" a="24" b="110" c="64" />
+        <event tick="102032" len="40" a="24" b="98" c="64" />
+        <event tick="102140" len="56" a="24" b="98" c="64" />
+        <event tick="102504" len="100" a="2" b="98" c="64" />
+        <event tick="102504" len="68" a="24" b="110" c="64" />
+        <event tick="102512" len="80" a="9" b="98" c="64" />
+        <event tick="102784" len="32" a="24" b="98" c="64" />
+        <event tick="102896" len="64" a="24" b="93" c="64" />
+        <event tick="103272" len="104" a="2" b="103" c="64" />
+        <event tick="103272" len="80" a="9" b="93" c="64" />
+        <event tick="103276" len="64" a="24" b="110" c="64" />
+        <event tick="103576" len="40" a="24" b="98" c="64" />
+        <event tick="103672" len="60" a="24" b="98" c="64" />
+        <event tick="104044" len="108" a="2" b="103" c="64" />
+        <event tick="104048" len="84" a="9" b="93" c="64" />
+        <event tick="104052" len="64" a="24" b="110" c="64" />
+        <event tick="104328" len="36" a="24" b="93" c="64" />
+        <event tick="104432" len="60" a="24" b="93" c="64" />
+        <event tick="104820" len="76" a="24" b="110" c="64" />
+        <event tick="104824" len="88" a="9" b="98" c="64" />
+        <event tick="104824" len="108" a="2" b="103" c="64" />
+        <event tick="105104" len="36" a="24" b="98" c="64" />
+        <event tick="105204" len="56" a="24" b="98" c="64" />
+        <event tick="105344" len="64" a="2" b="98" c="64" />
+        <event tick="105592" len="76" a="2" b="93" c="64" />
+        <event tick="105592" len="88" a="9" b="93" c="64" />
+        <event tick="105604" len="76" a="24" b="110" c="64" />
+        <event tick="105884" len="44" a="24" b="93" c="64" />
+        <event tick="105972" len="64" a="24" b="93" c="64" />
+        <event tick="106360" len="88" a="9" b="98" c="64" />
+        <event tick="106364" len="64" a="24" b="110" c="64" />
+        <event tick="106364" len="92" a="2" b="103" c="64" />
+        <event tick="106656" len="36" a="24" b="98" c="64" />
+        <event tick="106752" len="64" a="24" b="93" c="64" />
+        <event tick="107136" len="100" a="9" b="103" c="64" />
+        <event tick="107136" len="72" a="24" b="119" c="64" />
+        <event tick="107140" len="96" a="2" b="98" c="64" />
+        <event tick="107408" len="44" a="24" b="93" c="64" />
+        <event tick="107512" len="60" a="24" b="93" c="64" />
+        <event tick="107912" len="100" a="2" b="98" c="64" />
+        <event tick="107912" len="88" a="9" b="98" c="64" />
+        <event tick="107920" len="72" a="24" b="110" c="64" />
+        <event tick="108184" len="40" a="24" b="98" c="64" />
+        <event tick="108276" len="64" a="24" b="89" c="64" />
+        <event tick="108672" len="72" a="24" b="103" c="64" />
+        <event tick="108672" len="100" a="2" b="98" c="64" />
+        <event tick="108680" len="88" a="9" b="98" c="64" />
+        <event tick="108952" len="36" a="24" b="89" c="64" />
+        <event tick="109048" len="76" a="24" b="93" c="64" />
+        <event tick="109420" len="76" a="24" b="103" c="64" />
+        <event tick="109428" len="84" a="9" b="93" c="64" />
+        <event tick="109428" len="100" a="2" b="93" c="64" />
+        <event tick="109688" len="40" a="24" b="93" c="64" />
+        <event tick="109788" len="76" a="24" b="93" c="64" />
+        <event tick="110192" len="76" a="24" b="119" c="64" />
+        <event tick="110204" len="104" a="2" b="98" c="64" />
+        <event tick="110204" len="88" a="9" b="98" c="64" />
+        <event tick="110456" len="32" a="24" b="98" c="64" />
+        <event tick="110572" len="68" a="24" b="93" c="64" />
+        <event tick="110944" len="88" a="11" b="98" c="64" />
+        <event tick="110948" len="68" a="24" b="110" c="64" />
+        <event tick="110960" len="88" a="2" b="98" c="64" />
+        <event tick="111220" len="36" a="24" b="103" c="64" />
+        <event tick="111356" len="76" a="6" b="76" c="64" />
+        <event tick="111492" len="36" a="10" b="93" c="64" />
+        <event tick="111612" len="56" a="10" b="110" c="64" />
+        <event tick="111704" len="80" a="11" b="98" c="64" />
+        <event tick="111748" len="56" a="6" b="77" c="64" />
+        <event tick="111876" len="44" a="8" b="93" c="64" />
+        <event tick="111992" len="48" a="8" b="103" c="64" />
+        <event tick="112116" len="60" a="20" b="119" c="64" />
+        <event tick="112116" len="56" b="119" c="64" />
+        <event tick="112488" len="92" a="9" b="93" c="64" />
+        <event tick="112488" len="72" a="18" b="70" c="64" />
+        <event tick="112488" len="68" a="24" b="110" c="64" />
+        <event tick="112780" len="36" a="24" b="103" c="64" />
+        <event tick="112888" len="52" a="24" b="98" c="64" />
+        <event tick="113260" len="68" a="24" b="103" c="64" />
+        <event tick="113268" len="84" a="9" b="98" c="64" />
+        <event tick="113280" len="68" a="18" b="70" c="64" />
+        <event tick="113560" len="40" a="24" b="103" c="64" />
+        <event tick="113656" len="64" a="24" b="103" c="64" />
+        <event tick="114044" len="76" a="24" b="119" c="64" />
+        <event tick="114048" len="68" a="18" b="70" c="64" />
+        <event tick="114052" len="84" a="9" b="93" c="64" />
+        <event tick="114344" len="36" a="24" b="103" c="64" />
+        <event tick="114436" len="64" a="24" b="103" c="64" />
+        <event tick="114812" len="80" a="9" b="93" c="64" />
+        <event tick="114812" len="72" a="24" b="119" c="64" />
+        <event tick="114816" len="72" a="18" b="70" c="64" />
+        <event tick="115096" len="40" a="24" b="98" c="64" />
+        <event tick="115192" len="60" a="24" b="103" c="64" />
+        <event tick="115584" len="72" a="9" b="93" c="64" />
+        <event tick="115584" len="68" a="18" b="70" c="64" />
+        <event tick="115584" len="72" a="24" b="119" c="64" />
+        <event tick="115856" len="36" a="24" b="103" c="64" />
+        <event tick="115964" len="56" a="24" b="119" c="64" />
+        <event tick="116360" len="64" a="18" b="70" c="64" />
+        <event tick="116360" len="68" a="24" b="110" c="64" />
+        <event tick="116368" len="80" a="9" b="98" c="64" />
+        <event tick="116632" len="36" a="24" b="103" c="64" />
+        <event tick="116728" len="60" a="24" b="103" c="64" />
+        <event tick="117108" len="76" a="9" b="98" c="64" />
+        <event tick="117112" len="64" a="24" b="110" c="64" />
+        <event tick="117124" len="64" a="18" b="70" c="64" />
+        <event tick="117400" len="40" a="24" b="103" c="64" />
+        <event tick="117492" len="60" a="24" b="103" c="64" />
+        <event tick="117872" len="80" a="9" b="98" c="64" />
+        <event tick="117876" len="68" a="24" b="110" c="64" />
+        <event tick="117880" len="72" a="18" b="70" c="64" />
+        <event tick="118148" len="32" a="24" b="98" c="64" />
+        <event tick="118244" len="60" a="24" b="103" c="64" />
+        <event tick="118632" len="64" a="24" b="110" c="64" />
+        <event tick="118640" len="68" a="18" b="70" c="64" />
+        <event tick="118644" len="76" a="9" b="89" c="64" />
+        <event tick="118920" len="40" a="24" b="98" c="64" />
+        <event tick="119028" len="60" a="24" b="103" c="64" />
+        <event tick="119416" len="64" a="24" b="119" c="64" />
+        <event tick="119416" len="80" a="9" b="93" c="64" />
+        <event tick="119420" len="76" a="18" b="70" c="64" />
+        <event tick="119696" len="40" a="24" b="103" c="64" />
+        <event tick="119792" len="60" a="24" b="103" c="64" />
+        <event tick="120180" len="72" a="9" b="93" c="64" />
+        <event tick="120184" len="64" a="24" b="103" c="64" />
+        <event tick="120192" len="76" a="18" b="70" c="64" />
+        <event tick="120464" len="36" a="24" b="103" c="64" />
+        <event tick="120556" len="60" a="24" b="103" c="64" />
+        <event tick="120936" len="64" a="24" b="110" c="64" />
+        <event tick="120940" len="64" a="9" b="93" c="64" />
+        <event tick="120948" len="64" a="18" b="70" c="64" />
+        <event tick="121216" len="40" a="24" b="103" c="64" />
+        <event tick="121324" len="60" a="24" b="103" c="64" />
+        <event tick="121684" len="68" a="9" b="93" c="64" />
+        <event tick="121688" len="68" a="24" b="110" c="64" />
+        <event tick="121704" len="80" a="18" b="70" c="64" />
+        <event tick="121972" len="40" a="24" b="98" c="64" />
+        <event tick="122096" len="56" a="24" b="103" c="64" />
+        <event tick="122468" len="72" a="9" b="98" c="64" />
+        <event tick="122472" len="64" a="24" b="119" c="64" />
+        <event tick="122484" len="68" a="18" b="70" c="64" />
+        <event tick="122764" len="40" a="24" b="103" c="64" />
+        <event tick="122872" len="56" a="24" b="103" c="64" />
+        <event tick="123252" len="64" a="9" b="93" c="64" />
+        <event tick="123256" len="68" a="18" b="70" c="64" />
+        <event tick="123256" len="64" a="24" b="110" c="64" />
+        <event tick="123532" len="36" a="24" b="98" c="64" />
+        <event tick="123628" len="56" a="24" b="103" c="64" />
+        <event tick="124024" len="80" a="9" b="93" c="64" />
+        <event tick="124028" len="60" a="24" b="119" c="64" />
+        <event tick="124028" len="68" a="18" b="70" c="64" />
+        <event tick="124312" len="36" a="24" b="98" c="64" />
+        <event tick="124412" len="56" a="24" b="103" c="64" />
+        <event tick="124788" len="60" a="24" b="119" c="64" />
+        <event tick="124788" len="64" a="18" b="70" c="64" />
+        <event tick="124792" len="68" a="9" b="98" c="64" />
+        <event tick="125076" len="40" a="24" b="103" c="64" />
+        <event tick="125184" len="60" a="24" b="103" c="64" />
+        <event tick="125548" len="68" a="9" b="93" c="64" />
+        <event tick="125548" len="68" a="24" b="119" c="64" />
+        <event tick="125556" len="68" a="18" b="70" c="64" />
+        <event tick="125836" len="36" a="24" b="103" c="64" />
+        <event tick="125932" len="56" a="24" b="98" c="64" />
+        <event tick="126300" len="72" a="18" b="70" c="64" />
+        <event tick="126300" len="76" a="9" b="93" c="64" />
+        <event tick="126304" len="68" a="24" b="119" c="64" />
+        <event tick="126596" len="40" a="24" b="103" c="64" />
+        <event tick="126704" len="56" a="24" b="103" c="64" />
+        <event tick="127068" len="68" a="9" b="93" c="64" />
+        <event tick="127072" len="68" a="24" b="119" c="64" />
+        <event tick="127080" len="68" a="18" b="70" c="64" />
+        <event tick="127364" len="36" a="24" b="103" c="64" />
+        <event tick="127468" len="56" a="24" b="93" c="64" />
+        <event tick="127844" len="68" a="18" b="70" c="64" />
+        <event tick="127844" len="64" a="24" b="119" c="64" />
+        <event tick="127848" len="72" a="9" b="98" c="64" />
+        <event tick="128128" len="40" a="24" b="98" c="64" />
+        <event tick="128236" len="64" a="24" b="110" c="64" />
+        <event tick="128612" len="64" a="24" b="119" c="64" />
+        <event tick="128620" len="76" a="18" b="70" c="64" />
+        <event tick="128620" len="72" a="9" b="93" c="64" />
+        <event tick="128888" len="36" a="24" b="110" c="64" />
+        <event tick="129008" len="64" a="24" b="98" c="64" />
+        <event tick="129380" len="68" a="9" b="98" c="64" />
+        <event tick="129384" len="64" a="24" b="127" c="64" />
+        <event tick="129388" len="68" a="18" b="70" c="64" />
+        <event tick="129672" len="40" a="24" b="110" c="64" />
+        <event tick="129768" len="60" a="24" b="110" c="64" />
+        <event tick="130156" len="68" a="24" b="110" c="64" />
+        <event tick="130164" len="64" a="9" b="93" c="64" />
+        <event tick="130164" len="64" a="18" b="70" c="64" />
+        <event tick="130448" len="36" a="24" b="98" c="64" />
+        <event tick="130548" len="64" a="24" b="103" c="64" />
+        <event tick="130912" len="68" a="9" b="93" c="64" />
+        <event tick="130916" len="60" a="24" b="110" c="64" />
+        <event tick="130928" len="64" a="18" b="70" c="64" />
+        <event tick="131208" len="32" a="24" b="103" c="64" />
+        <event tick="131308" len="60" a="24" b="103" c="64" />
+        <event tick="131688" len="64" a="24" b="119" c="64" />
+        <event tick="131692" len="76" a="9" b="93" c="64" />
+        <event tick="131700" len="64" a="18" b="70" c="64" />
+        <event tick="131984" len="40" a="24" b="103" c="64" />
+        <event tick="132076" len="60" a="24" b="98" c="64" />
+        <event tick="132456" len="76" a="9" b="93" c="64" />
+        <event tick="132460" len="64" a="24" b="119" c="64" />
+        <event tick="132464" len="64" a="18" b="70" c="64" />
+        <event tick="132748" len="40" a="24" b="110" c="64" />
+        <event tick="132840" len="56" a="24" b="103" c="64" />
+        <event tick="133228" len="64" a="24" b="119" c="64" />
+        <event tick="133232" len="68" a="18" b="70" c="64" />
+        <event tick="133232" len="64" a="9" b="98" c="64" />
+        <event tick="133524" len="36" a="24" b="110" c="64" />
+        <event tick="133624" len="56" a="24" b="103" c="64" />
+        <event tick="134000" len="68" a="9" b="89" c="64" />
+        <event tick="134004" len="64" a="24" b="119" c="64" />
+        <event tick="134008" len="68" a="18" b="70" c="64" />
+        <event tick="134284" len="40" a="24" b="98" c="64" />
+        <event tick="134396" len="60" a="24" b="103" c="64" />
+        <event tick="134776" len="68" a="24" b="119" c="64" />
+        <event tick="134780" len="80" a="9" b="98" c="64" />
+        <event tick="134780" len="68" a="18" b="70" c="64" />
+        <event tick="135196" len="32" a="10" b="39" c="64" />
+        <event tick="135256" len="36" a="10" b="50" c="64" />
+        <event tick="135312" len="40" a="10" b="60" c="64" />
+        <event tick="135376" len="40" a="10" b="70" c="64" />
+        <event tick="135452" len="40" a="10" b="79" c="64" />
+        <event tick="135516" len="36" a="10" b="87" c="64" />
+        <event tick="135532" len="76" a="11" b="93" c="64" />
+        <event tick="135580" len="52" a="8" b="86" c="64" />
+        <event tick="135652" len="40" a="8" b="84" c="64" />
+        <event tick="135720" len="40" a="8" b="73" c="64" />
+        <event tick="135788" len="36" a="8" b="65" c="64" />
+        <event tick="135860" len="44" a="8" b="57" c="64" />
+        <event tick="135928" len="40" a="6" b="52" c="64" />
+        <event tick="135992" len="44" a="6" b="60" c="64" />
+        <event tick="136060" len="40" a="6" b="68" c="64" />
+        <event tick="136128" len="44" a="6" b="82" c="64" />
+        <event tick="136192" len="44" a="6" b="89" c="64" />
+        <event tick="136256" len="44" a="6" b="83" c="64" />
+        <event tick="136300" len="72" a="11" b="98" c="64" />
+        <event tick="136320" len="52" a="6" b="77" c="64" />
+        <event tick="136384" len="48" a="6" b="71" c="64" />
+        <event tick="136452" len="52" a="6" b="64" c="64" />
+        <event tick="136524" len="48" a="6" b="59" c="64" />
+        <event tick="136604" len="36" a="6" b="52" c="64" />
+        <event tick="136692" len="56" a="14" b="110" c="64" />
+        <event tick="136700" len="44" b="119" c="64" />
+        <event tick="137064" len="68" a="9" b="93" c="64" />
+        <event tick="137312" len="52" b="119" c="64" />
+        <event tick="137320" len="52" a="22" b="119" c="64" />
+        <event tick="137832" len="68" a="9" b="93" c="64" />
+        <event tick="137836" len="72" a="24" b="110" c="64" />
+        <event tick="138120" len="40" a="24" b="103" c="64" />
+        <event tick="138216" len="60" a="24" b="98" c="64" />
+        <event tick="138596" len="64" a="24" b="110" c="64" />
+        <event tick="138600" len="72" a="9" b="93" c="64" />
+        <event tick="138604" len="88" a="18" b="70" c="64" />
+        <event tick="138876" len="40" a="24" b="103" c="64" />
+        <event tick="138988" len="60" a="24" b="103" c="64" />
+        <event tick="139364" len="60" a="24" b="110" c="64" />
+        <event tick="139368" len="84" a="9" b="98" c="64" />
+        <event tick="139368" len="72" a="18" b="70" c="64" />
+        <event tick="139664" len="40" a="24" b="103" c="64" />
+        <event tick="139760" len="68" a="24" b="98" c="64" />
+        <event tick="140132" len="80" a="18" b="70" c="64" />
+        <event tick="140140" len="68" a="24" b="119" c="64" />
+        <event tick="140148" len="88" a="9" b="93" c="64" />
+        <event tick="140428" len="44" a="24" b="98" c="64" />
+        <event tick="140524" len="64" a="24" b="98" c="64" />
+        <event tick="140920" len="76" a="24" b="119" c="64" />
+        <event tick="140920" len="96" a="9" b="98" c="64" />
+        <event tick="140928" len="76" a="18" b="70" c="64" />
+        <event tick="141196" len="36" a="24" b="103" c="64" />
+        <event tick="141300" len="68" a="24" b="98" c="64" />
+        <event tick="141680" len="84" a="18" b="70" c="64" />
+        <event tick="141684" len="92" a="9" b="98" c="64" />
+        <event tick="141684" len="72" a="24" b="119" c="64" />
+        <event tick="141964" len="36" a="24" b="98" c="64" />
+        <event tick="142072" len="64" a="24" b="89" c="64" />
+        <event tick="142456" len="92" a="9" b="103" c="64" />
+        <event tick="142456" len="84" a="18" b="70" c="64" />
+        <event tick="142456" len="68" a="24" b="119" c="64" />
+        <event tick="142728" len="36" a="24" b="98" c="64" />
+        <event tick="142840" len="80" a="24" b="93" c="64" />
+        <event tick="143228" len="96" a="9" b="103" c="64" />
+        <event tick="143232" len="72" a="24" b="127" c="64" />
+        <event tick="143232" len="84" a="18" b="70" c="64" />
+        <event tick="143504" len="40" a="24" b="89" c="64" />
+        <event tick="143608" len="72" a="24" b="89" c="64" />
+        <event tick="143996" len="80" a="18" b="70" c="64" />
+        <event tick="143996" len="88" a="9" b="103" c="64" />
+        <event tick="144000" len="68" a="24" b="119" c="64" />
+        <event tick="144288" len="36" a="24" b="93" c="64" />
+        <event tick="144392" len="60" a="24" b="89" c="64" />
+        <event tick="144752" len="64" a="24" b="119" c="64" />
+        <event tick="144756" len="96" a="9" b="103" c="64" />
+        <event tick="144760" len="72" a="18" b="70" c="64" />
+        <event tick="145052" len="40" a="24" b="93" c="64" />
+        <event tick="145160" len="52" a="24" b="89" c="64" />
+        <event tick="145536" len="72" a="18" b="70" c="64" />
+        <event tick="145540" len="64" a="24" b="127" c="64" />
+        <event tick="145540" len="84" a="9" b="103" c="64" />
+        <event tick="145812" len="36" a="24" b="93" c="64" />
+        <event tick="145916" len="60" a="24" b="93" c="64" />
+        <event tick="146284" len="76" a="18" b="70" c="64" />
+        <event tick="146288" len="60" a="24" b="127" c="64" />
+        <event tick="146288" len="84" a="9" b="98" c="64" />
+        <event tick="146560" len="40" a="24" b="82" c="64" />
+        <event tick="146680" len="52" a="24" b="93" c="64" />
+        <event tick="147048" len="76" a="18" b="70" c="64" />
+        <event tick="147048" len="84" a="9" b="103" c="64" />
+        <event tick="147052" len="60" a="24" b="119" c="64" />
+        <event tick="147336" len="40" a="24" b="103" c="64" />
+        <event tick="147444" len="56" a="24" b="93" c="64" />
+        <event tick="147820" len="76" a="18" b="70" c="64" />
+        <event tick="147820" len="64" a="24" b="110" c="64" />
+        <event tick="147828" len="80" a="9" b="98" c="64" />
+        <event tick="148132" len="36" a="24" b="93" c="64" />
+        <event tick="148224" len="60" a="24" b="89" c="64" />
+        <event tick="148596" len="84" a="9" b="98" c="64" />
+        <event tick="148600" len="64" a="24" b="119" c="64" />
+        <event tick="148600" len="80" a="6" b="119" c="64" />
+        <event tick="148868" len="36" a="24" b="98" c="64" />
+        <event tick="148988" len="44" a="24" b="98" c="64" />
+        <event tick="149360" len="88" a="18" b="70" c="64" />
+        <event tick="149368" len="80" a="9" b="103" c="64" />
+        <event tick="149368" len="60" a="24" b="127" c="64" />
+        <event tick="149644" len="36" a="24" b="98" c="64" />
+        <event tick="149756" len="60" a="24" b="98" c="64" />
+        <event tick="150132" len="84" a="9" b="98" c="64" />
+        <event tick="150136" len="80" a="18" b="70" c="64" />
+        <event tick="150140" len="60" a="24" b="119" c="64" />
+        <event tick="150416" len="36" a="24" b="93" c="64" />
+        <event tick="150520" len="56" a="24" b="89" c="64" />
+        <event tick="150880" len="64" a="24" b="119" c="64" />
+        <event tick="150884" len="76" a="9" b="98" c="64" />
+        <event tick="150888" len="72" a="18" b="70" c="64" />
+        <event tick="151184" len="32" a="24" b="98" c="64" />
+        <event tick="151276" len="60" a="24" b="93" c="64" />
+        <event tick="151656" len="64" a="24" b="110" c="64" />
+        <event tick="151656" len="68" a="18" b="70" c="64" />
+        <event tick="151656" len="80" a="9" b="98" c="64" />
+        <event tick="151928" len="40" a="24" b="93" c="64" />
+        <event tick="152032" len="56" a="24" b="103" c="64" />
+        <event tick="152416" len="64" a="18" b="70" c="64" />
+        <event tick="152420" len="80" a="9" b="98" c="64" />
+        <event tick="152424" len="60" a="24" b="110" c="64" />
+        <event tick="152716" len="40" a="24" b="98" c="64" />
+        <event tick="152820" len="60" a="24" b="93" c="64" />
+        <event tick="153204" len="80" a="9" b="93" c="64" />
+        <event tick="153208" len="64" a="24" b="119" c="64" />
+        <event tick="153220" len="64" a="18" b="70" c="64" />
+        <event tick="153492" len="40" a="24" b="93" c="64" />
+        <event tick="153588" len="60" a="24" b="93" c="64" />
+        <event tick="153960" len="64" a="24" b="119" c="64" />
+        <event tick="153960" len="76" a="9" b="98" c="64" />
+        <event tick="153968" len="60" a="18" b="70" c="64" />
+        <event tick="154252" len="36" a="24" b="93" c="64" />
+        <event tick="154364" len="56" a="24" b="103" c="64" />
+        <event tick="154720" len="72" a="9" b="103" c="64" />
+        <event tick="154728" len="60" a="24" b="119" c="64" />
+        <event tick="154732" len="64" a="18" b="70" c="64" />
+        <event tick="155028" len="40" a="24" b="103" c="64" />
+        <event tick="155124" len="64" a="24" b="103" c="64" />
+        <event tick="155516" len="64" a="24" b="119" c="64" />
+        <event tick="155520" len="72" a="9" b="98" c="64" />
+        <event tick="155520" len="64" a="18" b="70" c="64" />
+        <event tick="155800" len="40" a="24" b="89" c="64" />
+        <event tick="155904" len="64" a="24" b="93" c="64" />
+        <event tick="156288" len="60" a="18" b="70" c="64" />
+        <event tick="156292" len="80" a="9" b="98" c="64" />
+        <event tick="156296" len="60" a="24" b="110" c="64" />
+        <event tick="156560" len="40" a="24" b="98" c="64" />
+        <event tick="156668" len="60" a="24" b="103" c="64" />
+        <event tick="157040" len="80" a="9" b="93" c="64" />
+        <event tick="157044" len="64" a="18" b="70" c="64" />
+        <event tick="157044" len="64" a="24" b="119" c="64" />
+        <event tick="157320" len="44" a="24" b="98" c="64" />
+        <event tick="157420" len="60" a="24" b="103" c="64" />
+        <event tick="157808" len="76" a="9" b="98" c="64" />
+        <event tick="157808" len="64" a="24" b="119" c="64" />
+        <event tick="157820" len="60" a="18" b="70" c="64" />
+        <event tick="158080" len="40" a="24" b="98" c="64" />
+        <event tick="158188" len="64" a="24" b="103" c="64" />
+        <event tick="158576" len="76" a="9" b="98" c="64" />
+        <event tick="158576" len="60" a="24" b="119" c="64" />
+        <event tick="158580" len="60" a="18" b="70" c="64" />
+        <event tick="158872" len="40" a="24" b="103" c="64" />
+        <event tick="158984" len="60" a="24" b="98" c="64" />
+        <event tick="159344" len="88" a="9" b="103" c="64" />
+        <event tick="159348" len="64" a="24" b="119" c="64" />
+        <event tick="159348" len="64" a="18" b="70" c="64" />
+        <event tick="159636" len="44" a="24" b="93" c="64" />
+        <event tick="159736" len="64" a="24" b="98" c="64" />
+        <event tick="160108" len="80" a="9" b="98" c="64" />
+        <event tick="160112" len="64" a="24" b="110" c="64" />
+        <event tick="160112" len="84" a="18" b="70" c="64" />
+        <event tick="160396" len="44" a="24" b="98" c="64" />
+        <event tick="160492" len="64" a="24" b="93" c="64" />
+        <event tick="160888" len="84" a="9" b="98" c="64" />
+        <event tick="160888" len="60" a="6" b="119" c="64" />
+        <event tick="160892" len="64" a="24" b="119" c="64" />
+        <event tick="161280" len="340" a="11" b="98" c="64" />
+        <event tick="161676" len="52" a="7" b="82" c="64" />
+        <event tick="161684" len="196" a="2" b="89" c="64" />
+        <event tick="161944" len="56" a="7" b="82" c="64" />
+        <event tick="162044" len="392" a="11" b="93" c="64" />
+        <event tick="162444" len="56" a="7" b="85" c="64" />
+        <event tick="162452" len="128" a="2" b="89" c="64" />
+        <event tick="162716" len="56" a="7" b="85" c="64" />
+        <event tick="162820" len="356" a="11" b="98" c="64" />
+        <event tick="163188" len="60" a="7" b="82" c="64" />
+        <event tick="163212" len="116" a="2" b="89" c="64" />
+        <event tick="163476" len="56" a="7" b="85" c="64" />
+        <event tick="163576" len="376" a="11" b="93" c="64" />
+        <event tick="163964" len="56" a="7" b="82" c="64" />
+        <event tick="163964" len="112" a="2" b="89" c="64" />
+        <event tick="164236" len="60" a="7" b="85" c="64" />
+        <event tick="164340" len="376" a="11" b="93" c="64" />
+        <event tick="164728" len="60" a="7" b="82" c="64" />
+        <event tick="164736" len="104" a="2" b="93" c="64" />
+        <event tick="165004" len="56" a="7" b="85" c="64" />
+        <event tick="165108" len="392" a="11" b="89" c="64" />
+        <event tick="165496" len="92" a="2" b="93" c="64" />
+        <event tick="165512" len="60" a="7" b="85" c="64" />
+        <event tick="165780" len="60" a="7" b="85" c="64" />
+        <event tick="165880" len="372" a="11" b="89" c="64" />
+        <event tick="166260" len="60" a="7" b="85" c="64" />
+        <event tick="166272" len="104" a="2" b="93" c="64" />
+        <event tick="166540" len="56" a="7" b="85" c="64" />
+        <event tick="166636" len="400" a="11" b="93" c="64" />
+        <event tick="167028" len="96" a="2" b="93" c="64" />
+        <event tick="167036" len="60" a="7" b="85" c="64" />
+        <event tick="167308" len="60" a="7" b="85" c="64" />
+        <event tick="167412" len="376" a="11" b="93" c="64" />
+        <event tick="167792" len="56" a="7" b="82" c="64" />
+        <event tick="167800" len="96" a="2" b="93" c="64" />
+        <event tick="168084" len="56" a="7" b="82" c="64" />
+        <event tick="168180" len="388" a="11" b="89" c="64" />
+        <event tick="168580" len="60" a="7" b="85" c="64" />
+        <event tick="168584" len="96" a="2" b="89" c="64" />
+        <event tick="168844" len="60" a="7" b="89" c="64" />
+        <event tick="168948" len="388" a="11" b="93" c="64" />
+        <event tick="169336" len="60" a="7" b="85" c="64" />
+        <event tick="169344" len="92" a="2" b="89" c="64" />
+        <event tick="169612" len="60" a="7" b="85" c="64" />
+        <event tick="169712" len="392" a="11" b="89" c="64" />
+        <event tick="170104" len="60" a="7" b="85" c="64" />
+        <event tick="170116" len="88" a="2" b="93" c="64" />
+        <event tick="170372" len="56" a="7" b="89" c="64" />
+        <event tick="170472" len="384" a="11" b="89" c="64" />
+        <event tick="170868" len="92" a="2" b="93" c="64" />
+        <event tick="170876" len="60" a="7" b="85" c="64" />
+        <event tick="171140" len="60" a="7" b="89" c="64" />
+        <event tick="171240" len="372" a="11" b="93" c="64" />
+        <event tick="171616" len="60" a="7" b="85" c="64" />
+        <event tick="171628" len="92" a="2" b="93" c="64" />
+        <event tick="171900" len="56" a="7" b="85" c="64" />
+        <event tick="172012" len="392" a="11" b="89" c="64" />
+        <event tick="172412" len="116" a="2" b="93" c="64" />
+        <event tick="172416" len="60" a="7" b="85" c="64" />
+        <event tick="172652" len="60" a="7" b="85" c="64" />
+        <event tick="172776" len="380" a="11" b="93" c="64" />
+        <event tick="172920" len="64" a="2" b="85" c="64" />
+        <event tick="173164" len="92" a="2" b="93" c="64" />
+        <event tick="173188" len="56" a="7" b="89" c="64" />
+        <event tick="173428" len="56" a="7" b="89" c="64" />
+        <event tick="173548" len="384" a="11" b="89" c="64" />
+        <event tick="173948" len="56" a="7" b="89" c="64" />
+        <event tick="173956" len="104" a="2" b="93" c="64" />
+        <event tick="174212" len="56" a="7" b="89" c="64" />
+        <event tick="174304" len="400" a="11" b="89" c="64" />
+        <event tick="174704" len="96" a="2" b="89" c="64" />
+        <event tick="174724" len="60" a="7" b="85" c="64" />
+        <event tick="174984" len="60" a="7" b="89" c="64" />
+        <event tick="175088" len="388" a="11" b="93" c="64" />
+        <event tick="175492" len="88" a="2" b="98" c="64" />
+        <event tick="175492" len="60" a="7" b="89" c="64" />
+        <event tick="175768" len="60" a="7" b="89" c="64" />
+        <event tick="175884" len="348" a="11" b="93" c="64" />
+        <event tick="176244" len="96" a="2" b="93" c="64" />
+        <event tick="176256" len="56" a="7" b="89" c="64" />
+        <event tick="176520" len="56" a="7" b="89" c="64" />
+        <event tick="176628" len="368" a="11" b="89" c="64" />
+        <event tick="177008" len="64" a="7" b="93" c="64" />
+        <event tick="177020" len="92" a="2" b="89" c="64" />
+        <event tick="177260" len="52" a="7" b="85" c="64" />
+        <event tick="177384" len="400" a="11" b="93" c="64" />
+        <event tick="177780" len="92" a="2" b="93" c="64" />
+        <event tick="177796" len="60" a="7" b="89" c="64" />
+        <event tick="178024" len="60" a="7" b="89" c="64" />
+        <event tick="178156" len="364" a="11" b="89" c="64" />
+        <event tick="178540" len="92" a="2" b="93" c="64" />
+        <event tick="178552" len="64" a="7" b="89" c="64" />
+        <event tick="178808" len="60" a="7" b="89" c="64" />
+        <event tick="178916" len="356" a="11" b="93" c="64" />
+        <event tick="179316" len="60" a="7" b="89" c="64" />
+        <event tick="179320" len="92" a="2" b="93" c="64" />
+        <event tick="179580" len="56" a="7" b="89" c="64" />
+        <event tick="179680" len="348" a="11" b="93" c="64" />
+        <event tick="180072" len="88" a="2" b="93" c="64" />
+        <event tick="180072" len="60" a="7" b="93" c="64" />
+        <event tick="180336" len="64" a="7" b="93" c="64" />
+        <event tick="180452" len="356" a="11" b="89" c="64" />
+        <event tick="180836" len="60" a="7" b="89" c="64" />
+        <event tick="180856" len="84" a="2" b="93" c="64" />
+        <event tick="181108" len="60" a="7" b="85" c="64" />
+        <event tick="181228" len="356" a="11" b="93" c="64" />
+        <event tick="181620" len="64" a="7" b="93" c="64" />
+        <event tick="181628" len="92" a="2" b="93" c="64" />
+        <event tick="181888" len="56" a="7" b="89" c="64" />
+        <event tick="181996" len="332" a="11" b="93" c="64" />
+        <event tick="182392" len="56" a="7" b="93" c="64" />
+        <event tick="182392" len="96" a="2" b="93" c="64" />
+        <event tick="182636" len="56" a="7" b="89" c="64" />
+        <event tick="182752" len="348" a="11" b="89" c="64" />
+        <event tick="183152" len="56" a="7" b="89" c="64" />
+        <event tick="183152" len="96" a="2" b="93" c="64" />
+        <event tick="183400" len="60" a="7" b="89" c="64" />
+        <event tick="183524" len="348" a="11" b="93" c="64" />
+        <event tick="183916" len="60" a="7" b="89" c="64" />
+        <event tick="183920" len="92" a="2" b="93" c="64" />
+        <event tick="184192" len="60" a="7" b="89" c="64" />
+        <event tick="184292" len="356" a="11" b="85" c="64" />
+        <event tick="184680" len="64" a="7" b="93" c="64" />
+        <event tick="184680" len="92" a="2" b="93" c="64" />
+        <event tick="184968" len="64" a="7" b="89" c="64" />
+        <event tick="185072" len="340" a="11" b="89" c="64" />
+        <event tick="185472" len="36" a="8" b="98" c="64" />
+        <event tick="185472" len="36" a="9" b="98" c="64" />
+        <event tick="185580" len="84" a="8" b="85" c="64" />
+        <event tick="185696" len="64" a="6" b="81" c="64" />
+        <event tick="185832" len="48" b="110" c="64" />
+        <event tick="185832" len="60" a="14" b="98" c="64" />
+        <event tick="186208" len="96" a="24" b="103" c="64" />
+        <event tick="186212" len="64" a="18" b="70" c="64" />
+        <event tick="186216" len="96" a="9" b="98" c="64" />
+        <event tick="186520" len="40" a="24" b="103" c="64" />
+        <event tick="186616" len="60" a="24" b="103" c="64" />
+        <event tick="186996" len="84" a="9" b="98" c="64" />
+        <event tick="187000" len="68" a="24" b="110" c="64" />
+        <event tick="187000" len="68" a="18" b="70" c="64" />
+        <event tick="187288" len="36" a="24" b="103" c="64" />
+        <event tick="187388" len="56" a="24" b="98" c="64" />
+        <event tick="187768" len="64" a="18" b="70" c="64" />
+        <event tick="187772" len="64" a="24" b="119" c="64" />
+        <event tick="187772" len="84" a="9" b="89" c="64" />
+        <event tick="188052" len="40" a="24" b="103" c="64" />
+        <event tick="188160" len="56" a="24" b="103" c="64" />
+        <event tick="188536" len="64" a="18" b="70" c="64" />
+        <event tick="188544" len="60" a="24" b="110" c="64" />
+        <event tick="188544" len="80" a="9" b="103" c="64" />
+        <event tick="188820" len="40" a="24" b="98" c="64" />
+        <event tick="188924" len="60" a="24" b="98" c="64" />
+        <event tick="189304" len="76" a="9" b="98" c="64" />
+        <event tick="189312" len="68" a="18" b="70" c="64" />
+        <event tick="189312" len="60" a="24" b="110" c="64" />
+        <event tick="189588" len="40" a="24" b="103" c="64" />
+        <event tick="189692" len="56" a="24" b="98" c="64" />
+        <event tick="190072" len="64" a="24" b="119" c="64" />
+        <event tick="190072" len="76" a="9" b="98" c="64" />
+        <event tick="190076" len="64" a="18" b="70" c="64" />
+        <event tick="190340" len="40" a="24" b="98" c="64" />
+        <event tick="190452" len="56" a="24" b="98" c="64" />
+        <event tick="190816" len="68" a="18" b="70" c="64" />
+        <event tick="190820" len="64" a="24" b="119" c="64" />
+        <event tick="190824" len="68" a="9" b="98" c="64" />
+        <event tick="191128" len="36" a="24" b="98" c="64" />
+        <event tick="191232" len="60" a="24" b="103" c="64" />
+        <event tick="191600" len="72" a="18" b="70" c="64" />
+        <event tick="191604" len="64" a="24" b="110" c="64" />
+        <event tick="191604" len="72" a="9" b="98" c="64" />
+        <event tick="191888" len="32" a="24" b="98" c="64" />
+        <event tick="191992" len="56" a="24" b="98" c="64" />
+        <event tick="192368" len="80" a="9" b="98" c="64" />
+        <event tick="192376" len="64" a="24" b="110" c="64" />
+        <event tick="192380" len="68" a="18" b="70" c="64" />
+        <event tick="192656" len="40" a="24" b="98" c="64" />
+        <event tick="192764" len="56" a="24" b="98" c="64" />
+        <event tick="193140" len="76" a="9" b="93" c="64" />
+        <event tick="193140" len="64" a="24" b="110" c="64" />
+        <event tick="193144" len="68" a="18" b="70" c="64" />
+        <event tick="193420" len="40" a="24" b="103" c="64" />
+        <event tick="193532" len="60" a="24" b="103" c="64" />
+        <event tick="193892" len="68" a="24" b="119" c="64" />
+        <event tick="193892" len="72" a="18" b="70" c="64" />
+        <event tick="193896" len="64" a="9" b="98" c="64" />
+        <event tick="194200" len="40" a="24" b="98" c="64" />
+        <event tick="194304" len="60" a="24" b="98" c="64" />
+        <event tick="194676" len="64" a="24" b="119" c="64" />
+        <event tick="194680" len="68" a="9" b="93" c="64" />
+        <event tick="194684" len="64" a="18" b="70" c="64" />
+        <event tick="194948" len="40" a="24" b="103" c="64" />
+        <event tick="195056" len="56" a="24" b="98" c="64" />
+        <event tick="195452" len="68" a="9" b="93" c="64" />
+        <event tick="195452" len="68" a="18" b="70" c="64" />
+        <event tick="195456" len="64" a="24" b="119" c="64" />
+        <event tick="195724" len="36" a="24" b="103" c="64" />
+        <event tick="195824" len="60" a="24" b="103" c="64" />
+        <event tick="196192" len="80" a="18" b="70" c="64" />
+        <event tick="196196" len="68" a="24" b="119" c="64" />
+        <event tick="196200" len="68" a="9" b="98" c="64" />
+        <event tick="196488" len="40" a="24" b="98" c="64" />
+        <event tick="196596" len="60" a="24" b="98" c="64" />
+        <event tick="196960" len="88" a="18" b="70" c="64" />
+        <event tick="196964" len="64" a="9" b="98" c="64" />
+        <event tick="196964" len="64" a="24" b="127" c="64" />
+        <event tick="197256" len="36" a="24" b="98" c="64" />
+        <event tick="197360" len="60" a="24" b="98" c="64" />
+        <event tick="197744" len="72" a="9" b="103" c="64" />
+        <event tick="197744" len="116" a="6" b="119" c="64" />
+        <event tick="198132" len="368" a="11" b="98" c="64" />
+        <event tick="198532" len="104" a="2" b="98" c="64" />
+        <event tick="198544" len="52" a="7" b="82" c="64" />
+        <event tick="198804" len="64" a="7" b="82" c="64" />
+        <event tick="198916" len="372" a="11" b="89" c="64" />
+        <event tick="199292" len="92" a="2" b="98" c="64" />
+        <event tick="199312" len="60" a="7" b="85" c="64" />
+        <event tick="199576" len="56" a="7" b="89" c="64" />
+        <event tick="199680" len="348" a="11" b="89" c="64" />
+        <event tick="200052" len="60" a="7" b="85" c="64" />
+        <event tick="200064" len="92" a="2" b="98" c="64" />
+        <event tick="200316" len="60" a="7" b="89" c="64" />
+        <event tick="200420" len="368" a="11" b="89" c="64" />
+        <event tick="200800" len="60" a="7" b="85" c="64" />
+        <event tick="200824" len="88" a="2" b="93" c="64" />
+        <event tick="201080" len="60" a="7" b="85" c="64" />
+        <event tick="201188" len="364" a="11" b="89" c="64" />
+        <event tick="201560" len="60" a="7" b="82" c="64" />
+        <event tick="201584" len="92" a="2" b="93" c="64" />
+        <event tick="201864" len="56" a="7" b="82" c="64" />
+        <event tick="201968" len="372" a="11" b="89" c="64" />
+        <event tick="202348" len="92" a="2" b="93" c="64" />
+        <event tick="202356" len="56" a="7" b="79" c="64" />
+        <event tick="202628" len="60" a="7" b="85" c="64" />
+        <event tick="202736" len="364" a="11" b="85" c="64" />
+        <event tick="203096" len="64" a="7" b="82" c="64" />
+        <event tick="203116" len="84" a="2" b="98" c="64" />
+        <event tick="203380" len="64" a="7" b="89" c="64" />
+        <event tick="203488" len="376" a="11" b="89" c="64" />
+        <event tick="203872" len="60" a="7" b="85" c="64" />
+        <event tick="203884" len="84" a="2" b="98" c="64" />
+        <event tick="204152" len="60" a="7" b="89" c="64" />
+        <event tick="204276" len="384" a="11" b="85" c="64" />
+        <event tick="204652" len="60" a="7" b="85" c="64" />
+        <event tick="204660" len="80" a="2" b="93" c="64" />
+        <event tick="204904" len="64" a="7" b="85" c="64" />
+        <event tick="205020" len="380" a="11" b="89" c="64" />
+        <event tick="205408" len="56" a="7" b="85" c="64" />
+        <event tick="205428" len="84" a="2" b="93" c="64" />
+        <event tick="205688" len="56" a="7" b="85" c="64" />
+        <event tick="205804" len="348" a="11" b="89" c="64" />
+        <event tick="206180" len="88" a="2" b="89" c="64" />
+        <event tick="206184" len="56" a="7" b="85" c="64" />
+        <event tick="206448" len="64" a="7" b="89" c="64" />
+        <event tick="206564" len="372" a="11" b="89" c="64" />
+        <event tick="206952" len="56" a="7" b="85" c="64" />
+        <event tick="206956" len="88" a="2" b="93" c="64" />
+        <event tick="207220" len="60" a="7" b="89" c="64" />
+        <event tick="207328" len="368" a="11" b="89" c="64" />
+        <event tick="207716" len="60" a="7" b="82" c="64" />
+        <event tick="207716" len="92" a="2" b="98" c="64" />
+        <event tick="208000" len="60" a="7" b="85" c="64" />
+        <event tick="208104" len="388" a="11" b="89" c="64" />
+        <event tick="208492" len="92" a="2" b="93" c="64" />
+        <event tick="208504" len="56" a="7" b="89" c="64" />
+        <event tick="208784" len="56" a="7" b="89" c="64" />
+        <event tick="208888" len="356" a="11" b="89" c="64" />
+        <event tick="209260" len="56" a="7" b="89" c="64" />
+        <event tick="209272" len="92" a="2" b="98" c="64" />
+        <event tick="209544" len="56" a="7" b="85" c="64" />
+        <event tick="209636" len="388" a="11" b="89" c="64" />
+        <event tick="210024" len="88" a="2" b="98" c="64" />
+        <event tick="210036" len="120" a="10" b="119" c="64" />
+        <event tick="210168" len="88" a="8" b="93" c="64" />
+        <event tick="210264" len="64" a="6" b="98" c="64" />
+        <event tick="210420" len="68" b="110" c="64" />
+        <event tick="210424" len="100" a="20" b="119" c="64" />
+        <event tick="210784" len="228" a="9" b="93" c="64" />
+        <event tick="211044" len="60" a="20" b="119" c="64" />
+        <event tick="211044" len="64" b="110" c="64" />
+        <event tick="211584" len="156" a="9" b="89" c="64" />
+        <event tick="211956" len="76" a="14" b="103" c="64" />
+        <event tick="211960" len="68" b="110" c="64" />
+        <event tick="212360" len="136" a="9" b="89" c="64" />
+        <event tick="212592" len="64" b="110" c="64" />
+        <event tick="212596" len="56" a="22" b="119" c="64" />
+        <event tick="213100" len="148" b="103" c="64" />
+        <event tick="213104" len="148" a="9" b="85" c="64" />
+        <event tick="213352" len="76" b="119" c="64" />
+        <event tick="213884" len="148" a="9" b="89" c="64" />
+        <event tick="214624" len="160" a="9" b="85" c="64" />
+        <event tick="215272" len="104" a="10" b="119" c="64" />
+        <event tick="215384" len="152" a="9" b="89" c="64" />
+        <event tick="215400" len="152" a="6" b="98" c="64" />
+        <event tick="215640" len="168" a="14" b="103" c="64" />
+        <event tick="215652" len="120" b="119" c="64" />
+        </part>
+      </drumtrack>
+    <tempolist fix="500000">
+      <tempo at="21474837">
+        <tick>0</tick>
+        <val>500000</val>
+        </tempo>
+      </tempolist>
+    <siglist>
+      <sig at="21474836">
+        <tick>0</tick>
+        <nom>4</nom>
+        <denom>4</denom>
+        </sig>
+      </siglist>
+    <drummap>
+      </drummap>
+    </song>
+  <toplevels>
+    </toplevels>
+  </muse>

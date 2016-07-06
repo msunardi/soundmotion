@@ -1,0 +1,22 @@
+To run ASC16 from Python:
+
+Sample code:
+
+import serial
+
+port = '/dev/ttyUSB0'				# default USB port for linux
+ser = serial.Serial(port, 9600, timeout=1)	# instantiate a Serial object ("port name", "baud rate", "other options...") 
+						# default baud rate = 9600.  supplying port name is usually enough
+
+def go(data):
+	# assume data is in a Python list format, e.g. [1, 3, 0]
+	for i in data:
+		ser.write(chr(i))		# data must be sent in 'character' (chr) format - just doing typecasting here...
+
+# That's it!
+
+# Sample ASC16 commands:
+data = [121, 0]					# Enable ASC16 module (code: 121) number 0
+go(data)
+data = [1, 10, 0]				# move Servo 1 (move (mv) code: 1) to position 2550 (code: 10, 0)
+						# each byte only goes to 255.  ASC16 allows 4000 positions.  So, position 0 = 0,0; position 4000 = 4000/255, 4000%255 = 15,175

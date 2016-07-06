@@ -1,0 +1,3910 @@
+Header format=1 ntrks=1 division=384
+Track start
+Time=0  Tempo, microseconds-per-MIDI-quarter-note=500000
+Time=0  Time signature=4/4  MIDI-clocks/click=32  32nd-notes/24-MIDI-clocks=0
+Time=0  Meta Text, type=0x03 (Sequence/Track Name)  leng=8
+     Text = <Track 1\0x00>
+Time=1152  Parameter, chan=1 c1=0 c2=0
+Time=1152  Parameter, chan=1 c1=7 c2=100
+Time=1152  Parameter, chan=1 c1=10 c2=64
+Time=1153  Parameter, chan=1 c1=32 c2=0
+Time=1154  Program, chan=1 program=0
+Time=1156  Parameter, chan=1 c1=11 c2=105
+Time=1156  Parameter, chan=1 c1=91 c2=80
+Time=1156  Parameter, chan=1 c1=93 c2=0
+Time=1528  Note on, chan=1 pitch=92 vol=110
+Time=1532  Note on, chan=1 pitch=80 vol=89
+Time=1544  Note on, chan=1 pitch=56 vol=85
+Time=1548  Note on, chan=1 pitch=55 vol=98
+Time=1548  Note on, chan=1 pitch=60 vol=89
+Time=2080  Note on, chan=1 pitch=92 vol=0
+Time=2084  Note on, chan=1 pitch=55 vol=0
+Time=2088  Note on, chan=1 pitch=80 vol=0
+Time=2092  Note on, chan=1 pitch=60 vol=0
+Time=2092  Note on, chan=1 pitch=56 vol=0
+Time=2184  Note on, chan=1 pitch=92 vol=110
+Time=2184  Note on, chan=1 pitch=80 vol=89
+Time=2188  Note on, chan=1 pitch=56 vol=89
+Time=2192  Note on, chan=1 pitch=60 vol=85
+Time=2200  Note on, chan=1 pitch=55 vol=98
+Time=2228  Note on, chan=1 pitch=60 vol=0
+Time=2236  Note on, chan=1 pitch=55 vol=0
+Time=2248  Note on, chan=1 pitch=56 vol=0
+Time=2248  Note on, chan=1 pitch=80 vol=0
+Time=2256  Note on, chan=1 pitch=92 vol=0
+Time=2964  Note on, chan=1 pitch=83 vol=110
+Time=2968  Note on, chan=1 pitch=89 vol=98
+Time=2968  Note on, chan=1 pitch=53 vol=93
+Time=2972  Note on, chan=1 pitch=59 vol=89
+Time=3032  Note on, chan=1 pitch=59 vol=0
+Time=3032  Note on, chan=1 pitch=53 vol=0
+Time=3044  Note on, chan=1 pitch=89 vol=0
+Time=3080  Note on, chan=1 pitch=84 vol=51
+Time=3096  Note on, chan=1 pitch=83 vol=0
+Time=3112  Note on, chan=1 pitch=89 vol=73
+Time=3120  Note on, chan=1 pitch=84 vol=0
+Time=3168  Note on, chan=1 pitch=84 vol=76
+Time=3220  Note on, chan=1 pitch=83 vol=98
+Time=3232  Note on, chan=1 pitch=89 vol=0
+Time=3248  Note on, chan=1 pitch=84 vol=0
+Time=3304  Note on, chan=1 pitch=83 vol=0
+Time=3332  Note on, chan=1 pitch=77 vol=79
+Time=3368  Note on, chan=1 pitch=77 vol=0
+Time=3436  Note on, chan=1 pitch=82 vol=98
+Time=3508  Note on, chan=1 pitch=83 vol=98
+Time=3524  Note on, chan=1 pitch=82 vol=0
+Time=3652  Note on, chan=1 pitch=83 vol=0
+Time=3720  Note on, chan=1 pitch=82 vol=93
+Time=3728  Note on, chan=1 pitch=58 vol=79
+Time=3736  Note on, chan=1 pitch=52 vol=85
+Time=4132  Note on, chan=1 pitch=52 vol=0
+Time=4148  Note on, chan=1 pitch=58 vol=0
+Time=4168  Note on, chan=1 pitch=82 vol=0
+Time=4236  Note on, chan=1 pitch=80 vol=98
+Time=4468  Note on, chan=1 pitch=80 vol=0
+Time=4492  Note on, chan=1 pitch=77 vol=98
+Time=4500  Note on, chan=1 pitch=56 vol=82
+Time=4504  Note on, chan=1 pitch=60 vol=79
+Time=4512  Note on, chan=1 pitch=55 vol=82
+Time=4540  Note on, chan=1 pitch=60 vol=0
+Time=4548  Note on, chan=1 pitch=55 vol=0
+Time=4552  Note on, chan=1 pitch=56 vol=0
+Time=4556  Note on, chan=1 pitch=77 vol=0
+Time=5232  Note on, chan=1 pitch=87 vol=57
+Time=5276  Note on, chan=1 pitch=87 vol=0
+Time=5284  Note on, chan=1 pitch=89 vol=79
+Time=5320  Note on, chan=1 pitch=89 vol=0
+Time=5384  Note on, chan=1 pitch=92 vol=110
+Time=5388  Note on, chan=1 pitch=80 vol=93
+Time=5440  Note on, chan=1 pitch=92 vol=0
+Time=5444  Note on, chan=1 pitch=80 vol=0
+Time=5500  Note on, chan=1 pitch=92 vol=93
+Time=5500  Note on, chan=1 pitch=80 vol=85
+Time=5604  Note on, chan=1 pitch=92 vol=0
+Time=5616  Note on, chan=1 pitch=80 vol=0
+Time=5636  Note on, chan=1 pitch=89 vol=79
+Time=5672  Note on, chan=1 pitch=89 vol=0
+Time=5748  Note on, chan=1 pitch=92 vol=103
+Time=5752  Note on, chan=1 pitch=80 vol=98
+Time=5920  Note on, chan=1 pitch=80 vol=0
+Time=5928  Note on, chan=1 pitch=92 vol=0
+Time=6020  Note on, chan=1 pitch=92 vol=98
+Time=6020  Note on, chan=1 pitch=80 vol=93
+Time=6024  Note on, chan=1 pitch=61 vol=79
+Time=6028  Note on, chan=1 pitch=60 vol=79
+Time=6028  Note on, chan=1 pitch=65 vol=73
+Time=6036  Note on, chan=1 pitch=56 vol=55
+Time=6060  Note on, chan=1 pitch=60 vol=0
+Time=6064  Note on, chan=1 pitch=65 vol=0
+Time=6076  Note on, chan=1 pitch=56 vol=0
+Time=6084  Note on, chan=1 pitch=61 vol=0
+Time=6096  Note on, chan=1 pitch=80 vol=0
+Time=6096  Note on, chan=1 pitch=92 vol=0
+Time=6724  Note on, chan=1 pitch=80 vol=59
+Time=6760  Note on, chan=1 pitch=80 vol=0
+Time=6788  Note on, chan=1 pitch=85 vol=103
+Time=6888  Note on, chan=1 pitch=85 vol=0
+Time=6952  Note on, chan=1 pitch=84 vol=110
+Time=7112  Note on, chan=1 pitch=84 vol=0
+Time=7180  Note on, chan=1 pitch=83 vol=110
+Time=7188  Note on, chan=1 pitch=61 vol=93
+Time=7192  Note on, chan=1 pitch=65 vol=89
+Time=7192  Note on, chan=1 pitch=55 vol=93
+Time=7288  Note on, chan=1 pitch=83 vol=0
+Time=7340  Note on, chan=1 pitch=79 vol=103
+Time=7352  Note on, chan=1 pitch=55 vol=0
+Time=7356  Note on, chan=1 pitch=65 vol=0
+Time=7364  Note on, chan=1 pitch=61 vol=0
+Time=7564  Note on, chan=1 pitch=79 vol=0
+Time=7568  Note on, chan=1 pitch=76 vol=98
+Time=7692  Note on, chan=1 pitch=76 vol=0
+Time=7788  Note on, chan=1 pitch=75 vol=85
+Time=7972  Note on, chan=1 pitch=75 vol=0
+Time=8072  Note on, chan=1 pitch=82 vol=103
+Time=8076  Note on, chan=1 pitch=58 vol=76
+Time=8076  Note on, chan=1 pitch=63 vol=85
+Time=8080  Note on, chan=1 pitch=60 vol=89
+Time=8080  Note on, chan=1 pitch=55 vol=93
+Time=8308  Note on, chan=1 pitch=82 vol=0
+Time=8340  Note on, chan=1 pitch=78 vol=89
+Time=8400  Note on, chan=1 pitch=79 vol=103
+Time=8404  Note on, chan=1 pitch=78 vol=0
+Time=8884  Note on, chan=1 pitch=55 vol=0
+Time=8892  Note on, chan=1 pitch=60 vol=0
+Time=8900  Note on, chan=1 pitch=79 vol=0
+Time=8900  Note on, chan=1 pitch=63 vol=0
+Time=8908  Note on, chan=1 pitch=58 vol=0
+Time=9532  Note on, chan=1 pitch=61 vol=62
+Time=9536  Note on, chan=1 pitch=60 vol=67
+Time=9540  Note on, chan=1 pitch=65 vol=51
+Time=9544  Note on, chan=1 pitch=56 vol=49
+Time=9588  Note on, chan=1 pitch=65 vol=0
+Time=9588  Note on, chan=1 pitch=60 vol=0
+Time=9600  Note on, chan=1 pitch=56 vol=0
+Time=9600  Note on, chan=1 pitch=61 vol=0
+Time=9612  Note on, chan=1 pitch=84 vol=67
+Time=9688  Note on, chan=1 pitch=84 vol=0
+Time=9716  Note on, chan=1 pitch=85 vol=93
+Time=9796  Note on, chan=1 pitch=85 vol=0
+Time=9804  Note on, chan=1 pitch=84 vol=98
+Time=9892  Note on, chan=1 pitch=84 vol=0
+Time=9912  Note on, chan=1 pitch=82 vol=93
+Time=10000  Note on, chan=1 pitch=80 vol=93
+Time=10012  Note on, chan=1 pitch=82 vol=0
+Time=10092  Note on, chan=1 pitch=80 vol=0
+Time=10096  Note on, chan=1 pitch=77 vol=104
+Time=10188  Note on, chan=1 pitch=77 vol=0
+Time=10192  Note on, chan=1 pitch=75 vol=93
+Time=10212  Note on, chan=1 pitch=61 vol=82
+Time=10216  Note on, chan=1 pitch=55 vol=85
+Time=10220  Note on, chan=1 pitch=65 vol=76
+Time=10292  Note on, chan=1 pitch=73 vol=93
+Time=10308  Note on, chan=1 pitch=75 vol=0
+Time=10348  Note on, chan=1 pitch=65 vol=0
+Time=10352  Note on, chan=1 pitch=55 vol=0
+Time=10360  Note on, chan=1 pitch=61 vol=0
+Time=10384  Note on, chan=1 pitch=73 vol=0
+Time=10388  Note on, chan=1 pitch=72 vol=90
+Time=10452  Note on, chan=1 pitch=72 vol=0
+Time=10484  Note on, chan=1 pitch=70 vol=111
+Time=10572  Note on, chan=1 pitch=68 vol=82
+Time=10580  Note on, chan=1 pitch=70 vol=0
+Time=10644  Note on, chan=1 pitch=68 vol=0
+Time=10672  Note on, chan=1 pitch=65 vol=79
+Time=10716  Note on, chan=1 pitch=65 vol=0
+Time=10756  Note on, chan=1 pitch=67 vol=85
+Time=10764  Note on, chan=1 pitch=63 vol=59
+Time=10764  Note on, chan=1 pitch=58 vol=55
+Time=10768  Note on, chan=1 pitch=55 vol=67
+Time=10768  Note on, chan=1 pitch=60 vol=73
+Time=10952  Note on, chan=1 pitch=55 vol=0
+Time=10960  Note on, chan=1 pitch=67 vol=0
+Time=10964  Note on, chan=1 pitch=60 vol=0
+Time=10968  Note on, chan=1 pitch=58 vol=0
+Time=10968  Note on, chan=1 pitch=63 vol=0
+Time=11028  Note on, chan=1 pitch=58 vol=73
+Time=11032  Note on, chan=1 pitch=67 vol=89
+Time=11032  Note on, chan=1 pitch=60 vol=89
+Time=11036  Note on, chan=1 pitch=55 vol=85
+Time=11036  Note on, chan=1 pitch=63 vol=89
+Time=11068  Note on, chan=1 pitch=55 vol=0
+Time=11068  Note on, chan=1 pitch=60 vol=0
+Time=11080  Note on, chan=1 pitch=63 vol=0
+Time=11084  Note on, chan=1 pitch=67 vol=0
+Time=11088  Note on, chan=1 pitch=58 vol=0
+Time=11516  Note on, chan=1 pitch=70 vol=82
+Time=11528  Note on, chan=1 pitch=55 vol=76
+Time=11532  Note on, chan=1 pitch=60 vol=73
+Time=11532  Note on, chan=1 pitch=58 vol=59
+Time=11536  Note on, chan=1 pitch=63 vol=62
+Time=11656  Note on, chan=1 pitch=55 vol=0
+Time=11672  Note on, chan=1 pitch=63 vol=0
+Time=11672  Note on, chan=1 pitch=60 vol=0
+Time=11680  Note on, chan=1 pitch=58 vol=0
+Time=11700  Note on, chan=1 pitch=70 vol=0
+Time=11764  Note on, chan=1 pitch=70 vol=85
+Time=11768  Note on, chan=1 pitch=58 vol=62
+Time=11772  Note on, chan=1 pitch=63 vol=82
+Time=11772  Note on, chan=1 pitch=55 vol=89
+Time=11772  Note on, chan=1 pitch=60 vol=82
+Time=11832  Note on, chan=1 pitch=60 vol=0
+Time=11832  Note on, chan=1 pitch=63 vol=0
+Time=11844  Note on, chan=1 pitch=55 vol=0
+Time=11844  Note on, chan=1 pitch=70 vol=0
+Time=11848  Note on, chan=1 pitch=58 vol=0
+Time=12196  Note on, chan=1 pitch=68 vol=64
+Time=12240  Note on, chan=1 pitch=68 vol=0
+Time=12288  Note on, chan=1 pitch=70 vol=93
+Time=12424  Note on, chan=1 pitch=70 vol=0
+Time=12428  Note on, chan=1 pitch=68 vol=79
+Time=12472  Note on, chan=1 pitch=68 vol=0
+Time=12528  Note on, chan=1 pitch=70 vol=98
+Time=12536  Note on, chan=1 pitch=53 vol=98
+Time=12536  Note on, chan=1 pitch=63 vol=82
+Time=12540  Note on, chan=1 pitch=59 vol=93
+Time=12640  Parameter, chan=1 c1=64 c2=127
+Time=12700  Note on, chan=1 pitch=63 vol=0
+Time=12700  Note on, chan=1 pitch=70 vol=0
+Time=12704  Note on, chan=1 pitch=59 vol=0
+Time=12704  Note on, chan=1 pitch=53 vol=0
+Time=12988  Parameter, chan=1 c1=64 c2=0
+Time=13044  Note on, chan=1 pitch=75 vol=79
+Time=13048  Note on, chan=1 pitch=63 vol=85
+Time=13048  Note on, chan=1 pitch=70 vol=82
+Time=13052  Note on, chan=1 pitch=58 vol=79
+Time=13056  Note on, chan=1 pitch=52 vol=79
+Time=13096  Parameter, chan=1 c1=64 c2=127
+Time=13156  Note on, chan=1 pitch=52 vol=0
+Time=13156  Note on, chan=1 pitch=75 vol=0
+Time=13164  Note on, chan=1 pitch=63 vol=0
+Time=13176  Note on, chan=1 pitch=58 vol=0
+Time=13184  Note on, chan=1 pitch=70 vol=0
+Time=13252  Parameter, chan=1 c1=64 c2=0
+Time=13288  Note on, chan=1 pitch=73 vol=89
+Time=13288  Note on, chan=1 pitch=61 vol=93
+Time=13292  Note on, chan=1 pitch=58 vol=85
+Time=13304  Note on, chan=1 pitch=52 vol=85
+Time=13344  Parameter, chan=1 c1=64 c2=127
+Time=13380  Note on, chan=1 pitch=52 vol=0
+Time=13380  Note on, chan=1 pitch=58 vol=0
+Time=13380  Note on, chan=1 pitch=61 vol=0
+Time=13408  Note on, chan=1 pitch=73 vol=0
+Time=13788  Parameter, chan=1 c1=64 c2=0
+Time=13820  Note on, chan=1 pitch=60 vol=73
+Time=13824  Note on, chan=1 pitch=72 vol=76
+Time=13828  Note on, chan=1 pitch=67 vol=82
+Time=13828  Note on, chan=1 pitch=56 vol=67
+Time=13836  Note on, chan=1 pitch=55 vol=82
+Time=14060  Note on, chan=1 pitch=60 vol=0
+Time=14076  Note on, chan=1 pitch=67 vol=0
+Time=14080  Note on, chan=1 pitch=55 vol=0
+Time=14080  Note on, chan=1 pitch=56 vol=0
+Time=14080  Note on, chan=1 pitch=72 vol=0
+Time=14592  Note on, chan=1 pitch=64 vol=76
+Time=14596  Note on, chan=1 pitch=67 vol=79
+Time=14596  Note on, chan=1 pitch=56 vol=64
+Time=14600  Note on, chan=1 pitch=50 vol=73
+Time=14600  Note on, chan=1 pitch=60 vol=67
+Time=14684  Parameter, chan=1 c1=64 c2=127
+Time=14696  Note on, chan=1 pitch=50 vol=0
+Time=14704  Note on, chan=1 pitch=60 vol=0
+Time=14712  Note on, chan=1 pitch=64 vol=0
+Time=14716  Note on, chan=1 pitch=56 vol=0
+Time=14728  Note on, chan=1 pitch=67 vol=0
+Time=14748  Parameter, chan=1 c1=64 c2=0
+Time=14844  Note on, chan=1 pitch=50 vol=79
+Time=14852  Note on, chan=1 pitch=65 vol=79
+Time=14852  Note on, chan=1 pitch=56 vol=70
+Time=14852  Note on, chan=1 pitch=68 vol=59
+Time=14856  Note on, chan=1 pitch=60 vol=59
+Time=14892  Note on, chan=1 pitch=65 vol=0
+Time=14896  Note on, chan=1 pitch=60 vol=0
+Time=14908  Note on, chan=1 pitch=50 vol=0
+Time=14912  Note on, chan=1 pitch=68 vol=0
+Time=14916  Note on, chan=1 pitch=56 vol=0
+Time=15612  Note on, chan=1 pitch=67 vol=82
+Time=15616  Note on, chan=1 pitch=70 vol=67
+Time=15620  Note on, chan=1 pitch=59 vol=67
+Time=15624  Note on, chan=1 pitch=53 vol=70
+Time=15656  Note on, chan=1 pitch=59 vol=0
+Time=15656  Note on, chan=1 pitch=67 vol=0
+Time=15664  Note on, chan=1 pitch=53 vol=0
+Time=15672  Note on, chan=1 pitch=70 vol=0
+Time=16124  Note on, chan=1 pitch=68 vol=62
+Time=16124  Note on, chan=1 pitch=63 vol=64
+Time=16128  Note on, chan=1 pitch=58 vol=70
+Time=16128  Note on, chan=1 pitch=72 vol=73
+Time=16136  Note on, chan=1 pitch=52 vol=73
+Time=16312  Parameter, chan=1 c1=64 c2=127
+Time=16540  Note on, chan=1 pitch=63 vol=0
+Time=16548  Note on, chan=1 pitch=72 vol=0
+Time=16552  Note on, chan=1 pitch=68 vol=0
+Time=16572  Note on, chan=1 pitch=58 vol=0
+Time=16576  Note on, chan=1 pitch=52 vol=0
+Time=16604  Parameter, chan=1 c1=64 c2=0
+Time=16908  Note on, chan=1 pitch=67 vol=79
+Time=16912  Note on, chan=1 pitch=70 vol=64
+Time=16920  Note on, chan=1 pitch=56 vol=70
+Time=16924  Note on, chan=1 pitch=60 vol=64
+Time=16928  Note on, chan=1 pitch=55 vol=79
+Time=16980  Parameter, chan=1 c1=64 c2=127
+Time=16996  Note on, chan=1 pitch=67 vol=0
+Time=17012  Note on, chan=1 pitch=55 vol=0
+Time=17016  Note on, chan=1 pitch=60 vol=0
+Time=17020  Note on, chan=1 pitch=70 vol=0
+Time=17024  Note on, chan=1 pitch=56 vol=0
+Time=17512  Parameter, chan=1 c1=64 c2=0
+Time=17524  Note on, chan=1 pitch=68 vol=76
+Time=17532  Note on, chan=1 pitch=56 vol=76
+Time=17536  Note on, chan=1 pitch=65 vol=76
+Time=17536  Note on, chan=1 pitch=50 vol=82
+Time=17540  Note on, chan=1 pitch=60 vol=70
+Time=17572  Note on, chan=1 pitch=65 vol=0
+Time=17580  Note on, chan=1 pitch=60 vol=0
+Time=17584  Note on, chan=1 pitch=50 vol=0
+Time=17596  Note on, chan=1 pitch=56 vol=0
+Time=17596  Note on, chan=1 pitch=68 vol=0
+Time=18432  Note on, chan=1 pitch=68 vol=64
+Time=18436  Note on, chan=1 pitch=61 vol=82
+Time=18436  Note on, chan=1 pitch=65 vol=76
+Time=18440  Note on, chan=1 pitch=72 vol=73
+Time=18444  Note on, chan=1 pitch=56 vol=76
+Time=18484  Parameter, chan=1 c1=64 c2=127
+Time=18508  Note on, chan=1 pitch=65 vol=0
+Time=18520  Note on, chan=1 pitch=72 vol=0
+Time=18520  Note on, chan=1 pitch=61 vol=0
+Time=18520  Note on, chan=1 pitch=68 vol=0
+Time=18532  Note on, chan=1 pitch=56 vol=0
+Time=19052  Parameter, chan=1 c1=64 c2=0
+Time=19064  Note on, chan=1 pitch=61 vol=79
+Time=19064  Note on, chan=1 pitch=67 vol=82
+Time=19068  Note on, chan=1 pitch=72 vol=79
+Time=19072  Note on, chan=1 pitch=55 vol=82
+Time=19416  Parameter, chan=1 c1=64 c2=127
+Time=19500  Note on, chan=1 pitch=55 vol=0
+Time=19504  Note on, chan=1 pitch=67 vol=0
+Time=19508  Note on, chan=1 pitch=72 vol=0
+Time=19508  Note on, chan=1 pitch=61 vol=0
+Time=19916  Parameter, chan=1 c1=64 c2=0
+Time=19948  Note on, chan=1 pitch=70 vol=67
+Time=19952  Note on, chan=1 pitch=67 vol=79
+Time=19952  Note on, chan=1 pitch=63 vol=67
+Time=19960  Note on, chan=1 pitch=60 vol=70
+Time=19960  Note on, chan=1 pitch=55 vol=73
+Time=19964  Note on, chan=1 pitch=58 vol=64
+Time=20072  Parameter, chan=1 c1=64 c2=127
+Time=20144  Note on, chan=1 pitch=67 vol=0
+Time=20148  Note on, chan=1 pitch=55 vol=0
+Time=20152  Note on, chan=1 pitch=58 vol=0
+Time=20156  Note on, chan=1 pitch=60 vol=0
+Time=20164  Note on, chan=1 pitch=70 vol=0
+Time=20168  Note on, chan=1 pitch=63 vol=0
+Time=20588  Parameter, chan=1 c1=64 c2=0
+Time=20596  Parameter, chan=1 c1=64 c2=127
+Time=20604  Parameter, chan=1 c1=64 c2=0
+Time=20616  Note on, chan=1 pitch=67 vol=73
+Time=20616  Note on, chan=1 pitch=63 vol=70
+Time=20620  Note on, chan=1 pitch=60 vol=70
+Time=20624  Note on, chan=1 pitch=55 vol=82
+Time=20624  Note on, chan=1 pitch=56 vol=70
+Time=20980  Parameter, chan=1 c1=64 c2=127
+Time=21064  Note on, chan=1 pitch=60 vol=0
+Time=21076  Note on, chan=1 pitch=63 vol=0
+Time=21080  Note on, chan=1 pitch=55 vol=0
+Time=21084  Note on, chan=1 pitch=56 vol=0
+Time=21100  Note on, chan=1 pitch=67 vol=0
+Time=21404  Parameter, chan=1 c1=64 c2=0
+Time=21756  Note on, chan=1 pitch=68 vol=79
+Time=21760  Note on, chan=1 pitch=61 vol=76
+Time=21760  Note on, chan=1 pitch=56 vol=82
+Time=21764  Note on, chan=1 pitch=65 vol=82
+Time=21796  Parameter, chan=1 c1=64 c2=127
+Time=21864  Note on, chan=1 pitch=61 vol=0
+Time=21876  Note on, chan=1 pitch=56 vol=0
+Time=21888  Note on, chan=1 pitch=65 vol=0
+Time=21896  Note on, chan=1 pitch=68 vol=0
+Time=22020  Note on, chan=1 pitch=72 vol=93
+Time=22092  Note on, chan=1 pitch=72 vol=0
+Time=22228  Parameter, chan=1 c1=64 c2=0
+Time=22236  Note on, chan=1 pitch=72 vol=79
+Time=22248  Note on, chan=1 pitch=67 vol=76
+Time=22252  Note on, chan=1 pitch=61 vol=73
+Time=22256  Note on, chan=1 pitch=55 vol=82
+Time=22624  Parameter, chan=1 c1=64 c2=127
+Time=22728  Note on, chan=1 pitch=61 vol=0
+Time=22732  Note on, chan=1 pitch=55 vol=0
+Time=22732  Note on, chan=1 pitch=67 vol=0
+Time=22736  Note on, chan=1 pitch=72 vol=0
+Time=23024  Note on, chan=1 pitch=70 vol=67
+Time=23032  Parameter, chan=1 c1=64 c2=0
+Time=23036  Note on, chan=1 pitch=67 vol=76
+Time=23036  Note on, chan=1 pitch=63 vol=64
+Time=23040  Note on, chan=1 pitch=60 vol=73
+Time=23044  Note on, chan=1 pitch=58 vol=57
+Time=23044  Note on, chan=1 pitch=55 vol=76
+Time=23500  Parameter, chan=1 c1=64 c2=127
+Time=23876  Note on, chan=1 pitch=67 vol=0
+Time=23880  Note on, chan=1 pitch=63 vol=0
+Time=23904  Note on, chan=1 pitch=55 vol=0
+Time=23904  Note on, chan=1 pitch=60 vol=0
+Time=23928  Note on, chan=1 pitch=58 vol=0
+Time=23944  Note on, chan=1 pitch=70 vol=0
+Time=24436  Parameter, chan=1 c1=64 c2=0
+Time=24564  Note on, chan=1 pitch=68 vol=82
+Time=24564  Note on, chan=1 pitch=53 vol=85
+Time=24568  Note on, chan=1 pitch=59 vol=76
+Time=24568  Note on, chan=1 pitch=65 vol=89
+Time=24656  Parameter, chan=1 c1=64 c2=127
+Time=24692  Note on, chan=1 pitch=68 vol=0
+Time=24696  Note on, chan=1 pitch=65 vol=0
+Time=24712  Note on, chan=1 pitch=59 vol=0
+Time=24720  Note on, chan=1 pitch=53 vol=0
+Time=25296  Parameter, chan=1 c1=64 c2=0
+Time=25304  Parameter, chan=1 c1=64 c2=127
+Time=25312  Parameter, chan=1 c1=64 c2=0
+Time=25312  Note on, chan=1 pitch=63 vol=79
+Time=25320  Note on, chan=1 pitch=58 vol=73
+Time=25324  Note on, chan=1 pitch=68 vol=62
+Time=25324  Note on, chan=1 pitch=72 vol=76
+Time=25332  Note on, chan=1 pitch=52 vol=79
+Time=25628  Parameter, chan=1 c1=64 c2=127
+Time=25736  Note on, chan=1 pitch=63 vol=0
+Time=25748  Note on, chan=1 pitch=72 vol=0
+Time=25752  Note on, chan=1 pitch=52 vol=0
+Time=25764  Note on, chan=1 pitch=68 vol=0
+Time=25764  Note on, chan=1 pitch=58 vol=0
+Time=26060  Parameter, chan=1 c1=64 c2=0
+Time=26104  Note on, chan=1 pitch=70 vol=67
+Time=26104  Note on, chan=1 pitch=67 vol=79
+Time=26112  Note on, chan=1 pitch=56 vol=73
+Time=26116  Note on, chan=1 pitch=55 vol=73
+Time=26116  Note on, chan=1 pitch=60 vol=70
+Time=26208  Parameter, chan=1 c1=64 c2=127
+Time=26252  Note on, chan=1 pitch=67 vol=0
+Time=26260  Note on, chan=1 pitch=55 vol=0
+Time=26268  Note on, chan=1 pitch=60 vol=0
+Time=26272  Note on, chan=1 pitch=56 vol=0
+Time=26276  Note on, chan=1 pitch=70 vol=0
+Time=26840  Parameter, chan=1 c1=64 c2=0
+Time=26884  Note on, chan=1 pitch=56 vol=64
+Time=26884  Note on, chan=1 pitch=68 vol=70
+Time=26888  Note on, chan=1 pitch=50 vol=73
+Time=26892  Note on, chan=1 pitch=65 vol=76
+Time=26896  Note on, chan=1 pitch=60 vol=62
+Time=27024  Note on, chan=1 pitch=50 vol=0
+Time=27028  Note on, chan=1 pitch=60 vol=0
+Time=27040  Note on, chan=1 pitch=65 vol=0
+Time=27040  Note on, chan=1 pitch=56 vol=0
+Time=27056  Note on, chan=1 pitch=68 vol=0
+Time=27140  Note on, chan=1 pitch=68 vol=64
+Time=27144  Note on, chan=1 pitch=56 vol=73
+Time=27152  Note on, chan=1 pitch=50 vol=82
+Time=27152  Note on, chan=1 pitch=65 vol=73
+Time=27156  Note on, chan=1 pitch=60 vol=70
+Time=27192  Note on, chan=1 pitch=65 vol=0
+Time=27192  Note on, chan=1 pitch=50 vol=0
+Time=27196  Note on, chan=1 pitch=60 vol=0
+Time=27208  Note on, chan=1 pitch=68 vol=0
+Time=27216  Note on, chan=1 pitch=56 vol=0
+Time=27644  Note on, chan=1 pitch=59 vol=76
+Time=27648  Note on, chan=1 pitch=53 vol=76
+Time=27652  Note on, chan=1 pitch=68 vol=64
+Time=27652  Note on, chan=1 pitch=65 vol=73
+Time=27696  Note on, chan=1 pitch=65 vol=0
+Time=27704  Note on, chan=1 pitch=59 vol=0
+Time=27708  Note on, chan=1 pitch=68 vol=0
+Time=27724  Note on, chan=1 pitch=53 vol=0
+Time=28272  Note on, chan=1 pitch=58 vol=73
+Time=28272  Note on, chan=1 pitch=68 vol=73
+Time=28276  Note on, chan=1 pitch=63 vol=70
+Time=28276  Note on, chan=1 pitch=72 vol=82
+Time=28280  Note on, chan=1 pitch=52 vol=79
+Time=28480  Parameter, chan=1 c1=64 c2=127
+Time=28640  Note on, chan=1 pitch=63 vol=0
+Time=28652  Note on, chan=1 pitch=72 vol=0
+Time=28656  Note on, chan=1 pitch=68 vol=0
+Time=28676  Note on, chan=1 pitch=52 vol=0
+Time=28688  Note on, chan=1 pitch=58 vol=0
+Time=29108  Parameter, chan=1 c1=64 c2=0
+Time=29168  Note on, chan=1 pitch=67 vol=76
+Time=29172  Note on, chan=1 pitch=72 vol=82
+Time=29172  Note on, chan=1 pitch=79 vol=82
+Time=29172  Note on, chan=1 pitch=56 vol=76
+Time=29184  Note on, chan=1 pitch=60 vol=70
+Time=29184  Note on, chan=1 pitch=55 vol=85
+Time=29292  Parameter, chan=1 c1=64 c2=127
+Time=29380  Note on, chan=1 pitch=55 vol=0
+Time=29404  Note on, chan=1 pitch=72 vol=0
+Time=29408  Note on, chan=1 pitch=60 vol=0
+Time=29412  Note on, chan=1 pitch=56 vol=0
+Time=29416  Note on, chan=1 pitch=67 vol=0
+Time=29428  Note on, chan=1 pitch=79 vol=0
+Time=29788  Note on, chan=1 pitch=65 vol=89
+Time=29796  Note on, chan=1 pitch=77 vol=85
+Time=29796  Note on, chan=1 pitch=50 vol=82
+Time=29800  Note on, chan=1 pitch=56 vol=70
+Time=29804  Parameter, chan=1 c1=64 c2=0
+Time=29804  Note on, chan=1 pitch=60 vol=70
+Time=29844  Note on, chan=1 pitch=60 vol=0
+Time=29844  Note on, chan=1 pitch=50 vol=0
+Time=29852  Note on, chan=1 pitch=65 vol=0
+Time=29860  Note on, chan=1 pitch=56 vol=0
+Time=29860  Note on, chan=1 pitch=77 vol=0
+Time=30964  Note on, chan=1 pitch=77 vol=85
+Time=30968  Note on, chan=1 pitch=61 vol=82
+Time=30972  Note on, chan=1 pitch=65 vol=79
+Time=30976  Note on, chan=1 pitch=56 vol=70
+Time=30980  Note on, chan=1 pitch=72 vol=67
+Time=30980  Note on, chan=1 pitch=84 vol=67
+Time=31016  Note on, chan=1 pitch=84 vol=0
+Time=31016  Note on, chan=1 pitch=72 vol=0
+Time=31016  Note on, chan=1 pitch=65 vol=0
+Time=31020  Note on, chan=1 pitch=56 vol=0
+Time=31028  Note on, chan=1 pitch=77 vol=0
+Time=31032  Note on, chan=1 pitch=61 vol=0
+Time=31372  Note on, chan=1 pitch=72 vol=85
+Time=31376  Note on, chan=1 pitch=84 vol=85
+Time=31376  Note on, chan=1 pitch=61 vol=82
+Time=31380  Note on, chan=1 pitch=79 vol=82
+Time=31380  Note on, chan=1 pitch=55 vol=89
+Time=31384  Note on, chan=1 pitch=65 vol=82
+Time=31572  Parameter, chan=1 c1=64 c2=127
+Time=31736  Note on, chan=1 pitch=72 vol=0
+Time=31740  Note on, chan=1 pitch=84 vol=0
+Time=31748  Note on, chan=1 pitch=65 vol=0
+Time=31748  Note on, chan=1 pitch=55 vol=0
+Time=31764  Note on, chan=1 pitch=79 vol=0
+Time=31764  Note on, chan=1 pitch=61 vol=0
+Time=32200  Parameter, chan=1 c1=64 c2=0
+Time=32240  Note on, chan=1 pitch=70 vol=73
+Time=32240  Note on, chan=1 pitch=82 vol=76
+Time=32252  Note on, chan=1 pitch=75 vol=79
+Time=32256  Note on, chan=1 pitch=60 vol=79
+Time=32260  Note on, chan=1 pitch=55 vol=73
+Time=32264  Note on, chan=1 pitch=63 vol=64
+Time=32264  Note on, chan=1 pitch=58 vol=62
+Time=32352  Parameter, chan=1 c1=64 c2=127
+Time=32420  Note on, chan=1 pitch=55 vol=0
+Time=32428  Note on, chan=1 pitch=82 vol=0
+Time=32432  Note on, chan=1 pitch=60 vol=0
+Time=32436  Note on, chan=1 pitch=63 vol=0
+Time=32436  Note on, chan=1 pitch=75 vol=0
+Time=32436  Note on, chan=1 pitch=70 vol=0
+Time=32448  Note on, chan=1 pitch=58 vol=0
+Time=32984  Parameter, chan=1 c1=64 c2=0
+Time=32996  Note on, chan=1 pitch=68 vol=64
+Time=32996  Note on, chan=1 pitch=63 vol=57
+Time=33004  Note on, chan=1 pitch=67 vol=85
+Time=33004  Note on, chan=1 pitch=72 vol=79
+Time=33012  Note on, chan=1 pitch=53 vol=73
+Time=33012  Note on, chan=1 pitch=60 vol=70
+Time=33236  Parameter, chan=1 c1=64 c2=127
+Time=33344  Note on, chan=1 pitch=67 vol=0
+Time=33360  Note on, chan=1 pitch=53 vol=0
+Time=33360  Note on, chan=1 pitch=68 vol=0
+Time=33368  Note on, chan=1 pitch=60 vol=0
+Time=33372  Note on, chan=1 pitch=63 vol=0
+Time=33380  Note on, chan=1 pitch=72 vol=0
+Time=33756  Parameter, chan=1 c1=64 c2=0
+Time=33816  Note on, chan=1 pitch=61 vol=70
+Time=33820  Note on, chan=1 pitch=56 vol=73
+Time=33972  Parameter, chan=1 c1=64 c2=127
+Time=34084  Note on, chan=1 pitch=65 vol=76
+Time=34100  Note on, chan=1 pitch=61 vol=0
+Time=34112  Note on, chan=1 pitch=56 vol=0
+Time=34124  Note on, chan=1 pitch=65 vol=0
+Time=34212  Note on, chan=1 pitch=68 vol=76
+Time=34272  Note on, chan=1 pitch=68 vol=0
+Time=34432  Parameter, chan=1 c1=64 c2=0
+Time=34452  Note on, chan=1 pitch=67 vol=82
+Time=34460  Note on, chan=1 pitch=64 vol=76
+Time=34460  Note on, chan=1 pitch=61 vol=70
+Time=34472  Note on, chan=1 pitch=55 vol=82
+Time=34812  Parameter, chan=1 c1=64 c2=127
+Time=34928  Note on, chan=1 pitch=55 vol=0
+Time=34936  Note on, chan=1 pitch=61 vol=0
+Time=34936  Note on, chan=1 pitch=64 vol=0
+Time=34936  Note on, chan=1 pitch=67 vol=0
+Time=35272  Parameter, chan=1 c1=64 c2=0
+Time=35296  Note on, chan=1 pitch=67 vol=76
+Time=35296  Note on, chan=1 pitch=63 vol=67
+Time=35296  Note on, chan=1 pitch=70 vol=64
+Time=35304  Note on, chan=1 pitch=60 vol=79
+Time=35308  Note on, chan=1 pitch=58 vol=62
+Time=35652  Parameter, chan=1 c1=64 c2=127
+Time=35796  Note on, chan=1 pitch=67 vol=0
+Time=35812  Note on, chan=1 pitch=63 vol=0
+Time=35828  Note on, chan=1 pitch=60 vol=0
+Time=35836  Note on, chan=1 pitch=58 vol=0
+Time=35836  Note on, chan=1 pitch=70 vol=0
+Time=36292  Parameter, chan=1 c1=64 c2=0
+Time=36328  Note on, chan=1 pitch=58 vol=76
+Time=36332  Note on, chan=1 pitch=72 vol=76
+Time=36336  Note on, chan=1 pitch=67 vol=82
+Time=36388  Note on, chan=1 pitch=58 vol=0
+Time=36392  Note on, chan=1 pitch=67 vol=0
+Time=36400  Note on, chan=1 pitch=72 vol=0
+Time=37092  Note on, chan=1 pitch=67 vol=70
+Time=37100  Note on, chan=1 pitch=58 vol=76
+Time=37100  Note on, chan=1 pitch=72 vol=73
+Time=37140  Note on, chan=1 pitch=72 vol=0
+Time=37148  Note on, chan=1 pitch=67 vol=0
+Time=37160  Note on, chan=1 pitch=58 vol=0
+Time=37596  Note on, chan=1 pitch=70 vol=64
+Time=37600  Note on, chan=1 pitch=60 vol=73
+Time=37604  Note on, chan=1 pitch=63 vol=67
+Time=37608  Note on, chan=1 pitch=55 vol=82
+Time=37624  Parameter, chan=1 c1=64 c2=127
+Time=37688  Note on, chan=1 pitch=55 vol=0
+Time=37692  Note on, chan=1 pitch=60 vol=0
+Time=37700  Note on, chan=1 pitch=63 vol=0
+Time=37700  Note on, chan=1 pitch=70 vol=0
+Time=37832  Parameter, chan=1 c1=64 c2=0
+Time=37876  Note on, chan=1 pitch=51 vol=85
+Time=37964  Parameter, chan=1 c1=64 c2=127
+Time=38068  Note on, chan=1 pitch=51 vol=0
+Time=38120  Note on, chan=1 pitch=67 vol=85
+Time=38128  Note on, chan=1 pitch=60 vol=76
+Time=38132  Note on, chan=1 pitch=63 vol=73
+Time=38172  Note on, chan=1 pitch=63 vol=0
+Time=38184  Note on, chan=1 pitch=60 vol=0
+Time=38188  Note on, chan=1 pitch=67 vol=0
+Time=38328  Parameter, chan=1 c1=64 c2=0
+Time=38384  Note on, chan=1 pitch=57 vol=85
+Time=38388  Note on, chan=1 pitch=63 vol=76
+Time=38388  Note on, chan=1 pitch=66 vol=73
+Time=38392  Note on, chan=1 pitch=60 vol=85
+Time=39052  Parameter, chan=1 c1=64 c2=127
+Time=39196  Note on, chan=1 pitch=57 vol=0
+Time=39212  Note on, chan=1 pitch=60 vol=0
+Time=39248  Note on, chan=1 pitch=63 vol=0
+Time=39256  Note on, chan=1 pitch=66 vol=0
+Time=39920  Parameter, chan=1 c1=64 c2=0
+Time=39936  Note on, chan=1 pitch=68 vol=70
+Time=39940  Note on, chan=1 pitch=61 vol=76
+Time=39944  Note on, chan=1 pitch=65 vol=76
+Time=39948  Note on, chan=1 pitch=72 vol=73
+Time=39948  Note on, chan=1 pitch=56 vol=79
+Time=40260  Parameter, chan=1 c1=64 c2=127
+Time=40612  Note on, chan=1 pitch=65 vol=0
+Time=40620  Note on, chan=1 pitch=56 vol=0
+Time=40620  Note on, chan=1 pitch=61 vol=0
+Time=40636  Note on, chan=1 pitch=68 vol=0
+Time=40656  Note on, chan=1 pitch=72 vol=0
+Time=41416  Parameter, chan=1 c1=64 c2=0
+Time=41716  Note on, chan=1 pitch=56 vol=85
+Time=41716  Note on, chan=1 pitch=61 vol=85
+Time=41720  Note on, chan=1 pitch=84 vol=79
+Time=41720  Note on, chan=1 pitch=77 vol=79
+Time=41724  Note on, chan=1 pitch=72 vol=76
+Time=41728  Note on, chan=1 pitch=65 vol=76
+Time=41756  Note on, chan=1 pitch=72 vol=0
+Time=41756  Note on, chan=1 pitch=77 vol=0
+Time=41756  Note on, chan=1 pitch=84 vol=0
+Time=41764  Note on, chan=1 pitch=65 vol=0
+Time=41776  Note on, chan=1 pitch=61 vol=0
+Time=41780  Note on, chan=1 pitch=56 vol=0
+Time=42104  Note on, chan=1 pitch=72 vol=79
+Time=42104  Note on, chan=1 pitch=84 vol=79
+Time=42108  Note on, chan=1 pitch=79 vol=79
+Time=42112  Note on, chan=1 pitch=61 vol=79
+Time=42112  Note on, chan=1 pitch=55 vol=89
+Time=42116  Note on, chan=1 pitch=65 vol=82
+Time=42404  Parameter, chan=1 c1=64 c2=127
+Time=42484  Note on, chan=1 pitch=84 vol=0
+Time=42492  Note on, chan=1 pitch=72 vol=0
+Time=42504  Note on, chan=1 pitch=79 vol=0
+Time=42512  Note on, chan=1 pitch=65 vol=0
+Time=42520  Note on, chan=1 pitch=55 vol=0
+Time=42532  Note on, chan=1 pitch=61 vol=0
+Time=42996  Parameter, chan=1 c1=64 c2=0
+Time=43012  Note on, chan=1 pitch=82 vol=79
+Time=43016  Note on, chan=1 pitch=70 vol=67
+Time=43020  Note on, chan=1 pitch=75 vol=73
+Time=43024  Note on, chan=1 pitch=58 vol=62
+Time=43028  Note on, chan=1 pitch=55 vol=76
+Time=43028  Note on, chan=1 pitch=63 vol=70
+Time=43032  Note on, chan=1 pitch=60 vol=79
+Time=43528  Parameter, chan=1 c1=64 c2=127
+Time=43932  Note on, chan=1 pitch=75 vol=0
+Time=43932  Note on, chan=1 pitch=82 vol=0
+Time=43944  Note on, chan=1 pitch=60 vol=0
+Time=43948  Note on, chan=1 pitch=63 vol=0
+Time=43948  Note on, chan=1 pitch=70 vol=0
+Time=43952  Note on, chan=1 pitch=55 vol=0
+Time=43960  Note on, chan=1 pitch=58 vol=0
+Time=44492  Parameter, chan=1 c1=64 c2=0
+Time=44504  Note on, chan=1 pitch=53 vol=85
+Time=44512  Note on, chan=1 pitch=66 vol=76
+Time=44512  Note on, chan=1 pitch=63 vol=76
+Time=44512  Note on, chan=1 pitch=57 vol=82
+Time=44516  Note on, chan=1 pitch=60 vol=79
+Time=45096  Parameter, chan=1 c1=64 c2=127
+Time=45476  Note on, chan=1 pitch=57 vol=0
+Time=45480  Note on, chan=1 pitch=60 vol=0
+Time=45508  Note on, chan=1 pitch=63 vol=0
+Time=45508  Note on, chan=1 pitch=53 vol=0
+Time=45516  Note on, chan=1 pitch=66 vol=0
+Time=46004  Parameter, chan=1 c1=64 c2=0
+Time=46084  Note on, chan=1 pitch=61 vol=73
+Time=46088  Note on, chan=1 pitch=68 vol=64
+Time=46092  Note on, chan=1 pitch=72 vol=79
+Time=46092  Note on, chan=1 pitch=65 vol=76
+Time=46096  Note on, chan=1 pitch=56 vol=79
+Time=46212  Parameter, chan=1 c1=64 c2=127
+Time=46360  Note on, chan=1 pitch=65 vol=0
+Time=46364  Note on, chan=1 pitch=72 vol=0
+Time=46372  Note on, chan=1 pitch=68 vol=0
+Time=46388  Note on, chan=1 pitch=56 vol=0
+Time=46392  Note on, chan=1 pitch=61 vol=0
+Time=46712  Note on, chan=1 pitch=61 vol=85
+Time=46716  Note on, chan=1 pitch=56 vol=85
+Time=46716  Note on, chan=1 pitch=72 vol=82
+Time=46720  Note on, chan=1 pitch=68 vol=64
+Time=46724  Note on, chan=1 pitch=65 vol=73
+Time=46724  Parameter, chan=1 c1=64 c2=0
+Time=46760  Note on, chan=1 pitch=65 vol=0
+Time=46776  Note on, chan=1 pitch=68 vol=0
+Time=46776  Note on, chan=1 pitch=61 vol=0
+Time=46780  Note on, chan=1 pitch=72 vol=0
+Time=46784  Note on, chan=1 pitch=56 vol=0
+Time=47860  Note on, chan=1 pitch=56 vol=82
+Time=47864  Note on, chan=1 pitch=61 vol=82
+Time=47868  Note on, chan=1 pitch=84 vol=79
+Time=47868  Note on, chan=1 pitch=65 vol=76
+Time=47872  Note on, chan=1 pitch=77 vol=76
+Time=47872  Note on, chan=1 pitch=72 vol=64
+Time=47908  Note on, chan=1 pitch=77 vol=0
+Time=47908  Note on, chan=1 pitch=65 vol=0
+Time=47908  Note on, chan=1 pitch=84 vol=0
+Time=47912  Note on, chan=1 pitch=72 vol=0
+Time=47924  Note on, chan=1 pitch=61 vol=0
+Time=47928  Note on, chan=1 pitch=56 vol=0
+Time=48256  Note on, chan=1 pitch=84 vol=79
+Time=48256  Note on, chan=1 pitch=61 vol=76
+Time=48260  Note on, chan=1 pitch=79 vol=79
+Time=48264  Note on, chan=1 pitch=72 vol=76
+Time=48264  Note on, chan=1 pitch=65 vol=79
+Time=48268  Note on, chan=1 pitch=55 vol=82
+Time=48480  Parameter, chan=1 c1=64 c2=127
+Time=48624  Note on, chan=1 pitch=72 vol=0
+Time=48624  Note on, chan=1 pitch=84 vol=0
+Time=48636  Note on, chan=1 pitch=79 vol=0
+Time=48644  Note on, chan=1 pitch=65 vol=0
+Time=48660  Note on, chan=1 pitch=55 vol=0
+Time=48660  Note on, chan=1 pitch=61 vol=0
+Time=49072  Parameter, chan=1 c1=64 c2=0
+Time=49136  Note on, chan=1 pitch=82 vol=79
+Time=49140  Note on, chan=1 pitch=70 vol=73
+Time=49144  Note on, chan=1 pitch=75 vol=76
+Time=49148  Note on, chan=1 pitch=60 vol=82
+Time=49152  Note on, chan=1 pitch=63 vol=73
+Time=49152  Note on, chan=1 pitch=55 vol=79
+Time=49152  Note on, chan=1 pitch=58 vol=67
+Time=49216  Parameter, chan=1 c1=64 c2=127
+Time=49240  Note on, chan=1 pitch=75 vol=0
+Time=49244  Note on, chan=1 pitch=55 vol=0
+Time=49252  Note on, chan=1 pitch=70 vol=0
+Time=49256  Note on, chan=1 pitch=82 vol=0
+Time=49260  Note on, chan=1 pitch=63 vol=0
+Time=49260  Note on, chan=1 pitch=60 vol=0
+Time=49268  Note on, chan=1 pitch=58 vol=0
+Time=49748  Parameter, chan=1 c1=64 c2=0
+Time=49764  Note on, chan=1 pitch=68 vol=67
+Time=49768  Note on, chan=1 pitch=75 vol=70
+Time=49772  Note on, chan=1 pitch=72 vol=82
+Time=49772  Note on, chan=1 pitch=63 vol=79
+Time=49776  Note on, chan=1 pitch=58 vol=73
+Time=49780  Note on, chan=1 pitch=52 vol=82
+Time=50040  Parameter, chan=1 c1=64 c2=127
+Time=50164  Note on, chan=1 pitch=72 vol=0
+Time=50172  Note on, chan=1 pitch=52 vol=0
+Time=50180  Note on, chan=1 pitch=63 vol=0
+Time=50184  Note on, chan=1 pitch=58 vol=0
+Time=50196  Note on, chan=1 pitch=75 vol=0
+Time=50196  Note on, chan=1 pitch=68 vol=0
+Time=50628  Parameter, chan=1 c1=64 c2=0
+Time=50672  Note on, chan=1 pitch=56 vol=76
+Time=50676  Note on, chan=1 pitch=67 vol=73
+Time=50676  Note on, chan=1 pitch=72 vol=79
+Time=50680  Note on, chan=1 pitch=60 vol=67
+Time=50684  Note on, chan=1 pitch=55 vol=82
+Time=50804  Parameter, chan=1 c1=64 c2=127
+Time=50844  Note on, chan=1 pitch=55 vol=0
+Time=50848  Note on, chan=1 pitch=56 vol=0
+Time=50852  Note on, chan=1 pitch=60 vol=0
+Time=50856  Note on, chan=1 pitch=67 vol=0
+Time=50864  Note on, chan=1 pitch=72 vol=0
+Time=51432  Parameter, chan=1 c1=64 c2=0
+Time=51452  Note on, chan=1 pitch=68 vol=67
+Time=51456  Note on, chan=1 pitch=56 vol=64
+Time=51460  Note on, chan=1 pitch=65 vol=73
+Time=51468  Note on, chan=1 pitch=50 vol=67
+Time=51468  Note on, chan=1 pitch=60 vol=59
+Time=51640  Parameter, chan=1 c1=64 c2=127
+Time=51824  Note on, chan=1 pitch=50 vol=0
+Time=51856  Note on, chan=1 pitch=56 vol=0
+Time=51860  Note on, chan=1 pitch=60 vol=0
+Time=51876  Note on, chan=1 pitch=65 vol=0
+Time=51896  Note on, chan=1 pitch=68 vol=0
+Time=52156  Parameter, chan=1 c1=64 c2=0
+Time=52236  Note on, chan=1 pitch=68 vol=73
+Time=52240  Note on, chan=1 pitch=59 vol=70
+Time=52244  Note on, chan=1 pitch=53 vol=79
+Time=52244  Note on, chan=1 pitch=65 vol=76
+Time=52324  Parameter, chan=1 c1=64 c2=127
+Time=52328  Note on, chan=1 pitch=65 vol=0
+Time=52332  Note on, chan=1 pitch=59 vol=0
+Time=52336  Note on, chan=1 pitch=53 vol=0
+Time=52336  Note on, chan=1 pitch=68 vol=0
+Time=52832  Parameter, chan=1 c1=64 c2=0
+Time=52844  Note on, chan=1 pitch=58 vol=67
+Time=52848  Note on, chan=1 pitch=68 vol=64
+Time=52848  Note on, chan=1 pitch=63 vol=67
+Time=52852  Note on, chan=1 pitch=72 vol=73
+Time=52860  Note on, chan=1 pitch=52 vol=70
+Time=53048  Parameter, chan=1 c1=64 c2=127
+Time=53160  Note on, chan=1 pitch=63 vol=0
+Time=53184  Note on, chan=1 pitch=52 vol=0
+Time=53188  Note on, chan=1 pitch=72 vol=0
+Time=53204  Note on, chan=1 pitch=68 vol=0
+Time=53208  Note on, chan=1 pitch=58 vol=0
+Time=53660  Parameter, chan=1 c1=64 c2=0
+Time=53740  Note on, chan=1 pitch=70 vol=76
+Time=53748  Note on, chan=1 pitch=67 vol=79
+Time=53756  Note on, chan=1 pitch=56 vol=64
+Time=53756  Note on, chan=1 pitch=55 vol=76
+Time=53764  Parameter, chan=1 c1=64 c2=127
+Time=53764  Note on, chan=1 pitch=60 vol=55
+Time=53896  Note on, chan=1 pitch=55 vol=0
+Time=53920  Note on, chan=1 pitch=60 vol=0
+Time=53928  Note on, chan=1 pitch=56 vol=0
+Time=53968  Note on, chan=1 pitch=70 vol=0
+Time=53988  Note on, chan=1 pitch=67 vol=0
+Time=54044  Parameter, chan=1 c1=64 c2=0
+Time=54124  Note on, chan=1 pitch=70 vol=73
+Time=54128  Note on, chan=1 pitch=67 vol=82
+Time=54136  Note on, chan=1 pitch=55 vol=85
+Time=54140  Note on, chan=1 pitch=56 vol=70
+Time=54140  Note on, chan=1 pitch=60 vol=67
+Time=54172  Parameter, chan=1 c1=64 c2=127
+Time=54180  Note on, chan=1 pitch=60 vol=0
+Time=54180  Note on, chan=1 pitch=55 vol=0
+Time=54200  Note on, chan=1 pitch=56 vol=0
+Time=54212  Note on, chan=1 pitch=67 vol=0
+Time=54244  Note on, chan=1 pitch=70 vol=0
+Time=54396  Parameter, chan=1 c1=64 c2=0
+Time=54396  Note on, chan=1 pitch=68 vol=62
+Time=54404  Note on, chan=1 pitch=50 vol=85
+Time=54404  Note on, chan=1 pitch=65 vol=73
+Time=54408  Note on, chan=1 pitch=60 vol=76
+Time=54412  Note on, chan=1 pitch=56 vol=59
+Time=54728  Parameter, chan=1 c1=64 c2=127
+Time=54852  Note on, chan=1 pitch=65 vol=0
+Time=54852  Note on, chan=1 pitch=50 vol=0
+Time=54876  Note on, chan=1 pitch=60 vol=0
+Time=54880  Note on, chan=1 pitch=56 vol=0
+Time=54880  Note on, chan=1 pitch=68 vol=0
+Time=55224  Parameter, chan=1 c1=64 c2=0
+Time=55284  Note on, chan=1 pitch=61 vol=79
+Time=55284  Note on, chan=1 pitch=68 vol=64
+Time=55288  Note on, chan=1 pitch=73 vol=64
+Time=55292  Note on, chan=1 pitch=56 vol=79
+Time=55296  Note on, chan=1 pitch=65 vol=67
+Time=55344  Note on, chan=1 pitch=65 vol=0
+Time=55352  Note on, chan=1 pitch=61 vol=0
+Time=55356  Note on, chan=1 pitch=56 vol=0
+Time=55356  Note on, chan=1 pitch=68 vol=0
+Time=55360  Note on, chan=1 pitch=73 vol=0
+Time=55928  Note on, chan=1 pitch=72 vol=85
+Time=55928  Note on, chan=1 pitch=61 vol=82
+Time=55932  Note on, chan=1 pitch=67 vol=85
+Time=55936  Note on, chan=1 pitch=55 vol=85
+Time=56148  Parameter, chan=1 c1=64 c2=127
+Time=56308  Note on, chan=1 pitch=67 vol=0
+Time=56360  Note on, chan=1 pitch=72 vol=0
+Time=56364  Note on, chan=1 pitch=55 vol=0
+Time=56376  Note on, chan=1 pitch=61 vol=0
+Time=56772  Parameter, chan=1 c1=64 c2=0
+Time=56780  Parameter, chan=1 c1=64 c2=127
+Time=56788  Parameter, chan=1 c1=64 c2=0
+Time=56824  Note on, chan=1 pitch=82 vol=76
+Time=56832  Note on, chan=1 pitch=70 vol=57
+Time=56832  Note on, chan=1 pitch=75 vol=73
+Time=56840  Note on, chan=1 pitch=55 vol=76
+Time=56840  Note on, chan=1 pitch=60 vol=73
+Time=56840  Note on, chan=1 pitch=58 vol=62
+Time=56848  Note on, chan=1 pitch=63 vol=54
+Time=56888  Note on, chan=1 pitch=63 vol=0
+Time=56892  Note on, chan=1 pitch=60 vol=0
+Time=56892  Note on, chan=1 pitch=70 vol=0
+Time=56896  Note on, chan=1 pitch=55 vol=0
+Time=56900  Note on, chan=1 pitch=75 vol=0
+Time=56904  Note on, chan=1 pitch=82 vol=0
+Time=56908  Note on, chan=1 pitch=58 vol=0
+Time=57840  Note on, chan=1 pitch=75 vol=67
+Time=57844  Note on, chan=1 pitch=68 vol=64
+Time=57844  Note on, chan=1 pitch=67 vol=62
+Time=57852  Note on, chan=1 pitch=56 vol=67
+Time=57852  Note on, chan=1 pitch=55 vol=76
+Time=57856  Note on, chan=1 pitch=60 vol=64
+Time=57892  Note on, chan=1 pitch=60 vol=0
+Time=57892  Note on, chan=1 pitch=55 vol=0
+Time=57892  Note on, chan=1 pitch=56 vol=0
+Time=57892  Note on, chan=1 pitch=67 vol=0
+Time=57908  Note on, chan=1 pitch=68 vol=0
+Time=57908  Note on, chan=1 pitch=75 vol=0
+Time=58580  Note on, chan=1 pitch=68 vol=67
+Time=58584  Note on, chan=1 pitch=56 vol=67
+Time=58588  Note on, chan=1 pitch=61 vol=52
+Time=58588  Note on, chan=1 pitch=65 vol=67
+Time=58624  Note on, chan=1 pitch=65 vol=0
+Time=58624  Note on, chan=1 pitch=61 vol=0
+Time=58624  Note on, chan=1 pitch=56 vol=0
+Time=58628  Note on, chan=1 pitch=68 vol=0
+Time=58988  Note on, chan=1 pitch=67 vol=85
+Time=58992  Note on, chan=1 pitch=72 vol=85
+Time=59000  Note on, chan=1 pitch=55 vol=89
+Time=59000  Note on, chan=1 pitch=61 vol=79
+Time=59140  Parameter, chan=1 c1=64 c2=127
+Time=59344  Note on, chan=1 pitch=72 vol=0
+Time=59360  Note on, chan=1 pitch=67 vol=0
+Time=59392  Note on, chan=1 pitch=61 vol=0
+Time=59412  Note on, chan=1 pitch=55 vol=0
+Time=59856  Parameter, chan=1 c1=64 c2=0
+Time=59896  Note on, chan=1 pitch=58 vol=70
+Time=59900  Note on, chan=1 pitch=63 vol=70
+Time=59900  Note on, chan=1 pitch=67 vol=73
+Time=59904  Note on, chan=1 pitch=70 vol=67
+Time=59908  Note on, chan=1 pitch=60 vol=67
+Time=60088  Parameter, chan=1 c1=64 c2=127
+Time=60196  Note on, chan=1 pitch=60 vol=0
+Time=60200  Note on, chan=1 pitch=58 vol=0
+Time=60208  Note on, chan=1 pitch=63 vol=0
+Time=60232  Note on, chan=1 pitch=70 vol=0
+Time=60232  Note on, chan=1 pitch=67 vol=0
+Time=60836  Parameter, chan=1 c1=64 c2=0
+Time=60900  Note on, chan=1 pitch=72 vol=82
+Time=60904  Note on, chan=1 pitch=67 vol=82
+Time=60904  Note on, chan=1 pitch=61 vol=79
+Time=60908  Note on, chan=1 pitch=55 vol=82
+Time=60940  Note on, chan=1 pitch=67 vol=0
+Time=60940  Note on, chan=1 pitch=72 vol=0
+Time=60944  Note on, chan=1 pitch=55 vol=0
+Time=60956  Note on, chan=1 pitch=61 vol=0
+Time=61672  Note on, chan=1 pitch=70 vol=73
+Time=61676  Note on, chan=1 pitch=58 vol=79
+Time=61676  Note on, chan=1 pitch=63 vol=73
+Time=61680  Note on, chan=1 pitch=60 vol=76
+Time=61716  Note on, chan=1 pitch=60 vol=0
+Time=61740  Note on, chan=1 pitch=63 vol=0
+Time=61748  Note on, chan=1 pitch=70 vol=0
+Time=61756  Note on, chan=1 pitch=58 vol=0
+Time=62432  Note on, chan=1 pitch=75 vol=79
+Time=62436  Note on, chan=1 pitch=68 vol=67
+Time=62440  Note on, chan=1 pitch=63 vol=82
+Time=62440  Note on, chan=1 pitch=58 vol=76
+Time=62444  Note on, chan=1 pitch=72 vol=89
+Time=62444  Note on, chan=1 pitch=52 vol=82
+Time=62496  Parameter, chan=1 c1=64 c2=127
+Time=62584  Note on, chan=1 pitch=72 vol=0
+Time=62600  Note on, chan=1 pitch=52 vol=0
+Time=62600  Note on, chan=1 pitch=68 vol=0
+Time=62616  Note on, chan=1 pitch=58 vol=0
+Time=62616  Note on, chan=1 pitch=63 vol=0
+Time=62616  Note on, chan=1 pitch=75 vol=0
+Time=62932  Parameter, chan=1 c1=64 c2=0
+Time=62964  Note on, chan=1 pitch=56 vol=73
+Time=62968  Note on, chan=1 pitch=77 vol=82
+Time=62968  Note on, chan=1 pitch=60 vol=79
+Time=62972  Note on, chan=1 pitch=67 vol=70
+Time=62972  Note on, chan=1 pitch=72 vol=79
+Time=62976  Note on, chan=1 pitch=55 vol=85
+Time=63080  Parameter, chan=1 c1=64 c2=127
+Time=63404  Note on, chan=1 pitch=55 vol=0
+Time=63408  Note on, chan=1 pitch=72 vol=0
+Time=63408  Note on, chan=1 pitch=60 vol=0
+Time=63412  Note on, chan=1 pitch=56 vol=0
+Time=63416  Note on, chan=1 pitch=77 vol=0
+Time=63420  Note on, chan=1 pitch=67 vol=0
+Time=63616  Note on, chan=1 pitch=77 vol=82
+Time=63620  Note on, chan=1 pitch=72 vol=82
+Time=63624  Note on, chan=1 pitch=67 vol=76
+Time=63628  Note on, chan=1 pitch=60 vol=85
+Time=63628  Note on, chan=1 pitch=56 vol=79
+Time=63632  Note on, chan=1 pitch=50 vol=85
+Time=63640  Parameter, chan=1 c1=64 c2=0
+Time=63664  Note on, chan=1 pitch=60 vol=0
+Time=63664  Note on, chan=1 pitch=72 vol=0
+Time=63668  Note on, chan=1 pitch=67 vol=0
+Time=63680  Note on, chan=1 pitch=50 vol=0
+Time=63680  Note on, chan=1 pitch=77 vol=0
+Time=63688  Note on, chan=1 pitch=56 vol=0
+Time=64496  Note on, chan=1 pitch=68 vol=73
+Time=64500  Note on, chan=1 pitch=65 vol=82
+Time=64504  Note on, chan=1 pitch=59 vol=64
+Time=64512  Note on, chan=1 pitch=53 vol=79
+Time=64544  Parameter, chan=1 c1=64 c2=127
+Time=64776  Note on, chan=1 pitch=59 vol=0
+Time=64784  Note on, chan=1 pitch=53 vol=0
+Time=64796  Note on, chan=1 pitch=65 vol=0
+Time=64820  Note on, chan=1 pitch=68 vol=0
+Time=65056  Parameter, chan=1 c1=64 c2=0
+Time=65120  Note on, chan=1 pitch=70 vol=70
+Time=65124  Note on, chan=1 pitch=67 vol=76
+Time=65128  Note on, chan=1 pitch=58 vol=67
+Time=65140  Note on, chan=1 pitch=52 vol=73
+Time=65184  Parameter, chan=1 c1=64 c2=127
+Time=65332  Note on, chan=1 pitch=52 vol=0
+Time=65352  Note on, chan=1 pitch=58 vol=0
+Time=65352  Note on, chan=1 pitch=67 vol=0
+Time=65376  Note on, chan=1 pitch=70 vol=0
+Time=65468  Parameter, chan=1 c1=64 c2=0
+Time=65508  Note on, chan=1 pitch=68 vol=70
+Time=65512  Note on, chan=1 pitch=58 vol=73
+Time=65516  Note on, chan=1 pitch=65 vol=76
+Time=65524  Note on, chan=1 pitch=52 vol=76
+Time=65572  Note on, chan=1 pitch=52 vol=0
+Time=65576  Parameter, chan=1 c1=64 c2=127
+Time=65604  Note on, chan=1 pitch=65 vol=0
+Time=65608  Note on, chan=1 pitch=68 vol=0
+Time=65624  Note on, chan=1 pitch=58 vol=0
+Time=65968  Parameter, chan=1 c1=64 c2=0
+Time=66016  Note on, chan=1 pitch=56 vol=67
+Time=66016  Note on, chan=1 pitch=67 vol=79
+Time=66020  Note on, chan=1 pitch=60 vol=67
+Time=66020  Note on, chan=1 pitch=64 vol=73
+Time=66024  Note on, chan=1 pitch=55 vol=73
+Time=66084  Parameter, chan=1 c1=64 c2=127
+Time=66292  Note on, chan=1 pitch=55 vol=0
+Time=66292  Note on, chan=1 pitch=64 vol=0
+Time=66300  Note on, chan=1 pitch=60 vol=0
+Time=66308  Note on, chan=1 pitch=56 vol=0
+Time=66312  Note on, chan=1 pitch=67 vol=0
+Time=66656  Note on, chan=1 pitch=68 vol=73
+Time=66660  Note on, chan=1 pitch=56 vol=79
+Time=66660  Note on, chan=1 pitch=65 vol=82
+Time=66664  Note on, chan=1 pitch=60 vol=82
+Time=66668  Note on, chan=1 pitch=50 vol=82
+Time=66672  Parameter, chan=1 c1=64 c2=0
+Time=66696  Note on, chan=1 pitch=65 vol=0
+Time=66708  Note on, chan=1 pitch=50 vol=0
+Time=66708  Note on, chan=1 pitch=60 vol=0
+Time=66724  Note on, chan=1 pitch=56 vol=0
+Time=66732  Note on, chan=1 pitch=68 vol=0
+Time=67548  Note on, chan=1 pitch=68 vol=70
+Time=67552  Note on, chan=1 pitch=61 vol=82
+Time=67552  Note on, chan=1 pitch=65 vol=82
+Time=67556  Note on, chan=1 pitch=72 vol=85
+Time=67556  Note on, chan=1 pitch=56 vol=85
+Time=67604  Parameter, chan=1 c1=64 c2=127
+Time=67696  Note on, chan=1 pitch=65 vol=0
+Time=67712  Note on, chan=1 pitch=72 vol=0
+Time=67716  Note on, chan=1 pitch=68 vol=0
+Time=67724  Note on, chan=1 pitch=56 vol=0
+Time=67724  Note on, chan=1 pitch=61 vol=0
+Time=68216  Note on, chan=1 pitch=67 vol=85
+Time=68220  Note on, chan=1 pitch=72 vol=85
+Time=68220  Note on, chan=1 pitch=61 vol=82
+Time=68228  Parameter, chan=1 c1=64 c2=0
+Time=68232  Note on, chan=1 pitch=55 vol=82
+Time=68424  Parameter, chan=1 c1=64 c2=127
+Time=68592  Note on, chan=1 pitch=61 vol=0
+Time=68600  Note on, chan=1 pitch=67 vol=0
+Time=68608  Note on, chan=1 pitch=55 vol=0
+Time=68612  Note on, chan=1 pitch=72 vol=0
+Time=69024  Parameter, chan=1 c1=64 c2=0
+Time=69060  Note on, chan=1 pitch=57 vol=62
+Time=69108  Note on, chan=1 pitch=70 vol=62
+Time=69112  Note on, chan=1 pitch=63 vol=64
+Time=69112  Note on, chan=1 pitch=67 vol=76
+Time=69116  Note on, chan=1 pitch=60 vol=59
+Time=69120  Note on, chan=1 pitch=57 vol=0
+Time=69136  Note on, chan=1 pitch=58 vol=73
+Time=69200  Parameter, chan=1 c1=64 c2=127
+Time=69376  Note on, chan=1 pitch=58 vol=0
+Time=69384  Note on, chan=1 pitch=60 vol=0
+Time=69384  Note on, chan=1 pitch=63 vol=0
+Time=69392  Note on, chan=1 pitch=67 vol=0
+Time=69400  Note on, chan=1 pitch=70 vol=0
+Time=69416  Parameter, chan=1 c1=64 c2=0
+Time=69496  Note on, chan=1 pitch=70 vol=70
+Time=69500  Note on, chan=1 pitch=67 vol=76
+Time=69504  Note on, chan=1 pitch=58 vol=79
+Time=69504  Note on, chan=1 pitch=63 vol=82
+Time=69508  Note on, chan=1 pitch=60 vol=85
+Time=69516  Parameter, chan=1 c1=64 c2=127
+Time=69628  Note on, chan=1 pitch=67 vol=0
+Time=69636  Note on, chan=1 pitch=60 vol=0
+Time=69652  Note on, chan=1 pitch=58 vol=0
+Time=69656  Note on, chan=1 pitch=70 vol=0
+Time=69660  Note on, chan=1 pitch=63 vol=0
+Time=69708  Parameter, chan=1 c1=64 c2=0
+Time=69764  Note on, chan=1 pitch=68 vol=89
+Time=69768  Note on, chan=1 pitch=60 vol=89
+Time=69772  Note on, chan=1 pitch=63 vol=82
+Time=69776  Note on, chan=1 pitch=56 vol=89
+Time=69780  Parameter, chan=1 c1=64 c2=127
+Time=69856  Note on, chan=1 pitch=60 vol=0
+Time=69876  Note on, chan=1 pitch=56 vol=0
+Time=69880  Note on, chan=1 pitch=63 vol=0
+Time=69880  Note on, chan=1 pitch=68 vol=0
+Time=69892  Parameter, chan=1 c1=64 c2=0
+Time=70048  Note on, chan=1 pitch=63 vol=67
+Time=70052  Note on, chan=1 pitch=67 vol=70
+Time=70060  Parameter, chan=1 c1=64 c2=127
+Time=70060  Note on, chan=1 pitch=60 vol=59
+Time=70064  Note on, chan=1 pitch=55 vol=70
+Time=70132  Note on, chan=1 pitch=55 vol=0
+Time=70144  Note on, chan=1 pitch=60 vol=0
+Time=70152  Note on, chan=1 pitch=67 vol=0
+Time=70160  Note on, chan=1 pitch=63 vol=0
+Time=70256  Parameter, chan=1 c1=64 c2=0
+Time=70296  Note on, chan=1 pitch=68 vol=85
+Time=70308  Note on, chan=1 pitch=63 vol=79
+Time=70308  Note on, chan=1 pitch=56 vol=89
+Time=70312  Note on, chan=1 pitch=60 vol=79
+Time=70340  Parameter, chan=1 c1=64 c2=127
+Time=70376  Note on, chan=1 pitch=56 vol=0
+Time=70400  Note on, chan=1 pitch=60 vol=0
+Time=70400  Note on, chan=1 pitch=63 vol=0
+Time=70400  Note on, chan=1 pitch=68 vol=0
+Time=70572  Parameter, chan=1 c1=64 c2=0
+Time=70588  Note on, chan=1 pitch=65 vol=79
+Time=70592  Note on, chan=1 pitch=60 vol=67
+Time=70596  Note on, chan=1 pitch=61 vol=76
+Time=70844  Note on, chan=1 pitch=60 vol=0
+Time=70852  Note on, chan=1 pitch=61 vol=0
+Time=70864  Note on, chan=1 pitch=65 vol=0
+Time=70924  Note on, chan=1 pitch=58 vol=62
+Time=70932  Note on, chan=1 pitch=56 vol=70
+Time=70988  Note on, chan=1 pitch=56 vol=0
+Time=70996  Note on, chan=1 pitch=58 vol=0
+Time=71184  Note on, chan=1 pitch=65 vol=49
+Time=71236  Note on, chan=1 pitch=65 vol=0
+Time=71324  Note on, chan=1 pitch=68 vol=110
+Time=71420  Note on, chan=1 pitch=68 vol=0
+Time=71468  Note on, chan=1 pitch=67 vol=85
+Time=71716  Note on, chan=1 pitch=61 vol=79
+Time=71724  Note on, chan=1 pitch=55 vol=82
+Time=71728  Parameter, chan=1 c1=64 c2=127
+Time=71772  Note on, chan=1 pitch=67 vol=0
+Time=71804  Note on, chan=1 pitch=55 vol=0
+Time=71812  Note on, chan=1 pitch=61 vol=0
+Time=72168  Parameter, chan=1 c1=64 c2=0
+Time=72204  Note on, chan=1 pitch=70 vol=76
+Time=72212  Note on, chan=1 pitch=63 vol=82
+Time=72212  Note on, chan=1 pitch=67 vol=82
+Time=72216  Note on, chan=1 pitch=60 vol=79
+Time=72220  Note on, chan=1 pitch=58 vol=79
+Time=72300  Parameter, chan=1 c1=64 c2=127
+Time=72360  Note on, chan=1 pitch=70 vol=0
+Time=72368  Note on, chan=1 pitch=67 vol=0
+Time=72368  Note on, chan=1 pitch=63 vol=0
+Time=72372  Note on, chan=1 pitch=60 vol=0
+Time=72420  Note on, chan=1 pitch=58 vol=0
+Time=72808  Parameter, chan=1 c1=64 c2=0
+Time=72820  Note on, chan=1 pitch=67 vol=76
+Time=72820  Note on, chan=1 pitch=63 vol=67
+Time=72824  Note on, chan=1 pitch=60 vol=59
+Time=72828  Note on, chan=1 pitch=55 vol=79
+Time=73016  Parameter, chan=1 c1=64 c2=127
+Time=73184  Note on, chan=1 pitch=60 vol=0
+Time=73192  Note on, chan=1 pitch=55 vol=0
+Time=73196  Note on, chan=1 pitch=63 vol=0
+Time=73236  Note on, chan=1 pitch=67 vol=0
+Time=73648  Parameter, chan=1 c1=64 c2=0
+Time=73684  Note on, chan=1 pitch=68 vol=76
+Time=73684  Note on, chan=1 pitch=59 vol=73
+Time=73688  Note on, chan=1 pitch=65 vol=79
+Time=73692  Note on, chan=1 pitch=53 vol=79
+Time=73808  Parameter, chan=1 c1=64 c2=127
+Time=73848  Note on, chan=1 pitch=65 vol=0
+Time=73852  Note on, chan=1 pitch=53 vol=0
+Time=73864  Note on, chan=1 pitch=59 vol=0
+Time=73872  Note on, chan=1 pitch=68 vol=0
+Time=74368  Parameter, chan=1 c1=64 c2=0
+Time=74716  Note on, chan=1 pitch=75 vol=73
+Time=74720  Note on, chan=1 pitch=68 vol=67
+Time=74724  Note on, chan=1 pitch=63 vol=79
+Time=74728  Note on, chan=1 pitch=58 vol=76
+Time=74732  Note on, chan=1 pitch=72 vol=82
+Time=74736  Note on, chan=1 pitch=52 vol=82
+Time=74760  Note on, chan=1 pitch=68 vol=0
+Time=74768  Note on, chan=1 pitch=72 vol=0
+Time=74776  Note on, chan=1 pitch=52 vol=0
+Time=74780  Note on, chan=1 pitch=75 vol=0
+Time=74784  Note on, chan=1 pitch=63 vol=0
+Time=74788  Note on, chan=1 pitch=58 vol=0
+Time=75228  Note on, chan=1 pitch=79 vol=82
+Time=75236  Note on, chan=1 pitch=56 vol=76
+Time=75240  Note on, chan=1 pitch=67 vol=64
+Time=75240  Note on, chan=1 pitch=72 vol=79
+Time=75244  Note on, chan=1 pitch=60 vol=82
+Time=75244  Note on, chan=1 pitch=55 vol=82
+Time=75536  Parameter, chan=1 c1=64 c2=127
+Time=75612  Note on, chan=1 pitch=55 vol=0
+Time=75620  Note on, chan=1 pitch=60 vol=0
+Time=75624  Note on, chan=1 pitch=72 vol=0
+Time=75624  Note on, chan=1 pitch=67 vol=0
+Time=75624  Note on, chan=1 pitch=79 vol=0
+Time=75632  Note on, chan=1 pitch=56 vol=0
+Time=75888  Note on, chan=1 pitch=56 vol=79
+Time=75888  Note on, chan=1 pitch=50 vol=85
+Time=75892  Note on, chan=1 pitch=79 vol=79
+Time=75896  Note on, chan=1 pitch=60 vol=85
+Time=75896  Note on, chan=1 pitch=67 vol=67
+Time=75900  Note on, chan=1 pitch=72 vol=73
+Time=75900  Parameter, chan=1 c1=64 c2=0
+Time=75932  Note on, chan=1 pitch=60 vol=0
+Time=75936  Note on, chan=1 pitch=72 vol=0
+Time=75936  Note on, chan=1 pitch=67 vol=0
+Time=75936  Note on, chan=1 pitch=50 vol=0
+Time=75944  Note on, chan=1 pitch=79 vol=0
+Time=75952  Note on, chan=1 pitch=56 vol=0
+Time=76644  Note on, chan=1 pitch=59 vol=82
+Time=76644  Note on, chan=1 pitch=68 vol=76
+Time=76648  Note on, chan=1 pitch=65 vol=79
+Time=76652  Note on, chan=1 pitch=53 vol=85
+Time=76856  Parameter, chan=1 c1=64 c2=127
+Time=76980  Note on, chan=1 pitch=65 vol=0
+Time=76992  Note on, chan=1 pitch=53 vol=0
+Time=76992  Note on, chan=1 pitch=59 vol=0
+Time=76996  Note on, chan=1 pitch=68 vol=0
+Time=77412  Parameter, chan=1 c1=64 c2=0
+Time=77420  Note on, chan=1 pitch=58 vol=79
+Time=77424  Note on, chan=1 pitch=63 vol=70
+Time=77424  Note on, chan=1 pitch=72 vol=82
+Time=77428  Note on, chan=1 pitch=68 vol=64
+Time=77432  Note on, chan=1 pitch=52 vol=82
+Time=77728  Parameter, chan=1 c1=64 c2=127
+Time=77824  Note on, chan=1 pitch=63 vol=0
+Time=77832  Note on, chan=1 pitch=52 vol=0
+Time=77832  Note on, chan=1 pitch=72 vol=0
+Time=77840  Note on, chan=1 pitch=58 vol=0
+Time=77852  Note on, chan=1 pitch=68 vol=0
+Time=78136  Note on, chan=1 pitch=70 vol=76
+Time=78152  Parameter, chan=1 c1=64 c2=0
+Time=78152  Note on, chan=1 pitch=67 vol=76
+Time=78164  Parameter, chan=1 c1=64 c2=127
+Time=78172  Parameter, chan=1 c1=64 c2=0
+Time=78244  Note on, chan=1 pitch=67 vol=0
+Time=78244  Note on, chan=1 pitch=70 vol=0
+Time=78252  Note on, chan=1 pitch=68 vol=64
+Time=78292  Note on, chan=1 pitch=68 vol=0
+Time=78356  Note on, chan=1 pitch=67 vol=82
+Time=78364  Note on, chan=1 pitch=70 vol=70
+Time=78372  Note on, chan=1 pitch=56 vol=70
+Time=78372  Note on, chan=1 pitch=60 vol=76
+Time=78376  Note on, chan=1 pitch=55 vol=76
+Time=78436  Parameter, chan=1 c1=64 c2=127
+Time=78572  Note on, chan=1 pitch=55 vol=0
+Time=78584  Note on, chan=1 pitch=60 vol=0
+Time=78592  Note on, chan=1 pitch=56 vol=0
+Time=78596  Note on, chan=1 pitch=67 vol=0
+Time=78636  Note on, chan=1 pitch=70 vol=0
+Time=78684  Parameter, chan=1 c1=64 c2=0
+Time=78760  Note on, chan=1 pitch=68 vol=59
+Time=78764  Note on, chan=1 pitch=56 vol=62
+Time=78768  Note on, chan=1 pitch=55 vol=70
+Time=78772  Note on, chan=1 pitch=60 vol=55
+Time=78828  Parameter, chan=1 c1=64 c2=127
+Time=78840  Note on, chan=1 pitch=60 vol=0
+Time=78844  Note on, chan=1 pitch=55 vol=0
+Time=78852  Note on, chan=1 pitch=56 vol=0
+Time=78876  Note on, chan=1 pitch=68 vol=0
+Time=79016  Parameter, chan=1 c1=64 c2=0
+Time=79020  Note on, chan=1 pitch=70 vol=64
+Time=79020  Note on, chan=1 pitch=67 vol=82
+Time=79024  Note on, chan=1 pitch=56 vol=70
+Time=79024  Note on, chan=1 pitch=50 vol=79
+Time=79028  Note on, chan=1 pitch=60 vol=67
+Time=79060  Note on, chan=1 pitch=67 vol=0
+Time=79060  Note on, chan=1 pitch=70 vol=0
+Time=79064  Note on, chan=1 pitch=56 vol=0
+Time=79068  Note on, chan=1 pitch=60 vol=0
+Time=79068  Note on, chan=1 pitch=50 vol=0
+Time=79888  Note on, chan=1 pitch=61 vol=70
+Time=79896  Note on, chan=1 pitch=56 vol=79
+Time=79896  Note on, chan=1 pitch=68 vol=64
+Time=79900  Note on, chan=1 pitch=65 vol=70
+Time=79932  Parameter, chan=1 c1=64 c2=127
+Time=80016  Note on, chan=1 pitch=65 vol=0
+Time=80028  Note on, chan=1 pitch=68 vol=0
+Time=80028  Note on, chan=1 pitch=56 vol=0
+Time=80028  Note on, chan=1 pitch=61 vol=0
+Time=80208  Parameter, chan=1 c1=64 c2=0
+Time=80276  Note on, chan=1 pitch=68 vol=98
+Time=80464  Note on, chan=1 pitch=68 vol=0
+Time=80548  Note on, chan=1 pitch=61 vol=70
+Time=80552  Note on, chan=1 pitch=67 vol=82
+Time=80560  Note on, chan=1 pitch=55 vol=76
+Time=80720  Parameter, chan=1 c1=64 c2=127
+Time=80840  Note on, chan=1 pitch=61 vol=0
+Time=80868  Note on, chan=1 pitch=55 vol=0
+Time=80868  Note on, chan=1 pitch=67 vol=0
+Time=81328  Note on, chan=1 pitch=57 vol=64
+Time=81328  Parameter, chan=1 c1=64 c2=0
+Time=81388  Note on, chan=1 pitch=57 vol=0
+Time=81424  Note on, chan=1 pitch=67 vol=70
+Time=81428  Note on, chan=1 pitch=63 vol=64
+Time=81428  Note on, chan=1 pitch=60 vol=67
+Time=81432  Note on, chan=1 pitch=70 vol=62
+Time=81444  Note on, chan=1 pitch=58 vol=67
+Time=81504  Parameter, chan=1 c1=64 c2=127
+Time=81616  Note on, chan=1 pitch=58 vol=0
+Time=81632  Note on, chan=1 pitch=60 vol=0
+Time=81636  Note on, chan=1 pitch=67 vol=0
+Time=81648  Note on, chan=1 pitch=70 vol=0
+Time=81648  Note on, chan=1 pitch=63 vol=0
+Time=81720  Parameter, chan=1 c1=64 c2=0
+Time=81772  Note on, chan=1 pitch=70 vol=79
+Time=81772  Note on, chan=1 pitch=67 vol=85
+Time=81776  Note on, chan=1 pitch=58 vol=82
+Time=81780  Note on, chan=1 pitch=63 vol=79
+Time=81780  Note on, chan=1 pitch=60 vol=85
+Time=81820  Parameter, chan=1 c1=64 c2=127
+Time=81880  Note on, chan=1 pitch=60 vol=0
+Time=81892  Note on, chan=1 pitch=63 vol=0
+Time=81896  Note on, chan=1 pitch=58 vol=0
+Time=81900  Note on, chan=1 pitch=67 vol=0
+Time=81912  Note on, chan=1 pitch=70 vol=0
+Time=82036  Parameter, chan=1 c1=64 c2=0
+Time=82080  Note on, chan=1 pitch=67 vol=70
+Time=82080  Note on, chan=1 pitch=63 vol=59
+Time=82080  Note on, chan=1 pitch=60 vol=54
+Time=82084  Note on, chan=1 pitch=55 vol=79
+Time=82296  Parameter, chan=1 c1=64 c2=127
+Time=82320  Note on, chan=1 pitch=60 vol=0
+Time=82412  Note on, chan=1 pitch=55 vol=0
+Time=82416  Note on, chan=1 pitch=67 vol=0
+Time=82436  Note on, chan=1 pitch=63 vol=0
+Time=82468  Note on, chan=1 pitch=60 vol=54
+Time=82508  Note on, chan=1 pitch=60 vol=0
+Time=82832  Parameter, chan=1 c1=64 c2=0
+Time=82844  Note on, chan=1 pitch=61 vol=82
+Time=82848  Note on, chan=1 pitch=60 vol=70
+Time=82848  Note on, chan=1 pitch=65 vol=79
+Time=83024  Parameter, chan=1 c1=64 c2=127
+Time=83112  Note on, chan=1 pitch=60 vol=0
+Time=83116  Note on, chan=1 pitch=61 vol=0
+Time=83160  Note on, chan=1 pitch=65 vol=0
+Time=83252  Note on, chan=1 pitch=56 vol=79
+Time=83252  Note on, chan=1 pitch=46 vol=79
+Time=83264  Parameter, chan=1 c1=64 c2=0
+Time=83348  Note on, chan=1 pitch=46 vol=0
+Time=83352  Parameter, chan=1 c1=64 c2=127
+Time=83356  Note on, chan=1 pitch=56 vol=0
+Time=83524  Parameter, chan=1 c1=64 c2=0
+Time=83536  Note on, chan=1 pitch=65 vol=62
+Time=83576  Note on, chan=1 pitch=65 vol=0
+Time=83632  Note on, chan=1 pitch=68 vol=93
+Time=83692  Note on, chan=1 pitch=68 vol=0
+Time=83760  Note on, chan=1 pitch=67 vol=98
+Time=83996  Note on, chan=1 pitch=61 vol=82
+Time=84000  Parameter, chan=1 c1=64 c2=127
+Time=84000  Note on, chan=1 pitch=55 vol=89
+Time=84112  Note on, chan=1 pitch=61 vol=0
+Time=84116  Note on, chan=1 pitch=55 vol=0
+Time=84120  Note on, chan=1 pitch=67 vol=0
+Time=84472  Parameter, chan=1 c1=64 c2=0
+Time=84492  Note on, chan=1 pitch=70 vol=73
+Time=84492  Note on, chan=1 pitch=60 vol=82
+Time=84496  Note on, chan=1 pitch=67 vol=79
+Time=84500  Note on, chan=1 pitch=63 vol=76
+Time=84500  Note on, chan=1 pitch=58 vol=79
+Time=84596  Parameter, chan=1 c1=64 c2=127
+Time=84640  Note on, chan=1 pitch=60 vol=0
+Time=84644  Note on, chan=1 pitch=58 vol=0
+Time=84648  Note on, chan=1 pitch=67 vol=0
+Time=84656  Note on, chan=1 pitch=63 vol=0
+Time=84656  Note on, chan=1 pitch=70 vol=0
+Time=85104  Parameter, chan=1 c1=64 c2=0
+Time=85108  Note on, chan=1 pitch=62 vol=73
+Time=85112  Note on, chan=1 pitch=67 vol=76
+Time=85116  Note on, chan=1 pitch=56 vol=70
+Time=85116  Note on, chan=1 pitch=59 vol=85
+Time=85360  Parameter, chan=1 c1=64 c2=127
+Time=85452  Note on, chan=1 pitch=59 vol=0
+Time=85456  Note on, chan=1 pitch=56 vol=0
+Time=85456  Note on, chan=1 pitch=62 vol=0
+Time=85460  Note on, chan=1 pitch=67 vol=0
+Time=85484  Note on, chan=1 pitch=51 vol=89
+Time=85588  Note on, chan=1 pitch=51 vol=0
+Time=85688  Note on, chan=1 pitch=65 vol=59
+Time=85812  Note on, chan=1 pitch=65 vol=0
+Time=85844  Parameter, chan=1 c1=64 c2=0
+Time=85852  Note on, chan=1 pitch=58 vol=73
+Time=85856  Note on, chan=1 pitch=55 vol=85
+Time=85860  Note on, chan=1 pitch=63 vol=82
+Time=85860  Note on, chan=1 pitch=60 vol=85
+Time=86012  Note on, chan=1 pitch=44 vol=93
+Time=86076  Note on, chan=1 pitch=44 vol=0
+Time=86108  Parameter, chan=1 c1=64 c2=127
+Time=86168  Note on, chan=1 pitch=55 vol=0
+Time=86180  Note on, chan=1 pitch=58 vol=0
+Time=86196  Note on, chan=1 pitch=60 vol=0
+Time=86228  Note on, chan=1 pitch=63 vol=0
+Time=86584  Parameter, chan=1 c1=64 c2=0
+Time=86600  Note on, chan=1 pitch=70 vol=85
+Time=86608  Note on, chan=1 pitch=60 vol=89
+Time=86612  Note on, chan=1 pitch=63 vol=82
+Time=86676  Parameter, chan=1 c1=64 c2=127
+Time=86708  Note on, chan=1 pitch=63 vol=0
+Time=86712  Note on, chan=1 pitch=70 vol=0
+Time=86716  Note on, chan=1 pitch=60 vol=0
+Time=86772  Note on, chan=1 pitch=58 vol=79
+Time=86840  Parameter, chan=1 c1=64 c2=0
+Time=86844  Note on, chan=1 pitch=58 vol=0
+Time=86896  Note on, chan=1 pitch=67 vol=93
+Time=86904  Note on, chan=1 pitch=60 vol=82
+Time=86908  Note on, chan=1 pitch=63 vol=76
+Time=86940  Note on, chan=1 pitch=60 vol=0
+Time=86948  Note on, chan=1 pitch=63 vol=0
+Time=86968  Note on, chan=1 pitch=67 vol=0
+Time=87052  Note on, chan=1 pitch=55 vol=89
+Time=87092  Note on, chan=1 pitch=55 vol=0
+Time=87168  Note on, chan=1 pitch=60 vol=98
+Time=87180  Parameter, chan=1 c1=64 c2=127
+Time=87316  Note on, chan=1 pitch=60 vol=0
+Time=87412  Note on, chan=1 pitch=66 vol=93
+Time=87416  Parameter, chan=1 c1=64 c2=0
+Time=87756  Note on, chan=1 pitch=63 vol=76
+Time=87760  Note on, chan=1 pitch=57 vol=82
+Time=87760  Note on, chan=1 pitch=60 vol=85
+Time=88112  Parameter, chan=1 c1=64 c2=127
+Time=88240  Note on, chan=1 pitch=57 vol=0
+Time=88252  Note on, chan=1 pitch=60 vol=0
+Time=88280  Note on, chan=1 pitch=63 vol=0
+Time=88304  Note on, chan=1 pitch=66 vol=0
+Time=89076  Parameter, chan=1 c1=64 c2=0
+Time=89104  Note on, chan=1 pitch=61 vol=73
+Time=89104  Note on, chan=1 pitch=68 vol=76
+Time=89108  Note on, chan=1 pitch=56 vol=79
+Time=89112  Note on, chan=1 pitch=65 vol=79
+Time=89228  Parameter, chan=1 c1=64 c2=127
+Time=89428  Note on, chan=1 pitch=65 vol=0
+Time=89440  Note on, chan=1 pitch=68 vol=0
+Time=89440  Note on, chan=1 pitch=61 vol=0
+Time=89444  Note on, chan=1 pitch=56 vol=0
+Time=89708  Parameter, chan=1 c1=64 c2=0
+Time=89712  Note on, chan=1 pitch=68 vol=73
+Time=89712  Note on, chan=1 pitch=61 vol=82
+Time=89716  Note on, chan=1 pitch=72 vol=85
+Time=89720  Note on, chan=1 pitch=56 vol=85
+Time=89756  Note on, chan=1 pitch=72 vol=0
+Time=89764  Note on, chan=1 pitch=68 vol=0
+Time=89772  Note on, chan=1 pitch=61 vol=0
+Time=89780  Note on, chan=1 pitch=56 vol=0
+Time=90492  Note on, chan=1 pitch=77 vol=93
+Time=90492  Note on, chan=1 pitch=84 vol=93
+Time=90492  Note on, chan=1 pitch=61 vol=93
+Time=90496  Note on, chan=1 pitch=56 vol=93
+Time=90500  Note on, chan=1 pitch=72 vol=85
+Time=90500  Note on, chan=1 pitch=65 vol=89
+Time=90704  Parameter, chan=1 c1=64 c2=127
+Time=90920  Note on, chan=1 pitch=65 vol=0
+Time=90920  Note on, chan=1 pitch=61 vol=0
+Time=90932  Note on, chan=1 pitch=56 vol=0
+Time=90940  Note on, chan=1 pitch=77 vol=0
+Time=90952  Note on, chan=1 pitch=84 vol=0
+Time=90956  Note on, chan=1 pitch=72 vol=0
+Time=91252  Note on, chan=1 pitch=84 vol=93
+Time=91256  Parameter, chan=1 c1=64 c2=0
+Time=91256  Note on, chan=1 pitch=72 vol=85
+Time=91272  Note on, chan=1 pitch=78 vol=76
+Time=91272  Note on, chan=1 pitch=61 vol=79
+Time=91276  Note on, chan=1 pitch=65 vol=79
+Time=91276  Note on, chan=1 pitch=55 vol=85
+Time=91316  Note on, chan=1 pitch=78 vol=0
+Time=91340  Note on, chan=1 pitch=79 vol=82
+Time=91572  Parameter, chan=1 c1=64 c2=127
+Time=91668  Note on, chan=1 pitch=65 vol=0
+Time=91704  Note on, chan=1 pitch=61 vol=0
+Time=91716  Note on, chan=1 pitch=55 vol=0
+Time=91740  Note on, chan=1 pitch=72 vol=0
+Time=91740  Note on, chan=1 pitch=84 vol=0
+Time=91748  Note on, chan=1 pitch=79 vol=0
+Time=92072  Note on, chan=1 pitch=57 vol=73
+Time=92088  Parameter, chan=1 c1=64 c2=0
+Time=92164  Note on, chan=1 pitch=57 vol=0
+Time=92172  Note on, chan=1 pitch=75 vol=59
+Time=92176  Note on, chan=1 pitch=82 vol=64
+Time=92180  Note on, chan=1 pitch=72 vol=62
+Time=92180  Note on, chan=1 pitch=79 vol=73
+Time=92188  Note on, chan=1 pitch=58 vol=73
+Time=92252  Parameter, chan=1 c1=64 c2=127
+Time=92324  Note on, chan=1 pitch=58 vol=0
+Time=92332  Note on, chan=1 pitch=72 vol=0
+Time=92340  Note on, chan=1 pitch=75 vol=0
+Time=92352  Note on, chan=1 pitch=79 vol=0
+Time=92364  Note on, chan=1 pitch=82 vol=0
+Time=92420  Parameter, chan=1 c1=64 c2=0
+Time=92440  Note on, chan=1 pitch=58 vol=89
+Time=92440  Note on, chan=1 pitch=82 vol=64
+Time=92444  Note on, chan=1 pitch=79 vol=82
+Time=92444  Note on, chan=1 pitch=75 vol=76
+Time=92452  Note on, chan=1 pitch=72 vol=85
+Time=92504  Note on, chan=1 pitch=75 vol=0
+Time=92508  Note on, chan=1 pitch=72 vol=0
+Time=92508  Note on, chan=1 pitch=79 vol=0
+Time=92512  Note on, chan=1 pitch=82 vol=0
+Time=92528  Note on, chan=1 pitch=58 vol=0
+Time=92940  Note on, chan=1 pitch=75 vol=59
+Time=92944  Note on, chan=1 pitch=70 vol=44
+Time=92944  Note on, chan=1 pitch=79 vol=67
+Time=92948  Note on, chan=1 pitch=72 vol=70
+Time=92952  Note on, chan=1 pitch=55 vol=73
+Time=93000  Parameter, chan=1 c1=64 c2=127
+Time=93096  Note on, chan=1 pitch=55 vol=0
+Time=93116  Note on, chan=1 pitch=79 vol=0
+Time=93124  Note on, chan=1 pitch=72 vol=0
+Time=93128  Note on, chan=1 pitch=70 vol=0
+Time=93132  Note on, chan=1 pitch=75 vol=0
+Time=93196  Note on, chan=1 pitch=70 vol=73
+Time=93200  Note on, chan=1 pitch=55 vol=89
+Time=93200  Note on, chan=1 pitch=75 vol=70
+Time=93204  Note on, chan=1 pitch=72 vol=79
+Time=93208  Note on, chan=1 pitch=79 vol=82
+Time=93208  Parameter, chan=1 c1=64 c2=0
+Time=93240  Note on, chan=1 pitch=72 vol=0
+Time=93252  Note on, chan=1 pitch=70 vol=0
+Time=93260  Note on, chan=1 pitch=75 vol=0
+Time=93260  Note on, chan=1 pitch=55 vol=0
+Time=93268  Note on, chan=1 pitch=79 vol=0
+Time=93716  Note on, chan=1 pitch=75 vol=73
+Time=93716  Note on, chan=1 pitch=78 vol=76
+Time=93720  Note on, chan=1 pitch=53 vol=89
+Time=93724  Note on, chan=1 pitch=72 vol=82
+Time=93724  Note on, chan=1 pitch=69 vol=73
+Time=93924  Parameter, chan=1 c1=64 c2=127
+Time=94040  Note on, chan=1 pitch=72 vol=0
+Time=94044  Note on, chan=1 pitch=78 vol=0
+Time=94048  Note on, chan=1 pitch=75 vol=0
+Time=94060  Note on, chan=1 pitch=69 vol=0
+Time=94132  Note on, chan=1 pitch=53 vol=0
+Time=94672  Parameter, chan=1 c1=64 c2=0
+Time=94700  Note on, chan=1 pitch=69 vol=82
+Time=94704  Note on, chan=1 pitch=65 vol=85
+Time=94704  Note on, chan=1 pitch=66 vol=76
+Time=94708  Note on, chan=1 pitch=72 vol=85
+Time=94804  Parameter, chan=1 c1=64 c2=127
+Time=94860  Note on, chan=1 pitch=65 vol=0
+Time=94872  Note on, chan=1 pitch=69 vol=0
+Time=94876  Note on, chan=1 pitch=66 vol=0
+Time=95204  Parameter, chan=1 c1=64 c2=0
+Time=95224  Note on, chan=1 pitch=68 vol=70
+Time=95224  Note on, chan=1 pitch=60 vol=70
+Time=95228  Note on, chan=1 pitch=65 vol=73
+Time=95232  Note on, chan=1 pitch=56 vol=76
+Time=95512  Parameter, chan=1 c1=64 c2=127
+Time=95596  Note on, chan=1 pitch=60 vol=0
+Time=95596  Note on, chan=1 pitch=68 vol=0
+Time=95604  Note on, chan=1 pitch=65 vol=0
+Time=95608  Note on, chan=1 pitch=72 vol=0
+Time=95628  Note on, chan=1 pitch=56 vol=0
+Time=96152  Parameter, chan=1 c1=64 c2=0
+Time=96196  Note on, chan=1 pitch=68 vol=64
+Time=96196  Note on, chan=1 pitch=60 vol=79
+Time=96200  Note on, chan=1 pitch=58 vol=67
+Time=96204  Note on, chan=1 pitch=65 vol=76
+Time=96204  Note on, chan=1 pitch=63 vol=70
+Time=96236  Note on, chan=1 pitch=65 vol=0
+Time=96248  Note on, chan=1 pitch=63 vol=0
+Time=96256  Note on, chan=1 pitch=60 vol=0
+Time=96272  Note on, chan=1 pitch=68 vol=0
+Time=96276  Note on, chan=1 pitch=58 vol=0
+Time=96484  Note on, chan=1 pitch=58 vol=51
+Time=96488  Note on, chan=1 pitch=60 vol=64
+Time=96492  Note on, chan=1 pitch=68 vol=54
+Time=96496  Note on, chan=1 pitch=63 vol=52
+Time=96500  Note on, chan=1 pitch=65 vol=57
+Time=96524  Note on, chan=1 pitch=60 vol=0
+Time=96536  Note on, chan=1 pitch=65 vol=0
+Time=96536  Note on, chan=1 pitch=63 vol=0
+Time=96536  Note on, chan=1 pitch=68 vol=0
+Time=96580  Note on, chan=1 pitch=58 vol=0
+Time=96616  Note on, chan=1 pitch=56 vol=57
+Time=96740  Note on, chan=1 pitch=56 vol=0
+Time=96760  Note on, chan=1 pitch=68 vol=62
+Time=96764  Note on, chan=1 pitch=60 vol=73
+Time=96768  Note on, chan=1 pitch=58 vol=67
+Time=96776  Note on, chan=1 pitch=65 vol=67
+Time=96776  Note on, chan=1 pitch=63 vol=64
+Time=96812  Parameter, chan=1 c1=64 c2=127
+Time=96940  Note on, chan=1 pitch=58 vol=0
+Time=96948  Note on, chan=1 pitch=63 vol=0
+Time=96948  Note on, chan=1 pitch=60 vol=0
+Time=96956  Note on, chan=1 pitch=65 vol=0
+Time=96960  Note on, chan=1 pitch=68 vol=0
+Time=97036  Note on, chan=1 pitch=68 vol=70
+Time=97040  Note on, chan=1 pitch=60 vol=85
+Time=97044  Note on, chan=1 pitch=58 vol=76
+Time=97048  Note on, chan=1 pitch=65 vol=70
+Time=97048  Note on, chan=1 pitch=63 vol=73
+Time=97076  Parameter, chan=1 c1=64 c2=0
+Time=97084  Note on, chan=1 pitch=63 vol=0
+Time=97084  Note on, chan=1 pitch=65 vol=0
+Time=97084  Note on, chan=1 pitch=60 vol=0
+Time=97104  Note on, chan=1 pitch=58 vol=0
+Time=97108  Note on, chan=1 pitch=68 vol=0
+Time=97540  Note on, chan=1 pitch=72 vol=85
+Time=97540  Note on, chan=1 pitch=67 vol=82
+Time=97544  Note on, chan=1 pitch=61 vol=89
+Time=97548  Note on, chan=1 pitch=64 vol=79
+Time=97552  Note on, chan=1 pitch=55 vol=89
+Time=97780  Parameter, chan=1 c1=64 c2=127
+Time=97860  Note on, chan=1 pitch=61 vol=0
+Time=97880  Note on, chan=1 pitch=55 vol=0
+Time=97884  Note on, chan=1 pitch=67 vol=0
+Time=97888  Note on, chan=1 pitch=72 vol=0
+Time=97892  Note on, chan=1 pitch=64 vol=0
+Time=98256  Note on, chan=1 pitch=57 vol=51
+Time=98280  Parameter, chan=1 c1=64 c2=0
+Time=98316  Note on, chan=1 pitch=57 vol=0
+Time=98328  Note on, chan=1 pitch=67 vol=76
+Time=98332  Note on, chan=1 pitch=70 vol=64
+Time=98332  Note on, chan=1 pitch=63 vol=70
+Time=98336  Note on, chan=1 pitch=60 vol=70
+Time=98348  Note on, chan=1 pitch=58 vol=70
+Time=98412  Parameter, chan=1 c1=64 c2=127
+Time=98480  Note on, chan=1 pitch=58 vol=0
+Time=98484  Note on, chan=1 pitch=60 vol=0
+Time=98492  Note on, chan=1 pitch=63 vol=0
+Time=98500  Note on, chan=1 pitch=67 vol=0
+Time=98504  Note on, chan=1 pitch=70 vol=0
+Time=98564  Parameter, chan=1 c1=64 c2=0
+Time=98592  Note on, chan=1 pitch=70 vol=67
+Time=98596  Note on, chan=1 pitch=67 vol=79
+Time=98596  Note on, chan=1 pitch=58 vol=82
+Time=98600  Note on, chan=1 pitch=63 vol=82
+Time=98600  Note on, chan=1 pitch=60 vol=93
+Time=98656  Note on, chan=1 pitch=60 vol=0
+Time=98664  Note on, chan=1 pitch=63 vol=0
+Time=98664  Note on, chan=1 pitch=58 vol=0
+Time=98668  Note on, chan=1 pitch=67 vol=0
+Time=98692  Note on, chan=1 pitch=70 vol=0
+Time=99076  Note on, chan=1 pitch=68 vol=76
+Time=99076  Note on, chan=1 pitch=58 vol=82
+Time=99080  Note on, chan=1 pitch=63 vol=85
+Time=99080  Note on, chan=1 pitch=72 vol=89
+Time=99084  Note on, chan=1 pitch=52 vol=85
+Time=99344  Parameter, chan=1 c1=64 c2=127
+Time=99460  Note on, chan=1 pitch=72 vol=0
+Time=99472  Note on, chan=1 pitch=52 vol=0
+Time=99472  Note on, chan=1 pitch=58 vol=0
+Time=99476  Note on, chan=1 pitch=63 vol=0
+Time=99484  Note on, chan=1 pitch=68 vol=0
+Time=99816  Parameter, chan=1 c1=64 c2=0
+Time=99848  Note on, chan=1 pitch=70 vol=76
+Time=99856  Note on, chan=1 pitch=67 vol=82
+Time=99856  Note on, chan=1 pitch=56 vol=70
+Time=99864  Note on, chan=1 pitch=60 vol=70
+Time=99864  Note on, chan=1 pitch=55 vol=79
+Time=99932  Parameter, chan=1 c1=64 c2=127
+Time=99988  Note on, chan=1 pitch=55 vol=0
+Time=100000  Note on, chan=1 pitch=60 vol=0
+Time=100008  Note on, chan=1 pitch=56 vol=0
+Time=100040  Note on, chan=1 pitch=67 vol=0
+Time=100060  Note on, chan=1 pitch=70 vol=0
+Time=100116  Parameter, chan=1 c1=64 c2=0
+Time=100260  Note on, chan=1 pitch=70 vol=73
+Time=100264  Note on, chan=1 pitch=67 vol=89
+Time=100268  Note on, chan=1 pitch=60 vol=82
+Time=100272  Note on, chan=1 pitch=55 vol=82
+Time=100272  Note on, chan=1 pitch=56 vol=76
+Time=100300  Parameter, chan=1 c1=64 c2=127
+Time=100312  Note on, chan=1 pitch=55 vol=0
+Time=100324  Note on, chan=1 pitch=60 vol=0
+Time=100328  Note on, chan=1 pitch=56 vol=0
+Time=100352  Note on, chan=1 pitch=67 vol=0
+Time=100384  Note on, chan=1 pitch=70 vol=0
+Time=100516  Note on, chan=1 pitch=68 vol=70
+Time=100516  Note on, chan=1 pitch=60 vol=73
+Time=100520  Note on, chan=1 pitch=50 vol=79
+Time=100524  Note on, chan=1 pitch=65 vol=73
+Time=100524  Parameter, chan=1 c1=64 c2=0
+Time=100528  Note on, chan=1 pitch=56 vol=64
+Time=100868  Parameter, chan=1 c1=64 c2=127
+Time=100952  Note on, chan=1 pitch=50 vol=0
+Time=100984  Note on, chan=1 pitch=56 vol=0
+Time=100984  Note on, chan=1 pitch=60 vol=0
+Time=100992  Note on, chan=1 pitch=65 vol=0
+Time=101008  Note on, chan=1 pitch=68 vol=0
+Time=101340  Parameter, chan=1 c1=64 c2=0
+Time=101388  Note on, chan=1 pitch=68 vol=67
+Time=101392  Note on, chan=1 pitch=65 vol=70
+Time=101392  Note on, chan=1 pitch=59 vol=64
+Time=101396  Note on, chan=1 pitch=53 vol=76
+Time=101508  Parameter, chan=1 c1=64 c2=127
+Time=101560  Note on, chan=1 pitch=68 vol=0
+Time=101568  Note on, chan=1 pitch=65 vol=0
+Time=101576  Note on, chan=1 pitch=53 vol=0
+Time=101584  Note on, chan=1 pitch=59 vol=0
+Time=102000  Note on, chan=1 pitch=63 vol=82
+Time=102004  Note on, chan=1 pitch=72 vol=89
+Time=102004  Note on, chan=1 pitch=68 vol=70
+Time=102008  Note on, chan=1 pitch=58 vol=82
+Time=102012  Parameter, chan=1 c1=64 c2=0
+Time=102016  Note on, chan=1 pitch=52 vol=82
+Time=102212  Parameter, chan=1 c1=64 c2=127
+Time=102332  Note on, chan=1 pitch=63 vol=0
+Time=102340  Note on, chan=1 pitch=72 vol=0
+Time=102388  Note on, chan=1 pitch=68 vol=0
+Time=102404  Note on, chan=1 pitch=52 vol=0
+Time=102436  Note on, chan=1 pitch=58 vol=0
+Time=102860  Parameter, chan=1 c1=64 c2=0
+Time=102876  Note on, chan=1 pitch=70 vol=76
+Time=102884  Note on, chan=1 pitch=67 vol=82
+Time=102888  Note on, chan=1 pitch=56 vol=73
+Time=102896  Note on, chan=1 pitch=60 vol=70
+Time=102900  Note on, chan=1 pitch=55 vol=82
+Time=103016  Note on, chan=1 pitch=55 vol=0
+Time=103052  Note on, chan=1 pitch=60 vol=0
+Time=103056  Note on, chan=1 pitch=56 vol=0
+Time=103072  Note on, chan=1 pitch=67 vol=0
+Time=103088  Note on, chan=1 pitch=70 vol=0
+Time=103264  Note on, chan=1 pitch=70 vol=73
+Time=103268  Note on, chan=1 pitch=67 vol=85
+Time=103268  Note on, chan=1 pitch=56 vol=76
+Time=103272  Note on, chan=1 pitch=55 vol=85
+Time=103276  Parameter, chan=1 c1=64 c2=127
+Time=103280  Note on, chan=1 pitch=60 vol=67
+Time=103328  Note on, chan=1 pitch=60 vol=0
+Time=103340  Note on, chan=1 pitch=55 vol=0
+Time=103348  Note on, chan=1 pitch=56 vol=0
+Time=103368  Note on, chan=1 pitch=67 vol=0
+Time=103392  Note on, chan=1 pitch=70 vol=0
+Time=103520  Parameter, chan=1 c1=64 c2=0
+Time=103532  Note on, chan=1 pitch=68 vol=73
+Time=103536  Note on, chan=1 pitch=56 vol=70
+Time=103544  Note on, chan=1 pitch=50 vol=76
+Time=103544  Note on, chan=1 pitch=60 vol=73
+Time=103548  Note on, chan=1 pitch=65 vol=67
+Time=103824  Parameter, chan=1 c1=64 c2=127
+Time=103952  Note on, chan=1 pitch=65 vol=0
+Time=103976  Note on, chan=1 pitch=68 vol=0
+Time=103980  Note on, chan=1 pitch=50 vol=0
+Time=104000  Note on, chan=1 pitch=60 vol=0
+Time=104004  Note on, chan=1 pitch=56 vol=0
+Time=104372  Parameter, chan=1 c1=64 c2=0
+Time=104432  Note on, chan=1 pitch=77 vol=82
+Time=104436  Note on, chan=1 pitch=84 vol=82
+Time=104436  Note on, chan=1 pitch=61 vol=85
+Time=104440  Note on, chan=1 pitch=72 vol=76
+Time=104444  Note on, chan=1 pitch=65 vol=82
+Time=104444  Note on, chan=1 pitch=56 vol=79
+Time=104516  Parameter, chan=1 c1=64 c2=127
+Time=104632  Note on, chan=1 pitch=72 vol=0
+Time=104640  Note on, chan=1 pitch=77 vol=0
+Time=104652  Note on, chan=1 pitch=65 vol=0
+Time=104652  Note on, chan=1 pitch=61 vol=0
+Time=104656  Note on, chan=1 pitch=56 vol=0
+Time=104664  Note on, chan=1 pitch=84 vol=0
+Time=104732  Parameter, chan=1 c1=64 c2=0
+Time=104816  Note on, chan=1 pitch=56 vol=82
+Time=104820  Note on, chan=1 pitch=61 vol=79
+Time=104824  Parameter, chan=1 c1=64 c2=127
+Time=104828  Note on, chan=1 pitch=65 vol=73
+Time=104832  Note on, chan=1 pitch=84 vol=89
+Time=104832  Note on, chan=1 pitch=72 vol=79
+Time=104836  Note on, chan=1 pitch=77 vol=82
+Time=104916  Note on, chan=1 pitch=65 vol=0
+Time=104920  Note on, chan=1 pitch=72 vol=0
+Time=104924  Note on, chan=1 pitch=61 vol=0
+Time=104928  Note on, chan=1 pitch=77 vol=0
+Time=104932  Note on, chan=1 pitch=84 vol=0
+Time=104940  Note on, chan=1 pitch=56 vol=0
+Time=105016  Parameter, chan=1 c1=64 c2=0
+Time=105084  Note on, chan=1 pitch=84 vol=82
+Time=105088  Note on, chan=1 pitch=72 vol=79
+Time=105096  Note on, chan=1 pitch=78 vol=76
+Time=105100  Note on, chan=1 pitch=65 vol=82
+Time=105104  Note on, chan=1 pitch=61 vol=76
+Time=105108  Note on, chan=1 pitch=55 vol=76
+Time=105164  Note on, chan=1 pitch=78 vol=0
+Time=105164  Note on, chan=1 pitch=79 vol=89
+Time=105272  Note on, chan=1 pitch=72 vol=0
+Time=105284  Note on, chan=1 pitch=55 vol=0
+Time=105288  Note on, chan=1 pitch=65 vol=0
+Time=105300  Note on, chan=1 pitch=61 vol=0
+Time=105308  Note on, chan=1 pitch=84 vol=0
+Time=105316  Note on, chan=1 pitch=79 vol=0
+Time=105508  Note on, chan=1 pitch=65 vol=79
+Time=105512  Note on, chan=1 pitch=84 vol=76
+Time=105516  Note on, chan=1 pitch=61 vol=73
+Time=105520  Note on, chan=1 pitch=72 vol=73
+Time=105520  Note on, chan=1 pitch=79 vol=73
+Time=105524  Note on, chan=1 pitch=55 vol=79
+Time=105564  Parameter, chan=1 c1=64 c2=127
+Time=105648  Note on, chan=1 pitch=72 vol=0
+Time=105648  Note on, chan=1 pitch=84 vol=0
+Time=105648  Note on, chan=1 pitch=65 vol=0
+Time=105652  Note on, chan=1 pitch=55 vol=0
+Time=105656  Note on, chan=1 pitch=79 vol=0
+Time=105664  Note on, chan=1 pitch=61 vol=0
+Time=106016  Note on, chan=1 pitch=82 vol=82
+Time=106020  Note on, chan=1 pitch=70 vol=73
+Time=106028  Note on, chan=1 pitch=63 vol=67
+Time=106028  Note on, chan=1 pitch=75 vol=73
+Time=106032  Note on, chan=1 pitch=55 vol=76
+Time=106032  Note on, chan=1 pitch=60 vol=76
+Time=106036  Note on, chan=1 pitch=58 vol=59
+Time=106040  Parameter, chan=1 c1=64 c2=0
+Time=106204  Parameter, chan=1 c1=64 c2=127
+Time=106348  Note on, chan=1 pitch=55 vol=0
+Time=106360  Note on, chan=1 pitch=75 vol=0
+Time=106364  Note on, chan=1 pitch=60 vol=0
+Time=106372  Note on, chan=1 pitch=63 vol=0
+Time=106372  Note on, chan=1 pitch=70 vol=0
+Time=106376  Note on, chan=1 pitch=58 vol=0
+Time=106384  Note on, chan=1 pitch=82 vol=0
+Time=106628  Note on, chan=1 pitch=82 vol=79
+Time=106632  Note on, chan=1 pitch=70 vol=70
+Time=106636  Note on, chan=1 pitch=75 vol=70
+Time=106636  Note on, chan=1 pitch=63 vol=70
+Time=106640  Note on, chan=1 pitch=60 vol=79
+Time=106644  Note on, chan=1 pitch=58 vol=59
+Time=106648  Note on, chan=1 pitch=55 vol=73
+Time=106652  Parameter, chan=1 c1=64 c2=0
+Time=106676  Note on, chan=1 pitch=60 vol=0
+Time=106676  Note on, chan=1 pitch=63 vol=0
+Time=106676  Note on, chan=1 pitch=75 vol=0
+Time=106684  Note on, chan=1 pitch=55 vol=0
+Time=106688  Note on, chan=1 pitch=58 vol=0
+Time=106688  Note on, chan=1 pitch=70 vol=0
+Time=106696  Note on, chan=1 pitch=82 vol=0
+Time=107500  Note on, chan=1 pitch=68 vol=76
+Time=107508  Note on, chan=1 pitch=61 vol=79
+Time=107512  Note on, chan=1 pitch=65 vol=76
+Time=107512  Note on, chan=1 pitch=56 vol=79
+Time=107552  Note on, chan=1 pitch=65 vol=0
+Time=107576  Note on, chan=1 pitch=61 vol=0
+Time=107576  Note on, chan=1 pitch=68 vol=0
+Time=107580  Note on, chan=1 pitch=56 vol=0
+Time=108140  Note on, chan=1 pitch=67 vol=89
+Time=108140  Note on, chan=1 pitch=61 vol=85
+Time=108144  Note on, chan=1 pitch=72 vol=89
+Time=108152  Note on, chan=1 pitch=55 vol=85
+Time=108412  Parameter, chan=1 c1=64 c2=127
+Time=108548  Note on, chan=1 pitch=72 vol=0
+Time=108580  Note on, chan=1 pitch=67 vol=0
+Time=108584  Note on, chan=1 pitch=61 vol=0
+Time=108608  Note on, chan=1 pitch=55 vol=0
+Time=108996  Parameter, chan=1 c1=64 c2=0
+Time=109004  Parameter, chan=1 c1=64 c2=127
+Time=109012  Parameter, chan=1 c1=64 c2=0
+Time=109032  Note on, chan=1 pitch=68 vol=73
+Time=109036  Note on, chan=1 pitch=60 vol=79
+Time=109040  Note on, chan=1 pitch=63 vol=79
+Time=109044  Note on, chan=1 pitch=65 vol=76
+Time=109328  Parameter, chan=1 c1=64 c2=127
+Time=109404  Note on, chan=1 pitch=60 vol=0
+Time=109420  Note on, chan=1 pitch=63 vol=0
+Time=109432  Note on, chan=1 pitch=65 vol=0
+Time=109464  Note on, chan=1 pitch=68 vol=0
+Time=110016  Parameter, chan=1 c1=64 c2=0
+Time=110040  Note on, chan=1 pitch=61 vol=85
+Time=110040  Note on, chan=1 pitch=67 vol=89
+Time=110044  Note on, chan=1 pitch=72 vol=89
+Time=110048  Note on, chan=1 pitch=55 vol=89
+Time=110084  Note on, chan=1 pitch=55 vol=0
+Time=110088  Note on, chan=1 pitch=67 vol=0
+Time=110096  Note on, chan=1 pitch=61 vol=0
+Time=110112  Note on, chan=1 pitch=72 vol=0
+Time=110444  Note on, chan=1 pitch=67 vol=76
+Time=110444  Note on, chan=1 pitch=75 vol=67
+Time=110448  Note on, chan=1 pitch=63 vol=89
+Time=110448  Note on, chan=1 pitch=70 vol=67
+Time=110460  Note on, chan=1 pitch=72 vol=64
+Time=110528  Note on, chan=1 pitch=67 vol=0
+Time=110536  Note on, chan=1 pitch=70 vol=0
+Time=110544  Note on, chan=1 pitch=72 vol=0
+Time=110552  Note on, chan=1 pitch=63 vol=0
+Time=110556  Note on, chan=1 pitch=75 vol=0
+Time=111568  Note on, chan=1 pitch=75 vol=85
+Time=111572  Note on, chan=1 pitch=68 vol=82
+Time=111576  Note on, chan=1 pitch=72 vol=98
+Time=111576  Note on, chan=1 pitch=58 vol=85
+Time=111580  Note on, chan=1 pitch=63 vol=93
+Time=111580  Note on, chan=1 pitch=52 vol=93
+Time=111656  Parameter, chan=1 c1=64 c2=127
+Time=111708  Note on, chan=1 pitch=72 vol=0
+Time=111740  Note on, chan=1 pitch=68 vol=0
+Time=111744  Note on, chan=1 pitch=63 vol=0
+Time=111744  Note on, chan=1 pitch=58 vol=0
+Time=111752  Note on, chan=1 pitch=52 vol=0
+Time=111764  Note on, chan=1 pitch=75 vol=0
+Time=112080  Parameter, chan=1 c1=64 c2=0
+Time=112100  Note on, chan=1 pitch=72 vol=89
+Time=112104  Note on, chan=1 pitch=56 vol=85
+Time=112104  Note on, chan=1 pitch=77 vol=89
+Time=112104  Note on, chan=1 pitch=67 vol=85
+Time=112108  Note on, chan=1 pitch=60 vol=89
+Time=112112  Note on, chan=1 pitch=55 vol=89
+Time=112332  Parameter, chan=1 c1=64 c2=127
+Time=112416  Note on, chan=1 pitch=77 vol=0
+Time=112420  Note on, chan=1 pitch=72 vol=0
+Time=112432  Note on, chan=1 pitch=67 vol=0
+Time=112448  Note on, chan=1 pitch=55 vol=0
+Time=112456  Note on, chan=1 pitch=60 vol=0
+Time=112456  Note on, chan=1 pitch=56 vol=0
+Time=112744  Parameter, chan=1 c1=64 c2=0
+Time=112756  Note on, chan=1 pitch=68 vol=73
+Time=112764  Note on, chan=1 pitch=65 vol=79
+Time=112768  Note on, chan=1 pitch=56 vol=73
+Time=112772  Note on, chan=1 pitch=50 vol=79
+Time=112772  Note on, chan=1 pitch=60 vol=73
+Time=112988  Parameter, chan=1 c1=64 c2=127
+Time=113236  Note on, chan=1 pitch=50 vol=0
+Time=113264  Note on, chan=1 pitch=56 vol=0
+Time=113276  Note on, chan=1 pitch=60 vol=0
+Time=113316  Note on, chan=1 pitch=65 vol=0
+Time=113328  Note on, chan=1 pitch=68 vol=0
+Time=113584  Note on, chan=1 pitch=68 vol=73
+Time=113588  Parameter, chan=1 c1=64 c2=0
+Time=113588  Note on, chan=1 pitch=65 vol=79
+Time=113596  Note on, chan=1 pitch=59 vol=70
+Time=113596  Note on, chan=1 pitch=53 vol=79
+Time=113752  Parameter, chan=1 c1=64 c2=127
+Time=113936  Note on, chan=1 pitch=65 vol=0
+Time=113948  Note on, chan=1 pitch=59 vol=0
+Time=113948  Note on, chan=1 pitch=68 vol=0
+Time=113956  Note on, chan=1 pitch=53 vol=0
+Time=114340  Parameter, chan=1 c1=64 c2=0
+Time=114344  Note on, chan=1 pitch=68 vol=79
+Time=114348  Note on, chan=1 pitch=63 vol=89
+Time=114352  Note on, chan=1 pitch=58 vol=79
+Time=114356  Note on, chan=1 pitch=72 vol=89
+Time=114360  Note on, chan=1 pitch=52 vol=85
+Time=114452  Parameter, chan=1 c1=64 c2=127
+Time=114492  Note on, chan=1 pitch=72 vol=0
+Time=114536  Note on, chan=1 pitch=63 vol=0
+Time=114536  Note on, chan=1 pitch=68 vol=0
+Time=114540  Note on, chan=1 pitch=52 vol=0
+Time=114564  Note on, chan=1 pitch=58 vol=0
+Time=114700  Parameter, chan=1 c1=64 c2=0
+Time=114728  Note on, chan=1 pitch=70 vol=70
+Time=114732  Note on, chan=1 pitch=61 vol=76
+Time=114740  Note on, chan=1 pitch=58 vol=70
+Time=114744  Note on, chan=1 pitch=66 vol=67
+Time=114752  Note on, chan=1 pitch=52 vol=76
+Time=114816  Parameter, chan=1 c1=64 c2=127
+Time=114840  Note on, chan=1 pitch=52 vol=0
+Time=114844  Note on, chan=1 pitch=66 vol=0
+Time=114848  Note on, chan=1 pitch=61 vol=0
+Time=114860  Note on, chan=1 pitch=58 vol=0
+Time=114884  Note on, chan=1 pitch=70 vol=0
+Time=115096  Parameter, chan=1 c1=64 c2=0
+Time=115152  Note on, chan=1 pitch=67 vol=79
+Time=115160  Note on, chan=1 pitch=56 vol=67
+Time=115160  Note on, chan=1 pitch=64 vol=70
+Time=115168  Note on, chan=1 pitch=60 vol=55
+Time=115172  Note on, chan=1 pitch=55 vol=76
+Time=115224  Parameter, chan=1 c1=64 c2=127
+Time=115376  Note on, chan=1 pitch=64 vol=0
+Time=115392  Note on, chan=1 pitch=67 vol=0
+Time=115452  Note on, chan=1 pitch=55 vol=0
+Time=115464  Note on, chan=1 pitch=60 vol=0
+Time=115468  Note on, chan=1 pitch=56 vol=0
+Time=115488  Parameter, chan=1 c1=64 c2=0
+Time=115516  Note on, chan=1 pitch=68 vol=89
+Time=115520  Note on, chan=1 pitch=65 vol=98
+Time=115588  Note on, chan=1 pitch=65 vol=0
+Time=115624  Note on, chan=1 pitch=68 vol=0
+Time=116028  Note on, chan=1 pitch=68 vol=73
+Time=116032  Note on, chan=1 pitch=65 vol=85
+Time=116288  Note on, chan=1 pitch=50 vol=79
+Time=116288  Note on, chan=1 pitch=56 vol=76
+Time=116292  Note on, chan=1 pitch=60 vol=73
+Time=116384  Parameter, chan=1 c1=64 c2=127
+Time=116456  Note on, chan=1 pitch=50 vol=0
+Time=116472  Note on, chan=1 pitch=60 vol=0
+Time=116476  Note on, chan=1 pitch=56 vol=0
+Time=116476  Note on, chan=1 pitch=65 vol=0
+Time=116500  Note on, chan=1 pitch=68 vol=0
+Time=116704  Parameter, chan=1 c1=64 c2=0
+Time=116788  Note on, chan=1 pitch=68 vol=76
+Time=116796  Note on, chan=1 pitch=65 vol=82
+Time=117088  Note on, chan=1 pitch=65 vol=0
+Time=117116  Parameter, chan=1 c1=64 c2=127
+Time=117132  Note on, chan=1 pitch=68 vol=0
+Time=117136  Note on, chan=1 pitch=61 vol=79
+Time=117140  Note on, chan=1 pitch=56 vol=85
+Time=117192  Note on, chan=1 pitch=61 vol=0
+Time=117204  Note on, chan=1 pitch=56 vol=0
+Time=117392  Parameter, chan=1 c1=64 c2=0
+Time=117408  Note on, chan=1 pitch=72 vol=85
+Time=117412  Note on, chan=1 pitch=67 vol=82
+Time=117412  Note on, chan=1 pitch=61 vol=82
+Time=117416  Note on, chan=1 pitch=55 vol=89
+Time=117632  Parameter, chan=1 c1=64 c2=127
+Time=117736  Note on, chan=1 pitch=72 vol=0
+Time=117764  Note on, chan=1 pitch=67 vol=0
+Time=117768  Note on, chan=1 pitch=61 vol=0
+Time=117784  Note on, chan=1 pitch=55 vol=0
+Time=117892  Note on, chan=1 pitch=70 vol=85
+Time=118132  Parameter, chan=1 c1=64 c2=0
+Time=118148  Note on, chan=1 pitch=67 vol=79
+Time=118152  Note on, chan=1 pitch=63 vol=79
+Time=118152  Note on, chan=1 pitch=60 vol=79
+Time=118164  Note on, chan=1 pitch=58 vol=76
+Time=118268  Parameter, chan=1 c1=64 c2=127
+Time=118340  Note on, chan=1 pitch=67 vol=0
+Time=118348  Note on, chan=1 pitch=70 vol=0
+Time=118352  Note on, chan=1 pitch=60 vol=0
+Time=118352  Note on, chan=1 pitch=63 vol=0
+Time=118360  Note on, chan=1 pitch=58 vol=0
+Time=119004  Parameter, chan=1 c1=64 c2=0
+Time=119036  Note on, chan=1 pitch=58 vol=55
+Time=119040  Note on, chan=1 pitch=63 vol=73
+Time=119040  Note on, chan=1 pitch=60 vol=82
+Time=119272  Note on, chan=1 pitch=60 vol=0
+Time=119296  Note on, chan=1 pitch=58 vol=0
+Time=119304  Note on, chan=1 pitch=53 vol=98
+Time=119324  Note on, chan=1 pitch=63 vol=0
+Time=119324  Parameter, chan=1 c1=64 c2=127
+Time=119408  Note on, chan=1 pitch=53 vol=0
+Time=119656  Note on, chan=1 pitch=61 vol=85
+Time=119656  Note on, chan=1 pitch=60 vol=79
+Time=119660  Note on, chan=1 pitch=65 vol=85
+Time=119672  Parameter, chan=1 c1=64 c2=0
+Time=119812  Note on, chan=1 pitch=60 vol=0
+Time=119816  Note on, chan=1 pitch=61 vol=0
+Time=119828  Parameter, chan=1 c1=64 c2=127
+Time=119860  Note on, chan=1 pitch=65 vol=0
+Time=119872  Note on, chan=1 pitch=56 vol=85
+Time=119872  Note on, chan=1 pitch=46 vol=85
+Time=120016  Note on, chan=1 pitch=46 vol=0
+Time=120016  Note on, chan=1 pitch=56 vol=0
+Time=120096  Parameter, chan=1 c1=64 c2=0
+Time=120140  Note on, chan=1 pitch=53 vol=98
+Time=120228  Parameter, chan=1 c1=64 c2=127
+Time=120232  Note on, chan=1 pitch=53 vol=0
+Time=120392  Note on, chan=1 pitch=65 vol=76
+Time=120436  Note on, chan=1 pitch=65 vol=0
+Time=120436  Parameter, chan=1 c1=64 c2=0
+Time=120480  Note on, chan=1 pitch=68 vol=93
+Time=120540  Note on, chan=1 pitch=68 vol=0
+Time=120596  Note on, chan=1 pitch=67 vol=103
+Time=120828  Note on, chan=1 pitch=61 vol=85
+Time=120832  Parameter, chan=1 c1=64 c2=127
+Time=120836  Note on, chan=1 pitch=55 vol=85
+Time=120876  Note on, chan=1 pitch=55 vol=0
+Time=120880  Note on, chan=1 pitch=61 vol=0
+Time=120900  Note on, chan=1 pitch=67 vol=0
+Time=120944  Note on, chan=1 pitch=72 vol=98
+Time=121012  Note on, chan=1 pitch=72 vol=0
+Time=121276  Parameter, chan=1 c1=64 c2=0
+Time=121304  Note on, chan=1 pitch=70 vol=76
+Time=121312  Note on, chan=1 pitch=60 vol=79
+Time=121312  Note on, chan=1 pitch=63 vol=79
+Time=121316  Note on, chan=1 pitch=67 vol=85
+Time=121324  Note on, chan=1 pitch=58 vol=82
+Time=121376  Note on, chan=1 pitch=60 vol=0
+Time=121392  Note on, chan=1 pitch=67 vol=0
+Time=121392  Note on, chan=1 pitch=63 vol=0
+Time=121404  Note on, chan=1 pitch=70 vol=0
+Time=121416  Note on, chan=1 pitch=58 vol=0
+Time=121416  Parameter, chan=1 c1=64 c2=127
+Time=121960  Note on, chan=1 pitch=58 vol=62
+Time=121964  Note on, chan=1 pitch=63 vol=79
+Time=121968  Note on, chan=1 pitch=60 vol=85
+Time=121968  Note on, chan=1 pitch=67 vol=82
+Time=121972  Note on, chan=1 pitch=55 vol=85
+Time=121976  Parameter, chan=1 c1=64 c2=0
+Time=122240  Parameter, chan=1 c1=64 c2=127
+Time=122312  Note on, chan=1 pitch=60 vol=0
+Time=122324  Note on, chan=1 pitch=58 vol=0
+Time=122360  Note on, chan=1 pitch=55 vol=0
+Time=122364  Note on, chan=1 pitch=63 vol=0
+Time=122368  Note on, chan=1 pitch=67 vol=0
+Time=122848  Parameter, chan=1 c1=64 c2=0
+Time=122872  Note on, chan=1 pitch=68 vol=70
+Time=122876  Note on, chan=1 pitch=59 vol=79
+Time=122880  Note on, chan=1 pitch=53 vol=82
+Time=122884  Note on, chan=1 pitch=65 vol=79
+Time=122884  Note on, chan=1 pitch=71 vol=82
+Time=122988  Parameter, chan=1 c1=64 c2=127
+Time=123012  Note on, chan=1 pitch=65 vol=0
+Time=123036  Note on, chan=1 pitch=53 vol=0
+Time=123040  Note on, chan=1 pitch=68 vol=0
+Time=123048  Note on, chan=1 pitch=59 vol=0
+Time=123060  Note on, chan=1 pitch=71 vol=0
+Time=123480  Parameter, chan=1 c1=64 c2=0
+Time=123524  Note on, chan=1 pitch=75 vol=76
+Time=123528  Note on, chan=1 pitch=68 vol=73
+Time=123528  Note on, chan=1 pitch=72 vol=85
+Time=123536  Note on, chan=1 pitch=58 vol=76
+Time=123536  Note on, chan=1 pitch=63 vol=79
+Time=123536  Note on, chan=1 pitch=52 vol=89
+Time=123596  Parameter, chan=1 c1=64 c2=127
+Time=123612  Note on, chan=1 pitch=52 vol=0
+Time=123612  Note on, chan=1 pitch=72 vol=0
+Time=123616  Note on, chan=1 pitch=63 vol=0
+Time=123620  Note on, chan=1 pitch=58 vol=0
+Time=123624  Note on, chan=1 pitch=68 vol=0
+Time=123628  Note on, chan=1 pitch=75 vol=0
+Time=123896  Parameter, chan=1 c1=64 c2=0
+Time=123912  Note on, chan=1 pitch=70 vol=70
+Time=123916  Note on, chan=1 pitch=66 vol=70
+Time=123920  Note on, chan=1 pitch=73 vol=67
+Time=123928  Note on, chan=1 pitch=58 vol=67
+Time=123932  Note on, chan=1 pitch=61 vol=76
+Time=123936  Note on, chan=1 pitch=52 vol=85
+Time=124012  Parameter, chan=1 c1=64 c2=127
+Time=124020  Note on, chan=1 pitch=52 vol=0
+Time=124028  Note on, chan=1 pitch=70 vol=0
+Time=124032  Note on, chan=1 pitch=61 vol=0
+Time=124036  Note on, chan=1 pitch=58 vol=0
+Time=124036  Note on, chan=1 pitch=66 vol=0
+Time=124052  Note on, chan=1 pitch=73 vol=0
+Time=124392  Parameter, chan=1 c1=64 c2=0
+Time=124452  Note on, chan=1 pitch=70 vol=76
+Time=124456  Note on, chan=1 pitch=67 vol=85
+Time=124460  Note on, chan=1 pitch=60 vol=79
+Time=124464  Note on, chan=1 pitch=56 vol=76
+Time=124472  Note on, chan=1 pitch=55 vol=82
+Time=124500  Parameter, chan=1 c1=64 c2=127
+Time=124620  Note on, chan=1 pitch=55 vol=0
+Time=124636  Note on, chan=1 pitch=56 vol=0
+Time=124636  Note on, chan=1 pitch=60 vol=0
+Time=124672  Note on, chan=1 pitch=67 vol=0
+Time=124688  Note on, chan=1 pitch=70 vol=0
+Time=124712  Note on, chan=1 pitch=68 vol=55
+Time=124744  Parameter, chan=1 c1=64 c2=0
+Time=124752  Note on, chan=1 pitch=68 vol=0
+Time=124836  Note on, chan=1 pitch=70 vol=67
+Time=124840  Note on, chan=1 pitch=67 vol=82
+Time=124844  Note on, chan=1 pitch=56 vol=79
+Time=124848  Note on, chan=1 pitch=60 vol=79
+Time=124848  Note on, chan=1 pitch=55 vol=85
+Time=124856  Parameter, chan=1 c1=64 c2=127
+Time=124936  Note on, chan=1 pitch=55 vol=0
+Time=124956  Note on, chan=1 pitch=60 vol=0
+Time=124964  Note on, chan=1 pitch=56 vol=0
+Time=124976  Note on, chan=1 pitch=67 vol=0
+Time=125000  Parameter, chan=1 c1=64 c2=0
+Time=125004  Note on, chan=1 pitch=70 vol=0
+Time=125092  Parameter, chan=1 c1=64 c2=127
+Time=125096  Note on, chan=1 pitch=70 vol=76
+Time=125096  Note on, chan=1 pitch=67 vol=93
+Time=125104  Note on, chan=1 pitch=56 vol=82
+Time=125108  Note on, chan=1 pitch=60 vol=85
+Time=125108  Note on, chan=1 pitch=55 vol=93
+Time=125140  Note on, chan=1 pitch=60 vol=0
+Time=125144  Parameter, chan=1 c1=64 c2=0
+Time=125148  Note on, chan=1 pitch=55 vol=0
+Time=125152  Note on, chan=1 pitch=56 vol=0
+Time=125160  Note on, chan=1 pitch=67 vol=0
+Time=125188  Note on, chan=1 pitch=70 vol=0
+Time=125356  Note on, chan=1 pitch=68 vol=64
+Time=125360  Note on, chan=1 pitch=50 vol=76
+Time=125360  Note on, chan=1 pitch=56 vol=67
+Time=125368  Parameter, chan=1 c1=64 c2=127
+Time=125368  Note on, chan=1 pitch=60 vol=59
+Time=125372  Note on, chan=1 pitch=65 vol=57
+Time=125444  Note on, chan=1 pitch=60 vol=0
+Time=125448  Note on, chan=1 pitch=50 vol=0
+Time=125452  Note on, chan=1 pitch=65 vol=0
+Time=125468  Note on, chan=1 pitch=56 vol=0
+Time=125500  Note on, chan=1 pitch=68 vol=0
+Time=125524  Parameter, chan=1 c1=64 c2=0
+Time=125600  Note on, chan=1 pitch=70 vol=79
+Time=125604  Note on, chan=1 pitch=67 vol=98
+Time=125608  Note on, chan=1 pitch=56 vol=85
+Time=125612  Note on, chan=1 pitch=50 vol=93
+Time=125616  Note on, chan=1 pitch=60 vol=82
+Time=125620  Parameter, chan=1 c1=64 c2=127
+Time=125648  Note on, chan=1 pitch=50 vol=0
+Time=125668  Note on, chan=1 pitch=60 vol=0
+Time=125672  Note on, chan=1 pitch=56 vol=0
+Time=125700  Note on, chan=1 pitch=67 vol=0
+Time=125740  Note on, chan=1 pitch=70 vol=0
+Time=125832  Parameter, chan=1 c1=64 c2=0
+Time=125876  Note on, chan=1 pitch=68 vol=79
+Time=125884  Note on, chan=1 pitch=65 vol=82
+Time=125956  Parameter, chan=1 c1=64 c2=127
+Time=126208  Note on, chan=1 pitch=65 vol=0
+Time=126240  Note on, chan=1 pitch=59 vol=85
+Time=126240  Note on, chan=1 pitch=53 vol=85
+Time=126256  Parameter, chan=1 c1=64 c2=0
+Time=126276  Note on, chan=1 pitch=68 vol=0
+Time=126280  Note on, chan=1 pitch=53 vol=0
+Time=126288  Note on, chan=1 pitch=59 vol=0
+Time=126368  Note on, chan=1 pitch=70 vol=76
+Time=126372  Note on, chan=1 pitch=67 vol=89
+Time=126424  Parameter, chan=1 c1=64 c2=127
+Time=126540  Note on, chan=1 pitch=67 vol=0
+Time=126556  Note on, chan=1 pitch=70 vol=0
+Time=126588  Parameter, chan=1 c1=64 c2=0
+Time=126640  Note on, chan=1 pitch=70 vol=79
+Time=126640  Parameter, chan=1 c1=64 c2=127
+Time=126644  Note on, chan=1 pitch=67 vol=98
+Time=126680  Parameter, chan=1 c1=64 c2=0
+Time=126688  Parameter, chan=1 c1=64 c2=127
+Time=126696  Parameter, chan=1 c1=64 c2=0
+Time=126700  Note on, chan=1 pitch=67 vol=0
+Time=126720  Note on, chan=1 pitch=70 vol=0
+Time=126888  Note on, chan=1 pitch=63 vol=76
+Time=126892  Note on, chan=1 pitch=58 vol=76
+Time=126892  Note on, chan=1 pitch=72 vol=76
+Time=126896  Note on, chan=1 pitch=68 vol=70
+Time=126896  Note on, chan=1 pitch=52 vol=82
+Time=126904  Parameter, chan=1 c1=64 c2=127
+Time=126936  Note on, chan=1 pitch=52 vol=0
+Time=126956  Note on, chan=1 pitch=58 vol=0
+Time=126956  Note on, chan=1 pitch=63 vol=0
+Time=126964  Note on, chan=1 pitch=72 vol=0
+Time=127012  Note on, chan=1 pitch=68 vol=0
+Time=127096  Parameter, chan=1 c1=64 c2=0
+Time=127144  Note on, chan=1 pitch=70 vol=79
+Time=127148  Note on, chan=1 pitch=66 vol=79
+Time=127152  Note on, chan=1 pitch=61 vol=82
+Time=127152  Note on, chan=1 pitch=58 vol=85
+Time=127164  Note on, chan=1 pitch=52 vol=89
+Time=127188  Parameter, chan=1 c1=64 c2=127
+Time=127200  Note on, chan=1 pitch=52 vol=0
+Time=127228  Note on, chan=1 pitch=58 vol=0
+Time=127240  Note on, chan=1 pitch=66 vol=0
+Time=127252  Note on, chan=1 pitch=61 vol=0
+Time=127256  Note on, chan=1 pitch=70 vol=0
+Time=127420  Parameter, chan=1 c1=64 c2=0
+Time=127860  Parameter, chan=1 c1=64 c2=127
+Time=127896  Note on, chan=1 pitch=67 vol=82
+Time=127904  Note on, chan=1 pitch=64 vol=76
+Time=127904  Note on, chan=1 pitch=56 vol=70
+Time=127908  Note on, chan=1 pitch=60 vol=76
+Time=127912  Note on, chan=1 pitch=55 vol=79
+Time=127984  Note on, chan=1 pitch=55 vol=0
+Time=127988  Note on, chan=1 pitch=60 vol=0
+Time=128000  Note on, chan=1 pitch=56 vol=0
+Time=128020  Note on, chan=1 pitch=64 vol=0
+Time=128044  Note on, chan=1 pitch=67 vol=0
+Time=128116  Parameter, chan=1 c1=64 c2=0
+Time=128160  Note on, chan=1 pitch=68 vol=70
+Time=128160  Note on, chan=1 pitch=56 vol=79
+Time=128164  Note on, chan=1 pitch=65 vol=82
+Time=128164  Note on, chan=1 pitch=55 vol=89
+Time=128168  Note on, chan=1 pitch=60 vol=79
+Time=128200  Note on, chan=1 pitch=56 vol=0
+Time=128204  Note on, chan=1 pitch=60 vol=0
+Time=128204  Note on, chan=1 pitch=55 vol=0
+Time=128204  Note on, chan=1 pitch=65 vol=0
+Time=128228  Note on, chan=1 pitch=68 vol=0
+Time=128532  Note on, chan=1 pitch=64 vol=59
+Time=128576  Note on, chan=1 pitch=64 vol=0
+Time=128660  Parameter, chan=1 c1=64 c2=127
+Time=128660  Note on, chan=1 pitch=67 vol=85
+Time=128660  Note on, chan=1 pitch=56 vol=73
+Time=128664  Note on, chan=1 pitch=50 vol=85
+Time=128668  Note on, chan=1 pitch=60 vol=73
+Time=128672  Note on, chan=1 pitch=64 vol=73
+Time=128764  Note on, chan=1 pitch=60 vol=0
+Time=128764  Note on, chan=1 pitch=50 vol=0
+Time=128776  Note on, chan=1 pitch=56 vol=0
+Time=128784  Note on, chan=1 pitch=64 vol=0
+Time=128808  Note on, chan=1 pitch=67 vol=0
+Time=128880  Parameter, chan=1 c1=64 c2=0
+Time=128900  Note on, chan=1 pitch=56 vol=79
+Time=128904  Note on, chan=1 pitch=68 vol=79
+Time=128904  Note on, chan=1 pitch=50 vol=82
+Time=128908  Note on, chan=1 pitch=60 vol=76
+Time=128912  Note on, chan=1 pitch=65 vol=79
+Time=128940  Note on, chan=1 pitch=50 vol=0
+Time=128948  Note on, chan=1 pitch=65 vol=0
+Time=128948  Note on, chan=1 pitch=60 vol=0
+Time=128956  Note on, chan=1 pitch=56 vol=0
+Time=128984  Note on, chan=1 pitch=68 vol=0
+Time=129348  Parameter, chan=1 c1=64 c2=127
+Time=129412  Note on, chan=1 pitch=68 vol=70
+Time=129416  Note on, chan=1 pitch=61 vol=79
+Time=129424  Note on, chan=1 pitch=56 vol=79
+Time=129428  Note on, chan=1 pitch=65 vol=70
+Time=129532  Note on, chan=1 pitch=65 vol=0
+Time=129540  Note on, chan=1 pitch=61 vol=0
+Time=129544  Note on, chan=1 pitch=56 vol=0
+Time=129580  Note on, chan=1 pitch=68 vol=0
+Time=129608  Parameter, chan=1 c1=64 c2=0
+Time=129660  Note on, chan=1 pitch=61 vol=93
+Time=129664  Note on, chan=1 pitch=56 vol=89
+Time=129668  Note on, chan=1 pitch=70 vol=82
+Time=129672  Note on, chan=1 pitch=67 vol=93
+Time=129680  Parameter, chan=1 c1=64 c2=127
+Time=129704  Note on, chan=1 pitch=67 vol=0
+Time=129724  Note on, chan=1 pitch=61 vol=0
+Time=129732  Note on, chan=1 pitch=56 vol=0
+Time=129732  Parameter, chan=1 c1=64 c2=0
+Time=129740  Note on, chan=1 pitch=70 vol=0
+Time=129932  Note on, chan=1 pitch=61 vol=67
+Time=129940  Note on, chan=1 pitch=68 vol=70
+Time=129940  Note on, chan=1 pitch=55 vol=73
+Time=129944  Note on, chan=1 pitch=72 vol=79
+Time=129948  Parameter, chan=1 c1=64 c2=127
+Time=129948  Note on, chan=1 pitch=65 vol=57
+Time=129980  Note on, chan=1 pitch=55 vol=0
+Time=129992  Note on, chan=1 pitch=65 vol=0
+Time=130004  Note on, chan=1 pitch=61 vol=0
+Time=130008  Note on, chan=1 pitch=68 vol=0
+Time=130024  Note on, chan=1 pitch=72 vol=0
+Time=130120  Parameter, chan=1 c1=64 c2=0
+Time=130172  Note on, chan=1 pitch=73 vol=82
+Time=130172  Note on, chan=1 pitch=70 vol=82
+Time=130180  Note on, chan=1 pitch=61 vol=89
+Time=130188  Note on, chan=1 pitch=65 vol=89
+Time=130192  Note on, chan=1 pitch=55 vol=93
+Time=130220  Parameter, chan=1 c1=64 c2=127
+Time=130232  Note on, chan=1 pitch=55 vol=0
+Time=130232  Note on, chan=1 pitch=65 vol=0
+Time=130244  Note on, chan=1 pitch=61 vol=0
+Time=130264  Note on, chan=1 pitch=70 vol=0
+Time=130276  Note on, chan=1 pitch=73 vol=0
+Time=130532  Note on, chan=1 pitch=75 vol=73
+Time=130536  Note on, chan=1 pitch=60 vol=85
+Time=130540  Note on, chan=1 pitch=72 vol=89
+Time=130544  Note on, chan=1 pitch=63 vol=79
+Time=130544  Note on, chan=1 pitch=58 vol=62
+Time=130548  Note on, chan=1 pitch=55 vol=82
+Time=130552  Parameter, chan=1 c1=64 c2=0
+Time=130752  Parameter, chan=1 c1=64 c2=127
+Time=130820  Note on, chan=1 pitch=72 vol=0
+Time=130820  Note on, chan=1 pitch=75 vol=0
+Time=130844  Note on, chan=1 pitch=55 vol=0
+Time=130860  Note on, chan=1 pitch=60 vol=0
+Time=130864  Note on, chan=1 pitch=63 vol=0
+Time=130872  Note on, chan=1 pitch=58 vol=0
+Time=131284  Parameter, chan=1 c1=64 c2=0
+Time=131296  Note on, chan=1 pitch=68 vol=67
+Time=131300  Note on, chan=1 pitch=72 vol=82
+Time=131304  Note on, chan=1 pitch=63 vol=73
+Time=131308  Note on, chan=1 pitch=53 vol=85
+Time=131452  Parameter, chan=1 c1=64 c2=127
+Time=131532  Note on, chan=1 pitch=68 vol=0
+Time=131552  Note on, chan=1 pitch=53 vol=0
+Time=131556  Note on, chan=1 pitch=63 vol=0
+Time=131568  Note on, chan=1 pitch=72 vol=0
+Time=132032  Parameter, chan=1 c1=64 c2=0
+Time=132084  Note on, chan=1 pitch=84 vol=89
+Time=132088  Note on, chan=1 pitch=77 vol=89
+Time=132088  Note on, chan=1 pitch=56 vol=85
+Time=132092  Note on, chan=1 pitch=61 vol=85
+Time=132092  Note on, chan=1 pitch=72 vol=79
+Time=132096  Note on, chan=1 pitch=65 vol=82
+Time=132236  Note on, chan=1 pitch=65 vol=0
+Time=132236  Note on, chan=1 pitch=56 vol=0
+Time=132240  Note on, chan=1 pitch=61 vol=0
+Time=132248  Note on, chan=1 pitch=72 vol=0
+Time=132248  Note on, chan=1 pitch=77 vol=0
+Time=132252  Note on, chan=1 pitch=84 vol=0
+Time=132360  Note on, chan=1 pitch=56 vol=85
+Time=132360  Note on, chan=1 pitch=61 vol=89
+Time=132364  Note on, chan=1 pitch=65 vol=85
+Time=132368  Note on, chan=1 pitch=84 vol=82
+Time=132376  Note on, chan=1 pitch=77 vol=73
+Time=132376  Note on, chan=1 pitch=72 vol=54
+Time=132408  Note on, chan=1 pitch=84 vol=0
+Time=132408  Note on, chan=1 pitch=65 vol=0
+Time=132416  Note on, chan=1 pitch=72 vol=0
+Time=132416  Note on, chan=1 pitch=77 vol=0
+Time=132424  Note on, chan=1 pitch=61 vol=0
+Time=132428  Note on, chan=1 pitch=56 vol=0
+Time=132860  Note on, chan=1 pitch=78 vol=82
+Time=132860  Note on, chan=1 pitch=84 vol=79
+Time=132864  Note on, chan=1 pitch=72 vol=70
+Time=132880  Note on, chan=1 pitch=65 vol=76
+Time=132884  Note on, chan=1 pitch=61 vol=76
+Time=132884  Note on, chan=1 pitch=55 vol=85
+Time=132888  Parameter, chan=1 c1=64 c2=127
+Time=132940  Note on, chan=1 pitch=78 vol=0
+Time=132948  Parameter, chan=1 c1=64 c2=0
+Time=132952  Note on, chan=1 pitch=79 vol=79
+Time=132956  Parameter, chan=1 c1=64 c2=127
+Time=132972  Parameter, chan=1 c1=64 c2=0
+Time=133016  Note on, chan=1 pitch=55 vol=0
+Time=133024  Note on, chan=1 pitch=65 vol=0
+Time=133032  Note on, chan=1 pitch=61 vol=0
+Time=133048  Note on, chan=1 pitch=84 vol=0
+Time=133052  Note on, chan=1 pitch=72 vol=0
+Time=133056  Note on, chan=1 pitch=79 vol=0
+Time=133140  Note on, chan=1 pitch=84 vol=85
+Time=133144  Note on, chan=1 pitch=61 vol=79
+Time=133148  Note on, chan=1 pitch=79 vol=79
+Time=133148  Note on, chan=1 pitch=55 vol=89
+Time=133152  Note on, chan=1 pitch=72 vol=85
+Time=133152  Note on, chan=1 pitch=65 vol=85
+Time=133224  Parameter, chan=1 c1=64 c2=127
+Time=133236  Note on, chan=1 pitch=72 vol=0
+Time=133248  Note on, chan=1 pitch=84 vol=0
+Time=133256  Note on, chan=1 pitch=79 vol=0
+Time=133268  Note on, chan=1 pitch=65 vol=0
+Time=133272  Note on, chan=1 pitch=55 vol=0
+Time=133276  Note on, chan=1 pitch=61 vol=0
+Time=133644  Parameter, chan=1 c1=64 c2=0
+Time=133652  Note on, chan=1 pitch=82 vol=89
+Time=133652  Note on, chan=1 pitch=70 vol=82
+Time=133656  Note on, chan=1 pitch=75 vol=82
+Time=133664  Note on, chan=1 pitch=63 vol=76
+Time=133664  Note on, chan=1 pitch=60 vol=82
+Time=133668  Note on, chan=1 pitch=58 vol=57
+Time=133672  Note on, chan=1 pitch=55 vol=82
+Time=133848  Parameter, chan=1 c1=64 c2=127
+Time=134236  Note on, chan=1 pitch=75 vol=0
+Time=134240  Note on, chan=1 pitch=82 vol=0
+Time=134248  Note on, chan=1 pitch=70 vol=0
+Time=134272  Note on, chan=1 pitch=55 vol=0
+Time=134288  Note on, chan=1 pitch=60 vol=0
+Time=134292  Note on, chan=1 pitch=58 vol=0
+Time=134304  Note on, chan=1 pitch=63 vol=0
+Time=134652  Parameter, chan=1 c1=64 c2=0
+Time=134652  Note on, chan=1 pitch=79 vol=85
+Time=134656  Note on, chan=1 pitch=67 vol=79
+Time=134660  Note on, chan=1 pitch=63 vol=76
+Time=134660  Note on, chan=1 pitch=72 vol=85
+Time=134664  Note on, chan=1 pitch=60 vol=82
+Time=134668  Note on, chan=1 pitch=58 vol=59
+Time=134672  Note on, chan=1 pitch=55 vol=67
+Time=134692  Note on, chan=1 pitch=67 vol=0
+Time=134696  Note on, chan=1 pitch=72 vol=0
+Time=134704  Note on, chan=1 pitch=60 vol=0
+Time=134708  Note on, chan=1 pitch=55 vol=0
+Time=134712  Note on, chan=1 pitch=58 vol=0
+Time=134712  Note on, chan=1 pitch=63 vol=0
+Time=134716  Note on, chan=1 pitch=79 vol=0
+Time=135392  Note on, chan=1 pitch=55 vol=98
+Time=135396  Note on, chan=1 pitch=77 vol=89
+Time=135396  Note on, chan=1 pitch=72 vol=89
+Time=135400  Note on, chan=1 pitch=65 vol=85
+Time=135400  Note on, chan=1 pitch=61 vol=82
+Time=135432  Note on, chan=1 pitch=65 vol=0
+Time=135432  Note on, chan=1 pitch=72 vol=0
+Time=135432  Note on, chan=1 pitch=77 vol=0
+Time=135432  Note on, chan=1 pitch=55 vol=0
+Time=135440  Note on, chan=1 pitch=61 vol=0
+Time=135776  Note on, chan=1 pitch=70 vol=85
+Time=135776  Note on, chan=1 pitch=75 vol=85
+Time=135784  Note on, chan=1 pitch=63 vol=79
+Time=135788  Note on, chan=1 pitch=60 vol=82
+Time=135792  Note on, chan=1 pitch=58 vol=62
+Time=135796  Parameter, chan=1 c1=64 c2=127
+Time=135800  Note on, chan=1 pitch=55 vol=73
+Time=135876  Note on, chan=1 pitch=75 vol=0
+Time=135884  Note on, chan=1 pitch=70 vol=0
+Time=135892  Note on, chan=1 pitch=55 vol=0
+Time=135916  Note on, chan=1 pitch=60 vol=0
+Time=135932  Note on, chan=1 pitch=58 vol=0
+Time=135932  Note on, chan=1 pitch=63 vol=0
+Time=136160  Note on, chan=1 pitch=72 vol=103
+Time=136164  Note on, chan=1 pitch=67 vol=93
+Time=136304  Note on, chan=1 pitch=67 vol=0
+Time=136332  Note on, chan=1 pitch=72 vol=0
+Time=136424  Parameter, chan=1 c1=64 c2=0
+Time=136424  Note on, chan=1 pitch=70 vol=93
+Time=136532  Parameter, chan=1 c1=64 c2=127
+Time=136584  Note on, chan=1 pitch=70 vol=0
+Time=136604  Parameter, chan=1 c1=64 c2=0
+Time=136648  Note on, chan=1 pitch=68 vol=93
+Time=136652  Note on, chan=1 pitch=72 vol=89
+Time=136724  Note on, chan=1 pitch=69 vol=98
+Time=136756  Note on, chan=1 pitch=68 vol=0
+Time=136772  Note on, chan=1 pitch=72 vol=0
+Time=136836  Note on, chan=1 pitch=69 vol=0
+Time=136936  Note on, chan=1 pitch=66 vol=98
+Time=136940  Note on, chan=1 pitch=72 vol=93
+Time=137016  Note on, chan=1 pitch=66 vol=0
+Time=137020  Note on, chan=1 pitch=72 vol=0
+Time=137092  Note on, chan=1 pitch=65 vol=79
+Time=137248  Note on, chan=1 pitch=65 vol=0
+Time=137332  Note on, chan=1 pitch=63 vol=103
+Time=137420  Note on, chan=1 pitch=63 vol=0
+Time=137556  Note on, chan=1 pitch=60 vol=49
+Time=137684  Note on, chan=1 pitch=60 vol=0
+Time=137744  Note on, chan=1 pitch=57 vol=86
+Time=137848  Note on, chan=1 pitch=57 vol=0
+Time=138460  Note on, chan=1 pitch=65 vol=85
+Time=138460  Note on, chan=1 pitch=61 vol=85
+Time=138464  Note on, chan=1 pitch=56 vol=82
+Time=138464  Note on, chan=1 pitch=68 vol=70
+Time=138464  Note on, chan=1 pitch=72 vol=79
+Time=138508  Note on, chan=1 pitch=72 vol=0
+Time=138512  Note on, chan=1 pitch=65 vol=0
+Time=138516  Note on, chan=1 pitch=68 vol=0
+Time=138516  Note on, chan=1 pitch=61 vol=0
+Time=138528  Note on, chan=1 pitch=56 vol=0
+Time=139224  Note on, chan=1 pitch=61 vol=89
+Time=139228  Note on, chan=1 pitch=56 vol=93
+Time=139228  Note on, chan=1 pitch=65 vol=89
+Time=139232  Note on, chan=1 pitch=68 vol=73
+Time=139232  Note on, chan=1 pitch=72 vol=85
+Time=139272  Note on, chan=1 pitch=65 vol=0
+Time=139284  Note on, chan=1 pitch=68 vol=0
+Time=139284  Note on, chan=1 pitch=61 vol=0
+Time=139288  Note on, chan=1 pitch=72 vol=0
+Time=139296  Note on, chan=1 pitch=56 vol=0
+Time=139752  Note on, chan=1 pitch=61 vol=89
+Time=139756  Note on, chan=1 pitch=56 vol=89
+Time=139756  Note on, chan=1 pitch=68 vol=76
+Time=139760  Note on, chan=1 pitch=65 vol=85
+Time=139760  Note on, chan=1 pitch=72 vol=85
+Time=139980  Parameter, chan=1 c1=64 c2=127
+Time=140064  Note on, chan=1 pitch=61 vol=0
+Time=140068  Note on, chan=1 pitch=65 vol=0
+Time=140068  Note on, chan=1 pitch=56 vol=0
+Time=140076  Note on, chan=1 pitch=72 vol=0
+Time=140088  Note on, chan=1 pitch=68 vol=0
+Time=140388  Parameter, chan=1 c1=64 c2=0
+Time=140388  Note on, chan=1 pitch=72 vol=93
+Time=140392  Note on, chan=1 pitch=67 vol=89
+Time=140396  Note on, chan=1 pitch=61 vol=85
+Time=140400  Note on, chan=1 pitch=55 vol=93
+Time=140628  Parameter, chan=1 c1=64 c2=127
+Time=140744  Note on, chan=1 pitch=61 vol=0
+Time=140764  Note on, chan=1 pitch=55 vol=0
+Time=140764  Note on, chan=1 pitch=67 vol=0
+Time=140772  Note on, chan=1 pitch=72 vol=0
+Time=141212  Note on, chan=1 pitch=57 vol=73
+Time=141236  Parameter, chan=1 c1=64 c2=0
+Time=141312  Note on, chan=1 pitch=57 vol=0
+Time=141316  Note on, chan=1 pitch=63 vol=70
+Time=141320  Note on, chan=1 pitch=67 vol=82
+Time=141320  Note on, chan=1 pitch=70 vol=67
+Time=141324  Note on, chan=1 pitch=60 vol=70
+Time=141328  Note on, chan=1 pitch=58 vol=70
+Time=141536  Note on, chan=1 pitch=58 vol=0
+Time=141548  Note on, chan=1 pitch=60 vol=0
+Time=141552  Note on, chan=1 pitch=67 vol=0
+Time=141556  Note on, chan=1 pitch=63 vol=0
+Time=141564  Note on, chan=1 pitch=70 vol=0
+Time=141588  Note on, chan=1 pitch=57 vol=70
+Time=141636  Note on, chan=1 pitch=57 vol=0
+Time=141680  Note on, chan=1 pitch=67 vol=85
+Time=141684  Note on, chan=1 pitch=63 vol=76
+Time=141688  Note on, chan=1 pitch=60 vol=85
+Time=141688  Note on, chan=1 pitch=70 vol=73
+Time=141700  Note on, chan=1 pitch=58 vol=76
+Time=141716  Parameter, chan=1 c1=64 c2=127
+Time=141836  Note on, chan=1 pitch=58 vol=0
+Time=141836  Note on, chan=1 pitch=60 vol=0
+Time=141840  Note on, chan=1 pitch=67 vol=0
+Time=141860  Note on, chan=1 pitch=70 vol=0
+Time=141860  Note on, chan=1 pitch=63 vol=0
+Time=141960  Parameter, chan=1 c1=64 c2=0
+Time=141960  Note on, chan=1 pitch=60 vol=93
+Time=141968  Note on, chan=1 pitch=67 vol=93
+Time=141972  Note on, chan=1 pitch=63 vol=85
+Time=141976  Note on, chan=1 pitch=55 vol=98
+Time=142176  Parameter, chan=1 c1=64 c2=127
+Time=142248  Note on, chan=1 pitch=60 vol=0
+Time=142320  Note on, chan=1 pitch=55 vol=0
+Time=142368  Note on, chan=1 pitch=60 vol=93
+Time=142428  Note on, chan=1 pitch=67 vol=0
+Time=142432  Note on, chan=1 pitch=63 vol=0
+Time=142448  Note on, chan=1 pitch=60 vol=0
+Time=142724  Parameter, chan=1 c1=64 c2=0
+Time=142744  Note on, chan=1 pitch=63 vol=79
+Time=142752  Note on, chan=1 pitch=57 vol=85
+Time=142752  Note on, chan=1 pitch=53 vol=85
+Time=142756  Note on, chan=1 pitch=66 vol=76
+Time=142756  Note on, chan=1 pitch=60 vol=85
+Time=142900  Parameter, chan=1 c1=64 c2=127
+Time=142908  Note on, chan=1 pitch=57 vol=0
+Time=142920  Note on, chan=1 pitch=60 vol=0
+Time=142944  Note on, chan=1 pitch=53 vol=0
+Time=142956  Note on, chan=1 pitch=63 vol=0
+Time=142976  Note on, chan=1 pitch=66 vol=0
+Time=143216  Parameter, chan=1 c1=64 c2=0
+Time=143264  Note on, chan=1 pitch=72 vol=93
+Time=143268  Note on, chan=1 pitch=66 vol=82
+Time=143272  Note on, chan=1 pitch=65 vol=89
+Time=143276  Note on, chan=1 pitch=69 vol=82
+Time=143300  Parameter, chan=1 c1=64 c2=127
+Time=143316  Note on, chan=1 pitch=69 vol=0
+Time=143336  Note on, chan=1 pitch=66 vol=0
+Time=143336  Note on, chan=1 pitch=72 vol=0
+Time=143348  Note on, chan=1 pitch=65 vol=0
+Time=143496  Parameter, chan=1 c1=64 c2=0
+Time=143536  Note on, chan=1 pitch=62 vol=98
+Time=143536  Note on, chan=1 pitch=69 vol=93
+Time=143540  Note on, chan=1 pitch=66 vol=76
+Time=143544  Note on, chan=1 pitch=63 vol=82
+Time=143572  Note on, chan=1 pitch=62 vol=0
+Time=143580  Note on, chan=1 pitch=63 vol=0
+Time=143580  Note on, chan=1 pitch=66 vol=0
+Time=143592  Note on, chan=1 pitch=69 vol=0
+Time=143832  Note on, chan=1 pitch=66 vol=59
+Time=143872  Note on, chan=1 pitch=66 vol=0
+Time=143956  Note on, chan=1 pitch=57 vol=62
+Time=143996  Note on, chan=1 pitch=57 vol=0
+Time=144036  Note on, chan=1 pitch=66 vol=89
+Time=144040  Note on, chan=1 pitch=63 vol=85
+Time=144040  Note on, chan=1 pitch=62 vol=98
+Time=144044  Parameter, chan=1 c1=64 c2=127
+Time=144116  Note on, chan=1 pitch=62 vol=0
+Time=144116  Note on, chan=1 pitch=63 vol=0
+Time=144128  Note on, chan=1 pitch=66 vol=0
+Time=144288  Parameter, chan=1 c1=64 c2=0
+Time=144296  Note on, chan=1 pitch=60 vol=85
+Time=144300  Note on, chan=1 pitch=61 vol=85
+Time=144304  Note on, chan=1 pitch=65 vol=93
+Time=144640  Note on, chan=1 pitch=60 vol=0
+Time=144652  Note on, chan=1 pitch=61 vol=0
+Time=144660  Note on, chan=1 pitch=56 vol=82
+Time=144668  Parameter, chan=1 c1=64 c2=127
+Time=144680  Note on, chan=1 pitch=65 vol=0
+Time=144720  Note on, chan=1 pitch=56 vol=0
+Time=145068  Parameter, chan=1 c1=64 c2=0
+Time=145184  Note on, chan=1 pitch=68 vol=93
+Time=145448  Note on, chan=1 pitch=68 vol=0
+Time=145552  Note on, chan=1 pitch=68 vol=98
+Time=145808  Note on, chan=1 pitch=68 vol=0
+Time=145816  Note on, chan=1 pitch=61 vol=89
+Time=145820  Note on, chan=1 pitch=56 vol=85
+Time=145824  Note on, chan=1 pitch=65 vol=93
+Time=145916  Parameter, chan=1 c1=64 c2=127
+Time=146228  Note on, chan=1 pitch=61 vol=0
+Time=146236  Note on, chan=1 pitch=56 vol=0
+Time=146244  Note on, chan=1 pitch=65 vol=0
+Time=146292  Parameter, chan=1 c1=64 c2=0
+Time=146300  Note on, chan=1 pitch=68 vol=85
+Time=146516  Note on, chan=1 pitch=68 vol=0
+Time=146548  Note on, chan=1 pitch=67 vol=98
+Time=146556  Note on, chan=1 pitch=61 vol=93
+Time=146564  Note on, chan=1 pitch=55 vol=98
+Time=146804  Parameter, chan=1 c1=64 c2=127
+Time=146884  Note on, chan=1 pitch=61 vol=0
+Time=146916  Note on, chan=1 pitch=55 vol=0
+Time=146916  Note on, chan=1 pitch=67 vol=0
+Time=147356  Note on, chan=1 pitch=57 vol=73
+Time=147372  Parameter, chan=1 c1=64 c2=0
+Time=147436  Note on, chan=1 pitch=57 vol=0
+Time=147448  Note on, chan=1 pitch=67 vol=89
+Time=147448  Note on, chan=1 pitch=63 vol=82
+Time=147448  Note on, chan=1 pitch=60 vol=85
+Time=147452  Note on, chan=1 pitch=70 vol=73
+Time=147460  Note on, chan=1 pitch=58 vol=82
+Time=147496  Parameter, chan=1 c1=64 c2=127
+Time=147548  Note on, chan=1 pitch=70 vol=0
+Time=147552  Note on, chan=1 pitch=67 vol=0
+Time=147564  Note on, chan=1 pitch=58 vol=0
+Time=147572  Note on, chan=1 pitch=63 vol=0
+Time=147588  Note on, chan=1 pitch=60 vol=0
+Time=147712  Parameter, chan=1 c1=64 c2=0
+Time=147748  Note on, chan=1 pitch=67 vol=93
+Time=147748  Note on, chan=1 pitch=60 vol=93
+Time=147748  Note on, chan=1 pitch=55 vol=103
+Time=147752  Note on, chan=1 pitch=63 vol=89
+Time=147804  Parameter, chan=1 c1=64 c2=127
+Time=147808  Note on, chan=1 pitch=60 vol=0
+Time=147812  Note on, chan=1 pitch=55 vol=0
+Time=147820  Note on, chan=1 pitch=63 vol=0
+Time=147824  Note on, chan=1 pitch=67 vol=0
+Time=148012  Parameter, chan=1 c1=64 c2=0
+Time=148056  Note on, chan=1 pitch=63 vol=89
+Time=148060  Note on, chan=1 pitch=72 vol=89
+Time=148060  Note on, chan=1 pitch=68 vol=73
+Time=148064  Note on, chan=1 pitch=58 vol=85
+Time=148072  Note on, chan=1 pitch=52 vol=82
+Time=148112  Parameter, chan=1 c1=64 c2=127
+Time=148144  Note on, chan=1 pitch=52 vol=0
+Time=148144  Note on, chan=1 pitch=63 vol=0
+Time=148148  Note on, chan=1 pitch=68 vol=0
+Time=148156  Note on, chan=1 pitch=58 vol=0
+Time=148156  Note on, chan=1 pitch=72 vol=0
+Time=148416  Parameter, chan=1 c1=64 c2=0
+Time=148596  Note on, chan=1 pitch=58 vol=93
+Time=148604  Note on, chan=1 pitch=68 vol=85
+Time=148604  Note on, chan=1 pitch=75 vol=85
+Time=148608  Note on, chan=1 pitch=72 vol=98
+Time=148612  Note on, chan=1 pitch=52 vol=98
+Time=148676  Parameter, chan=1 c1=64 c2=127
+Time=148744  Note on, chan=1 pitch=72 vol=0
+Time=148756  Note on, chan=1 pitch=52 vol=0
+Time=148764  Note on, chan=1 pitch=75 vol=0
+Time=148772  Note on, chan=1 pitch=68 vol=0
+Time=148772  Note on, chan=1 pitch=58 vol=0
+Time=148944  Parameter, chan=1 c1=64 c2=0
+Time=148984  Note on, chan=1 pitch=56 vol=85
+Time=148988  Note on, chan=1 pitch=60 vol=89
+Time=148988  Note on, chan=1 pitch=79 vol=98
+Time=148992  Note on, chan=1 pitch=55 vol=103
+Time=148992  Note on, chan=1 pitch=72 vol=93
+Time=148996  Note on, chan=1 pitch=67 vol=93
+Time=149284  Parameter, chan=1 c1=64 c2=127
+Time=149332  Note on, chan=1 pitch=79 vol=0
+Time=149340  Note on, chan=1 pitch=72 vol=0
+Time=149360  Note on, chan=1 pitch=67 vol=0
+Time=149364  Note on, chan=1 pitch=55 vol=0
+Time=149364  Note on, chan=1 pitch=60 vol=0
+Time=149372  Note on, chan=1 pitch=56 vol=0
+Time=149616  Parameter, chan=1 c1=64 c2=0
+Time=149632  Note on, chan=1 pitch=68 vol=73
+Time=149632  Note on, chan=1 pitch=56 vol=85
+Time=149636  Note on, chan=1 pitch=72 vol=82
+Time=149636  Note on, chan=1 pitch=50 vol=93
+Time=149640  Note on, chan=1 pitch=65 vol=79
+Time=149644  Note on, chan=1 pitch=60 vol=85
+Time=149676  Note on, chan=1 pitch=60 vol=0
+Time=149684  Note on, chan=1 pitch=65 vol=0
+Time=149684  Note on, chan=1 pitch=72 vol=0
+Time=149700  Note on, chan=1 pitch=50 vol=0
+Time=149700  Note on, chan=1 pitch=56 vol=0
+Time=149700  Note on, chan=1 pitch=68 vol=0
+Time=150388  Note on, chan=1 pitch=82 vol=98
+Time=150388  Note on, chan=1 pitch=70 vol=98
+Time=150392  Note on, chan=1 pitch=59 vol=98
+Time=150396  Note on, chan=1 pitch=63 vol=93
+Time=150396  Note on, chan=1 pitch=75 vol=89
+Time=150400  Note on, chan=1 pitch=53 vol=98
+Time=150556  Parameter, chan=1 c1=64 c2=127
+Time=150688  Note on, chan=1 pitch=75 vol=0
+Time=150692  Note on, chan=1 pitch=82 vol=0
+Time=150696  Note on, chan=1 pitch=53 vol=0
+Time=150700  Note on, chan=1 pitch=59 vol=0
+Time=150704  Note on, chan=1 pitch=63 vol=0
+Time=150708  Note on, chan=1 pitch=70 vol=0
+Time=151104  Parameter, chan=1 c1=64 c2=0
+Time=151148  Note on, chan=1 pitch=68 vol=82
+Time=151148  Note on, chan=1 pitch=75 vol=82
+Time=151156  Note on, chan=1 pitch=63 vol=89
+Time=151156  Note on, chan=1 pitch=72 vol=89
+Time=151160  Note on, chan=1 pitch=58 vol=79
+Time=151160  Note on, chan=1 pitch=52 vol=89
+Time=151220  Parameter, chan=1 c1=64 c2=127
+Time=151236  Note on, chan=1 pitch=52 vol=0
+Time=151240  Note on, chan=1 pitch=72 vol=0
+Time=151248  Note on, chan=1 pitch=63 vol=0
+Time=151252  Note on, chan=1 pitch=58 vol=0
+Time=151252  Note on, chan=1 pitch=75 vol=0
+Time=151264  Note on, chan=1 pitch=68 vol=0
+Time=151492  Parameter, chan=1 c1=64 c2=0
+Time=151536  Note on, chan=1 pitch=73 vol=82
+Time=151540  Note on, chan=1 pitch=66 vol=82
+Time=151540  Note on, chan=1 pitch=70 vol=79
+Time=151544  Note on, chan=1 pitch=58 vol=79
+Time=151544  Note on, chan=1 pitch=61 vol=85
+Time=151548  Note on, chan=1 pitch=52 vol=82
+Time=151628  Parameter, chan=1 c1=64 c2=127
+Time=151640  Note on, chan=1 pitch=52 vol=0
+Time=151656  Note on, chan=1 pitch=70 vol=0
+Time=151664  Note on, chan=1 pitch=61 vol=0
+Time=151664  Note on, chan=1 pitch=58 vol=0
+Time=151672  Note on, chan=1 pitch=66 vol=0
+Time=151696  Note on, chan=1 pitch=73 vol=0
+Time=151928  Parameter, chan=1 c1=64 c2=0
+Time=151944  Note on, chan=1 pitch=72 vol=98
+Time=151948  Note on, chan=1 pitch=67 vol=93
+Time=151952  Note on, chan=1 pitch=56 vol=85
+Time=151952  Note on, chan=1 pitch=60 vol=89
+Time=151956  Note on, chan=1 pitch=55 vol=93
+Time=152168  Parameter, chan=1 c1=64 c2=127
+Time=152428  Note on, chan=1 pitch=55 vol=0
+Time=152436  Note on, chan=1 pitch=60 vol=0
+Time=152444  Note on, chan=1 pitch=56 vol=0
+Time=152488  Note on, chan=1 pitch=72 vol=0
+Time=152496  Note on, chan=1 pitch=67 vol=0
+Time=152704  Note on, chan=1 pitch=56 vol=93
+Time=152704  Note on, chan=1 pitch=68 vol=85
+Time=152708  Note on, chan=1 pitch=60 vol=98
+Time=152712  Note on, chan=1 pitch=50 vol=98
+Time=152716  Note on, chan=1 pitch=65 vol=93
+Time=152724  Parameter, chan=1 c1=64 c2=0
+Time=152764  Note on, chan=1 pitch=60 vol=0
+Time=152768  Note on, chan=1 pitch=65 vol=0
+Time=152768  Note on, chan=1 pitch=50 vol=0
+Time=152768  Note on, chan=1 pitch=56 vol=0
+Time=152776  Note on, chan=1 pitch=68 vol=0
+Time=153484  Note on, chan=1 pitch=77 vol=93
+Time=153484  Note on, chan=1 pitch=84 vol=93
+Time=153484  Note on, chan=1 pitch=61 vol=93
+Time=153488  Note on, chan=1 pitch=56 vol=98
+Time=153492  Note on, chan=1 pitch=72 vol=98
+Time=153492  Note on, chan=1 pitch=65 vol=103
+Time=153536  Note on, chan=1 pitch=72 vol=0
+Time=153544  Note on, chan=1 pitch=61 vol=0
+Time=153544  Note on, chan=1 pitch=77 vol=0
+Time=153548  Note on, chan=1 pitch=65 vol=0
+Time=153548  Note on, chan=1 pitch=56 vol=0
+Time=153552  Note on, chan=1 pitch=84 vol=0
+Time=153872  Note on, chan=1 pitch=84 vol=93
+Time=153872  Note on, chan=1 pitch=77 vol=93
+Time=153876  Note on, chan=1 pitch=61 vol=98
+Time=153880  Note on, chan=1 pitch=72 vol=89
+Time=153880  Note on, chan=1 pitch=56 vol=93
+Time=153884  Note on, chan=1 pitch=65 vol=98
+Time=153912  Note on, chan=1 pitch=77 vol=0
+Time=153916  Note on, chan=1 pitch=72 vol=0
+Time=153936  Note on, chan=1 pitch=65 vol=0
+Time=153940  Note on, chan=1 pitch=61 vol=0
+Time=153948  Note on, chan=1 pitch=84 vol=0
+Time=153952  Note on, chan=1 pitch=56 vol=0
+Time=154392  Note on, chan=1 pitch=72 vol=98
+Time=154392  Note on, chan=1 pitch=61 vol=89
+Time=154396  Note on, chan=1 pitch=84 vol=93
+Time=154400  Note on, chan=1 pitch=55 vol=103
+Time=154400  Note on, chan=1 pitch=65 vol=93
+Time=154404  Note on, chan=1 pitch=79 vol=93
+Time=154556  Note on, chan=1 pitch=55 vol=0
+Time=154564  Note on, chan=1 pitch=65 vol=0
+Time=154568  Note on, chan=1 pitch=61 vol=0
+Time=154572  Note on, chan=1 pitch=72 vol=0
+Time=154576  Note on, chan=1 pitch=84 vol=0
+Time=154588  Note on, chan=1 pitch=79 vol=0
+Time=154676  Note on, chan=1 pitch=84 vol=89
+Time=154680  Note on, chan=1 pitch=61 vol=93
+Time=154680  Note on, chan=1 pitch=79 vol=82
+Time=154684  Note on, chan=1 pitch=65 vol=98
+Time=154684  Note on, chan=1 pitch=72 vol=93
+Time=154688  Note on, chan=1 pitch=55 vol=103
+Time=154720  Note on, chan=1 pitch=55 vol=0
+Time=154720  Note on, chan=1 pitch=72 vol=0
+Time=154720  Note on, chan=1 pitch=65 vol=0
+Time=154720  Note on, chan=1 pitch=79 vol=0
+Time=154732  Note on, chan=1 pitch=61 vol=0
+Time=154736  Note on, chan=1 pitch=84 vol=0
+Time=155156  Note on, chan=1 pitch=82 vol=89
+Time=155160  Note on, chan=1 pitch=70 vol=82
+Time=155160  Note on, chan=1 pitch=75 vol=79
+Time=155164  Note on, chan=1 pitch=63 vol=82
+Time=155168  Note on, chan=1 pitch=60 vol=85
+Time=155168  Note on, chan=1 pitch=55 vol=89
+Time=155172  Note on, chan=1 pitch=58 vol=62
+Time=155344  Parameter, chan=1 c1=64 c2=127
+Time=155440  Note on, chan=1 pitch=55 vol=0
+Time=155472  Note on, chan=1 pitch=60 vol=0
+Time=155480  Note on, chan=1 pitch=58 vol=0
+Time=155480  Note on, chan=1 pitch=63 vol=0
+Time=155480  Note on, chan=1 pitch=75 vol=0
+Time=155496  Note on, chan=1 pitch=82 vol=0
+Time=155500  Note on, chan=1 pitch=70 vol=0
+Time=155784  Parameter, chan=1 c1=64 c2=0
+Time=155796  Note on, chan=1 pitch=82 vol=89
+Time=155800  Note on, chan=1 pitch=70 vol=85
+Time=155804  Note on, chan=1 pitch=75 vol=82
+Time=155808  Note on, chan=1 pitch=55 vol=89
+Time=155812  Note on, chan=1 pitch=63 vol=79
+Time=155812  Note on, chan=1 pitch=56 vol=82
+Time=155812  Note on, chan=1 pitch=60 vol=85
+Time=155844  Note on, chan=1 pitch=55 vol=0
+Time=155844  Note on, chan=1 pitch=75 vol=0
+Time=155852  Note on, chan=1 pitch=60 vol=0
+Time=155860  Note on, chan=1 pitch=63 vol=0
+Time=155864  Note on, chan=1 pitch=70 vol=0
+Time=155876  Note on, chan=1 pitch=56 vol=0
+Time=155876  Note on, chan=1 pitch=82 vol=0
+Time=156652  Note on, chan=1 pitch=84 vol=93
+Time=156656  Note on, chan=1 pitch=61 vol=93
+Time=156656  Note on, chan=1 pitch=77 vol=89
+Time=156656  Note on, chan=1 pitch=72 vol=93
+Time=156660  Note on, chan=1 pitch=56 vol=93
+Time=156660  Note on, chan=1 pitch=65 vol=93
+Time=156728  Note on, chan=1 pitch=72 vol=0
+Time=156736  Note on, chan=1 pitch=65 vol=0
+Time=156736  Note on, chan=1 pitch=77 vol=0
+Time=156736  Note on, chan=1 pitch=84 vol=0
+Time=156748  Note on, chan=1 pitch=56 vol=0
+Time=156748  Note on, chan=1 pitch=61 vol=0
+Time=157308  Note on, chan=1 pitch=84 vol=103
+Time=157308  Note on, chan=1 pitch=72 vol=98
+Time=157308  Note on, chan=1 pitch=78 vol=82
+Time=157316  Note on, chan=1 pitch=61 vol=85
+Time=157320  Note on, chan=1 pitch=55 vol=98
+Time=157320  Note on, chan=1 pitch=65 vol=89
+Time=157380  Note on, chan=1 pitch=78 vol=0
+Time=157384  Note on, chan=1 pitch=79 vol=89
+Time=157580  Note on, chan=1 pitch=55 vol=0
+Time=157580  Note on, chan=1 pitch=84 vol=0
+Time=157584  Note on, chan=1 pitch=65 vol=0
+Time=157584  Note on, chan=1 pitch=72 vol=0
+Time=157592  Note on, chan=1 pitch=61 vol=0
+Time=157600  Note on, chan=1 pitch=79 vol=0
+Time=157696  Note on, chan=1 pitch=84 vol=89
+Time=157696  Note on, chan=1 pitch=61 vol=85
+Time=157700  Note on, chan=1 pitch=72 vol=89
+Time=157704  Note on, chan=1 pitch=79 vol=79
+Time=157704  Note on, chan=1 pitch=55 vol=103
+Time=157708  Note on, chan=1 pitch=65 vol=93
+Time=157796  Parameter, chan=1 c1=64 c2=127
+Time=157848  Note on, chan=1 pitch=84 vol=0
+Time=157852  Note on, chan=1 pitch=65 vol=0
+Time=157856  Note on, chan=1 pitch=72 vol=0
+Time=157860  Note on, chan=1 pitch=79 vol=0
+Time=157864  Note on, chan=1 pitch=55 vol=0
+Time=157864  Note on, chan=1 pitch=61 vol=0
+Time=158220  Parameter, chan=1 c1=64 c2=0
+Time=158232  Note on, chan=1 pitch=82 vol=93
+Time=158236  Note on, chan=1 pitch=70 vol=89
+Time=158240  Note on, chan=1 pitch=60 vol=85
+Time=158244  Note on, chan=1 pitch=63 vol=76
+Time=158244  Note on, chan=1 pitch=75 vol=82
+Time=158248  Note on, chan=1 pitch=58 vol=67
+Time=158252  Note on, chan=1 pitch=55 vol=89
+Time=158372  Parameter, chan=1 c1=64 c2=127
+Time=158392  Note on, chan=1 pitch=55 vol=0
+Time=158392  Note on, chan=1 pitch=75 vol=0
+Time=158396  Note on, chan=1 pitch=70 vol=0
+Time=158400  Note on, chan=1 pitch=60 vol=0
+Time=158408  Note on, chan=1 pitch=82 vol=0
+Time=158412  Note on, chan=1 pitch=63 vol=0
+Time=158420  Note on, chan=1 pitch=58 vol=0
+Time=158844  Parameter, chan=1 c1=64 c2=0
+Time=158848  Note on, chan=1 pitch=75 vol=85
+Time=158852  Note on, chan=1 pitch=67 vol=93
+Time=158856  Note on, chan=1 pitch=70 vol=82
+Time=158856  Note on, chan=1 pitch=58 vol=89
+Time=158860  Note on, chan=1 pitch=72 vol=82
+Time=159136  Parameter, chan=1 c1=64 c2=127
+Time=159220  Note on, chan=1 pitch=72 vol=0
+Time=159232  Note on, chan=1 pitch=75 vol=0
+Time=159236  Note on, chan=1 pitch=70 vol=0
+Time=159256  Note on, chan=1 pitch=67 vol=0
+Time=159292  Note on, chan=1 pitch=58 vol=0
+Time=159596  Parameter, chan=1 c1=64 c2=0
+Time=159628  Note on, chan=1 pitch=70 vol=76
+Time=159632  Note on, chan=1 pitch=63 vol=85
+Time=159632  Note on, chan=1 pitch=67 vol=89
+Time=159636  Note on, chan=1 pitch=55 vol=93
+Time=159640  Note on, chan=1 pitch=72 vol=93
+Time=159692  Note on, chan=1 pitch=63 vol=0
+Time=159696  Note on, chan=1 pitch=55 vol=0
+Time=159700  Note on, chan=1 pitch=67 vol=0
+Time=159704  Note on, chan=1 pitch=72 vol=0
+Time=159716  Note on, chan=1 pitch=70 vol=0
+Time=160744  Note on, chan=1 pitch=75 vol=85
+Time=160748  Note on, chan=1 pitch=68 vol=82
+Time=160748  Note on, chan=1 pitch=72 vol=93
+Time=160752  Note on, chan=1 pitch=63 vol=89
+Time=160756  Note on, chan=1 pitch=58 vol=82
+Time=160756  Note on, chan=1 pitch=52 vol=98
+Time=160800  Parameter, chan=1 c1=64 c2=127
+Time=160824  Note on, chan=1 pitch=72 vol=0
+Time=160840  Note on, chan=1 pitch=68 vol=0
+Time=160844  Note on, chan=1 pitch=52 vol=0
+Time=160844  Note on, chan=1 pitch=75 vol=0
+Time=160848  Note on, chan=1 pitch=63 vol=0
+Time=160856  Note on, chan=1 pitch=58 vol=0
+Time=161248  Parameter, chan=1 c1=64 c2=0
+Time=161260  Note on, chan=1 pitch=77 vol=89
+Time=161264  Note on, chan=1 pitch=72 vol=85
+Time=161268  Note on, chan=1 pitch=67 vol=82
+Time=161268  Note on, chan=1 pitch=56 vol=82
+Time=161268  Note on, chan=1 pitch=60 vol=85
+Time=161276  Note on, chan=1 pitch=55 vol=89
+Time=161580  Parameter, chan=1 c1=64 c2=127
+Time=161684  Note on, chan=1 pitch=77 vol=0
+Time=161692  Note on, chan=1 pitch=72 vol=0
+Time=161708  Note on, chan=1 pitch=55 vol=0
+Time=161708  Note on, chan=1 pitch=60 vol=0
+Time=161716  Note on, chan=1 pitch=67 vol=0
+Time=161720  Note on, chan=1 pitch=56 vol=0
+Time=162032  Parameter, chan=1 c1=64 c2=0
+Time=162040  Parameter, chan=1 c1=64 c2=127
+Time=162048  Parameter, chan=1 c1=64 c2=0
+Time=162068  Note on, chan=1 pitch=68 vol=70
+Time=162072  Note on, chan=1 pitch=56 vol=70
+Time=162076  Note on, chan=1 pitch=65 vol=67
+Time=162084  Note on, chan=1 pitch=50 vol=70
+Time=162084  Note on, chan=1 pitch=60 vol=59
+Time=162156  Note on, chan=1 pitch=65 vol=0
+Time=162168  Note on, chan=1 pitch=68 vol=0
+Time=162176  Note on, chan=1 pitch=50 vol=0
+Time=162184  Note on, chan=1 pitch=60 vol=0
+Time=162200  Note on, chan=1 pitch=56 vol=0
+Time=162708  Note on, chan=1 pitch=70 vol=64
+Time=162716  Note on, chan=1 pitch=59 vol=76
+Time=162716  Note on, chan=1 pitch=53 vol=82
+Time=162720  Note on, chan=1 pitch=67 vol=70
+Time=162756  Note on, chan=1 pitch=67 vol=0
+Time=162772  Note on, chan=1 pitch=59 vol=0
+Time=162784  Note on, chan=1 pitch=53 vol=0
+Time=162784  Note on, chan=1 pitch=70 vol=0
+Time=163468  Note on, chan=1 pitch=68 vol=70
+Time=163472  Note on, chan=1 pitch=58 vol=79
+Time=163476  Note on, chan=1 pitch=63 vol=76
+Time=163476  Note on, chan=1 pitch=72 vol=85
+Time=163488  Note on, chan=1 pitch=52 vol=79
+Time=163620  Parameter, chan=1 c1=64 c2=127
+Time=163852  Note on, chan=1 pitch=63 vol=0
+Time=163860  Note on, chan=1 pitch=72 vol=0
+Time=163864  Note on, chan=1 pitch=52 vol=0
+Time=163876  Note on, chan=1 pitch=58 vol=0
+Time=163888  Note on, chan=1 pitch=68 vol=0
+Time=164256  Parameter, chan=1 c1=64 c2=0
+Time=164332  Note on, chan=1 pitch=56 vol=70
+Time=164332  Note on, chan=1 pitch=70 vol=70
+Time=164340  Note on, chan=1 pitch=55 vol=76
+Time=164344  Note on, chan=1 pitch=67 vol=76
+Time=164344  Note on, chan=1 pitch=60 vol=62
+Time=164424  Parameter, chan=1 c1=64 c2=127
+Time=164572  Note on, chan=1 pitch=67 vol=0
+Time=164592  Parameter, chan=1 c1=64 c2=0
+Time=164608  Note on, chan=1 pitch=55 vol=0
+Time=164608  Note on, chan=1 pitch=70 vol=0
+Time=164620  Note on, chan=1 pitch=60 vol=0
+Time=164620  Note on, chan=1 pitch=56 vol=0
+Time=164624  Note on, chan=1 pitch=68 vol=62
+Time=164668  Note on, chan=1 pitch=68 vol=0
+Time=164716  Parameter, chan=1 c1=64 c2=127
+Time=164732  Note on, chan=1 pitch=70 vol=82
+Time=164736  Note on, chan=1 pitch=67 vol=89
+Time=164836  Note on, chan=1 pitch=67 vol=0
+Time=164864  Note on, chan=1 pitch=70 vol=0
+Time=164984  Parameter, chan=1 c1=64 c2=0
+Time=164992  Note on, chan=1 pitch=50 vol=79
+Time=164996  Note on, chan=1 pitch=68 vol=67
+Time=164996  Note on, chan=1 pitch=56 vol=67
+Time=165000  Note on, chan=1 pitch=65 vol=73
+Time=165000  Note on, chan=1 pitch=60 vol=67
+Time=165264  Parameter, chan=1 c1=64 c2=127
+Time=165400  Note on, chan=1 pitch=50 vol=0
+Time=165440  Note on, chan=1 pitch=60 vol=0
+Time=165440  Note on, chan=1 pitch=56 vol=0
+Time=165464  Note on, chan=1 pitch=65 vol=0
+Time=165464  Note on, chan=1 pitch=68 vol=0
+Time=165820  Parameter, chan=1 c1=64 c2=0
+Time=165868  Note on, chan=1 pitch=68 vol=73
+Time=165880  Note on, chan=1 pitch=61 vol=73
+Time=165880  Note on, chan=1 pitch=56 vol=79
+Time=165972  Parameter, chan=1 c1=64 c2=127
+Time=166144  Parameter, chan=1 c1=64 c2=0
+Time=166156  Note on, chan=1 pitch=68 vol=0
+Time=166160  Note on, chan=1 pitch=61 vol=0
+Time=166172  Note on, chan=1 pitch=56 vol=0
+Time=166180  Note on, chan=1 pitch=65 vol=47
+Time=166220  Note on, chan=1 pitch=65 vol=0
+Time=166264  Parameter, chan=1 c1=64 c2=127
+Time=166272  Note on, chan=1 pitch=68 vol=85
+Time=166464  Note on, chan=1 pitch=68 vol=0
+Time=166528  Parameter, chan=1 c1=64 c2=0
+Time=166536  Note on, chan=1 pitch=61 vol=76
+Time=166536  Note on, chan=1 pitch=67 vol=82
+Time=166548  Note on, chan=1 pitch=55 vol=82
+Time=166712  Parameter, chan=1 c1=64 c2=127
+Time=166844  Note on, chan=1 pitch=67 vol=0
+Time=166848  Note on, chan=1 pitch=61 vol=0
+Time=166872  Note on, chan=1 pitch=55 vol=0
+Time=167284  Parameter, chan=1 c1=64 c2=0
+Time=167296  Note on, chan=1 pitch=63 vol=79
+Time=167296  Note on, chan=1 pitch=70 vol=73
+Time=167300  Note on, chan=1 pitch=60 vol=82
+Time=167300  Note on, chan=1 pitch=67 vol=85
+Time=167304  Note on, chan=1 pitch=58 vol=82
+Time=167476  Parameter, chan=1 c1=64 c2=127
+Time=167612  Note on, chan=1 pitch=67 vol=0
+Time=167612  Note on, chan=1 pitch=60 vol=0
+Time=167612  Note on, chan=1 pitch=70 vol=0
+Time=167624  Note on, chan=1 pitch=63 vol=0
+Time=167656  Note on, chan=1 pitch=58 vol=0
+Time=168056  Note on, chan=1 pitch=58 vol=55
+Time=168056  Note on, chan=1 pitch=63 vol=73
+Time=168060  Note on, chan=1 pitch=67 vol=76
+Time=168064  Note on, chan=1 pitch=60 vol=79
+Time=168068  Note on, chan=1 pitch=55 vol=82
+Time=168076  Parameter, chan=1 c1=64 c2=0
+Time=168348  Parameter, chan=1 c1=64 c2=127
+Time=168428  Note on, chan=1 pitch=60 vol=0
+Time=168444  Note on, chan=1 pitch=58 vol=0
+Time=168464  Note on, chan=1 pitch=55 vol=0
+Time=168476  Note on, chan=1 pitch=63 vol=0
+Time=168488  Note on, chan=1 pitch=67 vol=0
+Time=168808  Parameter, chan=1 c1=64 c2=0
+Time=168844  Note on, chan=1 pitch=61 vol=79
+Time=168848  Note on, chan=1 pitch=68 vol=76
+Time=168848  Note on, chan=1 pitch=56 vol=82
+Time=168852  Note on, chan=1 pitch=65 vol=82
+Time=168856  Note on, chan=1 pitch=72 vol=82
+Time=168988  Parameter, chan=1 c1=64 c2=127
+Time=169144  Note on, chan=1 pitch=56 vol=0
+Time=169148  Note on, chan=1 pitch=61 vol=0
+Time=169168  Note on, chan=1 pitch=65 vol=0
+Time=169184  Note on, chan=1 pitch=72 vol=0
+Time=169192  Note on, chan=1 pitch=68 vol=0
+Time=169604  Parameter, chan=1 c1=64 c2=0
+Time=169608  Note on, chan=1 pitch=61 vol=82
+Time=169608  Note on, chan=1 pitch=72 vol=82
+Time=169612  Note on, chan=1 pitch=67 vol=79
+Time=169612  Note on, chan=1 pitch=55 vol=85
+Time=169796  Parameter, chan=1 c1=64 c2=127
+Time=169920  Note on, chan=1 pitch=72 vol=0
+Time=169924  Note on, chan=1 pitch=67 vol=0
+Time=169932  Note on, chan=1 pitch=61 vol=0
+Time=169956  Note on, chan=1 pitch=55 vol=0
+Time=170352  Parameter, chan=1 c1=64 c2=0
+Time=170356  Note on, chan=1 pitch=63 vol=76
+Time=170364  Note on, chan=1 pitch=67 vol=82
+Time=170364  Note on, chan=1 pitch=70 vol=73
+Time=170368  Note on, chan=1 pitch=60 vol=76
+Time=170372  Note on, chan=1 pitch=58 vol=76
+Time=170552  Parameter, chan=1 c1=64 c2=127
+Time=170752  Note on, chan=1 pitch=70 vol=0
+Time=170760  Note on, chan=1 pitch=67 vol=0
+Time=170764  Note on, chan=1 pitch=60 vol=0
+Time=170764  Note on, chan=1 pitch=63 vol=0
+Time=170792  Note on, chan=1 pitch=58 vol=0
+Time=171116  Parameter, chan=1 c1=64 c2=0
+Time=171128  Note on, chan=1 pitch=63 vol=67
+Time=171132  Note on, chan=1 pitch=67 vol=73
+Time=171136  Note on, chan=1 pitch=55 vol=79
+Time=171136  Note on, chan=1 pitch=60 vol=64
+Time=171308  Parameter, chan=1 c1=64 c2=127
+Time=171488  Note on, chan=1 pitch=60 vol=0
+Time=171492  Note on, chan=1 pitch=55 vol=0
+Time=171500  Note on, chan=1 pitch=63 vol=0
+Time=171552  Note on, chan=1 pitch=67 vol=0
+Time=171968  Parameter, chan=1 c1=64 c2=0
+Time=172012  Note on, chan=1 pitch=68 vol=76
+Time=172016  Note on, chan=1 pitch=65 vol=82
+Time=172020  Note on, chan=1 pitch=53 vol=82
+Time=172024  Note on, chan=1 pitch=59 vol=73
+Time=172124  Parameter, chan=1 c1=64 c2=127
+Time=172200  Note on, chan=1 pitch=53 vol=0
+Time=172200  Note on, chan=1 pitch=65 vol=0
+Time=172204  Note on, chan=1 pitch=59 vol=0
+Time=172208  Note on, chan=1 pitch=68 vol=0
+Time=172620  Parameter, chan=1 c1=64 c2=0
+Time=172692  Note on, chan=1 pitch=58 vol=73
+Time=172700  Note on, chan=1 pitch=63 vol=76
+Time=172700  Note on, chan=1 pitch=72 vol=85
+Time=172704  Note on, chan=1 pitch=68 vol=67
+Time=172704  Note on, chan=1 pitch=52 vol=79
+Time=172740  Parameter, chan=1 c1=64 c2=127
+Time=172764  Note on, chan=1 pitch=63 vol=0
+Time=172772  Note on, chan=1 pitch=52 vol=0
+Time=172776  Note on, chan=1 pitch=72 vol=0
+Time=172780  Note on, chan=1 pitch=58 vol=0
+Time=172784  Note on, chan=1 pitch=68 vol=0
+Time=173052  Note on, chan=1 pitch=68 vol=79
+Time=173060  Parameter, chan=1 c1=64 c2=0
+Time=173060  Note on, chan=1 pitch=75 vol=76
+Time=173060  Note on, chan=1 pitch=58 vol=82
+Time=173064  Note on, chan=1 pitch=72 vol=79
+Time=173072  Note on, chan=1 pitch=52 vol=82
+Time=173180  Parameter, chan=1 c1=64 c2=127
+Time=173196  Note on, chan=1 pitch=72 vol=0
+Time=173208  Note on, chan=1 pitch=52 vol=0
+Time=173228  Note on, chan=1 pitch=58 vol=0
+Time=173228  Note on, chan=1 pitch=68 vol=0
+Time=173248  Note on, chan=1 pitch=75 vol=0
+Time=173572  Note on, chan=1 pitch=72 vol=85
+Time=173576  Note on, chan=1 pitch=67 vol=79
+Time=173576  Note on, chan=1 pitch=79 vol=79
+Time=173580  Note on, chan=1 pitch=60 vol=79
+Time=173584  Note on, chan=1 pitch=56 vol=76
+Time=173584  Note on, chan=1 pitch=55 vol=79
+Time=173592  Parameter, chan=1 c1=64 c2=0
+Time=173796  Parameter, chan=1 c1=64 c2=127
+Time=173924  Note on, chan=1 pitch=55 vol=0
+Time=173928  Note on, chan=1 pitch=72 vol=0
+Time=173932  Note on, chan=1 pitch=60 vol=0
+Time=173932  Note on, chan=1 pitch=67 vol=0
+Time=173936  Note on, chan=1 pitch=56 vol=0
+Time=173940  Note on, chan=1 pitch=79 vol=0
+Time=174216  Note on, chan=1 pitch=50 vol=85
+Time=174216  Note on, chan=1 pitch=56 vol=76
+Time=174220  Note on, chan=1 pitch=79 vol=79
+Time=174224  Note on, chan=1 pitch=72 vol=79
+Time=174228  Note on, chan=1 pitch=67 vol=73
+Time=174228  Note on, chan=1 pitch=60 vol=82
+Time=174236  Parameter, chan=1 c1=64 c2=0
+Time=174268  Note on, chan=1 pitch=67 vol=0
+Time=174272  Note on, chan=1 pitch=72 vol=0
+Time=174280  Note on, chan=1 pitch=60 vol=0
+Time=174280  Note on, chan=1 pitch=50 vol=0
+Time=174284  Note on, chan=1 pitch=79 vol=0
+Time=174288  Note on, chan=1 pitch=56 vol=0
+Time=175096  Note on, chan=1 pitch=68 vol=73
+Time=175100  Note on, chan=1 pitch=65 vol=82
+Time=175104  Note on, chan=1 pitch=59 vol=79
+Time=175108  Note on, chan=1 pitch=53 vol=82
+Time=175140  Parameter, chan=1 c1=64 c2=127
+Time=175208  Note on, chan=1 pitch=53 vol=0
+Time=175216  Note on, chan=1 pitch=59 vol=0
+Time=175224  Note on, chan=1 pitch=65 vol=0
+Time=175224  Note on, chan=1 pitch=68 vol=0
+Time=175736  Note on, chan=1 pitch=58 vol=70
+Time=175740  Parameter, chan=1 c1=64 c2=0
+Time=175744  Note on, chan=1 pitch=68 vol=59
+Time=175748  Note on, chan=1 pitch=72 vol=79
+Time=175752  Note on, chan=1 pitch=63 vol=59
+Time=175756  Note on, chan=1 pitch=52 vol=73
+Time=175964  Parameter, chan=1 c1=64 c2=127
+Time=176204  Note on, chan=1 pitch=63 vol=0
+Time=176208  Note on, chan=1 pitch=52 vol=0
+Time=176208  Note on, chan=1 pitch=72 vol=0
+Time=176228  Note on, chan=1 pitch=68 vol=0
+Time=176228  Note on, chan=1 pitch=58 vol=0
+Time=176620  Parameter, chan=1 c1=64 c2=0
+Time=176644  Note on, chan=1 pitch=68 vol=73
+Time=176648  Note on, chan=1 pitch=56 vol=70
+Time=176652  Note on, chan=1 pitch=65 vol=73
+Time=176656  Note on, chan=1 pitch=55 vol=73
+Time=176660  Note on, chan=1 pitch=60 vol=67
+Time=176780  Parameter, chan=1 c1=64 c2=127
+Time=177016  Note on, chan=1 pitch=55 vol=0
+Time=177024  Note on, chan=1 pitch=60 vol=0
+Time=177036  Note on, chan=1 pitch=56 vol=0
+Time=177076  Note on, chan=1 pitch=65 vol=0
+Time=177128  Note on, chan=1 pitch=68 vol=0
+Time=177284  Parameter, chan=1 c1=64 c2=0
+Time=177388  Note on, chan=1 pitch=56 vol=70
+Time=177396  Note on, chan=1 pitch=60 vol=70
+Time=177396  Note on, chan=1 pitch=50 vol=73
+Time=177512  Parameter, chan=1 c1=64 c2=127
+Time=177696  Note on, chan=1 pitch=50 vol=0
+Time=177728  Note on, chan=1 pitch=56 vol=0
+Time=177740  Note on, chan=1 pitch=60 vol=0
+Time=177796  Note on, chan=1 pitch=70 vol=85
+Time=177800  Note on, chan=1 pitch=67 vol=89
+Time=177808  Parameter, chan=1 c1=64 c2=0
+Time=177896  Parameter, chan=1 c1=64 c2=127
+Time=177956  Note on, chan=1 pitch=67 vol=0
+Time=177976  Note on, chan=1 pitch=70 vol=0
+Time=178044  Parameter, chan=1 c1=64 c2=0
+Time=178184  Note on, chan=1 pitch=70 vol=79
+Time=178188  Note on, chan=1 pitch=67 vol=89
+Time=178224  Parameter, chan=1 c1=64 c2=127
+Time=178400  Parameter, chan=1 c1=64 c2=0
+Time=178404  Note on, chan=1 pitch=67 vol=0
+Time=178408  Parameter, chan=1 c1=64 c2=127
+Time=178416  Parameter, chan=1 c1=64 c2=0
+Time=178432  Note on, chan=1 pitch=70 vol=0
+Time=178556  Note on, chan=1 pitch=70 vol=76
+Time=178560  Note on, chan=1 pitch=67 vol=89
+Time=178564  Note on, chan=1 pitch=61 vol=76
+Time=178568  Note on, chan=1 pitch=56 vol=79
+Time=178576  Parameter, chan=1 c1=64 c2=127
+Time=178628  Note on, chan=1 pitch=61 vol=0
+Time=178648  Note on, chan=1 pitch=56 vol=0
+Time=178656  Note on, chan=1 pitch=67 vol=0
+Time=178692  Note on, chan=1 pitch=70 vol=0
+Time=178804  Note on, chan=1 pitch=61 vol=85
+Time=178816  Note on, chan=1 pitch=55 vol=85
+Time=178816  Parameter, chan=1 c1=64 c2=0
+Time=179164  Parameter, chan=1 c1=64 c2=127
+Time=179244  Note on, chan=1 pitch=65 vol=76
+Time=179332  Note on, chan=1 pitch=55 vol=0
+Time=179340  Note on, chan=1 pitch=61 vol=0
+Time=179376  Note on, chan=1 pitch=65 vol=0
+Time=179464  Parameter, chan=1 c1=64 c2=0
+Time=179472  Note on, chan=1 pitch=68 vol=98
+Time=179648  Note on, chan=1 pitch=68 vol=0
+Time=179704  Note on, chan=1 pitch=67 vol=82
+Time=179956  Note on, chan=1 pitch=55 vol=79
+Time=179960  Note on, chan=1 pitch=60 vol=79
+Time=179964  Note on, chan=1 pitch=58 vol=62
+Time=179964  Note on, chan=1 pitch=63 vol=67
+Time=180004  Parameter, chan=1 c1=64 c2=127
+Time=180072  Note on, chan=1 pitch=67 vol=0
+Time=180096  Note on, chan=1 pitch=60 vol=0
+Time=180100  Note on, chan=1 pitch=63 vol=0
+Time=180104  Note on, chan=1 pitch=55 vol=0
+Time=180112  Note on, chan=1 pitch=58 vol=0
+Time=180452  Parameter, chan=1 c1=64 c2=0
+Time=180476  Note on, chan=1 pitch=60 vol=73
+Time=180480  Note on, chan=1 pitch=63 vol=70
+Time=180480  Note on, chan=1 pitch=55 vol=79
+Time=180484  Note on, chan=1 pitch=67 vol=76
+Time=180636  Parameter, chan=1 c1=64 c2=127
+Time=180652  Parameter, chan=1 c1=64 c2=0
+Time=180680  Note on, chan=1 pitch=55 vol=0
+Time=180728  Note on, chan=1 pitch=67 vol=0
+Time=180732  Note on, chan=1 pitch=60 vol=0
+Time=180736  Note on, chan=1 pitch=51 vol=85
+Time=180740  Note on, chan=1 pitch=63 vol=0
+Time=180836  Parameter, chan=1 c1=64 c2=127
+Time=180980  Note on, chan=1 pitch=51 vol=0
+Time=181040  Note on, chan=1 pitch=60 vol=82
+Time=181116  Note on, chan=1 pitch=60 vol=0
+Time=181252  Note on, chan=1 pitch=60 vol=79
+Time=181256  Note on, chan=1 pitch=65 vol=82
+Time=181260  Note on, chan=1 pitch=61 vol=82
+Time=181264  Parameter, chan=1 c1=64 c2=0
+Time=181452  Parameter, chan=1 c1=64 c2=127
+Time=181480  Note on, chan=1 pitch=60 vol=0
+Time=181484  Note on, chan=1 pitch=61 vol=0
+Time=181500  Note on, chan=1 pitch=56 vol=82
+Time=181500  Note on, chan=1 pitch=46 vol=82
+Time=181524  Note on, chan=1 pitch=65 vol=0
+Time=181584  Note on, chan=1 pitch=46 vol=0
+Time=181588  Note on, chan=1 pitch=56 vol=0
+Time=181760  Note on, chan=1 pitch=53 vol=98
+Time=181812  Note on, chan=1 pitch=53 vol=0
+Time=181960  Parameter, chan=1 c1=64 c2=0
+Time=181968  Parameter, chan=1 c1=64 c2=127
+Time=181976  Parameter, chan=1 c1=64 c2=0
+Time=182004  Note on, chan=1 pitch=67 vol=89
+Time=182008  Note on, chan=1 pitch=72 vol=89
+Time=182240  Parameter, chan=1 c1=64 c2=127
+Time=182260  Note on, chan=1 pitch=61 vol=93
+Time=182268  Note on, chan=1 pitch=55 vol=98
+Time=182316  Note on, chan=1 pitch=67 vol=0
+Time=182332  Note on, chan=1 pitch=72 vol=0
+Time=182356  Note on, chan=1 pitch=55 vol=0
+Time=182368  Note on, chan=1 pitch=61 vol=0
+Time=182492  Note on, chan=1 pitch=70 vol=89
+Time=182708  Parameter, chan=1 c1=64 c2=0
+Time=182748  Note on, chan=1 pitch=67 vol=73
+Time=182752  Note on, chan=1 pitch=60 vol=76
+Time=182756  Note on, chan=1 pitch=63 vol=76
+Time=182892  Parameter, chan=1 c1=64 c2=127
+Time=182976  Note on, chan=1 pitch=60 vol=0
+Time=182976  Note on, chan=1 pitch=67 vol=0
+Time=182980  Note on, chan=1 pitch=63 vol=0
+Time=182984  Note on, chan=1 pitch=70 vol=0
+Time=183020  Note on, chan=1 pitch=58 vol=82
+Time=183124  Note on, chan=1 pitch=58 vol=0
+Time=183260  Note on, chan=1 pitch=55 vol=93
+Time=183312  Parameter, chan=1 c1=64 c2=0
+Time=183432  Parameter, chan=1 c1=64 c2=127
+Time=183464  Note on, chan=1 pitch=55 vol=0
+Time=183520  Note on, chan=1 pitch=58 vol=73
+Time=183524  Note on, chan=1 pitch=67 vol=85
+Time=183528  Note on, chan=1 pitch=60 vol=85
+Time=183704  Parameter, chan=1 c1=64 c2=0
+Time=183744  Note on, chan=1 pitch=60 vol=0
+Time=183752  Note on, chan=1 pitch=58 vol=0
+Time=183772  Note on, chan=1 pitch=67 vol=0
+Time=183792  Note on, chan=1 pitch=51 vol=85
+Time=183828  Parameter, chan=1 c1=64 c2=127
+Time=184024  Note on, chan=1 pitch=51 vol=0
+Time=184048  Note on, chan=1 pitch=63 vol=93
+Time=184228  Note on, chan=1 pitch=63 vol=0
+Time=184288  Parameter, chan=1 c1=64 c2=0
+Time=184300  Note on, chan=1 pitch=65 vol=89
+Time=184304  Note on, chan=1 pitch=60 vol=79
+Time=184304  Note on, chan=1 pitch=58 vol=67
+Time=184304  Note on, chan=1 pitch=63 vol=76
+Time=184564  Parameter, chan=1 c1=64 c2=127
+Time=184572  Note on, chan=1 pitch=51 vol=73
+Time=184696  Note on, chan=1 pitch=51 vol=0
+Time=184824  Note on, chan=1 pitch=55 vol=73
+Time=184860  Parameter, chan=1 c1=64 c2=0
+Time=184920  Note on, chan=1 pitch=65 vol=0
+Time=184928  Parameter, chan=1 c1=64 c2=127
+Time=184996  Note on, chan=1 pitch=63 vol=0
+Time=185008  Note on, chan=1 pitch=60 vol=0
+Time=185012  Note on, chan=1 pitch=58 vol=0
+Time=185024  Note on, chan=1 pitch=55 vol=0
+Time=185080  Note on, chan=1 pitch=48 vol=73
+Time=185180  Note on, chan=1 pitch=48 vol=0
+Time=185328  Note on, chan=1 pitch=58 vol=57
+Time=185328  Note on, chan=1 pitch=55 vol=62
+Time=185328  Note on, chan=1 pitch=60 vol=67
+Time=185344  Parameter, chan=1 c1=64 c2=0
+Time=185496  Parameter, chan=1 c1=64 c2=127
+Time=185524  Note on, chan=1 pitch=55 vol=0
+Time=185548  Note on, chan=1 pitch=60 vol=0
+Time=185548  Note on, chan=1 pitch=58 vol=0
+Time=185572  Note on, chan=1 pitch=44 vol=67
+Time=185632  Note on, chan=1 pitch=44 vol=0
+Time=185820  Note on, chan=1 pitch=63 vol=85
+Time=185824  Note on, chan=1 pitch=66 vol=85
+Time=185828  Parameter, chan=1 c1=64 c2=0
+Time=185832  Note on, chan=1 pitch=57 vol=93
+Time=185832  Note on, chan=1 pitch=60 vol=89
+Time=185836  Note on, chan=1 pitch=41 vol=98
+Time=186800  Parameter, chan=1 c1=64 c2=127
+Time=186904  Note on, chan=1 pitch=60 vol=0
+Time=186908  Note on, chan=1 pitch=41 vol=0
+Time=186912  Note on, chan=1 pitch=57 vol=0
+Time=186948  Note on, chan=1 pitch=63 vol=0
+Time=186964  Note on, chan=1 pitch=66 vol=0
+Time=187372  Parameter, chan=1 c1=64 c2=0
+Time=187384  Note on, chan=1 pitch=68 vol=76
+Time=187392  Note on, chan=1 pitch=60 vol=73
+Time=187392  Note on, chan=1 pitch=65 vol=76
+Time=187396  Note on, chan=1 pitch=63 vol=73
+Time=187400  Note on, chan=1 pitch=46 vol=73
+Time=187400  Note on, chan=1 pitch=56 vol=67
+Time=187564  Parameter, chan=1 c1=64 c2=127
+Time=187724  Note on, chan=1 pitch=60 vol=0
+Time=187732  Note on, chan=1 pitch=46 vol=0
+Time=187732  Note on, chan=1 pitch=63 vol=0
+Time=187756  Note on, chan=1 pitch=65 vol=0
+Time=187760  Note on, chan=1 pitch=56 vol=0
+Time=187784  Note on, chan=1 pitch=68 vol=0
+Time=188396  Parameter, chan=1 c1=64 c2=0
+Time=188428  Note on, chan=1 pitch=68 vol=89
+Time=188436  Note on, chan=1 pitch=56 vol=79
+Time=188436  Note on, chan=1 pitch=61 vol=79
+Time=188440  Note on, chan=1 pitch=60 vol=85
+Time=188480  Note on, chan=1 pitch=60 vol=0
+Time=188496  Note on, chan=1 pitch=61 vol=0
+Time=188504  Note on, chan=1 pitch=56 vol=0
+Time=188524  Note on, chan=1 pitch=68 vol=0
+Time=188732  Note on, chan=1 pitch=72 vol=98
+Time=188820  Note on, chan=1 pitch=72 vol=0
+Time=188840  Note on, chan=1 pitch=75 vol=89
+Time=188936  Note on, chan=1 pitch=75 vol=0
+Time=188964  Note on, chan=1 pitch=61 vol=76
+Time=188968  Note on, chan=1 pitch=56 vol=79
+Time=188972  Note on, chan=1 pitch=68 vol=85
+Time=188976  Note on, chan=1 pitch=60 vol=85
+Time=189184  Parameter, chan=1 c1=64 c2=127
+Time=189212  Note on, chan=1 pitch=68 vol=0
+Time=189236  Note on, chan=1 pitch=61 vol=0
+Time=189240  Note on, chan=1 pitch=60 vol=0
+Time=189248  Note on, chan=1 pitch=56 vol=0
+Time=189360  Parameter, chan=1 c1=64 c2=0
+Time=189588  Note on, chan=1 pitch=68 vol=103
+Time=189696  Note on, chan=1 pitch=68 vol=0
+Time=189728  Note on, chan=1 pitch=67 vol=85
+Time=189976  Note on, chan=1 pitch=61 vol=76
+Time=189976  Parameter, chan=1 c1=64 c2=127
+Time=189980  Note on, chan=1 pitch=55 vol=89
+Time=190012  Note on, chan=1 pitch=67 vol=0
+Time=190048  Note on, chan=1 pitch=61 vol=0
+Time=190064  Note on, chan=1 pitch=55 vol=0
+Time=190384  Parameter, chan=1 c1=64 c2=0
+Time=190464  Note on, chan=1 pitch=63 vol=79
+Time=190464  Note on, chan=1 pitch=67 vol=82
+Time=190472  Note on, chan=1 pitch=60 vol=82
+Time=190472  Note on, chan=1 pitch=58 vol=79
+Time=190472  Note on, chan=1 pitch=70 vol=73
+Time=190524  Parameter, chan=1 c1=64 c2=127
+Time=190596  Note on, chan=1 pitch=58 vol=0
+Time=190640  Note on, chan=1 pitch=60 vol=0
+Time=190652  Note on, chan=1 pitch=70 vol=0
+Time=190652  Note on, chan=1 pitch=63 vol=0
+Time=190652  Parameter, chan=1 c1=64 c2=0
+Time=190660  Note on, chan=1 pitch=67 vol=0
+Time=190740  Note on, chan=1 pitch=67 vol=79
+Time=190740  Note on, chan=1 pitch=63 vol=82
+Time=190744  Note on, chan=1 pitch=70 vol=70
+Time=190744  Note on, chan=1 pitch=58 vol=85
+Time=190748  Note on, chan=1 pitch=60 vol=85
+Time=190768  Parameter, chan=1 c1=64 c2=127
+Time=190828  Note on, chan=1 pitch=60 vol=0
+Time=190836  Note on, chan=1 pitch=63 vol=0
+Time=190836  Note on, chan=1 pitch=67 vol=0
+Time=190844  Note on, chan=1 pitch=70 vol=0
+Time=190860  Note on, chan=1 pitch=58 vol=0
+Time=190892  Parameter, chan=1 c1=64 c2=0
+Time=191004  Note on, chan=1 pitch=67 vol=62
+Time=191012  Note on, chan=1 pitch=55 vol=54
+Time=191040  Note on, chan=1 pitch=67 vol=0
+Time=191048  Note on, chan=1 pitch=55 vol=0
+Time=191112  Note on, chan=1 pitch=63 vol=82
+Time=191116  Note on, chan=1 pitch=70 vol=89
+Time=191116  Note on, chan=1 pitch=60 vol=89
+Time=191124  Note on, chan=1 pitch=58 vol=82
+Time=191140  Parameter, chan=1 c1=64 c2=127
+Time=191176  Note on, chan=1 pitch=63 vol=0
+Time=191184  Note on, chan=1 pitch=60 vol=0
+Time=191196  Note on, chan=1 pitch=58 vol=0
+Time=191208  Note on, chan=1 pitch=70 vol=0
+Time=191224  Parameter, chan=1 c1=64 c2=0
+Time=191232  Parameter, chan=1 c1=64 c2=127
+Time=191240  Parameter, chan=1 c1=64 c2=0
+Time=191308  Note on, chan=1 pitch=63 vol=64
+Time=191312  Note on, chan=1 pitch=67 vol=76
+Time=191316  Note on, chan=1 pitch=60 vol=59
+Time=191324  Note on, chan=1 pitch=55 vol=76
+Time=191508  Note on, chan=1 pitch=60 vol=0
+Time=191524  Parameter, chan=1 c1=64 c2=127
+Time=191564  Note on, chan=1 pitch=55 vol=0
+Time=191576  Note on, chan=1 pitch=60 vol=89
+Time=191628  Note on, chan=1 pitch=63 vol=0
+Time=191640  Note on, chan=1 pitch=60 vol=0
+Time=191656  Note on, chan=1 pitch=67 vol=0
+Time=191964  Parameter, chan=1 c1=64 c2=0
+Time=192004  Note on, chan=1 pitch=75 vol=73
+Time=192008  Note on, chan=1 pitch=63 vol=89
+Time=192008  Note on, chan=1 pitch=69 vol=79
+Time=192012  Note on, chan=1 pitch=78 vol=76
+Time=192012  Note on, chan=1 pitch=57 vol=93
+Time=192016  Note on, chan=1 pitch=72 vol=79
+Time=192108  Parameter, chan=1 c1=64 c2=127
+Time=192152  Note on, chan=1 pitch=72 vol=0
+Time=192188  Note on, chan=1 pitch=69 vol=0
+Time=192192  Note on, chan=1 pitch=57 vol=0
+Time=192204  Note on, chan=1 pitch=78 vol=0
+Time=192204  Note on, chan=1 pitch=63 vol=0
+Time=192204  Note on, chan=1 pitch=75 vol=0
+Time=192604  Parameter, chan=1 c1=64 c2=0
+Time=192632  Note on, chan=1 pitch=72 vol=79
+Time=192632  Note on, chan=1 pitch=69 vol=70
+Time=192636  Note on, chan=1 pitch=65 vol=70
+Time=192640  Note on, chan=1 pitch=60 vol=89
+Time=192640  Note on, chan=1 pitch=66 vol=67
+Time=192672  Note on, chan=1 pitch=69 vol=0
+Time=192672  Note on, chan=1 pitch=72 vol=0
+Time=192680  Note on, chan=1 pitch=66 vol=0
+Time=192680  Note on, chan=1 pitch=65 vol=0
+Time=192696  Note on, chan=1 pitch=60 vol=0
+Time=193528  Note on, chan=1 pitch=68 vol=70
+Time=193532  Note on, chan=1 pitch=56 vol=73
+Time=193536  Note on, chan=1 pitch=58 vol=54
+Time=193536  Note on, chan=1 pitch=60 vol=67
+Time=193540  Note on, chan=1 pitch=65 vol=76
+Time=193540  Note on, chan=1 pitch=63 vol=67
+Time=193852  Parameter, chan=1 c1=64 c2=127
+Time=193908  Note on, chan=1 pitch=60 vol=0
+Time=193916  Note on, chan=1 pitch=63 vol=0
+Time=193920  Note on, chan=1 pitch=58 vol=0
+Time=193924  Note on, chan=1 pitch=56 vol=0
+Time=193928  Note on, chan=1 pitch=65 vol=0
+Time=193960  Note on, chan=1 pitch=68 vol=0
+Time=194524  Parameter, chan=1 c1=64 c2=0
+Time=194540  Note on, chan=1 pitch=56 vol=85
+Time=194544  Note on, chan=1 pitch=61 vol=89
+Time=194544  Note on, chan=1 pitch=84 vol=82
+Time=194548  Note on, chan=1 pitch=65 vol=79
+Time=194552  Note on, chan=1 pitch=77 vol=82
+Time=194552  Note on, chan=1 pitch=72 vol=73
+Time=194584  Note on, chan=1 pitch=77 vol=0
+Time=194584  Note on, chan=1 pitch=65 vol=0
+Time=194584  Note on, chan=1 pitch=84 vol=0
+Time=194592  Note on, chan=1 pitch=72 vol=0
+Time=194596  Note on, chan=1 pitch=61 vol=0
+Time=194596  Note on, chan=1 pitch=56 vol=0
+Time=194944  Note on, chan=1 pitch=77 vol=85
+Time=194944  Note on, chan=1 pitch=84 vol=82
+Time=194944  Note on, chan=1 pitch=56 vol=89
+Time=194948  Note on, chan=1 pitch=72 vol=79
+Time=194952  Note on, chan=1 pitch=61 vol=82
+Time=194952  Note on, chan=1 pitch=65 vol=85
+Time=195240  Parameter, chan=1 c1=64 c2=127
+Time=195368  Note on, chan=1 pitch=65 vol=0
+Time=195368  Note on, chan=1 pitch=61 vol=0
+Time=195372  Note on, chan=1 pitch=56 vol=0
+Time=195392  Note on, chan=1 pitch=77 vol=0
+Time=195400  Note on, chan=1 pitch=72 vol=0
+Time=195400  Note on, chan=1 pitch=84 vol=0
+Time=195688  Parameter, chan=1 c1=64 c2=0
+Time=195704  Note on, chan=1 pitch=84 vol=93
+Time=195708  Note on, chan=1 pitch=72 vol=89
+Time=195720  Note on, chan=1 pitch=78 vol=76
+Time=195728  Note on, chan=1 pitch=65 vol=76
+Time=195728  Note on, chan=1 pitch=61 vol=73
+Time=195732  Note on, chan=1 pitch=55 vol=85
+Time=195756  Note on, chan=1 pitch=78 vol=0
+Time=195776  Note on, chan=1 pitch=79 vol=82
+Time=196036  Parameter, chan=1 c1=64 c2=127
+Time=196124  Note on, chan=1 pitch=84 vol=0
+Time=196132  Note on, chan=1 pitch=65 vol=0
+Time=196132  Note on, chan=1 pitch=72 vol=0
+Time=196144  Note on, chan=1 pitch=61 vol=0
+Time=196148  Note on, chan=1 pitch=79 vol=0
+Time=196148  Note on, chan=1 pitch=55 vol=0
+Time=196516  Parameter, chan=1 c1=64 c2=0
+Time=196568  Note on, chan=1 pitch=82 vol=82
+Time=196568  Note on, chan=1 pitch=70 vol=70
+Time=196580  Note on, chan=1 pitch=75 vol=76
+Time=196580  Note on, chan=1 pitch=55 vol=82
+Time=196584  Note on, chan=1 pitch=63 vol=73
+Time=196584  Note on, chan=1 pitch=60 vol=82
+Time=196588  Note on, chan=1 pitch=58 vol=67
+Time=196652  Parameter, chan=1 c1=64 c2=127
+Time=196688  Note on, chan=1 pitch=55 vol=0
+Time=196688  Note on, chan=1 pitch=75 vol=0
+Time=196696  Note on, chan=1 pitch=70 vol=0
+Time=196696  Note on, chan=1 pitch=82 vol=0
+Time=196704  Note on, chan=1 pitch=60 vol=0
+Time=196704  Note on, chan=1 pitch=63 vol=0
+Time=196712  Note on, chan=1 pitch=58 vol=0
+Time=197220  Parameter, chan=1 c1=64 c2=0
+Time=197228  Note on, chan=1 pitch=68 vol=67
+Time=197232  Note on, chan=1 pitch=75 vol=73
+Time=197232  Note on, chan=1 pitch=63 vol=76
+Time=197232  Note on, chan=1 pitch=72 vol=85
+Time=197236  Note on, chan=1 pitch=52 vol=85
+Time=197240  Note on, chan=1 pitch=58 vol=76
+Time=197576  Parameter, chan=1 c1=64 c2=127
+Time=197676  Note on, chan=1 pitch=72 vol=0
+Time=197696  Note on, chan=1 pitch=63 vol=0
+Time=197700  Note on, chan=1 pitch=58 vol=0
+Time=197700  Note on, chan=1 pitch=52 vol=0
+Time=197708  Note on, chan=1 pitch=75 vol=0
+Time=197712  Note on, chan=1 pitch=68 vol=0
+Time=198056  Parameter, chan=1 c1=64 c2=0
+Time=198148  Note on, chan=1 pitch=70 vol=73
+Time=198152  Note on, chan=1 pitch=56 vol=67
+Time=198156  Note on, chan=1 pitch=67 vol=79
+Time=198160  Note on, chan=1 pitch=60 vol=67
+Time=198160  Note on, chan=1 pitch=55 vol=79
+Time=198224  Parameter, chan=1 c1=64 c2=127
+Time=198376  Note on, chan=1 pitch=67 vol=0
+Time=198400  Parameter, chan=1 c1=64 c2=0
+Time=198408  Note on, chan=1 pitch=70 vol=0
+Time=198424  Note on, chan=1 pitch=55 vol=0
+Time=198424  Note on, chan=1 pitch=68 vol=52
+Time=198432  Note on, chan=1 pitch=60 vol=0
+Time=198436  Note on, chan=1 pitch=56 vol=0
+Time=198456  Note on, chan=1 pitch=68 vol=0
+Time=198508  Parameter, chan=1 c1=64 c2=127
+Time=198524  Note on, chan=1 pitch=70 vol=82
+Time=198528  Note on, chan=1 pitch=67 vol=85
+Time=198656  Note on, chan=1 pitch=67 vol=0
+Time=198676  Note on, chan=1 pitch=70 vol=0
+Time=198748  Parameter, chan=1 c1=64 c2=0
+Time=198780  Note on, chan=1 pitch=68 vol=73
+Time=198792  Note on, chan=1 pitch=65 vol=73
+Time=198792  Note on, chan=1 pitch=56 vol=67
+Time=198792  Note on, chan=1 pitch=50 vol=76
+Time=198796  Note on, chan=1 pitch=60 vol=67
+Time=199080  Parameter, chan=1 c1=64 c2=127
+Time=199248  Note on, chan=1 pitch=50 vol=0
+Time=199276  Note on, chan=1 pitch=56 vol=0
+Time=199284  Note on, chan=1 pitch=60 vol=0
+Time=199296  Note on, chan=1 pitch=65 vol=0
+Time=199312  Note on, chan=1 pitch=68 vol=0
+Time=199636  Parameter, chan=1 c1=64 c2=0
+Time=199692  Note on, chan=1 pitch=68 vol=73
+Time=199696  Note on, chan=1 pitch=65 vol=79
+Time=199700  Note on, chan=1 pitch=53 vol=79
+Time=199704  Note on, chan=1 pitch=59 vol=67
+Time=199780  Note on, chan=1 pitch=59 vol=0
+Time=199784  Note on, chan=1 pitch=65 vol=0
+Time=199788  Note on, chan=1 pitch=53 vol=0
+Time=199796  Note on, chan=1 pitch=68 vol=0
+Time=200316  Note on, chan=1 pitch=58 vol=70
+Time=200320  Note on, chan=1 pitch=64 vol=73
+Time=200320  Note on, chan=1 pitch=67 vol=76
+Time=200336  Note on, chan=1 pitch=52 vol=73
+Time=200500  Parameter, chan=1 c1=64 c2=127
+Time=200736  Note on, chan=1 pitch=58 vol=0
+Time=200744  Note on, chan=1 pitch=52 vol=0
+Time=200760  Note on, chan=1 pitch=64 vol=0
+Time=200764  Note on, chan=1 pitch=67 vol=0
+Time=201124  Parameter, chan=1 c1=64 c2=0
+Time=201192  Note on, chan=1 pitch=60 vol=76
+Time=201196  Note on, chan=1 pitch=56 vol=54
+Time=201208  Note on, chan=1 pitch=55 vol=82
+Time=201264  Parameter, chan=1 c1=64 c2=127
+Time=201384  Note on, chan=1 pitch=60 vol=0
+Time=201400  Note on, chan=1 pitch=56 vol=0
+Time=201420  Note on, chan=1 pitch=55 vol=0
+Time=201588  Parameter, chan=1 c1=64 c2=0
+Time=201596  Note on, chan=1 pitch=67 vol=110
+Time=201808  Note on, chan=1 pitch=67 vol=0
+Time=201856  Note on, chan=1 pitch=65 vol=79
+Time=201860  Note on, chan=1 pitch=56 vol=67
+Time=201864  Note on, chan=1 pitch=50 vol=70
+Time=201872  Note on, chan=1 pitch=60 vol=59
+Time=202164  Parameter, chan=1 c1=64 c2=127
+Time=202304  Note on, chan=1 pitch=50 vol=0
+Time=202332  Note on, chan=1 pitch=65 vol=0
+Time=202340  Note on, chan=1 pitch=60 vol=0
+Time=202340  Note on, chan=1 pitch=56 vol=0
+Time=202680  Parameter, chan=1 c1=64 c2=0
+Time=202748  Note on, chan=1 pitch=68 vol=79
+Time=202748  Note on, chan=1 pitch=61 vol=82
+Time=202756  Note on, chan=1 pitch=56 vol=82
+Time=202760  Note on, chan=1 pitch=65 vol=82
+Time=202820  Parameter, chan=1 c1=64 c2=127
+Time=202896  Note on, chan=1 pitch=65 vol=0
+Time=202900  Note on, chan=1 pitch=68 vol=0
+Time=202924  Note on, chan=1 pitch=61 vol=0
+Time=202932  Note on, chan=1 pitch=56 vol=0
+Time=203060  Parameter, chan=1 c1=64 c2=0
+Time=203128  Note on, chan=1 pitch=67 vol=89
+Time=203132  Note on, chan=1 pitch=72 vol=85
+Time=203164  Parameter, chan=1 c1=64 c2=127
+Time=203252  Note on, chan=1 pitch=72 vol=0
+Time=203264  Note on, chan=1 pitch=67 vol=0
+Time=203352  Parameter, chan=1 c1=64 c2=0
+Time=203372  Note on, chan=1 pitch=70 vol=79
+Time=203380  Note on, chan=1 pitch=61 vol=82
+Time=203384  Note on, chan=1 pitch=65 vol=76
+Time=203384  Note on, chan=1 pitch=55 vol=82
+Time=203684  Parameter, chan=1 c1=64 c2=127
+Time=203836  Note on, chan=1 pitch=70 vol=0
+Time=203840  Note on, chan=1 pitch=65 vol=0
+Time=203840  Note on, chan=1 pitch=61 vol=0
+Time=203852  Note on, chan=1 pitch=55 vol=0
+Time=204216  Parameter, chan=1 c1=64 c2=0
+Time=204252  Note on, chan=1 pitch=70 vol=73
+Time=204256  Note on, chan=1 pitch=67 vol=82
+Time=204260  Note on, chan=1 pitch=60 vol=82
+Time=204260  Note on, chan=1 pitch=63 vol=76
+Time=204264  Note on, chan=1 pitch=58 vol=73
+Time=204376  Parameter, chan=1 c1=64 c2=127
+Time=204520  Note on, chan=1 pitch=60 vol=0
+Time=204528  Note on, chan=1 pitch=58 vol=0
+Time=204528  Note on, chan=1 pitch=63 vol=0
+Time=204552  Note on, chan=1 pitch=67 vol=0
+Time=204552  Note on, chan=1 pitch=70 vol=0
+Time=205008  Parameter, chan=1 c1=64 c2=0
+Time=205024  Note on, chan=1 pitch=70 vol=67
+Time=205036  Note on, chan=1 pitch=63 vol=67
+Time=205036  Note on, chan=1 pitch=56 vol=64
+Time=205044  Note on, chan=1 pitch=60 vol=62
+Time=205048  Note on, chan=1 pitch=55 vol=76
+Time=205216  Parameter, chan=1 c1=64 c2=127
+Time=205284  Note on, chan=1 pitch=63 vol=0
+Time=205292  Note on, chan=1 pitch=60 vol=0
+Time=205296  Note on, chan=1 pitch=70 vol=0
+Time=205308  Note on, chan=1 pitch=55 vol=0
+Time=205316  Note on, chan=1 pitch=56 vol=0
+Time=205788  Parameter, chan=1 c1=64 c2=0
+Time=205804  Note on, chan=1 pitch=68 vol=70
+Time=205816  Note on, chan=1 pitch=60 vol=62
+Time=205816  Note on, chan=1 pitch=65 vol=73
+Time=205820  Note on, chan=1 pitch=56 vol=73
+Time=205820  Note on, chan=1 pitch=63 vol=64
+Time=205824  Note on, chan=1 pitch=46 vol=73
+Time=205940  Parameter, chan=1 c1=64 c2=127
+Time=205952  Note on, chan=1 pitch=63 vol=0
+Time=205956  Note on, chan=1 pitch=60 vol=0
+Time=205964  Note on, chan=1 pitch=46 vol=0
+Time=205968  Note on, chan=1 pitch=65 vol=0
+Time=205984  Note on, chan=1 pitch=56 vol=0
+Time=205992  Note on, chan=1 pitch=68 vol=0
+Time=206460  Note on, chan=1 pitch=67 vol=93
+Time=206464  Note on, chan=1 pitch=72 vol=93
+Time=206464  Parameter, chan=1 c1=64 c2=0
+Time=206468  Note on, chan=1 pitch=61 vol=89
+Time=206472  Note on, chan=1 pitch=55 vol=89
+Time=206636  Parameter, chan=1 c1=64 c2=127
+Time=206844  Note on, chan=1 pitch=61 vol=0
+Time=206848  Note on, chan=1 pitch=72 vol=0
+Time=206848  Note on, chan=1 pitch=67 vol=0
+Time=206868  Note on, chan=1 pitch=55 vol=0
+Time=207228  Note on, chan=1 pitch=75 vol=89
+Time=207232  Note on, chan=1 pitch=63 vol=89
+Time=207236  Note on, chan=1 pitch=66 vol=85
+Time=207236  Note on, chan=1 pitch=70 vol=82
+Time=207236  Note on, chan=1 pitch=58 vol=79
+Time=207240  Note on, chan=1 pitch=54 vol=85
+Time=207244  Note on, chan=1 pitch=48 vol=93
+Time=207244  Parameter, chan=1 c1=64 c2=0
+Time=207512  Parameter, chan=1 c1=64 c2=127
+Time=208072  Note on, chan=1 pitch=66 vol=0
+Time=208072  Note on, chan=1 pitch=75 vol=0
+Time=208088  Note on, chan=1 pitch=63 vol=0
+Time=208108  Note on, chan=1 pitch=70 vol=0
+Time=208384  Note on, chan=1 pitch=63 vol=98
+Time=208408  Note on, chan=1 pitch=48 vol=0
+Time=208432  Note on, chan=1 pitch=54 vol=0
+Time=208432  Note on, chan=1 pitch=58 vol=0
+Time=208524  Note on, chan=1 pitch=66 vol=89
+Time=208568  Note on, chan=1 pitch=63 vol=0
+Time=208624  Note on, chan=1 pitch=70 vol=82
+Time=208684  Note on, chan=1 pitch=66 vol=0
+Time=208740  Note on, chan=1 pitch=73 vol=67
+Time=208788  Note on, chan=1 pitch=70 vol=0
+Time=208792  Note on, chan=1 pitch=73 vol=0
+Time=208892  Note on, chan=1 pitch=63 vol=85
+Time=208896  Note on, chan=1 pitch=69 vol=89
+Time=208896  Note on, chan=1 pitch=66 vol=76
+Time=208900  Note on, chan=1 pitch=57 vol=85
+Time=208904  Note on, chan=1 pitch=72 vol=89
+Time=208904  Note on, chan=1 pitch=51 vol=76
+Time=208908  Parameter, chan=1 c1=64 c2=0
+Time=209332  Parameter, chan=1 c1=64 c2=127
+Time=209872  Note on, chan=1 pitch=57 vol=0
+Time=209900  Note on, chan=1 pitch=63 vol=0
+Time=209908  Note on, chan=1 pitch=51 vol=0
+Time=209908  Note on, chan=1 pitch=66 vol=0
+Time=209916  Note on, chan=1 pitch=72 vol=0
+Time=209920  Note on, chan=1 pitch=69 vol=0
+Time=210360  Parameter, chan=1 c1=64 c2=0
+Time=210416  Note on, chan=1 pitch=68 vol=79
+Time=210424  Note on, chan=1 pitch=61 vol=89
+Time=210424  Note on, chan=1 pitch=65 vol=93
+Time=210428  Note on, chan=1 pitch=72 vol=93
+Time=210556  Parameter, chan=1 c1=64 c2=127
+Time=210740  Note on, chan=1 pitch=72 vol=0
+Time=210752  Note on, chan=1 pitch=65 vol=0
+Time=210776  Note on, chan=1 pitch=61 vol=0
+Time=210780  Note on, chan=1 pitch=68 vol=0
+Time=210800  Note on, chan=1 pitch=51 vol=93
+Time=210804  Note on, chan=1 pitch=39 vol=89
+Time=211004  Parameter, chan=1 c1=64 c2=0
+Time=211024  Note on, chan=1 pitch=61 vol=89
+Time=211028  Note on, chan=1 pitch=68 vol=73
+Time=211032  Note on, chan=1 pitch=72 vol=93
+Time=211036  Note on, chan=1 pitch=65 vol=85
+Time=211144  Parameter, chan=1 c1=64 c2=127
+Time=211196  Note on, chan=1 pitch=39 vol=0
+Time=211204  Note on, chan=1 pitch=51 vol=0
+Time=211360  Note on, chan=1 pitch=65 vol=0
+Time=211364  Note on, chan=1 pitch=72 vol=0
+Time=211384  Note on, chan=1 pitch=68 vol=0
+Time=211396  Note on, chan=1 pitch=61 vol=0
+Time=211572  Note on, chan=1 pitch=51 vol=93
+Time=211576  Note on, chan=1 pitch=61 vol=98
+Time=211580  Note on, chan=1 pitch=39 vol=82
+Time=211716  Note on, chan=1 pitch=65 vol=76
+Time=211744  Note on, chan=1 pitch=61 vol=0
+Time=211804  Note on, chan=1 pitch=68 vol=76
+Time=211836  Note on, chan=1 pitch=65 vol=0
+Time=211896  Note on, chan=1 pitch=68 vol=0
+Time=211936  Parameter, chan=1 c1=64 c2=0
+Time=211944  Note on, chan=1 pitch=51 vol=0
+Time=211952  Note on, chan=1 pitch=39 vol=0
+Time=211956  Note on, chan=1 pitch=64 vol=98
+Time=211956  Note on, chan=1 pitch=61 vol=85
+Time=211960  Note on, chan=1 pitch=72 vol=93
+Time=211968  Note on, chan=1 pitch=67 vol=82
+Time=212092  Parameter, chan=1 c1=64 c2=127
+Time=212236  Note on, chan=1 pitch=64 vol=0
+Time=212244  Note on, chan=1 pitch=72 vol=0
+Time=212252  Note on, chan=1 pitch=61 vol=0
+Time=212268  Note on, chan=1 pitch=67 vol=0
+Time=212348  Note on, chan=1 pitch=39 vol=85
+Time=212352  Note on, chan=1 pitch=51 vol=85
+Time=212560  Parameter, chan=1 c1=64 c2=0
+Time=212560  Note on, chan=1 pitch=61 vol=89
+Time=212572  Note on, chan=1 pitch=72 vol=98
+Time=212572  Note on, chan=1 pitch=67 vol=82
+Time=212580  Note on, chan=1 pitch=64 vol=98
+Time=212672  Note on, chan=1 pitch=51 vol=0
+Time=212672  Note on, chan=1 pitch=39 vol=0
+Time=212708  Parameter, chan=1 c1=64 c2=127
+Time=213032  Note on, chan=1 pitch=72 vol=0
+Time=213044  Note on, chan=1 pitch=64 vol=0
+Time=213068  Note on, chan=1 pitch=67 vol=0
+Time=213072  Note on, chan=1 pitch=61 vol=0
+Time=213116  Note on, chan=1 pitch=51 vol=85
+Time=213124  Note on, chan=1 pitch=39 vol=82
+Time=213332  Note on, chan=1 pitch=51 vol=0
+Time=213380  Note on, chan=1 pitch=39 vol=0
+Time=213440  Parameter, chan=1 c1=64 c2=0
+Time=213672  Parameter, chan=1 c1=64 c2=127
+Time=213724  Note on, chan=1 pitch=56 vol=89
+Time=213728  Note on, chan=1 pitch=67 vol=89
+Time=213732  Note on, chan=1 pitch=40 vol=89
+Time=213736  Note on, chan=1 pitch=62 vol=85
+Time=213772  Note on, chan=1 pitch=62 vol=0
+Time=213788  Note on, chan=1 pitch=67 vol=0
+Time=213792  Note on, chan=1 pitch=56 vol=0
+Time=213808  Note on, chan=1 pitch=40 vol=0
+Time=213832  Parameter, chan=1 c1=64 c2=0
+Time=213864  Note on, chan=1 pitch=66 vol=98
+Time=213868  Note on, chan=1 pitch=39 vol=93
+Time=213872  Note on, chan=1 pitch=55 vol=98
+Time=213876  Note on, chan=1 pitch=61 vol=89
+Time=213932  Parameter, chan=1 c1=64 c2=127
+Time=213952  Note on, chan=1 pitch=66 vol=0
+Time=213956  Note on, chan=1 pitch=61 vol=0
+Time=213960  Note on, chan=1 pitch=55 vol=0
+Time=213964  Note on, chan=1 pitch=39 vol=0
+Time=214096  Parameter, chan=1 c1=64 c2=0
+Time=214120  Note on, chan=1 pitch=54 vol=82
+Time=214124  Note on, chan=1 pitch=65 vol=85
+Time=214124  Note on, chan=1 pitch=38 vol=93
+Time=214128  Note on, chan=1 pitch=60 vol=89
+Time=214196  Note on, chan=1 pitch=38 vol=0
+Time=214212  Note on, chan=1 pitch=60 vol=0
+Time=214216  Note on, chan=1 pitch=65 vol=0
+Time=214256  Note on, chan=1 pitch=54 vol=0
+Time=214472  Parameter, chan=1 c1=64 c2=127
+Time=214488  Note on, chan=1 pitch=37 vol=82
+Time=214492  Note on, chan=1 pitch=64 vol=98
+Time=214496  Note on, chan=1 pitch=59 vol=85
+Time=214500  Note on, chan=1 pitch=53 vol=85
+Time=214548  Note on, chan=1 pitch=64 vol=0
+Time=214556  Note on, chan=1 pitch=53 vol=0
+Time=214556  Note on, chan=1 pitch=59 vol=0
+Time=214564  Note on, chan=1 pitch=37 vol=0
+Time=214628  Parameter, chan=1 c1=64 c2=0
+Time=214632  Note on, chan=1 pitch=36 vol=82
+Time=214640  Note on, chan=1 pitch=63 vol=103
+Time=214640  Note on, chan=1 pitch=58 vol=89
+Time=214644  Note on, chan=1 pitch=52 vol=98
+Time=214704  Parameter, chan=1 c1=64 c2=127
+Time=214736  Note on, chan=1 pitch=63 vol=0
+Time=214744  Note on, chan=1 pitch=52 vol=0
+Time=214744  Note on, chan=1 pitch=58 vol=0
+Time=214772  Note on, chan=1 pitch=36 vol=0
+Time=214876  Parameter, chan=1 c1=64 c2=0
+Time=214896  Note on, chan=1 pitch=62 vol=93
+Time=214900  Note on, chan=1 pitch=57 vol=93
+Time=214904  Note on, chan=1 pitch=51 vol=79
+Time=214904  Note on, chan=1 pitch=35 vol=89
+Time=214964  Note on, chan=1 pitch=62 vol=0
+Time=214968  Note on, chan=1 pitch=35 vol=0
+Time=214980  Note on, chan=1 pitch=57 vol=0
+Time=214988  Note on, chan=1 pitch=51 vol=0
+Time=215244  Parameter, chan=1 c1=64 c2=127
+Time=215276  Note on, chan=1 pitch=61 vol=98
+Time=215280  Note on, chan=1 pitch=56 vol=85
+Time=215284  Note on, chan=1 pitch=50 vol=89
+Time=215288  Note on, chan=1 pitch=34 vol=85
+Time=215328  Note on, chan=1 pitch=50 vol=0
+Time=215340  Note on, chan=1 pitch=61 vol=0
+Time=215356  Note on, chan=1 pitch=56 vol=0
+Time=215360  Note on, chan=1 pitch=34 vol=0
+Time=215376  Parameter, chan=1 c1=64 c2=0
+Time=215416  Note on, chan=1 pitch=49 vol=93
+Time=215420  Note on, chan=1 pitch=60 vol=103
+Time=215424  Note on, chan=1 pitch=55 vol=93
+Time=215428  Note on, chan=1 pitch=33 vol=89
+Time=215452  Parameter, chan=1 c1=64 c2=127
+Time=215468  Note on, chan=1 pitch=55 vol=0
+Time=215528  Note on, chan=1 pitch=60 vol=0
+Time=215548  Note on, chan=1 pitch=49 vol=0
+Time=215604  Note on, chan=1 pitch=33 vol=0
+Time=215668  Note on, chan=1 pitch=58 vol=89
+Time=215672  Note on, chan=1 pitch=55 vol=98
+Time=215676  Note on, chan=1 pitch=51 vol=89
+Time=215680  Note on, chan=1 pitch=48 vol=89
+Time=215684  Parameter, chan=1 c1=64 c2=0
+Time=215688  Note on, chan=1 pitch=32 vol=89
+Time=218004  Note on, chan=1 pitch=48 vol=0
+Time=218008  Note on, chan=1 pitch=51 vol=0
+Time=218012  Note on, chan=1 pitch=55 vol=0
+Time=218024  Note on, chan=1 pitch=58 vol=0
+Time=218028  Note on, chan=1 pitch=32 vol=0
+Time=218028  Meta event, end of track
+Track end

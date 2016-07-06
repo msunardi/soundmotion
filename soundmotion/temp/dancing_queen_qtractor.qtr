@@ -1,0 +1,505 @@
+<!DOCTYPE qtractorSession>
+<session version="Qtractor 0.4.2" name="dancing_queen_qtractor" >
+ <properties>
+  <directory>/home/msunardi/Downloads</directory>
+  <description>MIDI file import "Dancing_Queen.mid" on Feb 08 2010 23:18:24.
+</description>
+  <sample-rate>48000</sample-rate>
+  <tempo>100</tempo>
+  <ticks-per-beat>960</ticks-per-beat>
+  <beats-per-bar>4</beats-per-bar>
+  <beat-divisor>2</beat-divisor>
+ </properties>
+ <state>
+  <loop-start>0</loop-start>
+  <loop-end>0</loop-end>
+  <punch-in>0</punch-in>
+  <punch-out>0</punch-out>
+ </state>
+ <files>
+  <audio-list/>
+  <midi-list>
+   <file name="Dancing_Queen.mid" >Dancing_Queen.mid</file>
+  </midi-list>
+ </files>
+ <devices>
+  <audio-engine>
+   <audio-bus mode="duplex" name="Master" >
+    <pass-through>0</pass-through>
+    <channels>2</channels>
+    <auto-connect>1</auto-connect>
+    <input-gain>1</input-gain>
+    <input-panning>0</input-panning>
+    <input-plugins/>
+    <input-connects>
+     <connect index="0" >
+      <client>system</client>
+      <port>capture_1</port>
+     </connect>
+     <connect index="1" >
+      <client>system</client>
+      <port>capture_2</port>
+     </connect>
+    </input-connects>
+    <output-gain>1</output-gain>
+    <output-panning>0</output-panning>
+    <output-plugins/>
+    <output-connects>
+     <connect index="0" >
+      <client>system</client>
+      <port>playback_1</port>
+     </connect>
+     <connect index="1" >
+      <client>system</client>
+      <port>playback_2</port>
+     </connect>
+    </output-connects>
+   </audio-bus>
+  </audio-engine>
+  <midi-engine>
+   <midi-bus mode="duplex" name="Master" >
+    <pass-through>0</pass-through>
+    <input-gain>1</input-gain>
+    <input-panning>0</input-panning>
+    <input-plugins/>
+    <input-connects/>
+    <output-gain>1</output-gain>
+    <output-panning>0</output-panning>
+    <output-plugins/>
+    <output-connects/>
+    <midi-map>
+     <midi-patch channel="1" />
+     <midi-patch channel="2" />
+     <midi-patch channel="3" />
+     <midi-patch channel="4" />
+     <midi-patch channel="5" />
+     <midi-patch channel="6" />
+     <midi-patch channel="7" />
+     <midi-patch channel="8" />
+     <midi-patch channel="9" />
+     <midi-patch channel="10" />
+    </midi-map>
+   </midi-bus>
+  </midi-engine>
+ </devices>
+ <tracks>
+  <view>
+   <pixels-per-beat>32</pixels-per-beat>
+   <horizontal-zoom>100</horizontal-zoom>
+   <vertical-zoom>100</vertical-zoom>
+   <snap-per-beat>4</snap-per-beat>
+   <edit-head>0</edit-head>
+   <edit-tail>0</edit-tail>
+  </view>
+  <track type="midi" name="Dancing_Queen" >
+   <properties>
+    <input-bus>Master</input-bus>
+    <output-bus>Master</output-bus>
+    <midi-omni>0</midi-omni>
+    <midi-channel>1</midi-channel>
+    <midi-program>33</midi-program>
+   </properties>
+   <state>
+    <mute>0</mute>
+    <solo>0</solo>
+    <record>0</record>
+    <monitor>0</monitor>
+    <gain>1</gain>
+    <panning>0</panning>
+   </state>
+   <view>
+    <height>48</height>
+    <background-color>#99ffff</background-color>
+    <foreground-color>#4c7f7f</foreground-color>
+   </view>
+   <clips>
+    <clip name="Dancing_Queen" >
+     <properties>
+      <name>Dancing_Queen</name>
+      <start>0</start>
+      <offset>0</offset>
+      <length>11404500</length>
+      <gain>1</gain>
+      <fade-in type="quadratic" >0</fade-in>
+      <fade-out type="quadratic" >0</fade-out>
+     </properties>
+     <midi-clip>
+      <filename>Dancing_Queen.mid</filename>
+      <track-channel>1</track-channel>
+      <revision>0</revision>
+     </midi-clip>
+    </clip>
+   </clips>
+   <plugins/>
+  </track>
+  <track type="midi" name="Dancing_Queen" >
+   <properties>
+    <input-bus>Master</input-bus>
+    <output-bus>Master</output-bus>
+    <midi-omni>0</midi-omni>
+    <midi-channel>2</midi-channel>
+    <midi-program>1</midi-program>
+   </properties>
+   <state>
+    <mute>0</mute>
+    <solo>0</solo>
+    <record>0</record>
+    <monitor>0</monitor>
+    <gain>1</gain>
+    <panning>0</panning>
+   </state>
+   <view>
+    <height>48</height>
+    <background-color>#ffccff</background-color>
+    <foreground-color>#7f667f</foreground-color>
+   </view>
+   <clips>
+    <clip name="Dancing_Queen" >
+     <properties>
+      <name>Dancing_Queen</name>
+      <start>0</start>
+      <offset>0</offset>
+      <length>11402400</length>
+      <gain>1</gain>
+      <fade-in type="quadratic" >0</fade-in>
+      <fade-out type="quadratic" >0</fade-out>
+     </properties>
+     <midi-clip>
+      <filename>Dancing_Queen.mid</filename>
+      <track-channel>2</track-channel>
+      <revision>0</revision>
+     </midi-clip>
+    </clip>
+   </clips>
+   <plugins/>
+  </track>
+  <track type="midi" name="Dancing_Queen" >
+   <properties>
+    <input-bus>Master</input-bus>
+    <output-bus>Master</output-bus>
+    <midi-omni>0</midi-omni>
+    <midi-channel>3</midi-channel>
+    <midi-program>94</midi-program>
+   </properties>
+   <state>
+    <mute>0</mute>
+    <solo>0</solo>
+    <record>0</record>
+    <monitor>0</monitor>
+    <gain>1</gain>
+    <panning>0</panning>
+   </state>
+   <view>
+    <height>48</height>
+    <background-color>#ccccff</background-color>
+    <foreground-color>#66667f</foreground-color>
+   </view>
+   <clips>
+    <clip name="Dancing_Queen" >
+     <properties>
+      <name>Dancing_Queen</name>
+      <start>0</start>
+      <offset>0</offset>
+      <length>11390400</length>
+      <gain>1</gain>
+      <fade-in type="quadratic" >0</fade-in>
+      <fade-out type="quadratic" >0</fade-out>
+     </properties>
+     <midi-clip>
+      <filename>Dancing_Queen.mid</filename>
+      <track-channel>3</track-channel>
+      <revision>0</revision>
+     </midi-clip>
+    </clip>
+   </clips>
+   <plugins/>
+  </track>
+  <track type="midi" name="Dancing_Queen" >
+   <properties>
+    <input-bus>Master</input-bus>
+    <output-bus>Master</output-bus>
+    <midi-omni>0</midi-omni>
+    <midi-channel>4</midi-channel>
+    <midi-program>48</midi-program>
+   </properties>
+   <state>
+    <mute>0</mute>
+    <solo>0</solo>
+    <record>0</record>
+    <monitor>0</monitor>
+    <gain>1</gain>
+    <panning>0</panning>
+   </state>
+   <view>
+    <height>48</height>
+    <background-color>#99ccff</background-color>
+    <foreground-color>#4c667f</foreground-color>
+   </view>
+   <clips>
+    <clip name="Dancing_Queen" >
+     <properties>
+      <name>Dancing_Queen</name>
+      <start>0</start>
+      <offset>0</offset>
+      <length>11390400</length>
+      <gain>1</gain>
+      <fade-in type="quadratic" >0</fade-in>
+      <fade-out type="quadratic" >0</fade-out>
+     </properties>
+     <midi-clip>
+      <filename>Dancing_Queen.mid</filename>
+      <track-channel>4</track-channel>
+      <revision>0</revision>
+     </midi-clip>
+    </clip>
+   </clips>
+   <plugins/>
+  </track>
+  <track type="midi" name="Dancing_Queen" >
+   <properties>
+    <input-bus>Master</input-bus>
+    <output-bus>Master</output-bus>
+    <midi-omni>0</midi-omni>
+    <midi-channel>5</midi-channel>
+    <midi-program>94</midi-program>
+   </properties>
+   <state>
+    <mute>0</mute>
+    <solo>0</solo>
+    <record>0</record>
+    <monitor>0</monitor>
+    <gain>1</gain>
+    <panning>0</panning>
+   </state>
+   <view>
+    <height>48</height>
+    <background-color>#ff99ff</background-color>
+    <foreground-color>#7f4c7f</foreground-color>
+   </view>
+   <clips>
+    <clip name="Dancing_Queen" >
+     <properties>
+      <name>Dancing_Queen</name>
+      <start>0</start>
+      <offset>0</offset>
+      <length>10464600</length>
+      <gain>1</gain>
+      <fade-in type="quadratic" >0</fade-in>
+      <fade-out type="quadratic" >0</fade-out>
+     </properties>
+     <midi-clip>
+      <filename>Dancing_Queen.mid</filename>
+      <track-channel>5</track-channel>
+      <revision>0</revision>
+     </midi-clip>
+    </clip>
+   </clips>
+   <plugins/>
+  </track>
+  <track type="midi" name="Dancing_Queen" >
+   <properties>
+    <input-bus>Master</input-bus>
+    <output-bus>Master</output-bus>
+    <midi-omni>0</midi-omni>
+    <midi-channel>6</midi-channel>
+    <midi-program>52</midi-program>
+   </properties>
+   <state>
+    <mute>0</mute>
+    <solo>0</solo>
+    <record>0</record>
+    <monitor>0</monitor>
+    <gain>1</gain>
+    <panning>0</panning>
+   </state>
+   <view>
+    <height>48</height>
+    <background-color>#cc99ff</background-color>
+    <foreground-color>#664c7f</foreground-color>
+   </view>
+   <clips>
+    <clip name="Dancing_Queen" >
+     <properties>
+      <name>Dancing_Queen</name>
+      <start>0</start>
+      <offset>0</offset>
+      <length>11390400</length>
+      <gain>1</gain>
+      <fade-in type="quadratic" >0</fade-in>
+      <fade-out type="quadratic" >0</fade-out>
+     </properties>
+     <midi-clip>
+      <filename>Dancing_Queen.mid</filename>
+      <track-channel>6</track-channel>
+      <revision>0</revision>
+     </midi-clip>
+    </clip>
+   </clips>
+   <plugins/>
+  </track>
+  <track type="midi" name="Dancing_Queen" >
+   <properties>
+    <input-bus>Master</input-bus>
+    <output-bus>Master</output-bus>
+    <midi-omni>0</midi-omni>
+    <midi-channel>7</midi-channel>
+    <midi-program>90</midi-program>
+   </properties>
+   <state>
+    <mute>0</mute>
+    <solo>0</solo>
+    <record>0</record>
+    <monitor>0</monitor>
+    <gain>1</gain>
+    <panning>0</panning>
+   </state>
+   <view>
+    <height>48</height>
+    <background-color>#9999ff</background-color>
+    <foreground-color>#4c4c7f</foreground-color>
+   </view>
+   <clips>
+    <clip name="Dancing_Queen" >
+     <properties>
+      <name>Dancing_Queen</name>
+      <start>0</start>
+      <offset>0</offset>
+      <length>11394000</length>
+      <gain>1</gain>
+      <fade-in type="quadratic" >0</fade-in>
+      <fade-out type="quadratic" >0</fade-out>
+     </properties>
+     <midi-clip>
+      <filename>Dancing_Queen.mid</filename>
+      <track-channel>7</track-channel>
+      <revision>0</revision>
+     </midi-clip>
+    </clip>
+   </clips>
+   <plugins/>
+  </track>
+  <track type="midi" name="Dancing_Queen" >
+   <properties>
+    <input-bus>Master</input-bus>
+    <output-bus>Master</output-bus>
+    <midi-omni>0</midi-omni>
+    <midi-channel>8</midi-channel>
+    <midi-program>105</midi-program>
+   </properties>
+   <state>
+    <mute>0</mute>
+    <solo>0</solo>
+    <record>0</record>
+    <monitor>0</monitor>
+    <gain>1</gain>
+    <panning>0</panning>
+   </state>
+   <view>
+    <height>48</height>
+    <background-color>#ffffcc</background-color>
+    <foreground-color>#7f7f66</foreground-color>
+   </view>
+   <clips>
+    <clip name="Dancing_Queen" >
+     <properties>
+      <name>Dancing_Queen</name>
+      <start>0</start>
+      <offset>0</offset>
+      <length>11400000</length>
+      <gain>1</gain>
+      <fade-in type="quadratic" >0</fade-in>
+      <fade-out type="quadratic" >0</fade-out>
+     </properties>
+     <midi-clip>
+      <filename>Dancing_Queen.mid</filename>
+      <track-channel>8</track-channel>
+      <revision>0</revision>
+     </midi-clip>
+    </clip>
+   </clips>
+   <plugins/>
+  </track>
+  <track type="midi" name="Dancing_Queen" >
+   <properties>
+    <input-bus>Master</input-bus>
+    <output-bus>Master</output-bus>
+    <midi-omni>0</midi-omni>
+    <midi-channel>9</midi-channel>
+   </properties>
+   <state>
+    <mute>0</mute>
+    <solo>0</solo>
+    <record>0</record>
+    <monitor>0</monitor>
+    <gain>1</gain>
+    <panning>0</panning>
+   </state>
+   <view>
+    <height>48</height>
+    <background-color>#ccffcc</background-color>
+    <foreground-color>#667f66</foreground-color>
+   </view>
+   <clips>
+    <clip name="Dancing_Queen" >
+     <properties>
+      <name>Dancing_Queen</name>
+      <start>0</start>
+      <offset>0</offset>
+      <length>11399400</length>
+      <gain>1</gain>
+      <fade-in type="quadratic" >0</fade-in>
+      <fade-out type="quadratic" >0</fade-out>
+     </properties>
+     <midi-clip>
+      <filename>Dancing_Queen.mid</filename>
+      <track-channel>9</track-channel>
+      <revision>0</revision>
+     </midi-clip>
+    </clip>
+   </clips>
+   <plugins/>
+  </track>
+  <track type="midi" name="Dancing_Queen" >
+   <properties>
+    <input-bus>Master</input-bus>
+    <output-bus>Master</output-bus>
+    <midi-omni>0</midi-omni>
+    <midi-channel>10</midi-channel>
+    <midi-program>1</midi-program>
+   </properties>
+   <state>
+    <mute>0</mute>
+    <solo>0</solo>
+    <record>0</record>
+    <monitor>0</monitor>
+    <gain>1</gain>
+    <panning>0</panning>
+   </state>
+   <view>
+    <height>48</height>
+    <background-color>#99ffcc</background-color>
+    <foreground-color>#4c7f66</foreground-color>
+   </view>
+   <clips>
+    <clip name="Dancing_Queen" >
+     <properties>
+      <name>Dancing_Queen</name>
+      <start>0</start>
+      <offset>0</offset>
+      <length>11403900</length>
+      <gain>1</gain>
+      <fade-in type="quadratic" >0</fade-in>
+      <fade-out type="quadratic" >0</fade-out>
+     </properties>
+     <midi-clip>
+      <filename>Dancing_Queen.mid</filename>
+      <track-channel>10</track-channel>
+      <revision>0</revision>
+     </midi-clip>
+    </clip>
+   </clips>
+   <plugins/>
+  </track>
+ </tracks>
+</session>
+

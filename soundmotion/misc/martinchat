@@ -1,0 +1,133 @@
+martin:  ahh i see you are happy:)
+and online for once
+so I hear your studies are going well
+we talked about you and your research in some previous emails
+but I did not have time to talk to you about it yet
+so tell me what you are doing. Cos I was pondering the idea to get you here for some couple of months
+well I am doing fine, work and some paper writing
+cannot complain
+yes yes
+I know you do motion generation
+I was just wondering how it goes
+be back in 5 minutes meanwhile tell me all your stuff
+ Sent at 5:11 PM on Tuesday
+ martin:  ok so I am back
+that however means that yuo want some sort of music analyzer
+when I was doing the motion control I did a frequency transform
+each dominant frequency was then assigned as a signal both for orientation and amplitude
+from there it would be possible to recompose the signal into a more general unit and perhaps you could get some global information about the overall music
+However, the ideal would be to actually use the frequency information to modulate the laban equations
+well yes general unit - meaning that when you do the FFT/DFT u get a set of frequencies, but they are basically disjoint set of values
+as such you break the music and you loose an overall trend
+ Sent at 5:32 PM on Tuesday
+ martin:  moreover, it would also require a more elaborate method that will allow you to distinguish between principal rhytm frequencies and some hidden ones, as those are quite often very useful in the dance
+yes
+it can be used to make predictions
+a nice application or usage can be to use a ANN to actually do the predictions
+indeed
+and it can be quite realizable
+ Sent at 5:35 PM on Tuesday
+ martin:  well, assume you have a set of either pre-programmed motions or a set of equations that generate some motions
+in both cases each of these are parametrized by som variables
+some
+so approach one is to use a Hopfield type of network - self-organizing unsupervised learning that will get inputs from the FFT and generate a set of parameters
+the hopfield network is based on a resonant principle so it will converge to some classification
+the other approach is to train a perceptron on a set of examples from FFT coefficient to a set of parameters
+the general problem remains in formulation of an objective function
+but that can be taken as a solution to the Laban equations
+ Sent at 5:40 PM on Tuesday
+ martin:  well not really if you look at the Laban equations, he does not provide an explicit solution but rather a set of slopes or gradients of how the motions should change
+that can be used for learning
+u can then define a set of states that represents the robot state and each of them will be representing a type of motions, tired, excited, or so
+ Sent at 5:43 PM on Tuesday
+ martin:  as far as i know you was able to formulate a set of equations using the laban model, if not one can be done using for instance the Laban effort graph
+ Sent at 5:44 PM on Tuesday
+ martin:  but are you using them or not?
+:))
+and do you have any goal right now or no idea?
+ok so what is your plan then
+so tell me what is your current direction
+ Sent at 5:50 PM on Tuesday
+ martin:  ok but that sounds quite vague and beside it can be quite hard to integrate multimodal input data to generate dancing motion
+well the Laban model is quite feeling based - thus if you define robot states you can exploit it in various maners
+ Sent at 5:52 PM on Tuesday
+ martin:  nope
+ Sent at 5:54 PM on Tuesday
+ martin:  and the result?
+ Sent at 5:55 PM on Tuesday
+ martin:  and what are the results?
+ Sent at 5:59 PM on Tuesday
+ martin:  hmm did you have pre-programmed motions?
+in general the results indicates the fact that the robot did not have any intentions to communicate anything
+in its simplest form a pantomime can be a nice example
+well there is not interaction in modern dancing as well but people can understand emotions from it
+because the dancers can describe their emotions y a set of movements
+well me neither i do not understand modern dancing but that is for another dicussion
+:)
+well in a part yes
+well it is also related to the interpretation of the music
+but to come back to some projects - the ANN is feasible
+also you can use human feedback to teach it
+but if you take modern popular music you should be able to extract enough information so the people can say if the robot is happy or not
+I would not go in more emotional states because after it becomes quite symbolic and very difficult
+well they attacked me on many things:))
+actually I would only restrict them to most explicit emotional states
+ Sent at 6:07 PM on Tuesday
+ martin:  hmm it is a way to go but you have to only select a subset of emotions and you can build a simple model from that
+but if you do not want emotions what is the overall goal?
+ Sent at 6:09 PM on Tuesday
+ martin:  ok so actually for that you do not even need motion sequences just study the transitions between motions I thin
+think
+ Sent at 6:10 PM on Tuesday
+ martin:  well yes yes but you do not need to study the sequences it self as without emotional states they do not have any meaning
+ Sent at 6:11 PM on Tuesday
+ martin:  yes that sounds reasonable
+hehehehehe
+yeah ASC 16 are nice
+but then also having a sequence of motions you should be able to make them feel in different emotional states if you use some adaptive mechanism
+really?
+that is why ASC 16 is nice, beside you should not be reading it back, rather send it to a position and assume it arrived when it send feedback
+that how I was doing it
+ Sent at 6:17 PM on Tuesday
+ martin:  well as I said, memorize in your soft
+that is the easiest - best trade between speed and efficiency
+ Sent at 6:18 PM on Tuesday
+ martin:  no
+he did not
+ Sent at 6:20 PM on Tuesday
+ martin:  yuo see for that the FFT would work much better
+I see if i can make a connection to some robot here and will send it to you
+ Sent at 6:23 PM on Tuesday
+ martin:  check my software
+It is all there
+maybe it needs a good manual tho:))
+I am working on it
+ Sent at 6:25 PM on Tuesday
+ martin:  well I will put it on an svn - now I have a good server available
+since i left I did not have time to touch it but it is still on dropbox as well
+no problem
+maybe i can do it now
+yes yes
+ Sent at 6:26 PM on Tuesday
+ martin:  so anyway I will see if you can come here for couple of months if you want
+it is still only a plan but maybe it can be good for you as you will see how the robotics is in Japan
+ahhhh well extend it
+it is not that difficult - normally
+well yeah there are all kinds of them
+hahahaha
+ Sent at 6:30 PM on Tuesday
+ martin:  well let me know if it is possible
+I will talk with Perkowski more and we will see what he says
+ Sent at 6:32 PM on Tuesday
+ martin:  hehehe well now it is mostly calculating as i do not have a robot anymore:)
+ Sent at 6:35 PM on Tuesday
+ martin:  ok that would be an interesting experience, despite the fact that when i tried it I got quickly bored with it due to some server issues:)
+ Sent at 6:36 PM on Tuesday
+ martin:  ok then until then work on this so we can put something nice together and publish it:)
+ Sent at 6:43 PM on Tuesday
+ martin:  ok no problem just keep it up:)
+ Sent at 6:46 PM on Tuesday
+ martin:  no problem
+ Sent at 6:58 PM on Tuesday
+ 
+

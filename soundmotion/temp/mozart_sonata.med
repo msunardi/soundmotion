@@ -1,0 +1,1115 @@
+<?xml version="1.0"?>
+<muse version="2.0">
+  <configuration>
+    <midiInputDevice>0</midiInputDevice>
+    <midiInputChannel>0</midiInputChannel>
+    <midiRecordType>0</midiRecordType>
+    <midiThruType>0</midiThruType>
+    <midiFilterCtrl1>0</midiFilterCtrl1>
+    <midiFilterCtrl2>0</midiFilterCtrl2>
+    <midiFilterCtrl3>0</midiFilterCtrl3>
+    <midiFilterCtrl4>0</midiFilterCtrl4>
+    <txDeviceId>127</txDeviceId>
+    <rxDeviceId>127</rxDeviceId>
+    <txSyncPort>1</txSyncPort>
+    <rxSyncPort>-1</rxSyncPort>
+    <mtctype>1</mtctype>
+    <mtcoffset>00:00:00:00:00</mtcoffset>
+    <extSync>0</extSync>
+    <genMTCSync>0</genMTCSync>
+    <genMCSync>0</genMCSync>
+    <genMMC>0</genMMC>
+    <acceptMTC>0</acceptMTC>
+    <acceptMMC>1</acceptMMC>
+    <acceptMC>1</acceptMC>
+    <bigtimeVisible>0</bigtimeVisible>
+    <transportVisible>0</transportVisible>
+    <markerVisible>0</markerVisible>
+    <mixerVisible>0</mixerVisible>
+    <geometryMain x="2" y="72" w="1201" h="554"></geometryMain>
+    <geometryTransport x="0" y="0" w="672" h="320"></geometryTransport>
+    <arranger>
+      <info>1</info>
+      <split>440 755 </split>
+      <list>
+        <header> 7 6 5 4 3 2 1 0 </header>
+        </list>
+      <xpos>0</xpos>
+      <xmag>266</xmag>
+      <ypos>1</ypos>
+      </arranger>
+    <sequencer>
+      <metronom>
+        <premeasures>2</premeasures>
+        <measurepitch>63</measurepitch>
+        <measurevelo>127</measurevelo>
+        <beatpitch>63</beatpitch>
+        <beatvelo>70</beatvelo>
+        <channel>9</channel>
+        <port>0</port>
+        <precountEnable>0</precountEnable>
+        <fromMastertrack>0</fromMastertrack>
+        <signatureZ>4</signatureZ>
+        <signatureN>4</signatureN>
+        <prerecord>0</prerecord>
+        <preroll>0</preroll>
+        <midiClickEnable>1</midiClickEnable>
+        <audioClickEnable>0</audioClickEnable>
+        </metronom>
+      <rcEnable>0</rcEnable>
+      <rcStop>28</rcStop>
+      <rcRecord>31</rcRecord>
+      <rcGotoLeft>33</rcGotoLeft>
+      <rcPlay>29</rcPlay>
+      <midiport idx="0">
+        <instrument>GM</instrument>
+        <channel idx="0">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="91">
+            </controller>
+          <controller id="93">
+            </controller>
+          <controller id="121">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="1">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="50">
+            </controller>
+          <controller id="91">
+            </controller>
+          <controller id="93">
+            </controller>
+          <controller id="121">
+            </controller>
+          <controller id="262145">
+            <val>16776961</val>
+            </controller>
+          </channel>
+        <channel idx="2">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="91">
+            </controller>
+          <controller id="93">
+            </controller>
+          <controller id="121">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="3">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="91">
+            </controller>
+          <controller id="93">
+            </controller>
+          <controller id="121">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="4">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="91">
+            </controller>
+          <controller id="93">
+            </controller>
+          <controller id="121">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="5">
+          <controller id="1">
+            </controller>
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="91">
+            </controller>
+          <controller id="93">
+            </controller>
+          <controller id="121">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="6">
+          <controller id="1">
+            </controller>
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="91">
+            </controller>
+          <controller id="93">
+            </controller>
+          <controller id="121">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="7">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="91">
+            </controller>
+          <controller id="93">
+            </controller>
+          <controller id="121">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="8">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="9">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="91">
+            </controller>
+          <controller id="93">
+            </controller>
+          <controller id="121">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="10">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="11">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="12">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="13">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="14">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="15">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        </midiport>
+      <midiport idx="1">
+        <instrument>GM</instrument>
+        <channel idx="0">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="1">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="2">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="3">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="4">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="5">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="6">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="7">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="8">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="9">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="10">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="11">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="12">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="50">
+            </controller>
+          <controller id="262145">
+            <val>16776961</val>
+            </controller>
+          </channel>
+        <channel idx="13">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="14">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        <channel idx="15">
+          <controller id="7">
+            </controller>
+          <controller id="10">
+            </controller>
+          <controller id="262145">
+            </controller>
+          </channel>
+        </midiport>
+      </sequencer>
+    <drumedit>
+      <quant>96</quant>
+      <raster>96</raster>
+      <width>600</width>
+      <height>400</height>
+      <dlistwidth>50</dlistwidth>
+      <dcanvaswidth>300</dcanvaswidth>
+      <to>0</to>
+      </drumedit>
+    <pianoroll>
+      <quant>96</quant>
+      <raster>96</raster>
+      <quantStrength>80</quantStrength>
+      <quantLimit>50</quantLimit>
+      <quantLen>0</quantLen>
+      <to>0</to>
+      <width>600</width>
+      <height>400</height>
+      <colormode>0</colormode>
+      </pianoroll>
+    <masteredit>
+      <raster>0</raster>
+      </masteredit>
+    <waveedit>
+      <bgcolor r="200" g="200" b="200"></bgcolor>
+      <width>600</width>
+      <height>400</height>
+      </waveedit>
+    </configuration>
+  <song>
+    <automation>1</automation>
+    <cpos>0</cpos>
+    <rpos>0</rpos>
+    <lpos>0</lpos>
+    <master>1</master>
+    <loop>0</loop>
+    <punchin>0</punchin>
+    <punchout>0</punchout>
+    <record>0</record>
+    <solo>0</solo>
+    <type>0</type>
+    <recmode>0</recmode>
+    <cycle>0</cycle>
+    <click>0</click>
+    <quantize>0</quantize>
+    <len>61440</len>
+    <follow>1</follow>
+    <miditrack>
+      <name></name>
+      <record>0</record>
+      <mute>0</mute>
+      <solo>0</solo>
+      <off>0</off>
+      <channels>0</channels>
+      <height>20</height>
+      <locked>0</locked>
+      <device>0</device>
+      <channel>0</channel>
+      <inportMap>65535</inportMap>
+      <inchannelMap>65535</inchannelMap>
+      <locked>0</locked>
+      <transposition>0</transposition>
+      <velocity>0</velocity>
+      <delay>0</delay>
+      <len>100</len>
+      <compression>100</compression>
+      <automation>1</automation>
+      </miditrack>
+    <miditrack>
+      <name>Sonata #3           </name>
+      <record>0</record>
+      <mute>0</mute>
+      <solo>0</solo>
+      <off>0</off>
+      <channels>0</channels>
+      <height>20</height>
+      <locked>0</locked>
+      <device>0</device>
+      <channel>0</channel>
+      <inportMap>65535</inportMap>
+      <inchannelMap>65535</inchannelMap>
+      <locked>0</locked>
+      <transposition>0</transposition>
+      <velocity>0</velocity>
+      <delay>0</delay>
+      <len>100</len>
+      <compression>100</compression>
+      <automation>1</automation>
+      </miditrack>
+    <miditrack>
+      <name>Mozart              </name>
+      <record>0</record>
+      <mute>0</mute>
+      <solo>0</solo>
+      <off>0</off>
+      <channels>0</channels>
+      <height>20</height>
+      <locked>0</locked>
+      <device>0</device>
+      <channel>0</channel>
+      <inportMap>65535</inportMap>
+      <inchannelMap>65535</inchannelMap>
+      <locked>0</locked>
+      <transposition>0</transposition>
+      <velocity>0</velocity>
+      <delay>0</delay>
+      <len>100</len>
+      <compression>100</compression>
+      <automation>1</automation>
+      </miditrack>
+    <miditrack>
+      <name>Copyright (C) 1992  </name>
+      <record>0</record>
+      <mute>0</mute>
+      <solo>0</solo>
+      <off>0</off>
+      <channels>0</channels>
+      <height>20</height>
+      <locked>0</locked>
+      <device>0</device>
+      <channel>0</channel>
+      <inportMap>65535</inportMap>
+      <inchannelMap>65535</inchannelMap>
+      <locked>0</locked>
+      <transposition>0</transposition>
+      <velocity>0</velocity>
+      <delay>0</delay>
+      <len>100</len>
+      <compression>100</compression>
+      <automation>1</automation>
+      </miditrack>
+    <miditrack>
+      <name>Voyetra Technologies</name>
+      <record>0</record>
+      <mute>0</mute>
+      <solo>0</solo>
+      <off>0</off>
+      <channels>0</channels>
+      <height>20</height>
+      <locked>0</locked>
+      <device>0</device>
+      <channel>0</channel>
+      <inportMap>65535</inportMap>
+      <inchannelMap>65535</inchannelMap>
+      <locked>0</locked>
+      <transposition>0</transposition>
+      <velocity>0</velocity>
+      <delay>0</delay>
+      <len>100</len>
+      <compression>100</compression>
+      <automation>1</automation>
+      </miditrack>
+    <miditrack>
+      <name>B Piano             </name>
+      <record>0</record>
+      <mute>0</mute>
+      <solo>0</solo>
+      <off>0</off>
+      <channels>0</channels>
+      <height>20</height>
+      <locked>0</locked>
+      <selected>1</selected>
+      <device>1</device>
+      <channel>12</channel>
+      <inportMap>65535</inportMap>
+      <inchannelMap>65535</inchannelMap>
+      <locked>0</locked>
+      <transposition>0</transposition>
+      <velocity>0</velocity>
+      <delay>0</delay>
+      <len>100</len>
+      <compression>100</compression>
+      <automation>1</automation>
+      <part>
+        <name>B Piano             </name>
+        <poslen tick="0" len="43008" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="0" type="1" a="262145" b="16776963" />
+        <event tick="0" type="1" a="7" b="127" />
+        <event tick="0" len="224" a="60" b="95" c="64" />
+        <event tick="10" len="708" a="72" b="115" c="64" />
+        <event tick="192" len="208" a="67" b="109" c="64" />
+        <event tick="384" len="216" a="64" b="105" c="64" />
+        <event tick="576" len="204" a="67" b="101" c="64" />
+        <event tick="768" len="384" a="76" b="115" c="64" />
+        <event tick="768" len="372" a="60" b="105" c="64" />
+        <event tick="960" len="202" a="67" b="88" c="64" />
+        <event tick="1152" len="214" a="79" b="115" c="64" />
+        <event tick="1152" len="310" a="64" b="105" c="64" />
+        <event tick="1344" len="236" a="67" b="88" c="64" />
+        <event tick="1536" len="590" a="71" b="97" c="64" />
+        <event tick="1536" len="224" a="62" b="117" c="64" />
+        <event tick="1728" len="220" a="67" b="88" c="64" />
+        <event tick="1920" len="206" a="65" b="105" c="64" />
+        <event tick="2112" type="1" a="50" b="3" />
+        <event tick="2112" len="102" a="72" b="108" c="64" />
+        <event tick="2112" len="184" a="67" b="95" c="64" />
+        <event tick="2194" len="108" a="74" b="113" c="64" />
+        <event tick="2304" len="446" a="72" b="111" c="64" />
+        <event tick="2304" len="360" a="60" b="110" c="64" />
+        <event tick="2496" len="206" a="67" b="91" c="64" />
+        <event tick="2688" len="284" a="64" b="105" c="64" />
+        <event tick="2880" len="226" a="67" b="95" c="64" />
+        <event tick="3072" len="766" a="81" b="97" c="64" />
+        <event tick="3072" len="238" a="60" b="97" c="64" />
+        <event tick="3264" len="224" a="69" b="88" c="64" />
+        <event tick="3456" len="218" a="65" b="105" c="64" />
+        <event tick="3648" len="200" a="69" b="91" c="64" />
+        <event tick="3840" len="380" a="79" b="115" c="64" />
+        <event tick="3840" len="384" a="60" b="103" c="64" />
+        <event tick="4032" len="218" a="67" b="88" c="64" />
+        <event tick="4224" len="358" a="84" b="101" c="64" />
+        <event tick="4224" len="204" a="64" b="105" c="64" />
+        <event tick="4416" len="214" a="67" b="91" c="64" />
+        <event tick="4608" len="370" a="79" b="113" c="64" />
+        <event tick="4608" len="258" a="59" b="104" c="64" />
+        <event tick="4800" len="214" a="67" b="88" c="64" />
+        <event tick="4992" len="94" a="77" b="115" c="64" />
+        <event tick="4992" len="206" a="62" b="103" c="64" />
+        <event tick="5056" len="96" a="76" b="115" c="64" />
+        <event tick="5120" len="96" a="77" b="115" c="64" />
+        <event tick="5184" len="112" a="76" b="99" c="64" />
+        <event tick="5184" len="190" a="67" b="101" c="64" />
+        <event tick="5280" len="102" a="77" b="114" c="64" />
+        <event tick="5376" len="444" a="76" b="108" c="64" />
+        <event tick="5376" len="380" a="60" b="104" c="64" />
+        <event tick="5568" len="198" a="67" b="95" c="64" />
+        <event tick="5760" len="222" a="64" b="109" c="64" />
+        <event tick="5952" len="210" a="67" b="105" c="64" />
+        <event tick="6144" len="218" a="69" b="92" c="64" />
+        <event tick="6144" len="262" a="65" b="127" c="64" />
+        <event tick="6336" len="96" a="71" b="105" c="64" />
+        <event tick="6432" len="100" a="72" b="101" c="64" />
+        <event tick="6528" len="110" a="74" b="105" c="64" />
+        <event tick="6624" len="104" a="76" b="99" c="64" />
+        <event tick="6720" len="84" a="77" b="105" c="64" />
+        <event tick="6816" len="92" a="79" b="108" c="64" />
+        <event tick="6912" len="192" a="81" b="105" c="64" />
+        <event tick="7008" len="148" a="79" b="100" c="64" />
+        <event tick="7104" len="140" a="77" b="91" c="64" />
+        <event tick="7200" len="100" a="76" b="108" c="64" />
+        <event tick="7296" len="98" a="74" b="91" c="64" />
+        <event tick="7296" len="252" a="60" b="97" c="64" />
+        <event tick="7296" len="252" a="53" b="103" c="64" />
+        <event tick="7392" len="96" a="72" b="115" c="64" />
+        <event tick="7488" len="128" a="71" b="90" c="64" />
+        <event tick="7584" len="192" a="69" b="105" c="64" />
+        <event tick="7680" len="128" a="67" b="104" c="64" />
+        <event tick="7702" len="314" a="52" b="122" c="64" />
+        <event tick="7702" len="298" a="60" b="114" c="64" />
+        <event tick="7872" len="100" a="69" b="99" c="64" />
+        <event tick="7968" len="102" a="71" b="108" c="64" />
+        <event tick="8064" len="106" a="72" b="99" c="64" />
+        <event tick="8160" len="98" a="74" b="101" c="64" />
+        <event tick="8256" len="80" a="76" b="100" c="64" />
+        <event tick="8352" len="90" a="77" b="100" c="64" />
+        <event tick="8448" len="192" a="79" b="104" c="64" />
+        <event tick="8544" len="64" a="77" b="101" c="64" />
+        <event tick="8640" len="110" a="76" b="101" c="64" />
+        <event tick="8736" len="94" a="74" b="107" c="64" />
+        <event tick="8832" len="112" a="72" b="110" c="64" />
+        <event tick="8832" len="206" a="60" b="118" c="64" />
+        <event tick="8832" len="204" a="52" b="119" c="64" />
+        <event tick="8928" len="94" a="71" b="108" c="64" />
+        <event tick="9024" len="94" a="69" b="101" c="64" />
+        <event tick="9120" len="102" a="67" b="105" c="64" />
+        <event tick="9216" len="212" a="65" b="111" c="64" />
+        <event tick="9216" len="324" a="60" b="110" c="64" />
+        <event tick="9216" len="320" a="50" b="115" c="64" />
+        <event tick="9408" len="100" a="67" b="105" c="64" />
+        <event tick="9504" len="94" a="69" b="105" c="64" />
+        <event tick="9600" len="112" a="71" b="107" c="64" />
+        <event tick="9696" len="94" a="72" b="108" c="64" />
+        <event tick="9792" len="100" a="74" b="95" c="64" />
+        <event tick="9888" len="90" a="76" b="108" c="64" />
+        <event tick="9984" len="192" a="77" b="100" c="64" />
+        <event tick="10080" len="126" a="76" b="110" c="64" />
+        <event tick="10176" len="120" a="74" b="111" c="64" />
+        <event tick="10272" len="104" a="72" b="105" c="64" />
+        <event tick="10368" len="128" a="71" b="100" c="64" />
+        <event tick="10368" len="216" a="59" b="114" c="64" />
+        <event tick="10368" len="192" a="50" b="119" c="64" />
+        <event tick="10464" len="120" a="69" b="111" c="64" />
+        <event tick="10560" len="106" a="67" b="93" c="64" />
+        <event tick="10656" len="112" a="65" b="105" c="64" />
+        <event tick="10752" len="232" a="64" b="108" c="64" />
+        <event tick="10754" len="268" a="48" b="118" c="64" />
+        <event tick="10756" len="264" a="60" b="117" c="64" />
+        <event tick="10944" len="102" a="65" b="105" c="64" />
+        <event tick="11040" len="86" a="67" b="101" c="64" />
+        <event tick="11136" len="118" a="69" b="97" c="64" />
+        <event tick="11232" len="110" a="71" b="113" c="64" />
+        <event tick="11328" len="98" a="72" b="101" c="64" />
+        <event tick="11424" len="128" a="74" b="113" c="64" />
+        <event tick="11520" len="256" a="76" b="105" c="64" />
+        <event tick="11616" len="128" a="74" b="105" c="64" />
+        <event tick="11712" len="120" a="72" b="113" c="64" />
+        <event tick="11808" len="104" a="71" b="105" c="64" />
+        <event tick="11904" len="120" a="69" b="105" c="64" />
+        <event tick="11904" len="192" a="48" b="119" c="64" />
+        <event tick="11904" len="192" a="52" b="119" c="64" />
+        <event tick="12000" len="128" a="67" b="110" c="64" />
+        <event tick="12096" len="92" a="65" b="105" c="64" />
+        <event tick="12192" len="122" a="64" b="100" c="64" />
+        <event tick="12288" len="182" a="62" b="115" c="64" />
+        <event tick="12288" len="1446" a="57" b="115" c="64" />
+        <event tick="12288" len="1442" a="53" b="127" c="64" />
+        <event tick="12480" len="114" a="64" b="111" c="64" />
+        <event tick="12576" len="90" a="65" b="105" c="64" />
+        <event tick="12672" len="86" a="67" b="114" c="64" />
+        <event tick="12768" len="130" a="69" b="110" c="64" />
+        <event tick="12864" len="96" a="71" b="110" c="64" />
+        <event tick="12960" len="124" a="73" b="90" c="64" />
+        <event tick="13056" len="192" a="74" b="113" c="64" />
+        <event tick="13152" len="142" a="69" b="108" c="64" />
+        <event tick="13248" len="104" a="71" b="108" c="64" />
+        <event tick="13344" len="98" a="73" b="90" c="64" />
+        <event tick="13440" len="124" a="74" b="101" c="64" />
+        <event tick="13536" len="110" a="76" b="108" c="64" />
+        <event tick="13632" len="110" a="77" b="108" c="64" />
+        <event tick="13728" len="100" a="79" b="108" c="64" />
+        <event tick="13824" len="106" a="81" b="115" c="64" />
+        <event tick="13830" len="564" a="53" b="123" c="64" />
+        <event tick="13920" len="104" a="83" b="111" c="64" />
+        <event tick="14016" len="130" a="84" b="111" c="64" />
+        <event tick="14112" len="134" a="83" b="108" c="64" />
+        <event tick="14208" len="106" a="81" b="111" c="64" />
+        <event tick="14304" len="114" a="79" b="90" c="64" />
+        <event tick="14400" len="88" a="77" b="115" c="64" />
+        <event tick="14400" len="190" a="55" b="111" c="64" />
+        <event tick="14496" len="136" a="76" b="97" c="64" />
+        <event tick="14592" len="112" a="77" b="115" c="64" />
+        <event tick="14592" len="712" a="57" b="117" c="64" />
+        <event tick="14688" len="108" a="79" b="111" c="64" />
+        <event tick="14784" len="96" a="81" b="108" c="64" />
+        <event tick="14880" len="96" a="79" b="113" c="64" />
+        <event tick="14976" len="96" a="77" b="113" c="64" />
+        <event tick="15072" len="110" a="76" b="97" c="64" />
+        <event tick="15168" len="102" a="74" b="111" c="64" />
+        <event tick="15168" len="96" a="54" b="103" c="64" />
+        <event tick="15264" len="96" a="72" b="115" c="64" />
+        <event tick="15360" len="64" a="43" b="119" c="64" />
+        <event tick="15366" len="192" a="71" b="119" c="64" />
+        <event tick="15456" len="64" a="47" b="119" c="64" />
+        <event tick="15552" len="86" a="79" b="114" c="64" />
+        <event tick="15552" len="64" a="50" b="119" c="64" />
+        <event tick="15648" len="64" a="55" b="119" c="64" />
+        <event tick="15744" len="72" a="76" b="119" c="64" />
+        <event tick="15744" len="64" a="43" b="119" c="64" />
+        <event tick="15840" len="64" a="48" b="119" c="64" />
+        <event tick="15936" len="62" a="72" b="113" c="64" />
+        <event tick="15936" len="64" a="52" b="119" c="64" />
+        <event tick="16032" len="96" a="55" b="119" c="64" />
+        <event tick="16128" len="192" a="74" b="111" c="64" />
+        <event tick="16128" len="96" a="43" b="119" c="64" />
+        <event tick="16224" len="96" a="47" b="105" c="64" />
+        <event tick="16320" len="62" a="79" b="111" c="64" />
+        <event tick="16320" len="110" a="50" b="97" c="64" />
+        <event tick="16416" len="98" a="55" b="95" c="64" />
+        <event tick="16512" len="64" a="76" b="111" c="64" />
+        <event tick="16512" len="96" a="43" b="119" c="64" />
+        <event tick="16608" len="118" a="48" b="105" c="64" />
+        <event tick="16704" len="74" a="72" b="105" c="64" />
+        <event tick="16704" len="88" a="52" b="117" c="64" />
+        <event tick="16794" len="88" a="55" b="95" c="64" />
+        <event tick="16896" len="100" a="74" b="119" c="64" />
+        <event tick="16900" len="82" a="43" b="109" c="64" />
+        <event tick="17280" len="80" a="74" b="110" c="64" />
+        <event tick="17280" len="76" a="79" b="113" c="64" />
+        <event tick="17280" len="78" a="71" b="104" c="64" />
+        <event tick="17280" len="60" a="55" b="126" c="64" />
+        <event tick="17664" len="150" a="43" b="105" c="64" />
+        <event tick="17668" len="104" a="67" b="113" c="64" />
+        <event tick="18432" len="112" a="66" b="101" c="64" />
+        <event tick="18528" len="110" a="67" b="91" c="64" />
+        <event tick="18624" len="94" a="66" b="88" c="64" />
+        <event tick="18720" len="116" a="67" b="105" c="64" />
+        <event tick="18816" len="98" a="66" b="95" c="64" />
+        <event tick="18912" len="110" a="67" b="88" c="64" />
+        <event tick="19008" len="122" a="66" b="91" c="64" />
+        <event tick="19104" len="116" a="67" b="103" c="64" />
+        <event tick="19200" len="96" a="65" b="109" c="64" />
+        <event tick="19296" len="112" a="67" b="88" c="64" />
+        <event tick="19392" len="96" a="65" b="115" c="64" />
+        <event tick="19488" len="116" a="67" b="101" c="64" />
+        <event tick="19584" len="92" a="65" b="115" c="64" />
+        <event tick="19680" len="116" a="67" b="91" c="64" />
+        <event tick="19776" len="120" a="65" b="109" c="64" />
+        <event tick="19872" len="96" a="67" b="88" c="64" />
+        <event tick="19968" len="108" a="64" b="105" c="64" />
+        <event tick="19976" len="192" a="79" b="110" c="64" />
+        <event tick="20064" len="102" a="67" b="96" c="64" />
+        <event tick="20160" len="66" a="76" b="113" c="64" />
+        <event tick="20160" len="118" a="64" b="103" c="64" />
+        <event tick="20256" len="96" a="67" b="119" c="64" />
+        <event tick="20352" len="480" a="72" b="101" c="64" />
+        <event tick="20352" len="106" a="64" b="114" c="64" />
+        <event tick="20448" len="114" a="67" b="103" c="64" />
+        <event tick="20544" len="104" a="64" b="105" c="64" />
+        <event tick="20640" len="104" a="67" b="105" c="64" />
+        <event tick="20736" len="90" a="64" b="117" c="64" />
+        <event tick="20832" len="104" a="67" b="105" c="64" />
+        <event tick="20922" len="108" a="74" b="111" c="64" />
+        <event tick="20928" len="94" a="64" b="109" c="64" />
+        <event tick="21022" len="110" a="76" b="113" c="64" />
+        <event tick="21024" len="110" a="67" b="91" c="64" />
+        <event tick="21120" len="96" a="65" b="119" c="64" />
+        <event tick="21124" len="204" a="74" b="115" c="64" />
+        <event tick="21216" len="114" a="67" b="101" c="64" />
+        <event tick="21312" len="130" a="64" b="114" c="64" />
+        <event tick="21320" len="58" a="72" b="108" c="64" />
+        <event tick="21408" len="104" a="67" b="101" c="64" />
+        <event tick="21506" len="90" a="65" b="109" c="64" />
+        <event tick="21518" len="64" a="72" b="115" c="64" />
+        <event tick="21568" len="96" a="74" b="115" c="64" />
+        <event tick="21600" len="98" a="67" b="95" c="64" />
+        <event tick="21632" len="128" a="72" b="115" c="64" />
+        <event tick="21696" len="92" a="64" b="111" c="64" />
+        <event tick="21794" len="118" a="67" b="103" c="64" />
+        <event tick="21802" len="52" a="71" b="108" c="64" />
+        <event tick="21888" len="672" a="71" b="122" c="64" />
+        <event tick="21888" len="132" a="62" b="111" c="64" />
+        <event tick="21984" len="106" a="67" b="95" c="64" />
+        <event tick="22080" len="122" a="64" b="109" c="64" />
+        <event tick="22176" len="96" a="67" b="105" c="64" />
+        <event tick="22272" len="106" a="65" b="111" c="64" />
+        <event tick="22368" len="106" a="67" b="91" c="64" />
+        <event tick="22464" len="118" a="64" b="111" c="64" />
+        <event tick="22560" len="100" a="67" b="88" c="64" />
+        <event tick="22656" len="86" a="65" b="109" c="64" />
+        <event tick="22752" len="128" a="67" b="95" c="64" />
+        <event tick="22848" len="124" a="62" b="111" c="64" />
+        <event tick="22944" len="94" a="67" b="119" c="64" />
+        <event tick="23038" len="108" a="64" b="109" c="64" />
+        <event tick="23040" len="168" a="79" b="107" c="64" />
+        <event tick="23040" len="86" a="67" b="88" c="64" />
+        <event tick="23126" len="106" a="67" b="95" c="64" />
+        <event tick="23230" len="126" a="64" b="109" c="64" />
+        <event tick="23232" len="64" a="76" b="113" c="64" />
+        <event tick="23332" len="104" a="67" b="97" c="64" />
+        <event tick="23424" len="600" a="72" b="122" c="64" />
+        <event tick="23432" len="108" a="64" b="109" c="64" />
+        <event tick="23528" len="100" a="67" b="103" c="64" />
+        <event tick="23622" len="106" a="64" b="111" c="64" />
+        <event tick="23712" len="106" a="67" b="95" c="64" />
+        <event tick="23812" len="102" a="64" b="111" c="64" />
+        <event tick="23904" len="98" a="67" b="97" c="64" />
+        <event tick="23996" len="94" a="64" b="117" c="64" />
+        <event tick="24000" len="100" a="74" b="110" c="64" />
+        <event tick="24084" len="116" a="67" b="96" c="64" />
+        <event tick="24096" len="102" a="76" b="101" c="64" />
+        <event tick="24190" len="92" a="64" b="105" c="64" />
+        <event tick="24192" len="288" a="74" b="110" c="64" />
+        <event tick="24274" len="122" a="67" b="104" c="64" />
+        <event tick="24376" len="104" a="64" b="109" c="64" />
+        <event tick="24468" len="102" a="67" b="91" c="64" />
+        <event tick="24480" len="46" a="72" b="100" c="64" />
+        <event tick="24588" len="96" a="65" b="119" c="64" />
+        <event tick="24598" len="64" a="72" b="115" c="64" />
+        <event tick="24640" len="96" a="74" b="115" c="64" />
+        <event tick="24672" len="92" a="67" b="95" c="64" />
+        <event tick="24704" len="192" a="72" b="115" c="64" />
+        <event tick="24768" len="96" a="64" b="111" c="64" />
+        <event tick="24826" len="96" a="67" b="88" c="64" />
+        <event tick="24868" len="50" a="71" b="105" c="64" />
+        <event tick="24960" len="452" a="71" b="119" c="64" />
+        <event tick="24960" len="96" a="62" b="109" c="64" />
+        <event tick="25056" len="124" a="67" b="88" c="64" />
+        <event tick="25152" len="128" a="64" b="117" c="64" />
+        <event tick="25248" len="100" a="67" b="88" c="64" />
+        <event tick="25344" len="94" a="65" b="111" c="64" />
+        <event tick="25440" len="116" a="67" b="88" c="64" />
+        <event tick="25536" len="118" a="64" b="104" c="64" />
+        <event tick="25632" len="110" a="67" b="95" c="64" />
+        <event tick="25728" len="86" a="65" b="110" c="64" />
+        <event tick="25824" len="116" a="67" b="88" c="64" />
+        <event tick="25920" len="94" a="62" b="105" c="64" />
+        <event tick="26016" len="76" a="67" b="104" c="64" />
+        <event tick="26112" len="338" a="79" b="115" c="64" />
+        <event tick="26208" len="96" a="52" b="119" c="64" />
+        <event tick="26304" len="96" a="55" b="119" c="64" />
+        <event tick="26400" len="96" a="60" b="119" c="64" />
+        <event tick="26496" len="96" a="64" b="119" c="64" />
+        <event tick="26592" len="98" a="79" b="115" c="64" />
+        <event tick="26688" len="98" a="76" b="101" c="64" />
+        <event tick="26784" len="84" a="72" b="115" c="64" />
+        <event tick="26880" len="244" a="69" b="101" c="64" />
+        <event tick="26976" len="96" a="53" b="119" c="64" />
+        <event tick="27072" len="96" a="57" b="119" c="64" />
+        <event tick="27168" len="96" a="60" b="119" c="64" />
+        <event tick="27264" len="96" a="65" b="119" c="64" />
+        <event tick="27360" len="102" a="69" b="113" c="64" />
+        <event tick="27456" len="88" a="72" b="111" c="64" />
+        <event tick="27552" len="122" a="69" b="99" c="64" />
+        <event tick="27648" len="204" a="77" b="114" c="64" />
+        <event tick="27744" len="80" a="50" b="107" c="64" />
+        <event tick="27840" len="88" a="53" b="105" c="64" />
+        <event tick="27936" len="108" a="59" b="105" c="64" />
+        <event tick="28032" len="78" a="62" b="111" c="64" />
+        <event tick="28128" len="94" a="77" b="114" c="64" />
+        <event tick="28224" len="92" a="74" b="105" c="64" />
+        <event tick="28320" len="96" a="71" b="107" c="64" />
+        <event tick="28416" len="340" a="67" b="111" c="64" />
+        <event tick="28512" len="116" a="52" b="117" c="64" />
+        <event tick="28608" len="110" a="55" b="114" c="64" />
+        <event tick="28704" len="130" a="60" b="105" c="64" />
+        <event tick="28800" len="104" a="64" b="115" c="64" />
+        <event tick="28896" len="62" a="79" b="101" c="64" />
+        <event tick="28992" len="90" a="83" b="90" c="64" />
+        <event tick="29088" len="98" a="79" b="108" c="64" />
+        <event tick="29202" len="320" a="88" b="127" c="64" />
+        <event tick="29280" len="114" a="60" b="117" c="64" />
+        <event tick="29376" len="188" a="64" b="117" c="64" />
+        <event tick="29472" len="128" a="69" b="105" c="64" />
+        <event tick="29568" len="96" a="72" b="123" c="64" />
+        <event tick="29668" len="100" a="88" b="122" c="64" />
+        <event tick="29760" len="78" a="84" b="105" c="64" />
+        <event tick="29856" len="100" a="81" b="113" c="64" />
+        <event tick="29952" len="256" a="77" b="115" c="64" />
+        <event tick="30048" len="154" a="62" b="119" c="64" />
+        <event tick="30144" len="122" a="65" b="109" c="64" />
+        <event tick="30240" len="132" a="69" b="117" c="64" />
+        <event tick="30336" len="86" a="74" b="117" c="64" />
+        <event tick="30432" len="102" a="77" b="111" c="64" />
+        <event tick="30528" len="90" a="81" b="110" c="64" />
+        <event tick="30624" len="90" a="77" b="101" c="64" />
+        <event tick="30722" len="246" a="86" b="125" c="64" />
+        <event tick="30816" len="158" a="59" b="119" c="64" />
+        <event tick="30912" len="110" a="62" b="111" c="64" />
+        <event tick="31008" len="116" a="67" b="105" c="64" />
+        <event tick="31104" len="92" a="71" b="109" c="64" />
+        <event tick="31200" len="98" a="86" b="125" c="64" />
+        <event tick="31296" len="92" a="83" b="108" c="64" />
+        <event tick="31392" len="86" a="79" b="111" c="64" />
+        <event tick="31488" len="412" a="76" b="115" c="64" />
+        <event tick="31584" len="122" a="60" b="117" c="64" />
+        <event tick="31680" len="148" a="64" b="117" c="64" />
+        <event tick="31776" len="122" a="67" b="117" c="64" />
+        <event tick="31872" len="78" a="72" b="105" c="64" />
+        <event tick="31968" len="104" a="84" b="114" c="64" />
+        <event tick="32064" len="90" a="79" b="110" c="64" />
+        <event tick="32160" len="104" a="76" b="115" c="64" />
+        <event tick="32256" len="576" a="74" b="115" c="64" />
+        <event tick="32448" len="38" a="69" b="101" c="64" />
+        <event tick="32448" len="44" a="65" b="96" c="64" />
+        <event tick="32640" len="38" a="69" b="103" c="64" />
+        <event tick="32640" len="42" a="65" b="111" c="64" />
+        <event tick="32832" len="54" a="69" b="88" c="64" />
+        <event tick="32832" len="52" a="65" b="109" c="64" />
+        <event tick="32976" len="48" a="73" b="115" c="64" />
+        <event tick="33024" len="128" a="74" b="115" c="64" />
+        <event tick="33024" len="40" a="69" b="123" c="64" />
+        <event tick="33024" len="44" a="65" b="119" c="64" />
+        <event tick="33216" len="44" a="69" b="118" c="64" />
+        <event tick="33216" len="44" a="65" b="105" c="64" />
+        <event tick="33360" len="48" a="73" b="115" c="64" />
+        <event tick="33408" len="128" a="74" b="111" c="64" />
+        <event tick="33408" len="48" a="69" b="107" c="64" />
+        <event tick="33408" len="48" a="65" b="109" c="64" />
+        <event tick="33600" len="42" a="69" b="104" c="64" />
+        <event tick="33600" len="54" a="65" b="105" c="64" />
+        <event tick="33792" len="568" a="81" b="127" c="64" />
+        <event tick="33984" len="44" a="60" b="105" c="64" />
+        <event tick="33984" len="44" a="63" b="88" c="64" />
+        <event tick="33984" len="42" a="54" b="88" c="64" />
+        <event tick="34176" len="58" a="63" b="97" c="64" />
+        <event tick="34176" len="46" a="60" b="104" c="64" />
+        <event tick="34176" len="50" a="54" b="104" c="64" />
+        <event tick="34368" len="58" a="63" b="88" c="64" />
+        <event tick="34368" len="52" a="60" b="103" c="64" />
+        <event tick="34368" len="44" a="54" b="88" c="64" />
+        <event tick="34512" len="96" a="80" b="115" c="64" />
+        <event tick="34560" len="186" a="81" b="119" c="64" />
+        <event tick="34560" len="58" a="63" b="88" c="64" />
+        <event tick="34560" len="50" a="60" b="104" c="64" />
+        <event tick="34560" len="52" a="54" b="88" c="64" />
+        <event tick="34752" len="62" a="63" b="88" c="64" />
+        <event tick="34752" len="54" a="60" b="95" c="64" />
+        <event tick="34752" len="56" a="54" b="88" c="64" />
+        <event tick="34896" len="96" a="80" b="115" c="64" />
+        <event tick="34944" len="246" a="81" b="115" c="64" />
+        <event tick="34944" len="58" a="63" b="88" c="64" />
+        <event tick="34944" len="48" a="60" b="88" c="64" />
+        <event tick="34944" len="42" a="54" b="88" c="64" />
+        <event tick="35124" len="132" a="63" b="88" c="64" />
+        <event tick="35136" len="112" a="60" b="88" c="64" />
+        <event tick="35136" len="86" a="54" b="88" c="64" />
+        <event tick="35328" len="206" a="79" b="111" c="64" />
+        <event tick="35338" len="206" a="55" b="111" c="64" />
+        <event tick="35424" len="100" a="64" b="95" c="64" />
+        <event tick="35520" len="116" a="81" b="113" c="64" />
+        <event tick="35520" len="184" a="60" b="111" c="64" />
+        <event tick="35616" len="122" a="83" b="110" c="64" />
+        <event tick="35616" len="94" a="64" b="105" c="64" />
+        <event tick="35712" len="120" a="84" b="111" c="64" />
+        <event tick="35712" len="204" a="55" b="110" c="64" />
+        <event tick="35808" len="74" a="86" b="105" c="64" />
+        <event tick="35808" len="106" a="64" b="91" c="64" />
+        <event tick="35890" len="118" a="88" b="115" c="64" />
+        <event tick="35904" len="136" a="60" b="111" c="64" />
+        <event tick="36000" len="96" a="86" b="115" c="64" />
+        <event tick="36000" len="108" a="64" b="105" c="64" />
+        <event tick="36096" len="142" a="84" b="115" c="64" />
+        <event tick="36096" len="192" a="55" b="105" c="64" />
+        <event tick="36192" len="104" a="83" b="101" c="64" />
+        <event tick="36192" len="98" a="64" b="101" c="64" />
+        <event tick="36288" len="114" a="81" b="101" c="64" />
+        <event tick="36288" len="138" a="60" b="105" c="64" />
+        <event tick="36384" len="102" a="79" b="113" c="64" />
+        <event tick="36384" len="104" a="64" b="101" c="64" />
+        <event tick="36480" len="106" a="77" b="100" c="64" />
+        <event tick="36480" len="196" a="55" b="109" c="64" />
+        <event tick="36576" len="96" a="76" b="115" c="64" />
+        <event tick="36576" len="102" a="64" b="101" c="64" />
+        <event tick="36672" len="114" a="74" b="104" c="64" />
+        <event tick="36672" len="116" a="60" b="105" c="64" />
+        <event tick="36768" len="110" a="72" b="115" c="64" />
+        <event tick="36768" len="114" a="64" b="109" c="64" />
+        <event tick="36864" len="96" a="76" b="115" c="64" />
+        <event tick="36864" len="196" a="55" b="103" c="64" />
+        <event tick="36928" len="96" a="74" b="115" c="64" />
+        <event tick="36960" len="98" a="65" b="111" c="64" />
+        <event tick="36992" len="96" a="76" b="115" c="64" />
+        <event tick="37056" len="96" a="74" b="115" c="64" />
+        <event tick="37056" len="130" a="59" b="117" c="64" />
+        <event tick="37120" len="96" a="76" b="115" c="64" />
+        <event tick="37152" len="116" a="65" b="110" c="64" />
+        <event tick="37184" len="96" a="74" b="115" c="64" />
+        <event tick="37248" len="96" a="76" b="115" c="64" />
+        <event tick="37248" len="232" a="55" b="111" c="64" />
+        <event tick="37312" len="96" a="74" b="115" c="64" />
+        <event tick="37344" len="98" a="65" b="104" c="64" />
+        <event tick="37376" len="96" a="76" b="115" c="64" />
+        <event tick="37440" len="96" a="74" b="115" c="64" />
+        <event tick="37440" len="140" a="59" b="117" c="64" />
+        <event tick="37504" len="96" a="76" b="115" c="64" />
+        <event tick="37536" len="114" a="65" b="114" c="64" />
+        <event tick="37568" len="96" a="74" b="115" c="64" />
+        <event tick="37632" len="96" a="76" b="115" c="64" />
+        <event tick="37632" len="234" a="55" b="109" c="64" />
+        <event tick="37696" len="96" a="74" b="115" c="64" />
+        <event tick="37728" len="108" a="65" b="111" c="64" />
+        <event tick="37760" len="96" a="76" b="115" c="64" />
+        <event tick="37824" len="96" a="74" b="115" c="64" />
+        <event tick="37824" len="132" a="59" b="119" c="64" />
+        <event tick="37888" len="96" a="76" b="115" c="64" />
+        <event tick="37920" len="106" a="65" b="109" c="64" />
+        <event tick="37952" len="96" a="74" b="115" c="64" />
+        <event tick="38016" len="96" a="76" b="115" c="64" />
+        <event tick="38016" len="332" a="55" b="109" c="64" />
+        <event tick="38080" len="96" a="74" b="115" c="64" />
+        <event tick="38112" len="100" a="65" b="111" c="64" />
+        <event tick="38144" len="96" a="76" b="115" c="64" />
+        <event tick="38208" len="46" a="74" b="115" c="64" />
+        <event tick="38208" len="192" a="59" b="109" c="64" />
+        <event tick="38304" len="64" a="72" b="115" c="64" />
+        <event tick="38352" len="144" a="74" b="115" c="64" />
+        <event tick="38400" len="288" a="72" b="113" c="64" />
+        <event tick="38400" len="118" a="64" b="99" c="64" />
+        <event tick="38400" len="144" a="60" b="95" c="64" />
+        <event tick="38786" len="100" a="72" b="105" c="64" />
+        <event tick="38880" len="142" a="67" b="91" c="64" />
+        <event tick="38976" len="110" a="72" b="111" c="64" />
+        <event tick="39072" len="102" a="76" b="100" c="64" />
+        <event tick="39176" len="116" a="79" b="119" c="64" />
+        <event tick="39268" len="98" a="76" b="101" c="64" />
+        <event tick="39360" len="144" a="72" b="105" c="64" />
+        <event tick="39456" len="132" a="76" b="119" c="64" />
+        <event tick="39552" len="64" a="77" b="115" c="64" />
+        <event tick="39554" len="384" a="65" b="126" c="64" />
+        <event tick="39556" len="394" a="62" b="122" c="64" />
+        <event tick="39558" len="366" a="55" b="122" c="64" />
+        <event tick="39648" len="102" a="74" b="113" c="64" />
+        <event tick="39744" len="104" a="71" b="99" c="64" />
+        <event tick="39840" len="116" a="74" b="111" c="64" />
+        <event tick="39936" len="82" a="72" b="113" c="64" />
+        <event tick="39936" len="72" a="60" b="118" c="64" />
+        <event tick="39936" len="56" a="64" b="110" c="64" />
+        <event tick="40320" len="106" a="60" b="101" c="64" />
+        <event tick="40416" len="88" a="55" b="90" c="64" />
+        <event tick="40512" len="110" a="60" b="95" c="64" />
+        <event tick="40608" len="110" a="64" b="115" c="64" />
+        <event tick="40704" len="108" a="67" b="115" c="64" />
+        <event tick="40800" len="122" a="64" b="97" c="64" />
+        <event tick="40896" len="146" a="60" b="111" c="64" />
+        <event tick="40992" len="96" a="64" b="105" c="64" />
+        <event tick="41088" len="96" a="65" b="115" c="64" />
+        <event tick="41088" len="322" a="53" b="115" c="64" />
+        <event tick="41088" len="418" a="50" b="122" c="64" />
+        <event tick="41184" len="140" a="62" b="105" c="64" />
+        <event tick="41280" len="98" a="59" b="99" c="64" />
+        <event tick="41376" len="100" a="62" b="108" c="64" />
+        <event tick="41472" len="64" a="60" b="110" c="64" />
+        <event tick="41476" len="60" a="52" b="114" c="64" />
+        <event tick="41476" len="74" a="48" b="111" c="64" />
+        <event tick="41856" len="72" a="79" b="111" c="64" />
+        <event tick="41856" len="62" a="76" b="101" c="64" />
+        <event tick="41856" len="66" a="84" b="108" c="64" />
+        <event tick="41856" len="82" a="48" b="118" c="64" />
+        <event tick="41870" len="62" a="60" b="119" c="64" />
+        <event tick="42240" len="116" a="72" b="119" c="64" />
+        <event tick="42240" len="362" a="36" b="127" c="64" />
+        <event tick="42240" len="360" a="48" b="119" c="64" />
+        </part>
+      </miditrack>
+    <tempolist fix="500000">
+      <tempo at="21474837">
+        <tick>0</tick>
+        <val>535714</val>
+        </tempo>
+      </tempolist>
+    <siglist>
+      <sig at="21474836">
+        <tick>0</tick>
+        <nom>4</nom>
+        <denom>4</denom>
+        </sig>
+      </siglist>
+    <drummap>
+      </drummap>
+    </song>
+  <toplevels>
+    </toplevels>
+  </muse>

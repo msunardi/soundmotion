@@ -1,0 +1,43 @@
+()
+>>> evpat.search(ev.toxml()).group(1)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+IndexError: no such group
+>>> evpat = re.compile(r'a=([0-9])*')
+>>> 
+>>> evpat.search(ev.toxml()).group(1)
+>>> evpat.search(ev.toxml()).groups()
+(None,)
+>>> evpat = re.compile(r'a=([0-9]*)')
+>>> evpat.search(ev.toxml()).groups()
+(u'',)
+>>> evpat = re.compile(r'a=(\d*)')
+>>> evpat.search(ev.toxml()).groups()
+(u'',)
+>>> evpat.search(ev.toxml()).group(1)
+u''
+>>> evpat.match(ev.toxml())
+>>> ev.toxml()
+u'<event a="262145" tick="1152" type="1"/>'
+>>> evpat = re.compile(r'a="(\d*)"')
+>>> ev.toxml()
+u'<event a="262145" tick="1152" type="1"/>'
+>>> evpat.match(ev.toxml())
+>>> evpat.search(ev.toxml()).group(1)
+u'262145'
+>>> evpata = re.compile(r'a="(\d*)"')
+>>> evpatb = re.compile(r'b="(\d*)"')
+>>> evpatb.search(ev.toxml()).groups()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: 'NoneType' object has no attribute 'groups'
+>>> evpatb.search(ev.toxml())
+>>> evpata.search(ev.toxml())
+<_sre.SRE_Match object at 0x2725b70>
+>>> ev.toxml()
+u'<event a="262145" tick="1152" type="1"/>'
+>>> evpattick = re.compile(r'tick="(\d*)"')
+>>> evpattick.search(ev.toxml()).groups()
+(u'1152',)
+>>> 
+

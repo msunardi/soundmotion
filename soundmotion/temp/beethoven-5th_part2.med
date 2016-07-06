@@ -1,0 +1,3626 @@
+<?xml version="1.0"?>
+<muse version="2.0">
+  <configuration>
+    <midiInputDevice>0</midiInputDevice>
+    <midiInputChannel>0</midiInputChannel>
+    <midiRecordType>0</midiRecordType>
+    <midiThruType>0</midiThruType>
+    <midiFilterCtrl1>0</midiFilterCtrl1>
+    <midiFilterCtrl2>0</midiFilterCtrl2>
+    <midiFilterCtrl3>0</midiFilterCtrl3>
+    <midiFilterCtrl4>0</midiFilterCtrl4>
+    <txDeviceId>127</txDeviceId>
+    <rxDeviceId>127</rxDeviceId>
+    <txSyncPort>1</txSyncPort>
+    <rxSyncPort>-1</rxSyncPort>
+    <mtctype>1</mtctype>
+    <mtcoffset>00:00:00:00:00</mtcoffset>
+    <extSync>0</extSync>
+    <genMTCSync>0</genMTCSync>
+    <genMCSync>0</genMCSync>
+    <genMMC>0</genMMC>
+    <acceptMTC>0</acceptMTC>
+    <acceptMMC>1</acceptMMC>
+    <acceptMC>1</acceptMC>
+    <bigtimeVisible>0</bigtimeVisible>
+    <transportVisible>0</transportVisible>
+    <markerVisible>0</markerVisible>
+    <mixerVisible>0</mixerVisible>
+    <geometryMain x="1" y="48" w="1216" h="446"></geometryMain>
+    <geometryTransport x="0" y="0" w="672" h="320"></geometryTransport>
+    <arranger>
+      <info>1</info>
+      <split>440 770 </split>
+      <list>
+        <header> 7 6 5 4 3 2 1 0 </header>
+        </list>
+      <xpos>0</xpos>
+      <xmag>266</xmag>
+      <ypos>1</ypos>
+      </arranger>
+    <sequencer>
+      <metronom>
+        <premeasures>2</premeasures>
+        <measurepitch>63</measurepitch>
+        <measurevelo>127</measurevelo>
+        <beatpitch>63</beatpitch>
+        <beatvelo>70</beatvelo>
+        <channel>9</channel>
+        <port>0</port>
+        <precountEnable>0</precountEnable>
+        <fromMastertrack>0</fromMastertrack>
+        <signatureZ>4</signatureZ>
+        <signatureN>4</signatureN>
+        <prerecord>0</prerecord>
+        <preroll>0</preroll>
+        <midiClickEnable>1</midiClickEnable>
+        <audioClickEnable>0</audioClickEnable>
+        </metronom>
+      <rcEnable>0</rcEnable>
+      <rcStop>28</rcStop>
+      <rcRecord>31</rcRecord>
+      <rcGotoLeft>33</rcGotoLeft>
+      <rcPlay>29</rcPlay>
+      <midiport idx="0">
+        <instrument>GM</instrument>
+        <channel idx="0">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="1">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="2">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="3">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="4">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="5">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="6">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="7">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="8">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="9">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="10">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="11">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="12">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="13">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="14">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        <channel idx="15">
+          <controller id="7">
+            <val>0</val>
+            </controller>
+          <controller id="10">
+            <val>0</val>
+            </controller>
+          <controller id="262145">
+            <val>0</val>
+            </controller>
+          </channel>
+        </midiport>
+      </sequencer>
+    <drumedit>
+      <quant>96</quant>
+      <raster>96</raster>
+      <width>600</width>
+      <height>400</height>
+      <dlistwidth>50</dlistwidth>
+      <dcanvaswidth>300</dcanvaswidth>
+      <to>0</to>
+      </drumedit>
+    <pianoroll>
+      <quant>96</quant>
+      <raster>96</raster>
+      <quantStrength>80</quantStrength>
+      <quantLimit>50</quantLimit>
+      <quantLen>0</quantLen>
+      <to>0</to>
+      <width>600</width>
+      <height>400</height>
+      <colormode>0</colormode>
+      </pianoroll>
+    <masteredit>
+      <raster>0</raster>
+      </masteredit>
+    <waveedit>
+      <bgcolor r="200" g="200" b="200"></bgcolor>
+      <width>600</width>
+      <height>400</height>
+      </waveedit>
+    </configuration>
+  <song>
+    <automation>1</automation>
+    <cpos>0</cpos>
+    <rpos>0</rpos>
+    <lpos>0</lpos>
+    <master>1</master>
+    <loop>0</loop>
+    <punchin>0</punchin>
+    <punchout>0</punchout>
+    <record>0</record>
+    <solo>0</solo>
+    <type>0</type>
+    <recmode>0</recmode>
+    <cycle>0</cycle>
+    <click>0</click>
+    <quantize>0</quantize>
+    <len>204288</len>
+    <follow>1</follow>
+    <miditrack>
+      <name></name>
+      <record>0</record>
+      <mute>0</mute>
+      <solo>0</solo>
+      <off>0</off>
+      <channels>0</channels>
+      <height>20</height>
+      <locked>0</locked>
+      <device>0</device>
+      <channel>0</channel>
+      <inportMap>65535</inportMap>
+      <inchannelMap>65535</inchannelMap>
+      <locked>0</locked>
+      <transposition>0</transposition>
+      <velocity>0</velocity>
+      <delay>0</delay>
+      <len>100</len>
+      <compression>100</compression>
+      <automation>1</automation>
+      </miditrack>
+    <miditrack>
+      <name></name>
+      <record>0</record>
+      <mute>0</mute>
+      <solo>0</solo>
+      <off>0</off>
+      <channels>0</channels>
+      <height>20</height>
+      <locked>0</locked>
+      <device>0</device>
+      <channel>1</channel>
+      <inportMap>65535</inportMap>
+      <inchannelMap>65535</inchannelMap>
+      <locked>0</locked>
+      <transposition>0</transposition>
+      <velocity>0</velocity>
+      <delay>0</delay>
+      <len>100</len>
+      <compression>100</compression>
+      <automation>1</automation>
+      <part>
+        <name></name>
+        <poslen tick="0" len="7680" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="0" type="1" a="262145" b="16776960" />
+        <event tick="208" len="194" a="67" b="104" />
+        <event tick="420" len="172" a="67" b="104" />
+        <event tick="612" len="172" a="67" b="104" />
+        <event tick="803" len="3045" a="63" b="104" />
+        <event tick="4039" len="193" a="65" b="104" />
+        <event tick="4249" len="172" a="65" b="104" />
+        <event tick="4440" len="174" a="65" b="104" />
+        <event tick="4632" len="3831" a="62" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="9216" len="43008" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="10184" len="192" a="75" b="104" />
+        <event tick="10396" len="172" a="75" b="104" />
+        <event tick="10588" len="172" a="75" b="104" />
+        <event tick="10780" len="1130" a="72" b="104" />
+        <event tick="12484" len="192" a="68" b="104" />
+        <event tick="12694" len="173" a="68" b="104" />
+        <event tick="12886" len="172" a="68" b="104" />
+        <event tick="13249" len="211" a="77" b="104" />
+        <event tick="13480" len="173" a="77" b="104" />
+        <event tick="13672" len="172" a="77" b="104" />
+        <event tick="13862" len="938" a="74" b="104" />
+        <event tick="14820" len="173" a="79" b="104" />
+        <event tick="15013" len="189" a="79" b="104" />
+        <event tick="15184" len="212" a="77" b="104" />
+        <event tick="15375" len="784" a="75" b="104" />
+        <event tick="16141" len="192" a="74" b="104" />
+        <event tick="16352" len="174" a="79" b="104" />
+        <event tick="16543" len="192" a="79" b="104" />
+        <event tick="16716" len="209" a="77" b="104" />
+        <event tick="16908" len="784" a="75" b="104" />
+        <event tick="17673" len="192" a="74" b="104" />
+        <event tick="17884" len="172" a="79" b="104" />
+        <event tick="18076" len="172" a="79" b="104" />
+        <event tick="18268" len="172" a="77" b="104" />
+        <event tick="18459" len="363" a="75" b="104" />
+        <event tick="19205" len="384" a="72" b="104" />
+        <event tick="19972" len="2317" a="79" b="104" />
+        <event tick="22479" len="192" a="80" b="104" />
+        <event tick="22691" len="172" a="80" b="104" />
+        <event tick="22881" len="172" a="80" b="104" />
+        <event tick="23073" len="3044" a="77" b="104" />
+        <event tick="26311" len="191" a="68" b="104" />
+        <event tick="26522" len="170" a="68" b="104" />
+        <event tick="26712" len="173" a="68" b="104" />
+        <event tick="26904" len="2298" a="65" b="104" />
+        <event tick="29220" len="172" a="63" b="104" />
+        <event tick="29412" len="171" a="68" b="104" />
+        <event tick="29604" len="173" a="68" b="104" />
+        <event tick="29795" len="172" a="68" b="104" />
+        <event tick="29987" len="1704" a="65" b="104" />
+        <event tick="31710" len="172" a="77" b="104" />
+        <event tick="31900" len="175" a="77" b="104" />
+        <event tick="32092" len="172" a="77" b="104" />
+        <event tick="32284" len="173" a="75" b="104" />
+        <event tick="32476" len="172" a="67" b="104" />
+        <event tick="32668" len="172" a="72" b="104" />
+        <event tick="32858" len="174" a="72" b="104" />
+        <event tick="33051" len="767" a="72" b="104" />
+        <event tick="33797" len="192" a="71" b="104" />
+        <event tick="34008" len="173" a="71" b="104" />
+        <event tick="34199" len="174" a="71" b="104" />
+        <event tick="34390" len="173" a="74" b="104" />
+        <event tick="34584" len="783" a="74" b="104" />
+        <event tick="35348" len="193" a="72" b="104" />
+        <event tick="35560" len="172" a="72" b="104" />
+        <event tick="35751" len="172" a="72" b="104" />
+        <event tick="35941" len="172" a="75" b="104" />
+        <event tick="36133" len="192" a="75" b="104" />
+        <event tick="36305" len="192" a="74" b="104" />
+        <event tick="36518" len="170" a="74" b="104" />
+        <event tick="36708" len="172" a="77" b="104" />
+        <event tick="36899" len="192" a="77" b="104" />
+        <event tick="37071" len="192" a="76" b="104" />
+        <event tick="37282" len="173" a="76" b="104" />
+        <event tick="37474" len="172" a="79" b="104" />
+        <event tick="37665" len="191" a="79" b="104" />
+        <event tick="37836" len="195" a="77" b="104" />
+        <event tick="38048" len="172" a="77" b="104" />
+        <event tick="38240" len="172" a="80" b="104" />
+        <event tick="38431" len="191" a="80" b="104" />
+        <event tick="38603" len="193" a="79" b="104" />
+        <event tick="38816" len="171" a="79" b="104" />
+        <event tick="39005" len="173" a="82" b="104" />
+        <event tick="39196" len="192" a="82" b="104" />
+        <event tick="39369" len="191" a="80" b="104" />
+        <event tick="39580" len="172" a="80" b="104" />
+        <event tick="39774" len="170" a="84" b="104" />
+        <event tick="39963" len="192" a="84" b="104" />
+        <event tick="40134" len="192" a="83" b="104" />
+        <event tick="40346" len="172" a="83" b="104" />
+        <event tick="40538" len="172" a="86" b="104" />
+        <event tick="40729" len="172" a="84" b="104" />
+        <event tick="40921" len="172" a="87" b="104" />
+        <event tick="41113" len="171" a="87" b="104" />
+        <event tick="41305" len="171" a="87" b="104" />
+        <event tick="41494" len="173" a="84" b="104" />
+        <event tick="41687" len="172" a="79" b="104" />
+        <event tick="41877" len="174" a="79" b="104" />
+        <event tick="42071" len="171" a="79" b="104" />
+        <event tick="42261" len="191" a="75" b="104" />
+        <event tick="42472" len="173" a="72" b="104" />
+        <event tick="42663" len="174" a="67" b="104" />
+        <event tick="42855" len="172" a="67" b="104" />
+        <event tick="43047" len="172" a="63" b="104" />
+        <event tick="43237" len="173" a="60" b="104" />
+        <event tick="43429" len="173" a="60" b="104" />
+        <event tick="43620" len="176" a="60" b="104" />
+        <event tick="43812" len="172" a="59" b="104" />
+        <event tick="44004" len="173" a="89" b="104" />
+        <event tick="44195" len="172" a="86" b="104" />
+        <event tick="44387" len="174" a="86" b="104" />
+        <event tick="44579" len="172" a="83" b="104" />
+        <event tick="44769" len="172" a="79" b="104" />
+        <event tick="44960" len="173" a="77" b="104" />
+        <event tick="45152" len="174" a="77" b="104" />
+        <event tick="45345" len="172" a="74" b="104" />
+        <event tick="45537" len="170" a="71" b="104" />
+        <event tick="45727" len="172" a="67" b="104" />
+        <event tick="45919" len="172" a="65" b="104" />
+        <event tick="46110" len="173" a="62" b="104" />
+        <event tick="46301" len="173" a="59" b="104" />
+        <event tick="46493" len="172" a="60" b="104" />
+        <event tick="46684" len="172" a="60" b="104" />
+        <event tick="46876" len="175" a="60" b="104" />
+        <event tick="47068" len="172" a="87" b="104" />
+        <event tick="47260" len="171" a="87" b="104" />
+        <event tick="47450" len="173" a="87" b="104" />
+        <event tick="47642" len="174" a="84" b="104" />
+        <event tick="47834" len="172" a="81" b="104" />
+        <event tick="48026" len="172" a="81" b="104" />
+        <event tick="48216" len="172" a="81" b="104" />
+        <event tick="48408" len="175" a="78" b="104" />
+        <event tick="48600" len="173" a="75" b="104" />
+        <event tick="48792" len="171" a="75" b="104" />
+        <event tick="48982" len="175" a="75" b="104" />
+        <event tick="49173" len="174" a="72" b="104" />
+        <event tick="49365" len="173" a="69" b="104" />
+        <event tick="49558" len="190" a="69" b="104" />
+        <event tick="49769" len="172" a="69" b="104" />
+        <event tick="49960" len="362" a="69" b="104" />
+        <event tick="51472" len="383" a="82" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="55296" len="36864" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="55301" type="1" a="262145" b="16776966" />
+        <event tick="55304" len="400" a="70" b="56" />
+        <event tick="55684" len="402" a="75" b="56" />
+        <event tick="56068" len="403" a="74" b="56" />
+        <event tick="56451" len="401" a="75" b="56" />
+        <event tick="56834" len="420" a="77" b="56" />
+        <event tick="57237" len="382" a="72" b="56" />
+        <event tick="57637" len="384" a="72" b="56" />
+        <event tick="58001" len="383" a="70" b="56" />
+        <event tick="58385" type="1" a="262145" b="16776966" />
+        <event tick="58388" len="400" a="70" b="72" />
+        <event tick="58768" len="402" a="75" b="72" />
+        <event tick="59151" len="401" a="74" b="72" />
+        <event tick="59534" len="402" a="75" b="72" />
+        <event tick="59916" len="402" a="77" b="72" />
+        <event tick="60300" len="382" a="72" b="72" />
+        <event tick="60701" len="384" a="72" b="72" />
+        <event tick="61066" len="384" a="70" b="72" />
+        <event tick="61450" type="1" a="262145" b="16776966" />
+        <event tick="61455" len="396" a="82" b="72" />
+        <event tick="61830" len="405" a="87" b="72" />
+        <event tick="62215" len="402" a="86" b="72" />
+        <event tick="62597" len="402" a="87" b="72" />
+        <event tick="62980" len="403" a="89" b="72" />
+        <event tick="63364" len="383" a="84" b="72" />
+        <event tick="63768" len="380" a="84" b="72" />
+        <event tick="64131" len="401" a="82" b="72" />
+        <event tick="64532" type="1" a="262145" b="16776995" />
+        <event tick="64540" len="396" a="70" b="72" />
+        <event tick="64915" len="401" a="72" b="72" />
+        <event tick="65298" len="404" a="73" b="72" />
+        <event tick="65680" len="383" a="72" b="72" />
+        <event tick="66084" len="381" a="70" b="72" />
+        <event tick="66447" len="400" a="72" b="72" />
+        <event tick="66828" len="405" a="70" b="72" />
+        <event tick="67212" len="383" a="68" b="72" />
+        <event tick="67615" len="384" a="73" b="72" />
+        <event tick="67978" len="403" a="75" b="72" />
+        <event tick="68361" len="402" a="77" b="72" />
+        <event tick="68746" len="382" a="75" b="72" />
+        <event tick="69146" len="384" a="73" b="72" />
+        <event tick="69511" len="402" a="75" b="72" />
+        <event tick="69893" len="401" a="73" b="72" />
+        <event tick="70277" len="382" a="72" b="72" />
+        <event tick="70679" len="383" a="75" b="72" />
+        <event tick="71043" len="404" a="77" b="72" />
+        <event tick="71426" len="420" a="78" b="72" />
+        <event tick="71827" len="403" a="77" b="72" />
+        <event tick="72210" len="403" a="75" b="72" />
+        <event tick="72594" len="385" a="77" b="72" />
+        <event tick="72996" len="383" a="78" b="72" />
+        <event tick="73359" len="404" a="77" b="72" />
+        <event tick="73743" len="402" a="75" b="72" />
+        <event tick="74126" len="383" a="77" b="72" />
+        <event tick="74528" len="383" a="78" b="72" />
+        <event tick="74892" len="401" a="77" b="72" />
+        <event tick="75276" len="401" a="75" b="88" />
+        <event tick="75656" len="384" a="77" b="88" />
+        <event tick="76060" len="384" a="78" b="88" />
+        <event tick="76424" len="401" a="77" b="88" />
+        <event tick="76807" len="402" a="75" b="88" />
+        <event tick="77189" len="403" a="77" b="88" />
+        <event tick="77573" len="402" a="78" b="88" />
+        <event tick="77956" len="402" a="77" b="88" />
+        <event tick="78339" len="401" a="78" b="88" />
+        <event tick="78722" len="420" a="81" b="88" />
+        <event tick="79123" len="958" a="82" b="104" />
+        <event tick="80100" len="173" a="84" b="104" />
+        <event tick="80292" len="173" a="82" b="104" />
+        <event tick="80484" len="171" a="80" b="104" />
+        <event tick="80674" len="192" a="80" b="104" />
+        <event tick="80847" len="192" a="79" b="104" />
+        <event tick="81059" len="172" a="77" b="104" />
+        <event tick="81250" len="173" a="75" b="104" />
+        <event tick="81439" len="195" a="75" b="104" />
+        <event tick="81612" len="192" a="74" b="104" />
+        <event tick="81823" len="173" a="72" b="104" />
+        <event tick="82016" len="172" a="74" b="104" />
+        <event tick="82207" len="192" a="77" b="104" />
+        <event tick="82379" len="192" a="75" b="104" />
+        <event tick="82590" len="171" a="70" b="104" />
+        <event tick="82781" len="173" a="67" b="104" />
+        <event tick="82972" len="192" a="74" b="104" />
+        <event tick="83146" len="190" a="72" b="104" />
+        <event tick="83356" len="172" a="68" b="104" />
+        <event tick="83546" len="174" a="65" b="104" />
+        <event tick="83740" len="191" a="72" b="104" />
+        <event tick="83912" len="192" a="70" b="104" />
+        <event tick="84123" len="171" a="67" b="104" />
+        <event tick="84313" len="172" a="63" b="104" />
+        <event tick="84504" len="175" a="58" b="104" />
+        <event tick="84697" len="192" a="81" b="104" />
+        <event tick="84868" len="212" a="82" b="104" />
+        <event tick="85060" len="212" a="81" b="104" />
+        <event tick="85252" len="210" a="82" b="104" />
+        <event tick="85443" len="212" a="81" b="104" />
+        <event tick="85633" len="212" a="82" b="104" />
+        <event tick="85825" len="192" a="81" b="104" />
+        <event tick="86036" len="192" a="82" b="104" />
+        <event tick="86248" len="173" a="84" b="104" />
+        <event tick="86439" len="172" a="82" b="104" />
+        <event tick="86632" len="171" a="80" b="104" />
+        <event tick="86821" len="191" a="80" b="104" />
+        <event tick="86995" len="192" a="79" b="104" />
+        <event tick="87205" len="172" a="77" b="104" />
+        <event tick="87396" len="173" a="75" b="104" />
+        <event tick="87587" len="192" a="75" b="104" />
+        <event tick="87759" len="194" a="74" b="104" />
+        <event tick="87971" len="174" a="72" b="104" />
+        <event tick="88163" len="172" a="74" b="104" />
+        <event tick="88353" len="192" a="77" b="104" />
+        <event tick="88526" len="191" a="75" b="104" />
+        <event tick="88735" len="176" a="70" b="104" />
+        <event tick="88928" len="174" a="67" b="104" />
+        <event tick="89119" len="194" a="74" b="104" />
+        <event tick="89291" len="193" a="72" b="104" />
+        <event tick="89502" len="172" a="68" b="104" />
+        <event tick="89695" len="172" a="65" b="104" />
+        <event tick="89886" len="191" a="72" b="104" />
+        <event tick="90059" len="191" a="70" b="104" />
+        <event tick="90268" len="172" a="67" b="104" />
+        <event tick="90460" len="173" a="63" b="104" />
+        <event tick="90652" len="364" a="58" b="104" />
+        <event tick="91034" len="365" a="62" b="104" />
+        <event tick="91418" len="178" a="63" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="93696" len="7680" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="93907" type="1" a="262145" b="16776995" />
+        <event tick="93914" len="185" a="77" b="104" />
+        <event tick="94119" len="171" a="77" b="104" />
+        <event tick="94309" len="173" a="77" b="104" />
+        <event tick="94501" len="172" a="79" b="104" />
+        <event tick="94673" type="1" a="262145" b="16776966" />
+        <event tick="94676" len="188" a="91" b="104" />
+        <event tick="94884" len="172" a="91" b="104" />
+        <event tick="95075" len="172" a="91" b="104" />
+        <event tick="95267" len="172" a="87" b="104" />
+        <event tick="95459" len="172" a="82" b="104" />
+        <event tick="95649" len="173" a="82" b="104" />
+        <event tick="95840" len="175" a="82" b="104" />
+        <event tick="96031" len="174" a="79" b="104" />
+        <event tick="96223" len="173" a="75" b="104" />
+        <event tick="96416" len="173" a="75" b="104" />
+        <event tick="96607" len="172" a="75" b="104" />
+        <event tick="96970" type="1" a="262145" b="16776995" />
+        <event tick="96976" len="187" a="82" b="104" />
+        <event tick="97180" len="174" a="82" b="104" />
+        <event tick="97374" len="172" a="82" b="104" />
+        <event tick="97564" len="364" a="82" b="104" />
+        <event tick="98502" len="192" a="82" b="104" />
+        <event tick="98712" len="173" a="82" b="104" />
+        <event tick="98906" len="172" a="82" b="104" />
+        <event tick="99096" len="364" a="82" b="104" />
+        <event tick="100035" len="191" a="86" b="104" />
+        <event tick="100245" len="174" a="86" b="104" />
+        <event tick="100436" len="192" a="86" b="104" />
+        <event tick="100648" len="364" a="87" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="102912" len="7680" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="102925" type="1" a="262145" b="16776960" />
+        <event tick="103117" len="193" a="67" b="104" />
+        <event tick="103328" len="174" a="67" b="104" />
+        <event tick="103520" len="172" a="67" b="104" />
+        <event tick="103711" len="3046" a="63" b="104" />
+        <event tick="106948" len="191" a="65" b="104" />
+        <event tick="107158" len="173" a="65" b="104" />
+        <event tick="107350" len="172" a="65" b="104" />
+        <event tick="107543" len="3828" a="62" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="112128" len="43008" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="113096" len="190" a="75" b="104" />
+        <event tick="113305" len="172" a="75" b="104" />
+        <event tick="113497" len="172" a="75" b="104" />
+        <event tick="113688" len="1129" a="72" b="104" />
+        <event tick="115412" len="190" a="68" b="104" />
+        <event tick="115623" len="171" a="68" b="104" />
+        <event tick="115813" len="174" a="68" b="104" />
+        <event tick="116177" len="194" a="77" b="104" />
+        <event tick="116388" len="172" a="77" b="104" />
+        <event tick="116581" len="171" a="77" b="104" />
+        <event tick="116772" len="939" a="74" b="104" />
+        <event tick="117729" len="172" a="79" b="104" />
+        <event tick="117920" len="192" a="79" b="104" />
+        <event tick="118094" len="210" a="77" b="104" />
+        <event tick="118284" len="787" a="75" b="104" />
+        <event tick="119050" len="192" a="74" b="104" />
+        <event tick="119261" len="172" a="79" b="104" />
+        <event tick="119452" len="191" a="79" b="104" />
+        <event tick="119624" len="212" a="77" b="104" />
+        <event tick="119816" len="785" a="75" b="104" />
+        <event tick="120581" len="193" a="74" b="104" />
+        <event tick="120792" len="173" a="79" b="104" />
+        <event tick="120984" len="172" a="79" b="104" />
+        <event tick="121176" len="172" a="77" b="104" />
+        <event tick="121368" len="364" a="75" b="104" />
+        <event tick="122114" len="403" a="72" b="104" />
+        <event tick="122899" len="2298" a="79" b="104" />
+        <event tick="125388" len="191" a="80" b="104" />
+        <event tick="125600" len="172" a="80" b="104" />
+        <event tick="125791" len="173" a="80" b="104" />
+        <event tick="125983" len="3044" a="77" b="104" />
+        <event tick="129219" len="191" a="68" b="104" />
+        <event tick="129429" len="172" a="68" b="104" />
+        <event tick="129621" len="190" a="68" b="104" />
+        <event tick="129832" len="2279" a="65" b="104" />
+        <event tick="132130" len="172" a="63" b="104" />
+        <event tick="132321" len="172" a="68" b="104" />
+        <event tick="132511" len="174" a="68" b="104" />
+        <event tick="132704" len="171" a="68" b="104" />
+        <event tick="132895" len="1705" a="65" b="104" />
+        <event tick="134619" len="172" a="77" b="104" />
+        <event tick="134810" len="173" a="77" b="104" />
+        <event tick="135002" len="172" a="77" b="104" />
+        <event tick="135194" len="172" a="75" b="104" />
+        <event tick="135386" len="172" a="67" b="104" />
+        <event tick="135576" len="172" a="72" b="104" />
+        <event tick="135768" len="172" a="72" b="104" />
+        <event tick="135960" len="766" a="72" b="104" />
+        <event tick="136705" len="193" a="71" b="104" />
+        <event tick="136917" len="190" a="71" b="104" />
+        <event tick="137128" len="172" a="71" b="104" />
+        <event tick="137318" len="173" a="74" b="104" />
+        <event tick="137511" len="766" a="74" b="104" />
+        <event tick="138257" len="192" a="72" b="104" />
+        <event tick="138467" len="172" a="72" b="104" />
+        <event tick="138659" len="173" a="72" b="104" />
+        <event tick="138851" len="172" a="75" b="104" />
+        <event tick="139043" len="192" a="75" b="104" />
+        <event tick="139214" len="193" a="74" b="104" />
+        <event tick="139425" len="173" a="74" b="104" />
+        <event tick="139617" len="172" a="77" b="104" />
+        <event tick="139807" len="193" a="77" b="104" />
+        <event tick="139980" len="192" a="76" b="104" />
+        <event tick="140191" len="173" a="76" b="104" />
+        <event tick="140383" len="173" a="79" b="104" />
+        <event tick="140575" len="192" a="79" b="104" />
+        <event tick="140746" len="192" a="77" b="104" />
+        <event tick="140956" len="172" a="77" b="104" />
+        <event tick="141148" len="172" a="80" b="104" />
+        <event tick="141340" len="191" a="80" b="104" />
+        <event tick="141512" len="192" a="79" b="104" />
+        <event tick="141724" len="172" a="79" b="104" />
+        <event tick="141914" len="174" a="82" b="104" />
+        <event tick="142106" len="192" a="82" b="104" />
+        <event tick="142278" len="192" a="80" b="104" />
+        <event tick="142488" len="173" a="80" b="104" />
+        <event tick="142680" len="174" a="84" b="104" />
+        <event tick="142874" len="188" a="84" b="104" />
+        <event tick="143044" len="192" a="83" b="104" />
+        <event tick="143254" len="173" a="83" b="104" />
+        <event tick="143446" len="173" a="86" b="104" />
+        <event tick="143638" len="173" a="84" b="104" />
+        <event tick="143831" len="172" a="87" b="104" />
+        <event tick="144021" len="191" a="87" b="104" />
+        <event tick="144232" len="171" a="87" b="104" />
+        <event tick="144422" len="174" a="84" b="104" />
+        <event tick="144616" len="172" a="79" b="104" />
+        <event tick="144806" len="173" a="79" b="104" />
+        <event tick="144997" len="173" a="79" b="104" />
+        <event tick="145189" len="173" a="75" b="104" />
+        <event tick="145382" len="172" a="72" b="104" />
+        <event tick="145572" len="172" a="67" b="104" />
+        <event tick="145764" len="172" a="67" b="104" />
+        <event tick="145955" len="174" a="63" b="104" />
+        <event tick="146147" len="172" a="60" b="104" />
+        <event tick="146338" len="173" a="60" b="104" />
+        <event tick="146530" len="172" a="60" b="104" />
+        <event tick="146722" len="172" a="59" b="104" />
+        <event tick="146912" len="175" a="89" b="104" />
+        <event tick="147105" len="172" a="86" b="104" />
+        <event tick="147296" len="172" a="86" b="104" />
+        <event tick="147487" len="174" a="83" b="104" />
+        <event tick="147677" len="174" a="79" b="104" />
+        <event tick="147872" len="170" a="77" b="104" />
+        <event tick="148062" len="172" a="77" b="104" />
+        <event tick="148252" len="174" a="74" b="104" />
+        <event tick="148444" len="173" a="71" b="104" />
+        <event tick="148637" len="172" a="67" b="104" />
+        <event tick="148828" len="172" a="65" b="104" />
+        <event tick="149019" len="172" a="62" b="104" />
+        <event tick="149210" len="174" a="59" b="104" />
+        <event tick="149404" len="172" a="60" b="104" />
+        <event tick="149595" len="171" a="60" b="104" />
+        <event tick="149785" len="172" a="60" b="104" />
+        <event tick="149976" len="173" a="87" b="104" />
+        <event tick="150168" len="172" a="87" b="104" />
+        <event tick="150361" len="172" a="87" b="104" />
+        <event tick="150552" len="172" a="84" b="104" />
+        <event tick="150743" len="172" a="81" b="104" />
+        <event tick="150933" len="174" a="81" b="104" />
+        <event tick="151128" len="171" a="81" b="104" />
+        <event tick="151317" len="191" a="78" b="104" />
+        <event tick="151528" len="172" a="75" b="104" />
+        <event tick="151718" len="173" a="75" b="104" />
+        <event tick="151911" len="172" a="75" b="104" />
+        <event tick="152104" len="172" a="72" b="104" />
+        <event tick="152293" len="172" a="69" b="104" />
+        <event tick="152485" len="173" a="69" b="104" />
+        <event tick="152676" len="174" a="69" b="104" />
+        <event tick="152868" len="364" a="69" b="104" />
+        <event tick="154382" len="382" a="82" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="158208" len="36864" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="158210" type="1" a="262145" b="16776966" />
+        <event tick="158212" len="401" a="70" b="56" />
+        <event tick="158593" len="422" a="75" b="56" />
+        <event tick="158996" len="401" a="74" b="56" />
+        <event tick="159379" len="403" a="75" b="56" />
+        <event tick="159762" len="401" a="77" b="56" />
+        <event tick="160146" len="382" a="72" b="56" />
+        <event tick="160547" len="384" a="72" b="56" />
+        <event tick="160910" len="384" a="70" b="56" />
+        <event tick="161295" type="1" a="262145" b="16776966" />
+        <event tick="161300" len="396" a="70" b="72" />
+        <event tick="161676" len="403" a="75" b="72" />
+        <event tick="162059" len="404" a="74" b="72" />
+        <event tick="162442" len="404" a="75" b="72" />
+        <event tick="162826" len="402" a="77" b="72" />
+        <event tick="163208" len="384" a="72" b="72" />
+        <event tick="163612" len="383" a="72" b="72" />
+        <event tick="163974" len="384" a="70" b="72" />
+        <event tick="164358" type="1" a="262145" b="16776966" />
+        <event tick="164364" len="396" a="82" b="72" />
+        <event tick="164740" len="403" a="87" b="72" />
+        <event tick="165124" len="401" a="86" b="72" />
+        <event tick="165507" len="402" a="87" b="72" />
+        <event tick="165889" len="421" a="89" b="72" />
+        <event tick="166292" len="383" a="84" b="72" />
+        <event tick="166693" len="384" a="84" b="72" />
+        <event tick="167058" len="382" a="82" b="72" />
+        <event tick="167441" type="1" a="262145" b="16776995" />
+        <event tick="167446" len="397" a="70" b="72" />
+        <event tick="167823" len="404" a="72" b="72" />
+        <event tick="168206" len="404" a="73" b="72" />
+        <event tick="168589" len="384" a="72" b="72" />
+        <event tick="168991" len="384" a="70" b="72" />
+        <event tick="169356" len="402" a="72" b="72" />
+        <event tick="169738" len="403" a="70" b="72" />
+        <event tick="170122" len="382" a="68" b="72" />
+        <event tick="170523" len="384" a="73" b="72" />
+        <event tick="170888" len="402" a="75" b="72" />
+        <event tick="171271" len="403" a="77" b="72" />
+        <event tick="171653" len="383" a="75" b="72" />
+        <event tick="172056" len="382" a="73" b="72" />
+        <event tick="172420" len="402" a="75" b="72" />
+        <event tick="172802" len="404" a="73" b="72" />
+        <event tick="173185" len="402" a="72" b="72" />
+        <event tick="173607" len="383" a="75" b="72" />
+        <event tick="173971" len="403" a="77" b="72" />
+        <event tick="174353" len="402" a="78" b="72" />
+        <event tick="174738" len="401" a="77" b="72" />
+        <event tick="175119" len="403" a="75" b="72" />
+        <event tick="175503" len="384" a="77" b="72" />
+        <event tick="175904" len="383" a="78" b="72" />
+        <event tick="176268" len="403" a="77" b="72" />
+        <event tick="176651" len="404" a="75" b="72" />
+        <event tick="177034" len="383" a="77" b="72" />
+        <event tick="177436" len="384" a="78" b="72" />
+        <event tick="177800" len="404" a="77" b="72" />
+        <event tick="178184" len="402" a="75" b="88" />
+        <event tick="178567" len="383" a="77" b="88" />
+        <event tick="178970" len="382" a="78" b="88" />
+        <event tick="179332" len="401" a="77" b="88" />
+        <event tick="179716" len="401" a="75" b="88" />
+        <event tick="180097" len="404" a="77" b="88" />
+        <event tick="180481" len="421" a="78" b="88" />
+        <event tick="180883" len="403" a="77" b="88" />
+        <event tick="181267" len="403" a="78" b="88" />
+        <event tick="181650" len="401" a="81" b="88" />
+        <event tick="182032" len="959" a="82" b="104" />
+        <event tick="183009" len="173" a="84" b="104" />
+        <event tick="183201" len="172" a="82" b="104" />
+        <event tick="183393" len="172" a="80" b="104" />
+        <event tick="183583" len="192" a="80" b="104" />
+        <event tick="183756" len="193" a="79" b="104" />
+        <event tick="183967" len="173" a="77" b="104" />
+        <event tick="184159" len="172" a="75" b="104" />
+        <event tick="184349" len="192" a="75" b="104" />
+        <event tick="184520" len="195" a="74" b="104" />
+        <event tick="184733" len="172" a="72" b="104" />
+        <event tick="184925" len="171" a="74" b="104" />
+        <event tick="185116" len="192" a="77" b="104" />
+        <event tick="185288" len="192" a="75" b="104" />
+        <event tick="185499" len="173" a="70" b="104" />
+        <event tick="185690" len="172" a="67" b="104" />
+        <event tick="185882" len="191" a="74" b="104" />
+        <event tick="186053" len="192" a="72" b="104" />
+        <event tick="186264" len="175" a="68" b="104" />
+        <event tick="186456" len="172" a="65" b="104" />
+        <event tick="186649" len="189" a="72" b="104" />
+        <event tick="186820" len="193" a="70" b="104" />
+        <event tick="187032" len="171" a="67" b="104" />
+        <event tick="187222" len="173" a="63" b="104" />
+        <event tick="187414" len="172" a="58" b="104" />
+        <event tick="187605" len="191" a="81" b="104" />
+        <event tick="187778" len="228" a="82" b="104" />
+        <event tick="187987" len="211" a="81" b="104" />
+        <event tick="188179" len="213" a="82" b="104" />
+        <event tick="188371" len="211" a="81" b="104" />
+        <event tick="188562" len="212" a="82" b="104" />
+        <event tick="188755" len="191" a="81" b="104" />
+        <event tick="188965" len="172" a="82" b="104" />
+        <event tick="189156" len="172" a="84" b="104" />
+        <event tick="189348" len="172" a="82" b="104" />
+        <event tick="189540" len="172" a="80" b="104" />
+        <event tick="189731" len="192" a="80" b="104" />
+        <event tick="189904" len="190" a="79" b="104" />
+        <event tick="190113" len="172" a="77" b="104" />
+        <event tick="190306" len="172" a="75" b="104" />
+        <event tick="190496" len="192" a="75" b="104" />
+        <event tick="190669" len="192" a="74" b="104" />
+        <event tick="190880" len="172" a="72" b="104" />
+        <event tick="191071" len="173" a="74" b="104" />
+        <event tick="191263" len="192" a="77" b="104" />
+        <event tick="191435" len="192" a="75" b="104" />
+        <event tick="191647" len="172" a="70" b="104" />
+        <event tick="191836" len="172" a="67" b="104" />
+        <event tick="192028" len="191" a="74" b="104" />
+        <event tick="192202" len="191" a="72" b="104" />
+        <event tick="192411" len="173" a="68" b="104" />
+        <event tick="192604" len="171" a="65" b="104" />
+        <event tick="192794" len="192" a="72" b="104" />
+        <event tick="192968" len="192" a="70" b="104" />
+        <event tick="193179" len="171" a="67" b="104" />
+        <event tick="193369" len="174" a="63" b="104" />
+        <event tick="193560" len="364" a="58" b="104" />
+        <event tick="193944" len="364" a="62" b="104" />
+        <event tick="194328" len="178" a="63" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="196608" len="7680" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="196815" type="1" a="262145" b="16776995" />
+        <event tick="196823" len="184" a="77" b="104" />
+        <event tick="197027" len="172" a="77" b="104" />
+        <event tick="197217" len="173" a="77" b="104" />
+        <event tick="197411" len="171" a="79" b="104" />
+        <event tick="197581" type="1" a="262145" b="16776966" />
+        <event tick="197588" len="187" a="91" b="104" />
+        <event tick="197791" len="174" a="91" b="104" />
+        <event tick="197984" len="172" a="91" b="104" />
+        <event tick="198175" len="174" a="87" b="104" />
+        <event tick="198368" len="173" a="82" b="104" />
+        <event tick="198559" len="172" a="82" b="104" />
+        <event tick="198750" len="172" a="82" b="104" />
+        <event tick="198940" len="173" a="79" b="104" />
+        <event tick="199132" len="174" a="75" b="104" />
+        <event tick="199324" len="174" a="75" b="104" />
+        <event tick="199516" len="172" a="75" b="104" />
+        <event tick="199880" type="1" a="262145" b="16776995" />
+        <event tick="199885" len="187" a="82" b="104" />
+        <event tick="200090" len="174" a="82" b="104" />
+        <event tick="200282" len="172" a="82" b="104" />
+        <event tick="200476" len="362" a="82" b="104" />
+        <event tick="201412" len="193" a="82" b="104" />
+        <event tick="201622" len="173" a="82" b="104" />
+        <event tick="201814" len="172" a="82" b="104" />
+        <event tick="202005" len="384" a="82" b="104" />
+        <event tick="202963" len="191" a="86" b="104" />
+        <event tick="203173" len="173" a="86" b="104" />
+        <event tick="203365" len="172" a="86" b="104" />
+        <event tick="203556" len="364" a="87" b="104" />
+        </part>
+      </miditrack>
+    <miditrack>
+      <name></name>
+      <record>0</record>
+      <mute>0</mute>
+      <solo>0</solo>
+      <off>0</off>
+      <channels>0</channels>
+      <height>20</height>
+      <locked>0</locked>
+      <device>0</device>
+      <channel>2</channel>
+      <inportMap>65535</inportMap>
+      <inchannelMap>65535</inchannelMap>
+      <locked>0</locked>
+      <transposition>0</transposition>
+      <velocity>0</velocity>
+      <delay>0</delay>
+      <len>100</len>
+      <compression>100</compression>
+      <automation>1</automation>
+      <part>
+        <name></name>
+        <poslen tick="0" len="7680" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="0" type="1" a="262145" b="16776960" />
+        <event tick="209" len="192" a="55" b="104" />
+        <event tick="421" len="172" a="55" b="104" />
+        <event tick="613" len="171" a="55" b="104" />
+        <event tick="804" len="3046" a="63" b="104" />
+        <event tick="4040" len="193" a="53" b="104" />
+        <event tick="4250" len="173" a="53" b="104" />
+        <event tick="4441" len="174" a="53" b="104" />
+        <event tick="4634" len="3829" a="62" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="9216" len="1536" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="9420" len="192" a="68" b="104" />
+        <event tick="9631" len="172" a="68" b="104" />
+        <event tick="9822" len="172" a="68" b="104" />
+        <event tick="10014" len="1896" a="67" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="12288" len="39936" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="13059" len="2317" a="67" b="104" />
+        <event tick="15395" len="748" a="75" b="104" />
+        <event tick="17866" len="191" a="74" b="104" />
+        <event tick="18076" len="172" a="74" b="104" />
+        <event tick="18268" len="173" a="74" b="104" />
+        <event tick="18460" len="362" a="72" b="104" />
+        <event tick="19205" len="384" a="66" b="104" />
+        <event tick="19973" len="381" a="71" b="104" />
+        <event tick="22480" len="192" a="68" b="104" />
+        <event tick="22692" len="172" a="68" b="104" />
+        <event tick="22883" len="172" a="68" b="104" />
+        <event tick="23075" len="3044" a="65" b="104" />
+        <event tick="27075" len="192" a="62" b="104" />
+        <event tick="27288" len="172" a="62" b="104" />
+        <event tick="27478" len="172" a="62" b="104" />
+        <event tick="27669" len="1533" a="59" b="104" />
+        <event tick="29221" len="363" a="60" b="104" />
+        <event tick="30157" len="193" a="62" b="104" />
+        <event tick="30369" len="173" a="62" b="104" />
+        <event tick="30562" len="172" a="62" b="104" />
+        <event tick="30752" len="939" a="59" b="104" />
+        <event tick="31711" len="173" a="74" b="104" />
+        <event tick="31902" len="174" a="74" b="104" />
+        <event tick="32094" len="172" a="74" b="104" />
+        <event tick="32286" len="172" a="72" b="104" />
+        <event tick="32476" len="172" a="63" b="104" />
+        <event tick="32668" len="172" a="63" b="104" />
+        <event tick="32859" len="173" a="63" b="104" />
+        <event tick="33052" len="746" a="68" b="104" />
+        <event tick="33818" len="172" a="68" b="104" />
+        <event tick="34008" len="173" a="68" b="104" />
+        <event tick="34200" len="173" a="68" b="104" />
+        <event tick="34392" len="173" a="68" b="104" />
+        <event tick="34584" len="958" a="67" b="104" />
+        <event tick="35560" len="172" a="67" b="104" />
+        <event tick="35752" len="172" a="67" b="104" />
+        <event tick="36115" len="192" a="68" b="104" />
+        <event tick="36881" len="192" a="70" b="104" />
+        <event tick="37647" len="192" a="72" b="104" />
+        <event tick="38412" len="192" a="76" b="104" />
+        <event tick="39179" len="192" a="77" b="104" />
+        <event tick="39945" len="191" a="80" b="104" />
+        <event tick="40710" len="192" a="79" b="104" />
+        <event tick="41093" len="192" a="55" b="104" />
+        <event tick="41306" len="172" a="60" b="104" />
+        <event tick="41496" len="172" a="55" b="104" />
+        <event tick="41688" len="172" a="60" b="104" />
+        <event tick="41878" len="174" a="55" b="104" />
+        <event tick="42072" len="172" a="60" b="104" />
+        <event tick="42263" len="191" a="55" b="104" />
+        <event tick="42473" len="172" a="60" b="104" />
+        <event tick="42664" len="174" a="55" b="104" />
+        <event tick="42856" len="172" a="60" b="104" />
+        <event tick="43048" len="172" a="55" b="104" />
+        <event tick="43238" len="173" a="55" b="104" />
+        <event tick="43430" len="173" a="55" b="104" />
+        <event tick="43621" len="174" a="55" b="104" />
+        <event tick="43813" len="172" a="53" b="104" />
+        <event tick="44005" len="172" a="55" b="104" />
+        <event tick="44196" len="172" a="53" b="104" />
+        <event tick="44388" len="173" a="55" b="104" />
+        <event tick="44580" len="173" a="53" b="104" />
+        <event tick="44770" len="173" a="55" b="104" />
+        <event tick="44961" len="172" a="53" b="104" />
+        <event tick="45153" len="173" a="55" b="104" />
+        <event tick="45347" len="172" a="53" b="104" />
+        <event tick="45538" len="171" a="55" b="104" />
+        <event tick="45728" len="172" a="53" b="104" />
+        <event tick="45920" len="171" a="55" b="104" />
+        <event tick="46111" len="174" a="53" b="104" />
+        <event tick="46303" len="173" a="55" b="104" />
+        <event tick="46495" len="172" a="55" b="104" />
+        <event tick="46685" len="172" a="55" b="104" />
+        <event tick="47051" len="191" a="75" b="104" />
+        <event tick="47261" len="171" a="75" b="104" />
+        <event tick="47451" len="173" a="75" b="104" />
+        <event tick="47643" len="173" a="72" b="104" />
+        <event tick="47834" len="174" a="69" b="104" />
+        <event tick="48027" len="172" a="69" b="104" />
+        <event tick="48218" len="172" a="69" b="104" />
+        <event tick="48408" len="176" a="66" b="104" />
+        <event tick="48600" len="174" a="63" b="104" />
+        <event tick="48794" len="171" a="63" b="104" />
+        <event tick="48984" len="173" a="63" b="104" />
+        <event tick="49175" len="174" a="60" b="104" />
+        <event tick="49539" len="211" a="54" b="104" />
+        <event tick="49770" len="172" a="54" b="104" />
+        <event tick="49960" len="363" a="63" b="104" />
+        <event tick="51473" len="382" a="70" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="55296" len="33792" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="55303" type="1" a="262145" b="16776966" />
+        <event tick="55305" len="764" a="67" b="72" />
+        <event tick="56088" len="747" a="68" b="72" />
+        <event tick="56854" len="767" a="68" b="72" />
+        <event tick="57639" len="748" a="67" b="72" />
+        <event tick="58388" type="1" a="262145" b="16776966" />
+        <event tick="58389" len="764" a="67" b="72" />
+        <event tick="59172" len="747" a="68" b="72" />
+        <event tick="59938" len="746" a="68" b="72" />
+        <event tick="60703" len="748" a="67" b="72" />
+        <event tick="61452" type="1" a="262145" b="16776966" />
+        <event tick="61456" len="779" a="58" b="56" />
+        <event tick="62216" len="766" a="56" b="56" />
+        <event tick="63000" len="748" a="56" b="56" />
+        <event tick="63769" len="767" a="55" b="56" />
+        <event tick="64539" type="1" a="262145" b="16776995" />
+        <event tick="64540" len="760" a="63" b="72" />
+        <event tick="65320" len="745" a="64" b="72" />
+        <event tick="66085" len="745" a="64" b="72" />
+        <event tick="66848" len="748" a="65" b="72" />
+        <event tick="67616" len="746" a="65" b="72" />
+        <event tick="68384" len="745" a="67" b="72" />
+        <event tick="69147" len="748" a="70" b="72" />
+        <event tick="69914" len="746" a="68" b="72" />
+        <event tick="70680" len="748" a="72" b="72" />
+        <event tick="71448" len="764" a="72" b="72" />
+        <event tick="72980" len="765" a="70" b="72" />
+        <event tick="74508" len="768" a="68" b="72" />
+        <event tick="76040" len="767" a="68" b="88" />
+        <event tick="77575" len="764" a="68" b="88" />
+        <event tick="78723" len="402" a="75" b="88" />
+        <event tick="79144" len="939" a="77" b="104" />
+        <event tick="80656" len="192" a="75" b="104" />
+        <event tick="81424" len="190" a="68" b="104" />
+        <event tick="82188" len="192" a="67" b="104" />
+        <event tick="82956" len="192" a="65" b="104" />
+        <event tick="83720" len="192" a="63" b="104" />
+        <event tick="84485" len="195" a="53" b="104" />
+        <event tick="84698" len="172" a="69" b="104" />
+        <event tick="84890" len="170" a="70" b="104" />
+        <event tick="85080" len="174" a="69" b="104" />
+        <event tick="85272" len="173" a="77" b="104" />
+        <event tick="85462" len="173" a="69" b="104" />
+        <event tick="85656" len="172" a="70" b="104" />
+        <event tick="85847" len="172" a="69" b="104" />
+        <event tick="86037" len="384" a="77" b="104" />
+        <event tick="86803" len="384" a="75" b="104" />
+        <event tick="87206" len="364" a="70" b="104" />
+        <event tick="87953" len="384" a="70" b="104" />
+        <event tick="88717" len="386" a="63" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="90624" len="10752" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="90824" len="192" a="70" b="104" />
+        <event tick="91035" len="172" a="82" b="104" />
+        <event tick="91227" len="173" a="82" b="104" />
+        <event tick="91419" len="172" a="75" b="104" />
+        <event tick="91592" type="1" a="262145" b="16776966" />
+        <event tick="91596" len="185" a="91" b="104" />
+        <event tick="91800" len="174" a="91" b="104" />
+        <event tick="91992" len="172" a="91" b="104" />
+        <event tick="92184" len="173" a="87" b="104" />
+        <event tick="92376" len="172" a="82" b="104" />
+        <event tick="92568" len="173" a="82" b="104" />
+        <event tick="92757" len="174" a="82" b="104" />
+        <event tick="92950" len="172" a="79" b="104" />
+        <event tick="93141" len="191" a="75" b="104" />
+        <event tick="93352" len="173" a="75" b="104" />
+        <event tick="93544" len="172" a="75" b="104" />
+        <event tick="93735" len="174" a="70" b="104" />
+        <event tick="93909" type="1" a="262145" b="16776995" />
+        <event tick="93914" len="186" a="74" b="104" />
+        <event tick="94120" len="172" a="74" b="104" />
+        <event tick="94311" len="172" a="74" b="104" />
+        <event tick="94503" len="173" a="75" b="104" />
+        <event tick="94676" type="1" a="262145" b="16776966" />
+        <event tick="94677" len="188" a="79" b="88" />
+        <event tick="94885" len="172" a="79" b="88" />
+        <event tick="95076" len="173" a="79" b="88" />
+        <event tick="95268" len="172" a="75" b="88" />
+        <event tick="95459" len="172" a="70" b="88" />
+        <event tick="95651" len="172" a="70" b="88" />
+        <event tick="95841" len="175" a="70" b="88" />
+        <event tick="96032" len="175" a="67" b="88" />
+        <event tick="96224" len="172" a="63" b="88" />
+        <event tick="96416" len="175" a="63" b="88" />
+        <event tick="96608" len="172" a="63" b="88" />
+        <event tick="96799" len="176" a="70" b="88" />
+        <event tick="96976" type="1" a="262145" b="16776995" />
+        <event tick="96977" len="186" a="77" b="104" />
+        <event tick="97181" len="174" a="77" b="104" />
+        <event tick="97375" len="172" a="77" b="104" />
+        <event tick="97565" len="364" a="79" b="104" />
+        <event tick="98504" len="192" a="77" b="104" />
+        <event tick="98714" len="172" a="77" b="104" />
+        <event tick="98906" len="173" a="77" b="104" />
+        <event tick="99098" len="364" a="79" b="104" />
+        <event tick="100036" len="192" a="82" b="104" />
+        <event tick="100247" len="172" a="82" b="104" />
+        <event tick="100437" len="192" a="82" b="104" />
+        <event tick="100648" len="364" a="82" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="102912" len="7680" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="102927" type="1" a="262145" b="16776960" />
+        <event tick="103117" len="194" a="55" b="104" />
+        <event tick="103329" len="174" a="55" b="104" />
+        <event tick="103521" len="172" a="55" b="104" />
+        <event tick="103712" len="3046" a="63" b="104" />
+        <event tick="106949" len="192" a="53" b="104" />
+        <event tick="107160" len="173" a="53" b="104" />
+        <event tick="107352" len="172" a="53" b="104" />
+        <event tick="107544" len="3829" a="62" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="112128" len="1536" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="112328" len="192" a="68" b="104" />
+        <event tick="112540" len="172" a="68" b="104" />
+        <event tick="112731" len="173" a="68" b="104" />
+        <event tick="112922" len="1897" a="67" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="115200" len="39936" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="115988" len="2296" a="67" b="104" />
+        <event tick="118305" len="747" a="75" b="104" />
+        <event tick="120774" len="193" a="74" b="104" />
+        <event tick="120986" len="172" a="74" b="104" />
+        <event tick="121176" len="173" a="74" b="104" />
+        <event tick="121368" len="364" a="72" b="104" />
+        <event tick="122115" len="402" a="66" b="104" />
+        <event tick="122900" len="381" a="71" b="104" />
+        <event tick="125390" len="191" a="68" b="104" />
+        <event tick="125601" len="172" a="68" b="104" />
+        <event tick="125791" len="174" a="68" b="104" />
+        <event tick="125984" len="3044" a="65" b="104" />
+        <event tick="130004" len="191" a="62" b="104" />
+        <event tick="130215" len="171" a="62" b="104" />
+        <event tick="130405" len="174" a="62" b="104" />
+        <event tick="130600" len="1512" a="59" b="104" />
+        <event tick="132131" len="363" a="60" b="104" />
+        <event tick="133067" len="192" a="62" b="104" />
+        <event tick="133279" len="172" a="62" b="104" />
+        <event tick="133470" len="172" a="62" b="104" />
+        <event tick="133660" len="940" a="59" b="104" />
+        <event tick="134620" len="172" a="74" b="104" />
+        <event tick="134812" len="172" a="74" b="104" />
+        <event tick="135003" len="172" a="74" b="104" />
+        <event tick="135195" len="171" a="72" b="104" />
+        <event tick="135386" len="173" a="63" b="104" />
+        <event tick="135577" len="172" a="63" b="104" />
+        <event tick="135769" len="172" a="63" b="104" />
+        <event tick="135960" len="747" a="68" b="104" />
+        <event tick="136727" len="172" a="68" b="104" />
+        <event tick="136918" len="191" a="68" b="104" />
+        <event tick="137128" len="173" a="68" b="104" />
+        <event tick="137320" len="172" a="68" b="104" />
+        <event tick="137512" len="938" a="67" b="104" />
+        <event tick="138468" len="173" a="67" b="104" />
+        <event tick="138660" len="173" a="67" b="104" />
+        <event tick="139024" len="191" a="68" b="104" />
+        <event tick="139790" len="192" a="70" b="104" />
+        <event tick="140556" len="191" a="72" b="104" />
+        <event tick="141322" len="192" a="76" b="104" />
+        <event tick="142088" len="192" a="77" b="104" />
+        <event tick="142854" len="192" a="80" b="104" />
+        <event tick="143620" len="192" a="79" b="104" />
+        <event tick="144003" len="211" a="55" b="104" />
+        <event tick="144233" len="171" a="60" b="104" />
+        <event tick="144424" len="174" a="55" b="104" />
+        <event tick="144617" len="172" a="60" b="104" />
+        <event tick="144808" len="173" a="55" b="104" />
+        <event tick="144999" len="172" a="60" b="104" />
+        <event tick="145190" len="173" a="55" b="104" />
+        <event tick="145382" len="172" a="60" b="104" />
+        <event tick="145573" len="172" a="55" b="104" />
+        <event tick="145765" len="172" a="60" b="104" />
+        <event tick="145956" len="173" a="55" b="104" />
+        <event tick="146147" len="173" a="55" b="104" />
+        <event tick="146340" len="172" a="55" b="104" />
+        <event tick="146531" len="172" a="55" b="104" />
+        <event tick="146722" len="173" a="53" b="104" />
+        <event tick="146913" len="174" a="55" b="104" />
+        <event tick="147107" len="171" a="53" b="104" />
+        <event tick="147297" len="172" a="55" b="104" />
+        <event tick="147488" len="175" a="53" b="104" />
+        <event tick="147679" len="174" a="55" b="104" />
+        <event tick="147873" len="170" a="53" b="104" />
+        <event tick="148063" len="172" a="55" b="104" />
+        <event tick="148253" len="173" a="53" b="104" />
+        <event tick="148446" len="172" a="55" b="104" />
+        <event tick="148639" len="172" a="53" b="104" />
+        <event tick="148828" len="173" a="55" b="104" />
+        <event tick="149020" len="172" a="53" b="104" />
+        <event tick="149212" len="172" a="55" b="104" />
+        <event tick="149404" len="172" a="55" b="104" />
+        <event tick="149596" len="170" a="55" b="104" />
+        <event tick="149959" len="192" a="75" b="104" />
+        <event tick="150169" len="172" a="75" b="104" />
+        <event tick="150362" len="172" a="75" b="104" />
+        <event tick="150552" len="172" a="72" b="104" />
+        <event tick="150744" len="172" a="69" b="104" />
+        <event tick="150935" len="174" a="69" b="104" />
+        <event tick="151129" len="170" a="69" b="104" />
+        <event tick="151318" len="192" a="66" b="104" />
+        <event tick="151529" len="172" a="63" b="104" />
+        <event tick="151720" len="172" a="63" b="104" />
+        <event tick="151912" len="172" a="63" b="104" />
+        <event tick="152105" len="171" a="60" b="104" />
+        <event tick="152467" len="192" a="54" b="104" />
+        <event tick="152677" len="174" a="54" b="104" />
+        <event tick="152869" len="363" a="63" b="104" />
+        <event tick="154382" len="383" a="70" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="158208" len="33792" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="158211" type="1" a="262145" b="16776966" />
+        <event tick="158213" len="784" a="67" b="72" />
+        <event tick="159016" len="748" a="68" b="72" />
+        <event tick="159784" len="746" a="68" b="72" />
+        <event tick="160548" len="747" a="67" b="72" />
+        <event tick="161296" type="1" a="262145" b="16776966" />
+        <event tick="161301" len="760" a="67" b="72" />
+        <event tick="162080" len="748" a="68" b="72" />
+        <event tick="162848" len="745" a="68" b="72" />
+        <event tick="163612" len="746" a="67" b="72" />
+        <event tick="164360" type="1" a="262145" b="16776966" />
+        <event tick="164364" len="780" a="58" b="56" />
+        <event tick="165125" len="766" a="56" b="56" />
+        <event tick="165909" len="766" a="56" b="56" />
+        <event tick="166694" len="752" a="55" b="56" />
+        <event tick="167446" type="1" a="262145" b="16776995" />
+        <event tick="167446" len="761" a="63" b="72" />
+        <event tick="168229" len="744" a="64" b="72" />
+        <event tick="168992" len="748" a="64" b="72" />
+        <event tick="169759" len="747" a="65" b="72" />
+        <event tick="170524" len="748" a="65" b="72" />
+        <event tick="171292" len="745" a="67" b="72" />
+        <event tick="172057" len="746" a="70" b="72" />
+        <event tick="172822" len="766" a="68" b="72" />
+        <event tick="173608" len="748" a="72" b="72" />
+        <event tick="174375" len="746" a="72" b="72" />
+        <event tick="175887" len="766" a="70" b="72" />
+        <event tick="177418" len="767" a="68" b="72" />
+        <event tick="178951" len="767" a="68" b="88" />
+        <event tick="180483" len="784" a="68" b="88" />
+        <event tick="181651" len="384" a="75" b="88" />
+        <event tick="182052" len="940" a="77" b="104" />
+        <event tick="183566" len="191" a="75" b="104" />
+        <event tick="184332" len="191" a="68" b="104" />
+        <event tick="185096" len="193" a="67" b="104" />
+        <event tick="185864" len="192" a="65" b="104" />
+        <event tick="186629" len="192" a="63" b="104" />
+        <event tick="187396" len="192" a="53" b="104" />
+        <event tick="187607" len="172" a="69" b="104" />
+        <event tick="187797" len="192" a="70" b="104" />
+        <event tick="188008" len="173" a="69" b="104" />
+        <event tick="188198" len="174" a="77" b="104" />
+        <event tick="188392" len="172" a="69" b="104" />
+        <event tick="188582" len="173" a="70" b="104" />
+        <event tick="188774" len="173" a="69" b="104" />
+        <event tick="188967" len="363" a="77" b="104" />
+        <event tick="189713" len="382" a="75" b="104" />
+        <event tick="190115" len="364" a="70" b="104" />
+        <event tick="190861" len="383" a="70" b="104" />
+        <event tick="191627" len="384" a="63" b="104" />
+        </part>
+      <part>
+        <name></name>
+        <poslen tick="193536" len="10752" />
+        <selected>0</selected>
+        <color>0</color>
+        <event tick="193732" len="194" a="70" b="104" />
+        <event tick="193945" len="170" a="82" b="104" />
+        <event tick="194136" len="172" a="82" b="104" />
+        <event tick="194329" len="170" a="75" b="104" />
+        <event tick="194500" type="1" a="262145" b="16776966" />
+        <event tick="194506" len="185" a="91" b="104" />
+        <event tick="194711" len="171" a="91" b="104" />
+        <event tick="194901" len="173" a="91" b="104" />
+        <event tick="195094" len="191" a="87" b="104" />
+        <event tick="195304" len="171" a="82" b="104" />
+        <event tick="195494" len="173" a="82" b="104" />
+        <event tick="195687" len="172" a="82" b="104" />
+        <event tick="195878" len="172" a="79" b="104" />
+        <event tick="196071" len="171" a="75" b="104" />
+        <event tick="196260" len="173" a="75" b="104" />
+        <event tick="196452" len="173" a="75" b="104" />
+        <event tick="196644" len="173" a="70" b="104" />
+        <event tick="196817" type="1" a="262145" b="16776995" />
+        <event tick="196824" len="185" a="74" b="104" />
+        <event tick="197028" len="173" a="74" b="104" />
+        <event tick="197219" len="172" a="74" b="104" />
+        <event tick="197412" len="173" a="75" b="104" />
+        <event tick="197586" type="1" a="262145" b="16776966" />
+        <event tick="197588" len="187" a="79" b="88" />
+        <event tick="197792" len="175" a="79" b="88" />
+        <event tick="197985" len="172" a="79" b="88" />
+        <event tick="198176" len="175" a="75" b="88" />
+        <event tick="198369" len="173" a="70" b="88" />
+        <event tick="198560" len="171" a="70" b="88" />
+        <event tick="198751" len="173" a="70" b="88" />
+        <event tick="198942" len="172" a="67" b="88" />
+        <event tick="199133" len="174" a="63" b="88" />
+        <event tick="199325" len="174" a="63" b="88" />
+        <event tick="199517" len="172" a="63" b="88" />
+        <event tick="199707" len="178" a="70" b="88" />
+        <event tick="199885" type="1" a="262145" b="16776995" />
+        <event tick="199887" len="185" a="77" b="104" />
+        <event tick="200091" len="174" a="77" b="104" />
+        <event tick="200283" len="173" a="77" b="104" />
+        <event tick="200476" len="362" a="79" b="104" />
+        <event tick="201413" len="192" a="77" b="104" />
+        <event tick="201624" len="173" a="77" b="104" />
+        <event tick="201816" len="172" a="77" b="104" />
+        <event tick="202007" len="383" a="79" b="104" />
+        <event tick="202964" len="192" a="82" b="104" />
+        <event tick="203175" len="172" a="82" b="104" />
+        <event tick="203366" len="173" a="82" b="104" />
+        <event tick="203557" len="364" a="82" b="104" />
+        </part>
+      </miditrack>
+    <tempolist fix="500000">
+      <tempo at="386">
+        <tick>0</tick>
+        <val>500000</val>
+        </tempo>
+      <tempo at="769">
+        <tick>386</tick>
+        <val>335977</val>
+        </tempo>
+      <tempo at="1154">
+        <tick>769</tick>
+        <val>333493</val>
+        </tempo>
+      <tempo at="1538">
+        <tick>1154</tick>
+        <val>333319</val>
+        </tempo>
+      <tempo at="1921">
+        <tick>1538</tick>
+        <val>333387</val>
+        </tempo>
+      <tempo at="2304">
+        <tick>1921</tick>
+        <val>333354</val>
+        </tempo>
+      <tempo at="2689">
+        <tick>2304</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="3074">
+        <tick>2689</tick>
+        <val>333410</val>
+        </tempo>
+      <tempo at="3458">
+        <tick>3074</tick>
+        <val>333465</val>
+        </tempo>
+      <tempo at="3842">
+        <tick>3458</tick>
+        <val>333309</val>
+        </tempo>
+      <tempo at="4225">
+        <tick>3842</tick>
+        <val>333318</val>
+        </tempo>
+      <tempo at="4610">
+        <tick>4225</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="4994">
+        <tick>4610</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="5378">
+        <tick>4994</tick>
+        <val>333348</val>
+        </tempo>
+      <tempo at="5760">
+        <tick>5378</tick>
+        <val>333385</val>
+        </tempo>
+      <tempo at="6145">
+        <tick>5760</tick>
+        <val>333417</val>
+        </tempo>
+      <tempo at="6529">
+        <tick>6145</tick>
+        <val>333379</val>
+        </tempo>
+      <tempo at="6912">
+        <tick>6529</tick>
+        <val>333347</val>
+        </tempo>
+      <tempo at="7298">
+        <tick>6912</tick>
+        <val>333429</val>
+        </tempo>
+      <tempo at="7681">
+        <tick>7298</tick>
+        <val>333354</val>
+        </tempo>
+      <tempo at="8066">
+        <tick>7681</tick>
+        <val>333371</val>
+        </tempo>
+      <tempo at="8449">
+        <tick>8066</tick>
+        <val>333368</val>
+        </tempo>
+      <tempo at="8833">
+        <tick>8449</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="9217">
+        <tick>8833</tick>
+        <val>333428</val>
+        </tempo>
+      <tempo at="9601">
+        <tick>9217</tick>
+        <val>333324</val>
+        </tempo>
+      <tempo at="9985">
+        <tick>9601</tick>
+        <val>333434</val>
+        </tempo>
+      <tempo at="10369">
+        <tick>9985</tick>
+        <val>333447</val>
+        </tempo>
+      <tempo at="10752">
+        <tick>10369</tick>
+        <val>333365</val>
+        </tempo>
+      <tempo at="11137">
+        <tick>10752</tick>
+        <val>333281</val>
+        </tempo>
+      <tempo at="11521">
+        <tick>11137</tick>
+        <val>333511</val>
+        </tempo>
+      <tempo at="11904">
+        <tick>11521</tick>
+        <val>333237</val>
+        </tempo>
+      <tempo at="12289">
+        <tick>11904</tick>
+        <val>333439</val>
+        </tempo>
+      <tempo at="12673">
+        <tick>12289</tick>
+        <val>333348</val>
+        </tempo>
+      <tempo at="13056">
+        <tick>12673</tick>
+        <val>333527</val>
+        </tempo>
+      <tempo at="13442">
+        <tick>13056</tick>
+        <val>333245</val>
+        </tempo>
+      <tempo at="13826">
+        <tick>13442</tick>
+        <val>333413</val>
+        </tempo>
+      <tempo at="14209">
+        <tick>13826</tick>
+        <val>333334</val>
+        </tempo>
+      <tempo at="14593">
+        <tick>14209</tick>
+        <val>333512</val>
+        </tempo>
+      <tempo at="14978">
+        <tick>14593</tick>
+        <val>333274</val>
+        </tempo>
+      <tempo at="15360">
+        <tick>14978</tick>
+        <val>333369</val>
+        </tempo>
+      <tempo at="15746">
+        <tick>15360</tick>
+        <val>333408</val>
+        </tempo>
+      <tempo at="16129">
+        <tick>15746</tick>
+        <val>333379</val>
+        </tempo>
+      <tempo at="16514">
+        <tick>16129</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="16898">
+        <tick>16514</tick>
+        <val>333368</val>
+        </tempo>
+      <tempo at="17281">
+        <tick>16898</tick>
+        <val>333412</val>
+        </tempo>
+      <tempo at="17666">
+        <tick>17281</tick>
+        <val>333313</val>
+        </tempo>
+      <tempo at="18049">
+        <tick>17666</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="18434">
+        <tick>18049</tick>
+        <val>333366</val>
+        </tempo>
+      <tempo at="18817">
+        <tick>18434</tick>
+        <val>333449</val>
+        </tempo>
+      <tempo at="19202">
+        <tick>18817</tick>
+        <val>333309</val>
+        </tempo>
+      <tempo at="19584">
+        <tick>19202</tick>
+        <val>333470</val>
+        </tempo>
+      <tempo at="19969">
+        <tick>19584</tick>
+        <val>333305</val>
+        </tempo>
+      <tempo at="20354">
+        <tick>19969</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="20736">
+        <tick>20354</tick>
+        <val>333410</val>
+        </tempo>
+      <tempo at="21121">
+        <tick>20736</tick>
+        <val>333401</val>
+        </tempo>
+      <tempo at="21506">
+        <tick>21121</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="21890">
+        <tick>21506</tick>
+        <val>333374</val>
+        </tempo>
+      <tempo at="22274">
+        <tick>21890</tick>
+        <val>333383</val>
+        </tempo>
+      <tempo at="22658">
+        <tick>22274</tick>
+        <val>333366</val>
+        </tempo>
+      <tempo at="23042">
+        <tick>22658</tick>
+        <val>333374</val>
+        </tempo>
+      <tempo at="23425">
+        <tick>23042</tick>
+        <val>333443</val>
+        </tempo>
+      <tempo at="23810">
+        <tick>23425</tick>
+        <val>333308</val>
+        </tempo>
+      <tempo at="24193">
+        <tick>23810</tick>
+        <val>333402</val>
+        </tempo>
+      <tempo at="24577">
+        <tick>24193</tick>
+        <val>333374</val>
+        </tempo>
+      <tempo at="24961">
+        <tick>24577</tick>
+        <val>333384</val>
+        </tempo>
+      <tempo at="25346">
+        <tick>24961</tick>
+        <val>333366</val>
+        </tempo>
+      <tempo at="25729">
+        <tick>25346</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="26113">
+        <tick>25729</tick>
+        <val>333417</val>
+        </tempo>
+      <tempo at="26498">
+        <tick>26113</tick>
+        <val>333365</val>
+        </tempo>
+      <tempo at="26882">
+        <tick>26498</tick>
+        <val>333383</val>
+        </tempo>
+      <tempo at="27265">
+        <tick>26882</tick>
+        <val>333472</val>
+        </tempo>
+      <tempo at="27648">
+        <tick>27265</tick>
+        <val>333332</val>
+        </tempo>
+      <tempo at="28034">
+        <tick>27648</tick>
+        <val>333339</val>
+        </tempo>
+      <tempo at="28417">
+        <tick>28034</tick>
+        <val>333391</val>
+        </tempo>
+      <tempo at="28800">
+        <tick>28417</tick>
+        <val>333364</val>
+        </tempo>
+      <tempo at="29185">
+        <tick>28800</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="29569">
+        <tick>29185</tick>
+        <val>333408</val>
+        </tempo>
+      <tempo at="29954">
+        <tick>29569</tick>
+        <val>333401</val>
+        </tempo>
+      <tempo at="30338">
+        <tick>29954</tick>
+        <val>333352</val>
+        </tempo>
+      <tempo at="30722">
+        <tick>30338</tick>
+        <val>333378</val>
+        </tempo>
+      <tempo at="31105">
+        <tick>30722</tick>
+        <val>333332</val>
+        </tempo>
+      <tempo at="31490">
+        <tick>31105</tick>
+        <val>333440</val>
+        </tempo>
+      <tempo at="31874">
+        <tick>31490</tick>
+        <val>333347</val>
+        </tempo>
+      <tempo at="32257">
+        <tick>31874</tick>
+        <val>333379</val>
+        </tempo>
+      <tempo at="32641">
+        <tick>32257</tick>
+        <val>333362</val>
+        </tempo>
+      <tempo at="33025">
+        <tick>32641</tick>
+        <val>333436</val>
+        </tempo>
+      <tempo at="33410">
+        <tick>33025</tick>
+        <val>333348</val>
+        </tempo>
+      <tempo at="33793">
+        <tick>33410</tick>
+        <val>333370</val>
+        </tempo>
+      <tempo at="34178">
+        <tick>33793</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="34562">
+        <tick>34178</tick>
+        <val>333453</val>
+        </tempo>
+      <tempo at="34946">
+        <tick>34562</tick>
+        <val>333295</val>
+        </tempo>
+      <tempo at="35329">
+        <tick>34946</tick>
+        <val>333477</val>
+        </tempo>
+      <tempo at="35714">
+        <tick>35329</tick>
+        <val>333304</val>
+        </tempo>
+      <tempo at="36098">
+        <tick>35714</tick>
+        <val>333413</val>
+        </tempo>
+      <tempo at="36481">
+        <tick>36098</tick>
+        <val>333336</val>
+        </tempo>
+      <tempo at="36865">
+        <tick>36481</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="37249">
+        <tick>36865</tick>
+        <val>333378</val>
+        </tempo>
+      <tempo at="37633">
+        <tick>37249</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="38017">
+        <tick>37633</tick>
+        <val>333371</val>
+        </tempo>
+      <tempo at="38402">
+        <tick>38017</tick>
+        <val>333419</val>
+        </tempo>
+      <tempo at="38786">
+        <tick>38402</tick>
+        <val>333491</val>
+        </tempo>
+      <tempo at="39169">
+        <tick>38786</tick>
+        <val>333249</val>
+        </tempo>
+      <tempo at="39554">
+        <tick>39169</tick>
+        <val>333374</val>
+        </tempo>
+      <tempo at="39938">
+        <tick>39554</tick>
+        <val>333374</val>
+        </tempo>
+      <tempo at="40321">
+        <tick>39938</tick>
+        <val>333410</val>
+        </tempo>
+      <tempo at="40705">
+        <tick>40321</tick>
+        <val>333375</val>
+        </tempo>
+      <tempo at="41088">
+        <tick>40705</tick>
+        <val>333465</val>
+        </tempo>
+      <tempo at="41473">
+        <tick>41088</tick>
+        <val>333343</val>
+        </tempo>
+      <tempo at="41858">
+        <tick>41473</tick>
+        <val>333384</val>
+        </tempo>
+      <tempo at="42240">
+        <tick>41858</tick>
+        <val>333360</val>
+        </tempo>
+      <tempo at="42625">
+        <tick>42240</tick>
+        <val>333378</val>
+        </tempo>
+      <tempo at="43009">
+        <tick>42625</tick>
+        <val>333374</val>
+        </tempo>
+      <tempo at="43392">
+        <tick>43009</tick>
+        <val>333380</val>
+        </tempo>
+      <tempo at="43778">
+        <tick>43392</tick>
+        <val>333493</val>
+        </tempo>
+      <tempo at="44162">
+        <tick>43778</tick>
+        <val>333279</val>
+        </tempo>
+      <tempo at="44546">
+        <tick>44162</tick>
+        <val>333384</val>
+        </tempo>
+      <tempo at="44929">
+        <tick>44546</tick>
+        <val>333394</val>
+        </tempo>
+      <tempo at="45314">
+        <tick>44929</tick>
+        <val>333504</val>
+        </tempo>
+      <tempo at="45697">
+        <tick>45314</tick>
+        <val>333217</val>
+        </tempo>
+      <tempo at="46081">
+        <tick>45697</tick>
+        <val>333374</val>
+        </tempo>
+      <tempo at="46466">
+        <tick>46081</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="46849">
+        <tick>46466</tick>
+        <val>333416</val>
+        </tempo>
+      <tempo at="47234">
+        <tick>46849</tick>
+        <val>333368</val>
+        </tempo>
+      <tempo at="47618">
+        <tick>47234</tick>
+        <val>333371</val>
+        </tempo>
+      <tempo at="48001">
+        <tick>47618</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="48386">
+        <tick>48001</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="48770">
+        <tick>48386</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="49154">
+        <tick>48770</tick>
+        <val>333413</val>
+        </tempo>
+      <tempo at="49538">
+        <tick>49154</tick>
+        <val>333370</val>
+        </tempo>
+      <tempo at="49921">
+        <tick>49538</tick>
+        <val>333503</val>
+        </tempo>
+      <tempo at="50305">
+        <tick>49921</tick>
+        <val>333239</val>
+        </tempo>
+      <tempo at="50690">
+        <tick>50305</tick>
+        <val>333412</val>
+        </tempo>
+      <tempo at="51074">
+        <tick>50690</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="51457">
+        <tick>51074</tick>
+        <val>333371</val>
+        </tempo>
+      <tempo at="51842">
+        <tick>51457</tick>
+        <val>333411</val>
+        </tempo>
+      <tempo at="52226">
+        <tick>51842</tick>
+        <val>333368</val>
+        </tempo>
+      <tempo at="52610">
+        <tick>52226</tick>
+        <val>333339</val>
+        </tempo>
+      <tempo at="52992">
+        <tick>52610</tick>
+        <val>333412</val>
+        </tempo>
+      <tempo at="53378">
+        <tick>52992</tick>
+        <val>333402</val>
+        </tempo>
+      <tempo at="53761">
+        <tick>53378</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="54145">
+        <tick>53761</tick>
+        <val>333382</val>
+        </tempo>
+      <tempo at="54529">
+        <tick>54145</tick>
+        <val>333375</val>
+        </tempo>
+      <tempo at="54913">
+        <tick>54529</tick>
+        <val>333379</val>
+        </tempo>
+      <tempo at="55298">
+        <tick>54913</tick>
+        <val>333360</val>
+        </tempo>
+      <tempo at="55682">
+        <tick>55298</tick>
+        <val>333385</val>
+        </tempo>
+      <tempo at="56066">
+        <tick>55682</tick>
+        <val>333407</val>
+        </tempo>
+      <tempo at="56449">
+        <tick>56066</tick>
+        <val>333362</val>
+        </tempo>
+      <tempo at="56834">
+        <tick>56449</tick>
+        <val>333374</val>
+        </tempo>
+      <tempo at="57218">
+        <tick>56834</tick>
+        <val>333503</val>
+        </tempo>
+      <tempo at="57601">
+        <tick>57218</tick>
+        <val>333318</val>
+        </tempo>
+      <tempo at="57986">
+        <tick>57601</tick>
+        <val>333334</val>
+        </tempo>
+      <tempo at="58368">
+        <tick>57986</tick>
+        <val>333408</val>
+        </tempo>
+      <tempo at="58753">
+        <tick>58368</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="59138">
+        <tick>58753</tick>
+        <val>333341</val>
+        </tempo>
+      <tempo at="59522">
+        <tick>59138</tick>
+        <val>333352</val>
+        </tempo>
+      <tempo at="59906">
+        <tick>59522</tick>
+        <val>333461</val>
+        </tempo>
+      <tempo at="60290">
+        <tick>59906</tick>
+        <val>333345</val>
+        </tempo>
+      <tempo at="60674">
+        <tick>60290</tick>
+        <val>333342</val>
+        </tempo>
+      <tempo at="61058">
+        <tick>60674</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="61442">
+        <tick>61058</tick>
+        <val>333371</val>
+        </tempo>
+      <tempo at="61825">
+        <tick>61442</tick>
+        <val>333421</val>
+        </tempo>
+      <tempo at="62210">
+        <tick>61825</tick>
+        <val>333364</val>
+        </tempo>
+      <tempo at="62594">
+        <tick>62210</tick>
+        <val>333402</val>
+        </tempo>
+      <tempo at="62977">
+        <tick>62594</tick>
+        <val>333348</val>
+        </tempo>
+      <tempo at="63362">
+        <tick>62977</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="63745">
+        <tick>63362</tick>
+        <val>333383</val>
+        </tempo>
+      <tempo at="64129">
+        <tick>63745</tick>
+        <val>333401</val>
+        </tempo>
+      <tempo at="64514">
+        <tick>64129</tick>
+        <val>333341</val>
+        </tempo>
+      <tempo at="64898">
+        <tick>64514</tick>
+        <val>333468</val>
+        </tempo>
+      <tempo at="65282">
+        <tick>64898</tick>
+        <val>333339</val>
+        </tempo>
+      <tempo at="65666">
+        <tick>65282</tick>
+        <val>333319</val>
+        </tempo>
+      <tempo at="66050">
+        <tick>65666</tick>
+        <val>333401</val>
+        </tempo>
+      <tempo at="66434">
+        <tick>66050</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="66818">
+        <tick>66434</tick>
+        <val>333415</val>
+        </tempo>
+      <tempo at="67200">
+        <tick>66818</tick>
+        <val>333366</val>
+        </tempo>
+      <tempo at="67585">
+        <tick>67200</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="67969">
+        <tick>67585</tick>
+        <val>333346</val>
+        </tempo>
+      <tempo at="68354">
+        <tick>67969</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="68737">
+        <tick>68354</tick>
+        <val>333435</val>
+        </tempo>
+      <tempo at="69121">
+        <tick>68737</tick>
+        <val>333346</val>
+        </tempo>
+      <tempo at="69506">
+        <tick>69121</tick>
+        <val>333407</val>
+        </tempo>
+      <tempo at="69890">
+        <tick>69506</tick>
+        <val>333370</val>
+        </tempo>
+      <tempo at="70273">
+        <tick>69890</tick>
+        <val>333345</val>
+        </tempo>
+      <tempo at="70657">
+        <tick>70273</tick>
+        <val>333500</val>
+        </tempo>
+      <tempo at="71040">
+        <tick>70657</tick>
+        <val>333277</val>
+        </tempo>
+      <tempo at="71426">
+        <tick>71040</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="71809">
+        <tick>71426</tick>
+        <val>333346</val>
+        </tempo>
+      <tempo at="72194">
+        <tick>71809</tick>
+        <val>333499</val>
+        </tempo>
+      <tempo at="72577">
+        <tick>72194</tick>
+        <val>333251</val>
+        </tempo>
+      <tempo at="72962">
+        <tick>72577</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="73346">
+        <tick>72962</tick>
+        <val>333471</val>
+        </tempo>
+      <tempo at="73730">
+        <tick>73346</tick>
+        <val>333337</val>
+        </tempo>
+      <tempo at="74114">
+        <tick>73730</tick>
+        <val>333356</val>
+        </tempo>
+      <tempo at="74497">
+        <tick>74114</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="74882">
+        <tick>74497</tick>
+        <val>333396</val>
+        </tempo>
+      <tempo at="75266">
+        <tick>74882</tick>
+        <val>333468</val>
+        </tempo>
+      <tempo at="75649">
+        <tick>75266</tick>
+        <val>333291</val>
+        </tempo>
+      <tempo at="76033">
+        <tick>75649</tick>
+        <val>333366</val>
+        </tempo>
+      <tempo at="76417">
+        <tick>76033</tick>
+        <val>333413</val>
+        </tempo>
+      <tempo at="76802">
+        <tick>76417</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="77186">
+        <tick>76802</tick>
+        <val>333398</val>
+        </tempo>
+      <tempo at="77570">
+        <tick>77186</tick>
+        <val>333350</val>
+        </tempo>
+      <tempo at="77953">
+        <tick>77570</tick>
+        <val>333382</val>
+        </tempo>
+      <tempo at="78338">
+        <tick>77953</tick>
+        <val>333362</val>
+        </tempo>
+      <tempo at="78722">
+        <tick>78338</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="79106">
+        <tick>78722</tick>
+        <val>333355</val>
+        </tempo>
+      <tempo at="79490">
+        <tick>79106</tick>
+        <val>333434</val>
+        </tempo>
+      <tempo at="79873">
+        <tick>79490</tick>
+        <val>333370</val>
+        </tempo>
+      <tempo at="80257">
+        <tick>79873</tick>
+        <val>333337</val>
+        </tempo>
+      <tempo at="80640">
+        <tick>80257</tick>
+        <val>333451</val>
+        </tempo>
+      <tempo at="81026">
+        <tick>80640</tick>
+        <val>333425</val>
+        </tempo>
+      <tempo at="81409">
+        <tick>81026</tick>
+        <val>333256</val>
+        </tempo>
+      <tempo at="81793">
+        <tick>81409</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="82178">
+        <tick>81793</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="82561">
+        <tick>82178</tick>
+        <val>333466</val>
+        </tempo>
+      <tempo at="82946">
+        <tick>82561</tick>
+        <val>333276</val>
+        </tempo>
+      <tempo at="83329">
+        <tick>82946</tick>
+        <val>333380</val>
+        </tempo>
+      <tempo at="83713">
+        <tick>83329</tick>
+        <val>333369</val>
+        </tempo>
+      <tempo at="84098">
+        <tick>83713</tick>
+        <val>333438</val>
+        </tempo>
+      <tempo at="84482">
+        <tick>84098</tick>
+        <val>333354</val>
+        </tempo>
+      <tempo at="84864">
+        <tick>84482</tick>
+        <val>333366</val>
+        </tempo>
+      <tempo at="85249">
+        <tick>84864</tick>
+        <val>333402</val>
+        </tempo>
+      <tempo at="85633">
+        <tick>85249</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="86016">
+        <tick>85633</tick>
+        <val>333407</val>
+        </tempo>
+      <tempo at="86401">
+        <tick>86016</tick>
+        <val>333374</val>
+        </tempo>
+      <tempo at="86785">
+        <tick>86401</tick>
+        <val>333342</val>
+        </tempo>
+      <tempo at="87169">
+        <tick>86785</tick>
+        <val>333503</val>
+        </tempo>
+      <tempo at="87554">
+        <tick>87169</tick>
+        <val>333274</val>
+        </tempo>
+      <tempo at="87938">
+        <tick>87554</tick>
+        <val>333448</val>
+        </tempo>
+      <tempo at="88322">
+        <tick>87938</tick>
+        <val>333347</val>
+        </tempo>
+      <tempo at="88704">
+        <tick>88322</tick>
+        <val>333331</val>
+        </tempo>
+      <tempo at="89090">
+        <tick>88704</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="89474">
+        <tick>89090</tick>
+        <val>333417</val>
+        </tempo>
+      <tempo at="89857">
+        <tick>89474</tick>
+        <val>333346</val>
+        </tempo>
+      <tempo at="90242">
+        <tick>89857</tick>
+        <val>333428</val>
+        </tempo>
+      <tempo at="90626">
+        <tick>90242</tick>
+        <val>333479</val>
+        </tempo>
+      <tempo at="91010">
+        <tick>90626</tick>
+        <val>333236</val>
+        </tempo>
+      <tempo at="91394">
+        <tick>91010</tick>
+        <val>333410</val>
+        </tempo>
+      <tempo at="91778">
+        <tick>91394</tick>
+        <val>333401</val>
+        </tempo>
+      <tempo at="92161">
+        <tick>91778</tick>
+        <val>333384</val>
+        </tempo>
+      <tempo at="92546">
+        <tick>92161</tick>
+        <val>333396</val>
+        </tempo>
+      <tempo at="92930">
+        <tick>92546</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="93313">
+        <tick>92930</tick>
+        <val>333354</val>
+        </tempo>
+      <tempo at="93698">
+        <tick>93313</tick>
+        <val>333342</val>
+        </tempo>
+      <tempo at="94082">
+        <tick>93698</tick>
+        <val>333527</val>
+        </tempo>
+      <tempo at="94465">
+        <tick>94082</tick>
+        <val>333253</val>
+        </tempo>
+      <tempo at="94850">
+        <tick>94465</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="95234">
+        <tick>94850</tick>
+        <val>333435</val>
+        </tempo>
+      <tempo at="95618">
+        <tick>95234</tick>
+        <val>333408</val>
+        </tempo>
+      <tempo at="96001">
+        <tick>95618</tick>
+        <val>333277</val>
+        </tempo>
+      <tempo at="96386">
+        <tick>96001</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="96770">
+        <tick>96386</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="97153">
+        <tick>96770</tick>
+        <val>333541</val>
+        </tempo>
+      <tempo at="97538">
+        <tick>97153</tick>
+        <val>333248</val>
+        </tempo>
+      <tempo at="97920">
+        <tick>97538</tick>
+        <val>333397</val>
+        </tempo>
+      <tempo at="98305">
+        <tick>97920</tick>
+        <val>333339</val>
+        </tempo>
+      <tempo at="98690">
+        <tick>98305</tick>
+        <val>333419</val>
+        </tempo>
+      <tempo at="99074">
+        <tick>98690</tick>
+        <val>333365</val>
+        </tempo>
+      <tempo at="99457">
+        <tick>99074</tick>
+        <val>333375</val>
+        </tempo>
+      <tempo at="99842">
+        <tick>99457</tick>
+        <val>333442</val>
+        </tempo>
+      <tempo at="100225">
+        <tick>99842</tick>
+        <val>333348</val>
+        </tempo>
+      <tempo at="100609">
+        <tick>100225</tick>
+        <val>333399</val>
+        </tempo>
+      <tempo at="100993">
+        <tick>100609</tick>
+        <val>333371</val>
+        </tempo>
+      <tempo at="101377">
+        <tick>100993</tick>
+        <val>333345</val>
+        </tempo>
+      <tempo at="101761">
+        <tick>101377</tick>
+        <val>333369</val>
+        </tempo>
+      <tempo at="102146">
+        <tick>101761</tick>
+        <val>333504</val>
+        </tempo>
+      <tempo at="102530">
+        <tick>102146</tick>
+        <val>333291</val>
+        </tempo>
+      <tempo at="102913">
+        <tick>102530</tick>
+        <val>333394</val>
+        </tempo>
+      <tempo at="103298">
+        <tick>102913</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="103682">
+        <tick>103298</tick>
+        <val>333374</val>
+        </tempo>
+      <tempo at="104066">
+        <tick>103682</tick>
+        <val>333375</val>
+        </tempo>
+      <tempo at="104450">
+        <tick>104066</tick>
+        <val>333348</val>
+        </tempo>
+      <tempo at="104833">
+        <tick>104450</tick>
+        <val>333408</val>
+        </tempo>
+      <tempo at="105218">
+        <tick>104833</tick>
+        <val>333496</val>
+        </tempo>
+      <tempo at="105602">
+        <tick>105218</tick>
+        <val>333246</val>
+        </tempo>
+      <tempo at="105985">
+        <tick>105602</tick>
+        <val>333434</val>
+        </tempo>
+      <tempo at="106369">
+        <tick>105985</tick>
+        <val>333375</val>
+        </tempo>
+      <tempo at="106754">
+        <tick>106369</tick>
+        <val>333342</val>
+        </tempo>
+      <tempo at="107137">
+        <tick>106754</tick>
+        <val>333415</val>
+        </tempo>
+      <tempo at="107520">
+        <tick>107137</tick>
+        <val>333366</val>
+        </tempo>
+      <tempo at="107906">
+        <tick>107520</tick>
+        <val>333339</val>
+        </tempo>
+      <tempo at="108291">
+        <tick>107906</tick>
+        <val>333382</val>
+        </tempo>
+      <tempo at="108674">
+        <tick>108291</tick>
+        <val>333434</val>
+        </tempo>
+      <tempo at="109058">
+        <tick>108674</tick>
+        <val>333370</val>
+        </tempo>
+      <tempo at="109441">
+        <tick>109058</tick>
+        <val>333379</val>
+        </tempo>
+      <tempo at="109825">
+        <tick>109441</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="110210">
+        <tick>109825</tick>
+        <val>333343</val>
+        </tempo>
+      <tempo at="110593">
+        <tick>110210</tick>
+        <val>333413</val>
+        </tempo>
+      <tempo at="110976">
+        <tick>110593</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="111361">
+        <tick>110976</tick>
+        <val>333368</val>
+        </tempo>
+      <tempo at="111745">
+        <tick>111361</tick>
+        <val>333346</val>
+        </tempo>
+      <tempo at="112130">
+        <tick>111745</tick>
+        <val>333411</val>
+        </tempo>
+      <tempo at="112513">
+        <tick>112130</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="112898">
+        <tick>112513</tick>
+        <val>333462</val>
+        </tempo>
+      <tempo at="113281">
+        <tick>112898</tick>
+        <val>333352</val>
+        </tempo>
+      <tempo at="113666">
+        <tick>113281</tick>
+        <val>333334</val>
+        </tempo>
+      <tempo at="114050">
+        <tick>113666</tick>
+        <val>333412</val>
+        </tempo>
+      <tempo at="114433">
+        <tick>114050</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="114816">
+        <tick>114433</tick>
+        <val>333306</val>
+        </tempo>
+      <tempo at="115201">
+        <tick>114816</tick>
+        <val>333371</val>
+        </tempo>
+      <tempo at="115585">
+        <tick>115201</tick>
+        <val>333388</val>
+        </tempo>
+      <tempo at="115968">
+        <tick>115585</tick>
+        <val>333426</val>
+        </tempo>
+      <tempo at="116354">
+        <tick>115968</tick>
+        <val>333341</val>
+        </tempo>
+      <tempo at="116737">
+        <tick>116354</tick>
+        <val>333384</val>
+        </tempo>
+      <tempo at="117121">
+        <tick>116737</tick>
+        <val>333430</val>
+        </tempo>
+      <tempo at="117506">
+        <tick>117121</tick>
+        <val>333339</val>
+        </tempo>
+      <tempo at="117889">
+        <tick>117506</tick>
+        <val>333419</val>
+        </tempo>
+      <tempo at="118274">
+        <tick>117889</tick>
+        <val>333369</val>
+        </tempo>
+      <tempo at="118657">
+        <tick>118274</tick>
+        <val>333402</val>
+        </tempo>
+      <tempo at="119042">
+        <tick>118657</tick>
+        <val>333352</val>
+        </tempo>
+      <tempo at="119424">
+        <tick>119042</tick>
+        <val>333430</val>
+        </tempo>
+      <tempo at="119810">
+        <tick>119424</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="120194">
+        <tick>119810</tick>
+        <val>333378</val>
+        </tempo>
+      <tempo at="120578">
+        <tick>120194</tick>
+        <val>333407</val>
+        </tempo>
+      <tempo at="120962">
+        <tick>120578</tick>
+        <val>333369</val>
+        </tempo>
+      <tempo at="121345">
+        <tick>120962</tick>
+        <val>333318</val>
+        </tempo>
+      <tempo at="121730">
+        <tick>121345</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="122114">
+        <tick>121730</tick>
+        <val>333371</val>
+        </tempo>
+      <tempo at="122498">
+        <tick>122114</tick>
+        <val>333411</val>
+        </tempo>
+      <tempo at="122881">
+        <tick>122498</tick>
+        <val>333343</val>
+        </tempo>
+      <tempo at="123266">
+        <tick>122881</tick>
+        <val>333431</val>
+        </tempo>
+      <tempo at="123650">
+        <tick>123266</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="124033">
+        <tick>123650</tick>
+        <val>333347</val>
+        </tempo>
+      <tempo at="124418">
+        <tick>124033</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="124801">
+        <tick>124418</tick>
+        <val>333407</val>
+        </tempo>
+      <tempo at="125185">
+        <tick>124801</tick>
+        <val>333347</val>
+        </tempo>
+      <tempo at="125568">
+        <tick>125185</tick>
+        <val>333396</val>
+        </tempo>
+      <tempo at="125954">
+        <tick>125568</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="126337">
+        <tick>125954</tick>
+        <val>333355</val>
+        </tempo>
+      <tempo at="126722">
+        <tick>126337</tick>
+        <val>333426</val>
+        </tempo>
+      <tempo at="127106">
+        <tick>126722</tick>
+        <val>333343</val>
+        </tempo>
+      <tempo at="127490">
+        <tick>127106</tick>
+        <val>333388</val>
+        </tempo>
+      <tempo at="127872">
+        <tick>127490</tick>
+        <val>333393</val>
+        </tempo>
+      <tempo at="128257">
+        <tick>127872</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="128641">
+        <tick>128257</tick>
+        <val>333315</val>
+        </tempo>
+      <tempo at="129025">
+        <tick>128641</tick>
+        <val>333434</val>
+        </tempo>
+      <tempo at="129409">
+        <tick>129025</tick>
+        <val>333347</val>
+        </tempo>
+      <tempo at="129793">
+        <tick>129409</tick>
+        <val>333370</val>
+        </tempo>
+      <tempo at="130178">
+        <tick>129793</tick>
+        <val>333416</val>
+        </tempo>
+      <tempo at="130562">
+        <tick>130178</tick>
+        <val>333396</val>
+        </tempo>
+      <tempo at="130946">
+        <tick>130562</tick>
+        <val>333352</val>
+        </tempo>
+      <tempo at="131329">
+        <tick>130946</tick>
+        <val>333466</val>
+        </tempo>
+      <tempo at="131713">
+        <tick>131329</tick>
+        <val>333308</val>
+        </tempo>
+      <tempo at="132098">
+        <tick>131713</tick>
+        <val>333369</val>
+        </tempo>
+      <tempo at="132481">
+        <tick>132098</tick>
+        <val>333385</val>
+        </tempo>
+      <tempo at="132864">
+        <tick>132481</tick>
+        <val>333494</val>
+        </tempo>
+      <tempo at="133249">
+        <tick>132864</tick>
+        <val>333278</val>
+        </tempo>
+      <tempo at="133633">
+        <tick>133249</tick>
+        <val>333378</val>
+        </tempo>
+      <tempo at="134018">
+        <tick>133633</tick>
+        <val>333433</val>
+        </tempo>
+      <tempo at="134401">
+        <tick>134018</tick>
+        <val>333350</val>
+        </tempo>
+      <tempo at="134785">
+        <tick>134401</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="135170">
+        <tick>134785</tick>
+        <val>333399</val>
+        </tempo>
+      <tempo at="135554">
+        <tick>135170</tick>
+        <val>333387</val>
+        </tempo>
+      <tempo at="135938">
+        <tick>135554</tick>
+        <val>333309</val>
+        </tempo>
+      <tempo at="136322">
+        <tick>135938</tick>
+        <val>333522</val>
+        </tempo>
+      <tempo at="136705">
+        <tick>136322</tick>
+        <val>333256</val>
+        </tempo>
+      <tempo at="137090">
+        <tick>136705</tick>
+        <val>333396</val>
+        </tempo>
+      <tempo at="137473">
+        <tick>137090</tick>
+        <val>333382</val>
+        </tempo>
+      <tempo at="137857">
+        <tick>137473</tick>
+        <val>333368</val>
+        </tempo>
+      <tempo at="138241">
+        <tick>137857</tick>
+        <val>333378</val>
+        </tempo>
+      <tempo at="138626">
+        <tick>138241</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="139010">
+        <tick>138626</tick>
+        <val>333431</val>
+        </tempo>
+      <tempo at="139393">
+        <tick>139010</tick>
+        <val>333352</val>
+        </tempo>
+      <tempo at="139778">
+        <tick>139393</tick>
+        <val>333369</val>
+        </tempo>
+      <tempo at="140162">
+        <tick>139778</tick>
+        <val>333402</val>
+        </tempo>
+      <tempo at="140546">
+        <tick>140162</tick>
+        <val>333383</val>
+        </tempo>
+      <tempo at="140930">
+        <tick>140546</tick>
+        <val>333439</val>
+        </tempo>
+      <tempo at="141312">
+        <tick>140930</tick>
+        <val>333333</val>
+        </tempo>
+      <tempo at="141697">
+        <tick>141312</tick>
+        <val>333378</val>
+        </tempo>
+      <tempo at="142081">
+        <tick>141697</tick>
+        <val>333382</val>
+        </tempo>
+      <tempo at="142466">
+        <tick>142081</tick>
+        <val>333338</val>
+        </tempo>
+      <tempo at="142849">
+        <tick>142466</tick>
+        <val>333434</val>
+        </tempo>
+      <tempo at="143233">
+        <tick>142849</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="143618">
+        <tick>143233</tick>
+        <val>333379</val>
+        </tempo>
+      <tempo at="144002">
+        <tick>143618</tick>
+        <val>333339</val>
+        </tempo>
+      <tempo at="144385">
+        <tick>144002</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="144769">
+        <tick>144385</tick>
+        <val>333379</val>
+        </tempo>
+      <tempo at="145153">
+        <tick>144769</tick>
+        <val>333459</val>
+        </tempo>
+      <tempo at="145537">
+        <tick>145153</tick>
+        <val>333315</val>
+        </tempo>
+      <tempo at="145922">
+        <tick>145537</tick>
+        <val>333347</val>
+        </tempo>
+      <tempo at="146304">
+        <tick>145922</tick>
+        <val>333396</val>
+        </tempo>
+      <tempo at="146689">
+        <tick>146304</tick>
+        <val>333407</val>
+        </tempo>
+      <tempo at="147074">
+        <tick>146689</tick>
+        <val>333384</val>
+        </tempo>
+      <tempo at="147458">
+        <tick>147074</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="147841">
+        <tick>147458</tick>
+        <val>333366</val>
+        </tempo>
+      <tempo at="148225">
+        <tick>147841</tick>
+        <val>333370</val>
+        </tempo>
+      <tempo at="148610">
+        <tick>148225</tick>
+        <val>333410</val>
+        </tempo>
+      <tempo at="148994">
+        <tick>148610</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="149378">
+        <tick>148994</tick>
+        <val>333315</val>
+        </tempo>
+      <tempo at="149761">
+        <tick>149378</tick>
+        <val>333407</val>
+        </tempo>
+      <tempo at="150148">
+        <tick>149761</tick>
+        <val>333429</val>
+        </tempo>
+      <tempo at="150530">
+        <tick>150148</tick>
+        <val>333315</val>
+        </tempo>
+      <tempo at="150913">
+        <tick>150530</tick>
+        <val>333375</val>
+        </tempo>
+      <tempo at="151298">
+        <tick>150913</tick>
+        <val>333560</val>
+        </tempo>
+      <tempo at="151681">
+        <tick>151298</tick>
+        <val>333223</val>
+        </tempo>
+      <tempo at="152066">
+        <tick>151681</tick>
+        <val>333411</val>
+        </tempo>
+      <tempo at="152450">
+        <tick>152066</tick>
+        <val>333394</val>
+        </tempo>
+      <tempo at="152834">
+        <tick>152450</tick>
+        <val>333342</val>
+        </tempo>
+      <tempo at="153216">
+        <tick>152834</tick>
+        <val>333380</val>
+        </tempo>
+      <tempo at="153602">
+        <tick>153216</tick>
+        <val>333433</val>
+        </tempo>
+      <tempo at="153986">
+        <tick>153602</tick>
+        <val>333341</val>
+        </tempo>
+      <tempo at="154370">
+        <tick>153986</tick>
+        <val>333411</val>
+        </tempo>
+      <tempo at="154754">
+        <tick>154370</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="155137">
+        <tick>154754</tick>
+        <val>333407</val>
+        </tempo>
+      <tempo at="155521">
+        <tick>155137</tick>
+        <val>333338</val>
+        </tempo>
+      <tempo at="155906">
+        <tick>155521</tick>
+        <val>333444</val>
+        </tempo>
+      <tempo at="156290">
+        <tick>155906</tick>
+        <val>333308</val>
+        </tempo>
+      <tempo at="156674">
+        <tick>156290</tick>
+        <val>333435</val>
+        </tempo>
+      <tempo at="157058">
+        <tick>156674</tick>
+        <val>333380</val>
+        </tempo>
+      <tempo at="157442">
+        <tick>157058</tick>
+        <val>333368</val>
+        </tempo>
+      <tempo at="157825">
+        <tick>157442</tick>
+        <val>333375</val>
+        </tempo>
+      <tempo at="158209">
+        <tick>157825</tick>
+        <val>333408</val>
+        </tempo>
+      <tempo at="158592">
+        <tick>158209</tick>
+        <val>333369</val>
+        </tempo>
+      <tempo at="158977">
+        <tick>158592</tick>
+        <val>333410</val>
+        </tempo>
+      <tempo at="159362">
+        <tick>158977</tick>
+        <val>333348</val>
+        </tempo>
+      <tempo at="159744">
+        <tick>159362</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="160129">
+        <tick>159744</tick>
+        <val>333336</val>
+        </tempo>
+      <tempo at="160513">
+        <tick>160129</tick>
+        <val>333449</val>
+        </tempo>
+      <tempo at="160898">
+        <tick>160513</tick>
+        <val>333366</val>
+        </tempo>
+      <tempo at="161282">
+        <tick>160898</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="161666">
+        <tick>161282</tick>
+        <val>333374</val>
+        </tempo>
+      <tempo at="162049">
+        <tick>161666</tick>
+        <val>333410</val>
+        </tempo>
+      <tempo at="162433">
+        <tick>162049</tick>
+        <val>333338</val>
+        </tempo>
+      <tempo at="162818">
+        <tick>162433</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="163201">
+        <tick>162818</tick>
+        <val>333509</val>
+        </tempo>
+      <tempo at="163585">
+        <tick>163201</tick>
+        <val>333332</val>
+        </tempo>
+      <tempo at="163969">
+        <tick>163585</tick>
+        <val>333351</val>
+        </tempo>
+      <tempo at="164353">
+        <tick>163969</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="164736">
+        <tick>164353</tick>
+        <val>333334</val>
+        </tempo>
+      <tempo at="165122">
+        <tick>164736</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="165506">
+        <tick>165122</tick>
+        <val>333410</val>
+        </tempo>
+      <tempo at="165889">
+        <tick>165506</tick>
+        <val>333345</val>
+        </tempo>
+      <tempo at="166274">
+        <tick>165889</tick>
+        <val>333368</val>
+        </tempo>
+      <tempo at="166658">
+        <tick>166274</tick>
+        <val>333408</val>
+        </tempo>
+      <tempo at="167040">
+        <tick>166658</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="167425">
+        <tick>167040</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="167809">
+        <tick>167425</tick>
+        <val>333348</val>
+        </tempo>
+      <tempo at="168194">
+        <tick>167809</tick>
+        <val>333496</val>
+        </tempo>
+      <tempo at="168577">
+        <tick>168194</tick>
+        <val>333281</val>
+        </tempo>
+      <tempo at="168961">
+        <tick>168577</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="169346">
+        <tick>168961</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="169730">
+        <tick>169346</tick>
+        <val>333343</val>
+        </tempo>
+      <tempo at="170113">
+        <tick>169730</tick>
+        <val>333342</val>
+        </tempo>
+      <tempo at="170498">
+        <tick>170113</tick>
+        <val>333472</val>
+        </tempo>
+      <tempo at="170882">
+        <tick>170498</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="171266">
+        <tick>170882</tick>
+        <val>333313</val>
+        </tempo>
+      <tempo at="171649">
+        <tick>171266</tick>
+        <val>333470</val>
+        </tempo>
+      <tempo at="172033">
+        <tick>171649</tick>
+        <val>333337</val>
+        </tempo>
+      <tempo at="172417">
+        <tick>172033</tick>
+        <val>333338</val>
+        </tempo>
+      <tempo at="172802">
+        <tick>172417</tick>
+        <val>333382</val>
+        </tempo>
+      <tempo at="173185">
+        <tick>172802</tick>
+        <val>333465</val>
+        </tempo>
+      <tempo at="173569">
+        <tick>173185</tick>
+        <val>333313</val>
+        </tempo>
+      <tempo at="173953">
+        <tick>173569</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="174338">
+        <tick>173953</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="174721">
+        <tick>174338</tick>
+        <val>333382</val>
+        </tempo>
+      <tempo at="175106">
+        <tick>174721</tick>
+        <val>333373</val>
+        </tempo>
+      <tempo at="175489">
+        <tick>175106</tick>
+        <val>333398</val>
+        </tempo>
+      <tempo at="175874">
+        <tick>175489</tick>
+        <val>333471</val>
+        </tempo>
+      <tempo at="176258">
+        <tick>175874</tick>
+        <val>333322</val>
+        </tempo>
+      <tempo at="176641">
+        <tick>176258</tick>
+        <val>333462</val>
+        </tempo>
+      <tempo at="177025">
+        <tick>176641</tick>
+        <val>333403</val>
+        </tempo>
+      <tempo at="177409">
+        <tick>177025</tick>
+        <val>333282</val>
+        </tempo>
+      <tempo at="177792">
+        <tick>177409</tick>
+        <val>333375</val>
+        </tempo>
+      <tempo at="178177">
+        <tick>177792</tick>
+        <val>333336</val>
+        </tempo>
+      <tempo at="178562">
+        <tick>178177</tick>
+        <val>333439</val>
+        </tempo>
+      <tempo at="178946">
+        <tick>178562</tick>
+        <val>333315</val>
+        </tempo>
+      <tempo at="179330">
+        <tick>178946</tick>
+        <val>333399</val>
+        </tempo>
+      <tempo at="179714">
+        <tick>179330</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="180097">
+        <tick>179714</tick>
+        <val>333447</val>
+        </tempo>
+      <tempo at="180481">
+        <tick>180097</tick>
+        <val>333378</val>
+        </tempo>
+      <tempo at="180866">
+        <tick>180481</tick>
+        <val>333334</val>
+        </tempo>
+      <tempo at="181249">
+        <tick>180866</tick>
+        <val>333378</val>
+        </tempo>
+      <tempo at="181632">
+        <tick>181249</tick>
+        <val>333397</val>
+        </tempo>
+      <tempo at="182017">
+        <tick>181632</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="182401">
+        <tick>182017</tick>
+        <val>333451</val>
+        </tempo>
+      <tempo at="182786">
+        <tick>182401</tick>
+        <val>333299</val>
+        </tempo>
+      <tempo at="183170">
+        <tick>182786</tick>
+        <val>333407</val>
+        </tempo>
+      <tempo at="183554">
+        <tick>183170</tick>
+        <val>333448</val>
+        </tempo>
+      <tempo at="183938">
+        <tick>183554</tick>
+        <val>333276</val>
+        </tempo>
+      <tempo at="184322">
+        <tick>183938</tick>
+        <val>333526</val>
+        </tempo>
+      <tempo at="184705">
+        <tick>184322</tick>
+        <val>333256</val>
+        </tempo>
+      <tempo at="185089">
+        <tick>184705</tick>
+        <val>333407</val>
+        </tempo>
+      <tempo at="185473">
+        <tick>185089</tick>
+        <val>333360</val>
+        </tempo>
+      <tempo at="185857">
+        <tick>185473</tick>
+        <val>333480</val>
+        </tempo>
+      <tempo at="186241">
+        <tick>185857</tick>
+        <val>333246</val>
+        </tempo>
+      <tempo at="186624">
+        <tick>186241</tick>
+        <val>333431</val>
+        </tempo>
+      <tempo at="187010">
+        <tick>186624</tick>
+        <val>333341</val>
+        </tempo>
+      <tempo at="187393">
+        <tick>187010</tick>
+        <val>333413</val>
+        </tempo>
+      <tempo at="187778">
+        <tick>187393</tick>
+        <val>333371</val>
+        </tempo>
+      <tempo at="188161">
+        <tick>187778</tick>
+        <val>333370</val>
+        </tempo>
+      <tempo at="188546">
+        <tick>188161</tick>
+        <val>333472</val>
+        </tempo>
+      <tempo at="188930">
+        <tick>188546</tick>
+        <val>333319</val>
+        </tempo>
+      <tempo at="189313">
+        <tick>188930</tick>
+        <val>333495</val>
+        </tempo>
+      <tempo at="189697">
+        <tick>189313</tick>
+        <val>333242</val>
+        </tempo>
+      <tempo at="190081">
+        <tick>189697</tick>
+        <val>333445</val>
+        </tempo>
+      <tempo at="190465">
+        <tick>190081</tick>
+        <val>333336</val>
+        </tempo>
+      <tempo at="190849">
+        <tick>190465</tick>
+        <val>333391</val>
+        </tempo>
+      <tempo at="191232">
+        <tick>190849</tick>
+        <val>333430</val>
+        </tempo>
+      <tempo at="191616">
+        <tick>191232</tick>
+        <val>333299</val>
+        </tempo>
+      <tempo at="192001">
+        <tick>191616</tick>
+        <val>333378</val>
+        </tempo>
+      <tempo at="192385">
+        <tick>192001</tick>
+        <val>333416</val>
+        </tempo>
+      <tempo at="192768">
+        <tick>192385</tick>
+        <val>333366</val>
+        </tempo>
+      <tempo at="193154">
+        <tick>192768</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="193538">
+        <tick>193154</tick>
+        <val>333380</val>
+        </tempo>
+      <tempo at="193921">
+        <tick>193538</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="194304">
+        <tick>193921</tick>
+        <val>333365</val>
+        </tempo>
+      <tempo at="194689">
+        <tick>194304</tick>
+        <val>333371</val>
+        </tempo>
+      <tempo at="195074">
+        <tick>194689</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="195457">
+        <tick>195074</tick>
+        <val>333387</val>
+        </tempo>
+      <tempo at="195841">
+        <tick>195457</tick>
+        <val>333362</val>
+        </tempo>
+      <tempo at="196226">
+        <tick>195841</tick>
+        <val>333411</val>
+        </tempo>
+      <tempo at="196610">
+        <tick>196226</tick>
+        <val>333415</val>
+        </tempo>
+      <tempo at="196994">
+        <tick>196610</tick>
+        <val>333338</val>
+        </tempo>
+      <tempo at="197378">
+        <tick>196994</tick>
+        <val>333399</val>
+        </tempo>
+      <tempo at="197762">
+        <tick>197378</tick>
+        <val>333380</val>
+        </tempo>
+      <tempo at="198146">
+        <tick>197762</tick>
+        <val>333502</val>
+        </tempo>
+      <tempo at="198530">
+        <tick>198146</tick>
+        <val>333240</val>
+        </tempo>
+      <tempo at="198914">
+        <tick>198530</tick>
+        <val>333371</val>
+        </tempo>
+      <tempo at="199297">
+        <tick>198914</tick>
+        <val>333484</val>
+        </tempo>
+      <tempo at="199682">
+        <tick>199297</tick>
+        <val>333310</val>
+        </tempo>
+      <tempo at="200066">
+        <tick>199682</tick>
+        <val>333364</val>
+        </tempo>
+      <tempo at="200449">
+        <tick>200066</tick>
+        <val>333383</val>
+        </tempo>
+      <tempo at="200833">
+        <tick>200449</tick>
+        <val>333364</val>
+        </tempo>
+      <tempo at="201218">
+        <tick>200833</tick>
+        <val>333416</val>
+        </tempo>
+      <tempo at="201602">
+        <tick>201218</tick>
+        <val>333397</val>
+        </tempo>
+      <tempo at="201985">
+        <tick>201602</tick>
+        <val>333385</val>
+        </tempo>
+      <tempo at="202368">
+        <tick>201985</tick>
+        <val>333362</val>
+        </tempo>
+      <tempo at="202753">
+        <tick>202368</tick>
+        <val>333405</val>
+        </tempo>
+      <tempo at="203137">
+        <tick>202753</tick>
+        <val>333345</val>
+        </tempo>
+      <tempo at="203522">
+        <tick>203137</tick>
+        <val>333408</val>
+        </tempo>
+      <tempo at="203904">
+        <tick>203522</tick>
+        <val>333407</val>
+        </tempo>
+      <tempo at="204289">
+        <tick>203904</tick>
+        <val>333337</val>
+        </tempo>
+      <tempo at="204673">
+        <tick>204289</tick>
+        <val>333449</val>
+        </tempo>
+      <tempo at="205058">
+        <tick>204673</tick>
+        <val>333302</val>
+        </tempo>
+      <tempo at="205441">
+        <tick>205058</tick>
+        <val>333406</val>
+        </tempo>
+      <tempo at="205826">
+        <tick>205441</tick>
+        <val>333376</val>
+        </tempo>
+      <tempo at="206210">
+        <tick>205826</tick>
+        <val>333369</val>
+        </tempo>
+      <tempo at="206594">
+        <tick>206210</tick>
+        <val>333382</val>
+        </tempo>
+      <tempo at="206978">
+        <tick>206594</tick>
+        <val>333444</val>
+        </tempo>
+      <tempo at="21474837">
+        <tick>206978</tick>
+        <val>333332</val>
+        </tempo>
+      </tempolist>
+    <siglist>
+      <sig at="21474836">
+        <tick>0</tick>
+        <nom>4</nom>
+        <denom>4</denom>
+        </sig>
+      </siglist>
+    <drummap>
+      </drummap>
+    </song>
+  <toplevels>
+    </toplevels>
+  </muse>
