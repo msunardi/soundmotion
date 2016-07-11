@@ -4,9 +4,9 @@ import PyQt4.Qwt5 as Qwt
 from PyQt4 import QtCore, QtGui, Qt
 from pyMiniUix_v10 import Ui_MainWindow
 from mosynth20_p import MotionSynthesizer
-from locoKHR1Interface_v8 import khr1Interface
+# from locoKHR1Interface_v8 import khr1Interface
 #from KHR1interface8 import khr1Interface
-from dialogueModule import Dialogue
+# from dialogueModule import Dialogue
 from LocoContext15 import locoContext
 from scriptReadCsv import readScript
 
@@ -58,7 +58,8 @@ class MyForm(QtGui.QMainWindow):
 		# Class instances...
 		self.ms = MotionSynthesizer()
 		try:
-			self.dialogue = Dialogue()			
+			# self.dialogue = Dialogue()
+			pass
 		except:
 			print "No dialogue this time..."
 
@@ -184,20 +185,21 @@ class MyForm(QtGui.QMainWindow):
 	
 	# ---		
 	def talkToRobot(self):
-		if self.dialogue.getName():
-			response = self.dialogue.youSay('my name is '+self.dialogue.getName())
-			self.ui.chatArea.append("<b><font color=blue>%s</font></b>" % (response))
+		response = "Fubar!"
+		# if self.dialogue.getName():
+		# 	response = self.dialogue.youSay('my name is '+self.dialogue.getName())
+		# 	self.ui.chatArea.append("<b><font color=blue>%s</font></b>" % (response))
 		getUserInput = self.ui.chatInput.text()
 		#print "Input: ", getUserInput, "type: ", type(str(getUserInput))
 		getUserInput = str(getUserInput)
 		
 		if getUserInput in self.chatoptions.keys():
-			response = self.dialogue.youSay(self.chatoptions[getUserInput])
+			# response = self.dialogue.youSay(self.chatoptions[getUserInput])
 			self.ui.chatArea.append("> %s" % (self.chatoptions[getUserInput]))
 			self.scriptindex +=1
 			userInput = self.chatoptions[getUserInput]
 		else:
-			response = self.dialogue.youSay(getUserInput)
+			# response = self.dialogue.youSay(getUserInput)
 			self.ui.chatArea.append("> %s" % (getUserInput))
 			if getUserInput in [re for k,re in self.chatoptions.iteritems()]:
 				self.scriptindex +=1
@@ -249,7 +251,8 @@ class MyForm(QtGui.QMainWindow):
 	   		
 		# If the user say the name was wrong, redo face recognition
 		if self.lcontext.wrongname():
-			self.dialogue.recz()
+			# self.dialogue.recz()
+			pass
 		try:
 			motion = self.lcontext.executeAllMotion()
 			
@@ -268,7 +271,8 @@ class MyForm(QtGui.QMainWindow):
 			print "Sorry, try again! Fix your LocoContext.executeAllMotion() function, or trouble with khr1Interface!"
 		
 		try:
-			self.ui.statusbar.showMessage("I see "+self.dialogue.facedetect.faces+" face(s)")
+			# self.ui.statusbar.showMessage("I see "+self.dialogue.facedetect.faces+" face(s)")
+			self.ui.statusbar.showMessage("Fubar")
 		except:
 			self.ui.statusbar.showMessage("I can't see anything...")
 			
@@ -417,8 +421,8 @@ class MyForm(QtGui.QMainWindow):
 			if motion is None:
 				motion = self.OUTPUT_DATA
 						
-			self.k1 = khr1Interface(self.khr1Device, motion)
-			self.k1.start()
+			# self.k1 = khr1Interface(self.khr1Device, motion)
+			# self.k1.start()
 			#self.k1.runMe(motion)
 			#self.kk = khr1I()
 		except:
@@ -489,8 +493,8 @@ class MyForm(QtGui.QMainWindow):
 	def runKHR1Motion(self):
 		id = int(self.ui.khr1MotionComboBox.currentText())
 		print id
-		self.k1 = khr1Interface(self.khr1Device, id)
-		self.k1.start()
+		# self.k1 = khr1Interface(self.khr1Device, id)
+		# self.k1.start()
 	
 	def loadNewMotion(self):
 		motion = self.ui.motionComboBox.currentText()
