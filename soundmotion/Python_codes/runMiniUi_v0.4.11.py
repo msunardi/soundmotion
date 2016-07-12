@@ -32,7 +32,7 @@ class MyForm(QtGui.QMainWindow):
 		#self.loadData(self.motionSignalPath[self.ui.motionComboBox.currentIndex()])
 		print self.ui.motionComboBox.currentText()
 		#self.loadData(self.motionSignalPath[self.ui.motionComboBox.currentText()])
-		self.loadData(dataIndex=self.ui.motionComboBox.currentText())
+		# self.loadData(dataIndex=self.ui.motionComboBox.currentText())
 		
 	def setVariables(self):
 		# Containers...
@@ -51,7 +51,8 @@ class MyForm(QtGui.QMainWindow):
 		self.usewillingness = True
 		
 		# Constants...
-		self.defaultMotionPath = "/home/msunardi/Documents/thesis-stuff/KHR-1-motions/"
+		# self.defaultMotionPath = "/home/msunardi/Documents/thesis-stuff/KHR-1-motions/"
+		self.defaultMotionPath = "motions/"
 		self.khr1Device = "/dev/ttyUSB0"
 		scriptpath = 'scripts/script1.csv'
 		
@@ -248,7 +249,7 @@ class MyForm(QtGui.QMainWindow):
 		# write to UI: emotion level fields		
 		self.updateEmoState(self.lcontext.showEmos(), self.dialogueInit, action)
 		self.dialogueInit = False
-	   		
+			
 		# If the user say the name was wrong, redo face recognition
 		if self.lcontext.wrongname():
 			# self.dialogue.recz()
@@ -512,10 +513,12 @@ class MyForm(QtGui.QMainWindow):
 		return glob.glob(self.defaultMotionPath+"*.csv")   # <<< List of all motion files
 		
 	def formatMotionList(self, motionList):		
-		pathname = re.compile('(\/home\/msunardi\/Documents\/thesis\-stuff\/KHR\-1\-motions)\/((\w*)(\D*)(\w*)).csv', re.IGNORECASE)
+		# pathname = re.compile('(\/home\/msunardi\/Documents\/thesis\-stuff\/KHR\-1\-motions)\/((\w*)(\D*)(\w*)).csv', re.IGNORECASE)
+		pathname = re.compile('(motions)\/((\w*)(\D*)(\w*)).csv', re.IGNORECASE)
 		for path in motionList:
 			name = pathname.match(path).group(2)
-			self.motionSignalPath[name] = path
+			self.motionSignalPath[name] = "/home/mathias/Projects/old_thesis/soundmotion/Python_codes/%s" % path
+		print "FOUND PATHS: %s" % self.motionSignalPath
 	
 	def updateOutputData(self, data):
 		self.OUTPUT_DATA = data
@@ -551,22 +554,32 @@ class MyForm(QtGui.QMainWindow):
 			#self.ui.motionPlot.toggleVisible(ch, self.ui.channels[ch].isChecked())	# use this line when checkbox data is a list
 			ch += 1
 	
-	def loadData(self, dataIndex):		
+	def loadData(self, dataIndex):
+		dataIndex = str(dataIndex)
+		dataPath = self.motionSignalPath[dataIndex]	# get path to motion file	
 		try:
 			# === Read data
 			#dataPath = self.motionSignalPath[self.ui.motionComboBox.currentIndex()]		# get path to motion file
-			dataIndex = str(dataIndex)
-			dataPath = self.motionSignalPath[dataIndex]	# get path to motion file
+			
 			motionData = self.ms.read(dataPath)			# read motion file
 			print "loadData(): motion data loaded."
-			self.ui.motionPlot.reInitialize()			# initialize plot object
-			self.plotMotion(plotdata=motionData)		# plot loaded motion data
+			# self.ui.motionPlot.reInitialize()			# initialize plot object
+			# self.plotMotion(plotdata=motionData)		# plot loaded motion data
 			
-			self.updateCurrentMotionData(motionData)
-			self.updateOutputData(motionData)
+			# self.updateCurrentMotionData(motionData)
+			# self.updateOutputData(motionData)
 		except:
 			print "loadData(dataPath) failure: Need some path to a valid data"
 			return 0
+
+		try:
+			self.ui.motionPlot.reInitialize()
+			self.plotMotion(plotdata=motionData)
+		
+			self.updateCurrentMotionData(motionData)
+			self.updateOutputData(motionData)
+		except:
+			print "[runMiniUi] Failed updating motion data"
 		
 		self.ui.motionTabs.setTabText(0,self.ui.motionComboBox.currentText())
 		"""# === PLOT TITLE
