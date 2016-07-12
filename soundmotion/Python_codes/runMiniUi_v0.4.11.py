@@ -485,7 +485,8 @@ class MyForm(QtGui.QMainWindow):
 		self.interpParameters['tension'] = 0
 		self.interpParameters['bias'] = 0
 		self.interpParameters['continuity'] = 0
-		self.channels=24
+		# self.channels=24
+		self.channels=1
 		
 	def resetToolTabs(self):
 		self.ui.initToolTabs()

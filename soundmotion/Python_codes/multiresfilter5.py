@@ -30,7 +30,7 @@ class kfilter:
 		#self.frames = motion_length
 		#self.fb = int(math.log(self.frames,2))
 		self.fb = int(math.log(motion_length,2))
-		print "construct kfilter (multiresfilter4.py)", self.fb
+		print "construct kfilter (multiresfilter5.py)", self.fb
 		self.fdata = []
 		self.l = 0
 
@@ -94,7 +94,7 @@ class kfilter:
 			self.k = 1
 			 
 			# --- Checkpoint tempdata
-			#print "tempdata = ", self.tempdata
+			# print "[multiresfilter] tempdata = ", self.tempdata
 
 			# G0 = original data
 			self.tempband.append(self.tempdata)
@@ -102,17 +102,17 @@ class kfilter:
 			while self.k < self.fb:
 				self.filter = []
 				# --- Checkpoint k
-				#print "k = ",self.k
+				# print "[multiresfilter] k = ",self.k
 
 				# --- Checkpoint tempdata
-				#print "tempdata = ", self.tempdata
+				# print "[multiresfilter] tempdata = ", self.tempdata
 
 				self.filter = self.filtering(self.tempdata,self.k)
 				
 				self.tempband.append(self.filter)
 				
 				# --- Checkpoint tempband
-				#print "tempband = ", self.tempband
+				# print "[multiresfilter] tempband = ", self.tempband
 				self.k += 1
 				
 			self.tempband_all.append(self.tempband)
@@ -161,6 +161,7 @@ class kfilter:
 
 	#=== ADJUST GAINS FOR INDIVIDUAL CHANNEL ===
 	def adjustGain(self, gain, g_index, g_freq_index, adjustment):
+		# print "[multiresfilter] g_index: %s, g_freq_index: %s, size: %s/%s" % (g_index, g_freq_index, len(gain), len(gain[0]))
 		x = gain[g_index][g_freq_index]
 
 		#--- Checkpoint: check the specified gain

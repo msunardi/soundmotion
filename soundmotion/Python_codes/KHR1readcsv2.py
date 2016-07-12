@@ -65,13 +65,14 @@ def read(csv_path):
 				
 				ff = ll[j][k].replace('[','')
 				ff = ff.replace(']','')
-				print "%s adjustData params: (%s, %s)" % (source, k+1, ff)
+				# print "%s adjustData params: (%s, %s)" % (source, k+1, ff)
 
 				try:
 					x = adjustData(k+1, num(ff))
 				except ValueError:
-					print "%s adjustData() error!" % source
-				print x
+					# print "%s adjustData() error!" % source
+					pass
+				# print x
 				if x != '':
 					ll[j][k] = x
 
@@ -83,12 +84,12 @@ def read(csv_path):
 			
 	
 # show the new element (no quotes)
-	print ll
+	# print ll
 	if [] in ll:
 		ll.remove([])
 	for l in ll:
 		if '' in l: l.remove('')
-		print "%s len: %s" % (source, len(l))
+		# print "%s len: %s" % (source, len(l))
 
 
 # use zip(*<list-name>) to transpose list of list or tuples
@@ -102,7 +103,7 @@ def read(csv_path):
 	newll.append(m)
 
 	# return zip(*ll)
-	print "%s new data: %s" % (source, newll)
+	# print "%s new data: %s" % (source, newll)
 	return newll
 
 def num(s):
@@ -112,7 +113,7 @@ def num(s):
 		return float(s)
 	 
 def adjustData(idx, point):
-	print "%s idx: %s, point: %s" % (source, idx, point)
+	# print "%s idx: %s, point: %s" % (source, idx, point)
 	if idx == 3 or idx == 6 or idx == 16:
 		if point < -90:	return 0
 		elif point > 90: return 180
